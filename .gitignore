@@ -1,0 +1,5 @@
+**/pretrained_model.pth
+./data
+data/
+**/data/
+**/SPTSv2/
