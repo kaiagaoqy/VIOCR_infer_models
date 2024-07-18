@@ -74,8 +74,6 @@ if __name__ == "__main__":
             image_file = os.path.join(args.img_dir,filter_id, sample["file_name"])
         
             output = eval_model(processor, model, image_file, q)
-            print(output)
-            print(image_file.strip())
             output = output.strip()
             if re.search(r"\n|\.", output):
                 output = re.split(r"\n|\.",output)[-1].strip()
