@@ -31,7 +31,7 @@ def eval_model(processor, model, image_file, query):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='train domain generalization (oracle)')
-    parser.add_argument('--infile', type=str,default='data/viocr/test.json',help="Json file storing image paths and annotations")
+    parser.add_argument('--infile', type=str,default='data/viocr/anno.json',help="Json file storing image paths and annotations")
     parser.add_argument('--outfile', type=str,default='output/git_l.json')
     parser.add_argument('--img_dir', type=str,default='data/viocr/selected_images_new',help="Directory storing images")
     parser.add_argument('--model_path', type=str, default="microsoft/git-large")
