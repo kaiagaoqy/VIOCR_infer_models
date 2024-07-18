@@ -30,12 +30,12 @@ def eval_model(processor, model, image_file, query):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='train domain generalization (oracle)')
-    parser.add_argument('--infile', type=str,default='data/viocr/test.json',help="Json file storing image paths and annotations")
+    parser.add_argument('--infile', type=str,default='data/viocr/anno.json',help="Json file storing image paths and annotations")
     parser.add_argument('--outfile', type=str,default='output/pali.json')
     parser.add_argument('--img_dir', type=str,default='data/viocr/selected_images_new',help="Directory storing images")
     parser.add_argument('--model_path', type=str, default="google/paligemma-3b-mix-224")
     parser.add_argument('--use_placeholder', action='store_true',help="Need to self-define placeholder in the question")
-    parser.add_argument('--filter', nargs='+',default=["1","2"], help="low vision filter id")
+    parser.add_argument('--filter', nargs='+',default=["1","2","3","4","5","6","7","32","33","34","35","36","38","39","40","41"], help="low vision filter id")
 
 # Use like:
 # python arg.py --filter 1234 2345 3456 4567
@@ -49,6 +49,7 @@ if __name__ == "__main__":
 
     model.to(device)
 
+
     samples = json.load(open(args.infile, "r"))['images']
     
     model_output = []
@@ -61,6 +62,7 @@ if __name__ == "__main__":
     #     "det_score": 0,
     #     "filter": 40
     #   }
+    os.makedirs(os.path.dirname(args.outfile), exist_ok=True)
     for sample in tqdm.tqdm(samples):
         for filter_id in args.filter:
             formatted_sample = {"image_id":int(sample["id"]),
@@ -84,5 +86,5 @@ if __name__ == "__main__":
             formatted_sample["rec_texts"] = output
             model_output.append(formatted_sample)
         
-    os.makedirs(os.path.dirname(args.outfile), exist_ok=True)
-    json.dump(model_output, open(args.outfile, "w"), indent=4)
+    
+        json.dump(model_output, open(args.outfile, "w"), indent=4)

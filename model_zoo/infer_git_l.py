@@ -36,7 +36,7 @@ if __name__ == "__main__":
     parser.add_argument('--img_dir', type=str,default='data/viocr/selected_images_new',help="Directory storing images")
     parser.add_argument('--model_path', type=str, default="microsoft/git-large")
     parser.add_argument('--use_placeholder', action='store_true',help="Need to self-define placeholder in the question")
-    parser.add_argument('--filter', nargs='+',default=["1","2"], help="low vision filter id")
+    parser.add_argument('--filter', nargs='+',default=["1","2","3","4","5","6","7","32","33","34","35","36","38","39","40","41"], help="low vision filter id")
 
 # Use like:
 # python arg.py --filter 1234 2345 3456 4567
