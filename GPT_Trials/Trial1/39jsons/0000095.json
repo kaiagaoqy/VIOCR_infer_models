@@ -39,14 +39,14 @@
         ]
       ],
       "group_id": null,
-      "filter_id": 38,
+      "filter_id": 39,
       "description": "",
       "shape_type": "polygon",
       "flags": {},
       "mask": null
     },
     {
-      "label": "Monica",
+      "label": "Mon",
       "points": [
         [
           422.9375,
@@ -78,7 +78,7 @@
         ]
       ],
       "group_id": null,
-      "filter_id": 38,
+      "filter_id": 39,
       "description": "",
       "shape_type": "polygon",
       "flags": {},
@@ -121,7 +121,7 @@
         ]
       ],
       "group_id": null,
-      "filter_id": 38,
+      "filter_id": 39,
       "description": "",
       "shape_type": "polygon",
       "flags": {},
@@ -164,12 +164,12 @@
         ]
       ],
       "group_id": null,
-      "filter_id": 38,
+      "filter_id": 39,
       "description": "",
       "shape_type": "polygon",
       "flags": {},
       "mask": null
-    }
+    },
 {
       "label": "Sport",
       "points": [
@@ -207,7 +207,7 @@
         ]
       ],
       "group_id": null,
-      "filter_id": 38,
+      "filter_id": 39,
       "description": "",
       "shape_type": "polygon",
       "flags": {},
@@ -250,7 +250,7 @@
         ]
       ],
       "group_id": null,
-      "filter_id": 38,
+      "filter_id": 39,
       "description": "",
       "shape_type": "polygon",
       "flags": {},
@@ -293,7 +293,7 @@
         ]
       ],
       "group_id": null,
-      "filter_id": 38,
+      "filter_id": 39,
       "description": "",
       "shape_type": "polygon",
       "flags": {},
@@ -336,16 +336,16 @@
         ]
       ],
       "group_id": null,
-      "filter_id": 38,
+      "filter_id": 39,
       "description": "",
       "shape_type": "polygon",
       "flags": {},
       "mask": null
     }
   ],
-  "imagePath": "../../selected_images_new/38/0000095.jpg",
+  "imagePath": "../../selected_images_new/39/0000095.jpg",
   "imageData": null,
   "imageHeight": 768,
   "imageWidth": 1024,
-  "filter_id": 38
+  "filter_id": 39
 }

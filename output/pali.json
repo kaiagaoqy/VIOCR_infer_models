@@ -1,0 +1,20 @@
+[
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "gembira loka",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "ambira loka",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    }
+]

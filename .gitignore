@@ -1,4 +1,3 @@
 **/pretrained_model.pth
-./data
 data/
-**/data/
+viocrvenv/

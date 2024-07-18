@@ -35,7 +35,7 @@
         ]
       ],
       "group_id": null,
-      "filter_id": v,
+      "filter_id": 40,
       "description": "",
       "shape_type": "polygon",
       "flags": {},
