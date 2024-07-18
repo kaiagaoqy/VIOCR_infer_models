@@ -1,0 +1,8 @@
+huggingface-hub==0.24.0
+idna==3.7
+Jinja2
+numpy==1.26.4
+pillow==10.4.0
+torch==2.3.1
+tqdm
+transformers==4.42.4
