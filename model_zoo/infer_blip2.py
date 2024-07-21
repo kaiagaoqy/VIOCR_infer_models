@@ -87,7 +87,7 @@ if __name__ == "__main__":
             formatted_sample["rec_texts"] = output
             model_output.append(formatted_sample)
     os.makedirs(os.path.dirname(args.outfile), exist_ok=True)
-    json.dump(formatted_sample, open(args.outfile, "w"), indent=4)
+    json.dump(model_output, open(args.outfile, "w"), indent=4)
             
 
 
