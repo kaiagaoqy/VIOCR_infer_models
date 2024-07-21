@@ -3,7 +3,7 @@
         "image_id": 2,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "what are possible english words in the image?",
+        "rec_texts": "what are all english words visible in the image?",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -12,9 +12,2871 @@
         "image_id": 2,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "what are possible english words in the image?",
+        "rec_texts": "what are all english words visible in the image?",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? the sign is the market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? the sign is a sign for the new road",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? the sign is the boat",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? the sign is the boat",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? the sign is the boat",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? the sign is the sign that says & amp ; quot ; welcome to the world & amp ; quot ;",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? the sign is the boat",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? the sign is the boat",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? this sign is on the wall of the building",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? this sign is on the wall of the building",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? this sign was on the wall of the building",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? the sign on the window is a real sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? i'm in the bathroom mirror",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? this sign is on the wall of the building",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? this sign was on the wall of the building",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? the sign on the wall is a real sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? the sign on the door of the old church",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? the sign is a real sign for a bar",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? the sign is a sign of a bar",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? the sign is the reflection of the building across the street",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? the sign is a sign for a bar",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image? hand with hand - drawn illustration",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "what are all english words visible in the image?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
     }
 ]
