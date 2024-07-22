@@ -1,9 +1,2882 @@
-{
-    "image_id": 299,
-    "category_id": 1,
-    "polys": [],
-    "rec_texts": "st taylor - st taylor",
-    "rec_score": 0,
-    "det_score": 0,
-    "filter": 41
-}
+[
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "gimbria loca",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "embria loka",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sambaloka",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "nirvana lova",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "house''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "gimbria loca",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "bembria loca",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cimbria loza",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "nirvana love",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "'hotel', 'house', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building', 'building',",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "gimbria loca",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "elembria locka",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "numbura loca",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "rock and ai",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "i, j, k, l, m, n, o, p, t, r, s, t, u, v, w, x, y, z",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "san diego, california, san diego, california, san diego, california, san diego, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california,",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "san francisco, california, san francisco, california, san francisco, california, san francisco, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, califor",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "san francisco, california, san francisco, california, san francisco, california, san francisco, california, san francisco, california, san francisco, california, san francisco, california, san francisco, california, san francisco, california, san francisco, california, san francisco, california, san francisco, california, san francisco, california, san francisco, california, san francisco, california, san francisco, california, san francisco, california, san francisco, california, san",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "'santa barbara'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "c, d, e, f, m, n, o, p, r, s, t, u, w, x, y, z",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "rsvp",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "san diego, california, san diego, california, san diego, california, san diego, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california,",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "country road''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa barbara''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa barbara''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa barbara''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "san francisco, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san franci",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "san francisco, san francisco bay area, san francisco, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay area, san francisco bay",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "san francisco''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "south st''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "phone'' and phone''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tot",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tcc",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tcc",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tcc",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tcc",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "to go",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tcc",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tcc",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tcc",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tcc",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tou",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tot",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tol",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc, tc",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, w, x, y",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "monterey fire",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "monterey fire",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "monterey fire",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "montgomery fire",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "fire, person, fire truck",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "fire truck",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "monterey fire",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "monterey fire",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "monterey fire",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "fire, person, fire truck",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "fire, fire truck, firefighter",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "monterey fire",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "fire, fire truck, fire, fire truck",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "fire truck",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "fire truck",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "save''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica, sport fishing, boating, cafes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica, sport fishing, boating, cafes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica, sport fishing, boating, cafes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa rosa, sport fishing, fishing, san diego, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, californi",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "san diego, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, californ",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "san diego",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica, sport fishing, boating, cafes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica, sport fishing, boating, cafes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica, sport fishing, boating, cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa rosa, sport fishing, san diego, ca",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "san diego, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, california, californ",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica, sport fishing, boating, cafes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "south melbourne, sport fishing, botique, cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "south bay''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the words are south bay'' and south bay''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul kebab and grill",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul kebab and burgers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul asian fusion restaurant",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul, ada, and ada",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "isstanbul",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sabati",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul kebab house",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul kebabs and burgers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul, resev, and ad",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul, restaurant, brooklyn",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "isstanbul 1",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "isstanbul kebab and burger",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istambul",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic, islamic",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood, san diego, california",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townshomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood, townhomes, sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood, townhomes, sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalwood",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalwood, person, dalwood, person",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "khutulstina cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "kalutastina cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "khutuliina cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "kalutastina cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "kalutastina cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "kalutastina cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "kalutastina cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cafe, open, hours",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "nakulia cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "kalutastina cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "kalutastina cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "kalutastina cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cafe, gold, sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "hawaiian hards yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "n''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome bienvenue parliament house",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome bienvenue parliament hill",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome, bienvenue, parliament",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome parliament",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome, ottawa, department",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cta, cpa, cpd, cps, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc, cpsc,",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome bienvenue parliament",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome bienvenue parliament",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome, parliament, parliament",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome, parliament, ottawa",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "ottawa, parliament, government, sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome bienvenue parliament",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome elvy",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome, barrie, parliament",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome parliament",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "'st john's college'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "savannah, nc",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "fort of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, w, x, y, z",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy, cantina, london",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "star, center, and person",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas tarrytown cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, taylor, tay",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "washington glass school",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "glass school",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "glass school",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the glass",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "glass",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "c, l, o, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s, t, r, s,",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "washington glass school",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "glass school",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "glass school",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the wine glass",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "glass, sign, sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the washington glass school",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the world of glass",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the word glass",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "glass, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign, sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "glass, person, glass, person, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass, glass",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, t, u, v, w, x, y",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "ottawa, university, school, students",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "'students'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "'school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school','school',",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "school'' and school''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, oly",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "person",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "''campus''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "''stuart''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "''the st. john's school''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, olympic, oly",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, t, u, w, x, y",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st john's college",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, w, x, y, z",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "b & b",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "ankylosaurus",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "ankylosaurus",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "ankylobasuras",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "ankylosaurus",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "annyloo",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "orange, sign, sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "ankylosaurus",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "ankylosaurus",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "ankylobasuras",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "ankylosaurus",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "announcement''",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "ankylosaurus",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "ankylobasuras",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "ankylobaurus",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, w, x, y, z",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "san diego",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddles, cheese, eat, free",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddles, cheese, free",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddles, cheese, free",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddles, cheese, yogurt",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cheese, yogurt, person",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "person, yogurt, person, person, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt, yogurt",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddles, cheese, eat, free",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cheese, liddles, free",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddles, cheese, free",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddolls, cheese, yogurt",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cheese, person, plate",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddles, cheese, free",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddles, cheese, yoghurt",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddells, cheese, plate",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddles, cheese, sour cream",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, safflower, sa",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original, blue, chicken, bag",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original, chicken, tan",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin, bible, prayer, tattoo, tattoo studio, thailand",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin thailand",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin thailand",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin tattoo",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "'maynants'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, yahweh, ya",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin thailand",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin thailand",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin tattoo",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "taiwan tattoo",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "natalie",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "stintin, bible, prayer, hands",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin - tattoo",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "stintin",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st taylor - st taylor",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    }
+]
