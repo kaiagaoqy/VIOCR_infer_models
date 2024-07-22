@@ -25,7 +25,7 @@ def eval_model(model, tokenizer, image_file, query, torch_type):
 
     # add any transformers params here.
     gen_kwargs = {"max_length": 2048,
-                  "temperature": 0.9,
+                  #"temperature": 0.9,
                     "do_sample": False} # 
     with torch.no_grad():
         outputs = model.generate(**inputs, **gen_kwargs)
@@ -92,8 +92,8 @@ if __name__ == "__main__":
     #     ...]
     # leave the output key empty
     
-    samples = json.load(open(args.infile, "r"))
-    q = "Can you read all the English words visible in the image and provide the bounding boxes of their location?"
+    samples = json.load(open(args.infile, "r"))['images']
+    q = "What are all English words visible in the image?"
     model_output = []
 
     for sample in tqdm.tqdm(samples):
@@ -110,8 +110,7 @@ if __name__ == "__main__":
             image_file = os.path.join(args.img_dir,filter_id, sample["file_name"])
             
             output = eval_model(model, tokenizer, image_file, q, torch_type)
-            
-            formatted_sample = output.strip()
+            print(output)
             formatted_sample["rec_texts"] = output
             model_output.append(formatted_sample)
             
