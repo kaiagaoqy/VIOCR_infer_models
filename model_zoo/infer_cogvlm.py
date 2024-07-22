@@ -25,7 +25,8 @@ def eval_model(model, tokenizer, image_file, query, torch_type):
 
     # add any transformers params here.
     gen_kwargs = {"max_length": 2048,
-                    "do_sample": False} # "temperature": 0.9
+                  "temperature": 0.9,
+                    "do_sample": False} # 
     with torch.no_grad():
         outputs = model.generate(**inputs, **gen_kwargs)
         outputs = outputs[:, inputs['input_ids'].shape[1]:]
@@ -66,7 +67,9 @@ if __name__ == "__main__":
         model = AutoModelForCausalLM.from_pretrained(
             MODEL_PATH,
             torch_dtype=torch_type,
-            trust_remote_code=True
+            trust_remote_code=True,
+            low_cpu_mem_usage=True,
+            load_in_4bit=True
         ).eval()
     else:
         model = AutoModelForCausalLM.from_pretrained(
@@ -88,7 +91,7 @@ if __name__ == "__main__":
     # leave the output key empty
     
     samples = json.load(open(args.infile, "r"))
-    q = "What are all the English words visible in the image?"
+    q = "Can you read all the English words visible in the image and provide the bounding boxes of their location?"
     model_output = []
 
     for sample in tqdm.tqdm(samples):
