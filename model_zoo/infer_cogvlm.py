@@ -40,15 +40,17 @@ def eval_model(model, tokenizer, image_file, query, torch_type):
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description='train domain generalization (oracle)')
-    parser.add_argument('--infile', type=str,default='data/test_bed/image.json',help="Json file storing q&a")
-    parser.add_argument('--outfile', type=str,default='data/test_bed/image_out_cogvlm.json')
-    parser.add_argument('--img_dir', type=str,default='data/test_bed/')
+    parser.add_argument('--infile', type=str,default='data/viocr/anno.json',help="Json file storing image paths and annotations")
+    parser.add_argument('--outfile', type=str,default='output/blip2_flan.json')
+    parser.add_argument('--img_dir', type=str,default='data/viocr/selected_images_new',help="Directory storing images")
     parser.add_argument("--quant", choices=[4], type=int, default=None, help='quantization bits')
     parser.add_argument("--from_pretrained", type=str, default="THUDM/cogagent-chat-hf", help='pretrained ckpt')
     parser.add_argument("--local_tokenizer", type=str, default="lmsys/vicuna-7b-v1.5", help='tokenizer path')
     parser.add_argument("--fp16", action="store_true")
     parser.add_argument("--bf16", action="store_true")
     parser.add_argument('--use_placeholder', action='store_true',help="Need to self-define placeholder in the question")
+    parser.add_argument('--filter', nargs='+',default=["1","2","3","4","5","6","7","32","33","34","35","36","38","39","40","41"], help="low vision filter id")
+
     args = parser.parse_args()
     
     MODEL_PATH = args.from_pretrained
