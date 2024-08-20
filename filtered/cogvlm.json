@@ -1,0 +1,9416 @@
+[
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LOKA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Loka",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Loka",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LOFA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ZOO",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Tower",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LOKA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LOKA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Loka",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LOTA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Tropicana",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LOKA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Loka",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Loka",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Bira",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Loka",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 2,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DIVA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cannery",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Row",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DIRECTORY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TRAFFIC",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "STREET",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANNERY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ROW",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ALLEY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANNING",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANNED",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANNED",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "GOODS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANNING",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "PLANT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANNERY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ROW",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANNERY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ROW",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Carnery",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Row",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Directory",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Trolley",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Sign",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Trash",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Can",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CARNERV",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ROAD",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HISTORY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DIRECTION",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TRASH",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CURRERY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ROAD",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Humane",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cannery",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Row",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DIRECTORY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LANDERVROW",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANNERY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LANDERV",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ROW",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DIRECTORY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANNERY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ROW",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LARNERY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ROW",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "MERCURY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DIRECTION",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CITY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TRASH",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANNERY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "WARE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Carnival",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LANNERV",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ROW",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DIRECTORY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANNERY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "RD",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cannery",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Row",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAMERA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAMERON",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 18,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Honda",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 24,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 24,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 24,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 24,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 24,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TC",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 24,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TC",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 24,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 24,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 24,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 24,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOC",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 24,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOC",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 24,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 24,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 24,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOYS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 24,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 24,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "MONTEREY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "FIRE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "21",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "FIRE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "FIRE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "FIRE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fire",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fire",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "MONTEREY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "FIRE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "21",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "FIRE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "FIRE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "FIRE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "FIRE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "FIRE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "MONTROSE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "FIRE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fire",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 61,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "red",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Santa",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Monica",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Yacht",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Harbor",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Sport",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Fishing",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Boating",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafes",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafe",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Santa",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Monica",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Yacht",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Harbor",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Sport",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Fishing",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Boating",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafes",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafe",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Santa",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Monica",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Yacht",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Harbor",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Sport",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Fishing",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Boating",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafes",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Vacation",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Santa",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Monica",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Vacation",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Sport",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Fishing",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Boating",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafe",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Santa",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Monica",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "beach",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "boardwalk",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sport",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fishing",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "park",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "University",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Santa",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Monica",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Yacht",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Harbor",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Sport",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Fishing",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Boating",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafes",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafe",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Santa",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Monica",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Yacht",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Harbor",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Sport",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Fishing",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Boating",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafes",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafe",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Santa",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Monica",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Yacht",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Harbor",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Sport",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Fishing",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Boating",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafe",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Sport",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Santa",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Monica",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Vacation",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Sport",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Fishing",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Boating",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafe",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Santa",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Monica",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Pier",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Santa",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Monica",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Airport",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Pier",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Beach",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Santa",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Monica",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Yacht",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Harbor",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Sport",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Fishing",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Boating",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafe",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Santa",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Monica",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Pier",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Santa",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Monica",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Yacht",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Harbor",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Sport",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Fishing",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Boating",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafes",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "South",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Harbor",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Yacht",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Harbor",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Sport",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Fishing",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Boating",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafes",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Sport",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Fishing",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Golf",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Beverly",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 95,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Hills",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ISTANBUL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Kebab",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Burger",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "House",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ISTANBUL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Kebab",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "House",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Burger",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ISTANBUL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOLMES",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ISTANBUL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ISTANBUL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Istanbul",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ISTANBUL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Kebab",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Burger",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "House",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ISTANBUL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KEBAB",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "BURGER",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOUSE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ISTANBUL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Kebab",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "House",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Hamburger",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ISTANBUL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ISTANBUL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ISTANBUL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Kebab",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Burger",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "House",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ISTANBUL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ISTANBUL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ISTANBUL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 99,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "BBC",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DALEWOOD",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOWNHOMES",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DALEWOOD",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOWNHOMES",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DALEWOOD",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOWNHOMES",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DALEWOOD",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOWNHOMES",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DALEWOOD",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Dalewood",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DALEWOOD",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOWNHOMES",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DALEWOOD",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOWNHOMES",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DALEWOOD",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOWNHOMES",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DALEWOOD",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOWNHOMES",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DALEWOOD",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DALEWOOD",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOWNHOMES",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DALEWOOD",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOWNHOMES",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DALEWOOD",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOWNHOMES",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Dalewood",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 114,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Dalewood",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KHATULISIWA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAFE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OPEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "24HOURS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KHATULISIWA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAFE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OPEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "24HOURS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KHATULISIWA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAFE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OPEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "24HOURS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KHATULIS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAFE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OPEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "24HOURS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Khattulistiya",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafe",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Open",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "24",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "hours",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAFE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KHATULISIWA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAFE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OPEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "24HOURS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KHATULISIWA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAFE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OPEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "24HOURS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KHATULISIWA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAFE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OPEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "24HOURS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KHATULIS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAFE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OPEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "24",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOURS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Kaulius",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cafe",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Open",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "24",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "hours",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KHATULIS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAFE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OPEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "24HOURS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KHATULISIWA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAFE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OPEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "24HOURS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KHATULIS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAFE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OPEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "24HOURS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAFE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 117,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAFE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "INDIAN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HARBOR",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "YACHT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CLUB",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "org",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1889",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "INDIAN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HARBOR",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "YACHT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CLUB",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "org",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1889",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "INDIAN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HARBOR",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "YACHT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CLUB",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1889",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "INDIAN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HARBOR",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "YACHT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CLUB",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1889",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Indian",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Harbor",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Yacht",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Club",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1975",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Indian",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Harbor",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Yacht",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Club",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "INDIAN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HARBOR",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "YACHT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CLUB",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "org",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1889",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "INDIAN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HARBOR",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "YACHT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CLUB",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "org",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1889",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "INDIAN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HARBOR",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "YACHT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CLUB",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1889",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "INDIAN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HARBOR",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "YACHT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CLUB",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1759",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Indian",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Harbor",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Yacht",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Club",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "75",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "INDIAN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HARBOR",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "YACHT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CLUB",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "org",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1889",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "INDIAN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HARBOR",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "YACHT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CLUB",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "org",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1889",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "INDIAN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HARBOR",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "YACHT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CLUB",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1889",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "INDIAN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HARBOR",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "YACHT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CLUB",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1889",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 146,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Yacht",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sun",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fresh",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "market",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sun",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fresh",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "market",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "4001",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sun",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fresh",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "market",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Sun",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Fresh",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Market",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sun",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fresh",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "market",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sun",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fresh",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "market",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fresh",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sun",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fresh",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "market",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sun",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fresh",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "market",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "4001",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sun",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fresh",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "market",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "4001",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sun",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fresh",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "market",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sun",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fresh",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "market",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sun",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fresh",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "market",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "4001",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sun",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fresh",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "market",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sun",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "fresh",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "market",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sun",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 166,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sun",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Bienvenue",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Parliament",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Bienvenue",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Parliament",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Bienvenue",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Parliament",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Bienvenue",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Parliament",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Parliament",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Bienvenue",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Parliament",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Bienvenue",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Parliament",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Bienvenue",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Parliament",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Bienvenue",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Parliament",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Parliament",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Bienvenue",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Parliament",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Bienvenue",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Parliament",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Bienvenue",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Parliament",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Parliament",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "British",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 181,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Parliament",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "PORT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "NEWCASTLE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EST",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1838",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "PORT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "NEWCASTLE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EST",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1838",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "PORT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "NEWCASTLE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EST",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1898",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "PORT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OF",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "NEWCASTLE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EST",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1828",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "PORT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OF",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "NEWCASTLE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ART",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "PORT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "NEWCASTLE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EST",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1838",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "PORT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OF",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "NEWCASTLE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EST",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1838",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "PORT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OF",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "NEWCASTLE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EST",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1898",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "PORT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OF",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "NEWCASTLE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EST",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "2000",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Port",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "of",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Newcastle",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "PORT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "NEWCASTLE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EST",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1838",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "PORT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OF",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "NEWCASTLE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EST",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1838",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "PORT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OF",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "NEWCASTLE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EST",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "1898",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "PORT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "OF",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "NEWCASTLE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 184,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Lounge",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TEXAS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EMBASSY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LONDON",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANTINA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Texas",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Embassy",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "London",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cantina",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Texas",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Embassy",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "London",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cantina",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Texas",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Embassy",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "London",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cantina",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Texas",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Embassy",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cantina",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CENTRAL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TEXAS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EMBASSY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LONDON",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANTINA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TEXAS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EMBASSY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LONDON",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANTINA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TEXAS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EMBASSY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LONDON",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANTINA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Texas",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Embassy",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "London",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cantina",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Texas",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Embassy",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "London",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cantina",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Texas",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Embassy",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "London",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cantina",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TEXAS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EMBASSY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LONDON",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANTINA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LONDON",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANTINA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "London",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANTINA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 205,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CANTINA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "The",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Washington",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Glass",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "SCHOOL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "The",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Washington",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Glass",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "SCHOOL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "The",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Washington",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Glass",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "School",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Glass",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Glass",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Glass",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "The",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Washington",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Glass",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "SCHOOL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Washington",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Glass",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "School",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Washington",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Glass",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "School",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "The",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Glass",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Glass",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "The",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Washington",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Glass",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "SCHOOL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Glass",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Glass",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Glass",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 210,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Glass",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Capilano",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Membership",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Unlimited",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Admission",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Discounts",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Well",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "As",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "On",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Free",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Admission",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Capilano",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Membership",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Unlimited",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Discounts",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Free",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAPLAND",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "MEMORIES",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "UNLIMITED",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DISCOUNT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "FREE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "University",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Capilano",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Membership",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Unlimited",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Discounts",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "As",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "well",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "as",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Free",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Admission",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Capilano",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Membership",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Unlimited",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Discounts",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Free",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CAPLAND",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "UNLIMITED",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "FREE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "DISCOUNT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Capilano",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Membership",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Unlimited",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Admission",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Discounts",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Well",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "As",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "On",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Free",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Admission",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Capilano",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Membership",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Unlimited",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Discounts",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Free",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "memberships",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LIBRARY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 245,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HELLO",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANTIQUE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOSTEL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANTIQUE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOSTEL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANTIQUE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOSTEL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANTIQUE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOSTEL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANTIQUE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOSTEL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOSTEL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANTIQUE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOSTEL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANTIQUE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOSTEL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANTIQUE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOSTEL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANTIQUE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOSTEL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Antique",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Hostel",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANTIQUE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOSTEL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANTIQUE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOSTEL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANTIQUE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOSTEL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOSTEL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 264,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "HOSTEL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "THE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KEEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANKYLOSAURUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CREATION",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "MUSEUM",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EXIT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "11",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "THE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KEEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANKYLOSAURUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CREATION",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "MUSEUM",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EXIT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "11",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "THE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KEEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANKYLOSAURUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CREATION",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "MUSEUM",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EXIT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "11",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ankylosaurus",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "the",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "me",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "in",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "the",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "new",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "exit",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "10",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANKYLOPHILIA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Welcome",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "THE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KEEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANKYLOSAURUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CREATION",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "MUSEUM",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EXIT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "11",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "THE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KEEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANKYLOSAURUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CREATION",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "MUSEUM",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EXIT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "11",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "THE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KEEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANKYLOSAURUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CREATION",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "MUSEUM",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EXIT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ankylosaurus",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "the",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "new",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "election",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANKYLOPHILIA",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "THE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KEEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANKYLOSAURUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CREATION",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "MUSEUM",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EXIT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "11",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "THE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KEEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANKYLOSAURUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CREATION",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "MUSEUM",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EXIT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "11",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "THE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "KEEN",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ANKYLOSAURUS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CREATION",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "MUSEUM",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EXIT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "11",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "EXIT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 268,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ankylosaurus",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Liddells",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "lactose",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "free",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "spreadable",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "cream",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "cheese",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "250g",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Liddells",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "lactose",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "free",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "spreadable",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "cream",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "cheese",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "200g",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Liddells",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Lactose",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "free",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Spreadable",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cream",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cheese",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "200g",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Liddells",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Tasty",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cheese",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "For",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "your",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "table",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "cream",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cottage",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Liddells",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "lactose",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "free",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "SPREADABLE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CREAM",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CHEESE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Liddells",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "lactose",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "free",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "spreadable",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "cream",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "cheese",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "250",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "g",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Liddells",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "lactose",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "free",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "cream",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "cheese",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "specially",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "LIPDELLS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Lactose",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Free",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Creamy",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Cheese",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Lactose",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Liddells",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "lactose",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "free",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "spreadable",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "cream",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "cheese",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "250g",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Liddells",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "lactose",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "free",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "spreadable",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "cream",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "cheese",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Liddells",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Lactose",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Free",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "SPECIAL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CREAM",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CREAM",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CHEESE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "cheese",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 276,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Leaders",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Original",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Original",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Rice",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Crackers",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Biskuut",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Beras",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ORIGINAL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Rice",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Crackers",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "tente",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ORIGINAL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Rice",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Crackers",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Biscuits",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ORIGINAL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "RICE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CRACKERS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "MADE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ORIGINAL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Original",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Original",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Original",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ORIGINAL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Rice",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Crackers",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "tentei",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ORIGINAL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "RICE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CRACKERS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "SMILE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Original",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ORIGINAL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Rice",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Crackers",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "BISKUT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "BERAS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "tente",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ORIGINAL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Rice",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Crackers",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "BISKUT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "BERAS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "rentel",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ORIGINAL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "RICE",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "CRACKERS",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "BISCUIT",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 277,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "ORIGINAL",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Pray",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Tattoo",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Khaosan",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Studio",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Thailand",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 1
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "StMartin",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Tattoo",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Khaosan",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Studio",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Thailand",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 2
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "StMartin",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Tattoo",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Khaosan",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Studio",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Thailand",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 3
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "St",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Martin",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Tattoo",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Shop",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Studio",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Thailand",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 4
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "St",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Mary",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "and",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 5
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "pray",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 6
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Pray",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Tattoo",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Khaosan",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Studio",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Thailand",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 7
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "StMartin",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Tattoo",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Khaosan",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Studio",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Thailand",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 32
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "StMartin",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Tattoo",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Khaosan",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Studio",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Thailand",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 33
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "StMartin",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 34
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "PRAY",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "STRONG",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "TOGETHER",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "NEVER",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 35
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Praying",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Hands",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "St",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Martin",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Bibb",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Tattoo",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Khaosan",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Studio",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Thailand",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 36
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Praying",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Hands",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "St",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Martin",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Tattoo",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Khaosan",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Studio",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Thailand",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 38
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Praying",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Hands",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "St",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Martin",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Bibb",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Tattoo",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Khaosan",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Studio",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Thailand",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 39
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Prayer",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Sympathy",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Believe",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Faith",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "God",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Salvation",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "Thailand",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 40
+  },
+  {
+    "image_id": 299,
+    "category_id": 1,
+    "polys": [],
+    "rec_texts": "sympathy",
+    "rec_score": 0,
+    "det_score": 0,
+    "filter": 41
+  }
+]

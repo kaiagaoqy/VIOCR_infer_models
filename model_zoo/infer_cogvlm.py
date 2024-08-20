@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description='train domain generalization (oracle)')
     parser.add_argument('--infile', type=str,default='data/viocr/anno.json',help="Json file storing image paths and annotations")
-    parser.add_argument('--outfile', type=str,default='output/blip2_flan.json')
+    parser.add_argument('--outfile', type=str,default='output/cogvlm.json')
     parser.add_argument('--img_dir', type=str,default='data/viocr/selected_images_new',help="Directory storing images")
     parser.add_argument("--quant", choices=[4], type=int, default=None, help='quantization bits')
     parser.add_argument("--from_pretrained", type=str, default="THUDM/cogagent-chat-hf", help='pretrained ckpt')
