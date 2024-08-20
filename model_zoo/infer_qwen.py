@@ -4,7 +4,6 @@ import argparse
 import json
 import tqdm
 from PIL import Image
-from utils import format_multi_choice
 from collections.abc import Sequence
 import re
 
@@ -55,7 +54,7 @@ if __name__ == "__main__":
     # Specify hyperparameters for generation
     # model.generation_config = GenerationConfig.from_pretrained(args.model_path, trust_remote_code=True)
     
-    samples = json.load(open(args.infile, "r"))
+    samples = json.load(open(args.infile, "r"))['images']
     output_samples = []
     q = "What are all the English words visible in the image?"
 

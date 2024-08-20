@@ -60,7 +60,7 @@ if __name__ == "__main__":
     #     ...]
     # leave the output key empty
     
-    samples = json.load(open(args.infile, "r"))
+    samples = json.load(open(args.infile, "r"))['images']
     formatted_samples = []
     q = "What are all the English words visible in the image?"
 

@@ -10,7 +10,6 @@ from PIL import Image
 import os
 import tqdm
 from transformers import TextStreamer
-from utils import format_multi_choice
 from collections.abc import Sequence
 import re
 
@@ -73,7 +72,7 @@ if __name__ == "__main__":
     tokenizer, model, image_processor, context_len = load_pretrained_model(model_path, None, model_name, load_8bit=False, load_4bit=False, device=device)
 
 
-    samples = json.load(open(args.infile, "r"))
+    samples = json.load(open(args.infile, "r"))['images']
     output_samples = []
     q = "What are all the English words visible in the image?"
 
