@@ -1,0 +1,2882 @@
+[
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Gembira Loka\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"embira\" and \"loka\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Loka\" and \"Bira.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Sarina Loka\" and \"Gambier.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"welcome\" and \"log in\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"and\", \"the\", \"cat\", \"in\", \"the\", \"hat\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Gembira Loka\" and \"Chinese Restaurant\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"embira loka\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Bira Loka\" and \"Dragon\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"SUNRISE\" and \"LOPPI\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"embira loka\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"mbraloka\" and \"ambaloka\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Bira Loka\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"BRA\" and \"LOA\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image include \"directory,\" \"cannery row,\" and \"cannery row directory.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image include \"directory,\" \"cannery row,\" and \"cannery row directory.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image include \"Cannery Row,\" \"The Wharf,\" and \"Fisherman's Wharf.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Lubbock\" and \"TX\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"H2O\" and \"water\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image include \"directory\", \"cannery row\", and \"housekeeping\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image include \"directory\", \"tannery row\", \"cannery row\", and \"directory\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image include \"Tauranga\", \"Bay of Plenty\", \"Directory\", \"Tauranga Directory\", \"Map\", \"Street\", \"Street Map\", \"New Zealand\", \"NZ\", \"South Pacific\", \"City\", \"Street Map\", \"Street\", \"Directory\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\", \"Map\", \"Street\", \"Street Map\",",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Fishing Port\" and \"Fisherman's Road\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are several English words visible in the image, including \"Service\", \"Gas\", \"Pump\", \"Petrol\", \"Service\", \"Gas\", \"Pump\", and \"Petrol\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image include \"directory\", \"cannery row\", and possibly other words on the sign or directory, such as \"map\" and \"street\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"Cannery Row\" and an arrow pointing to the right.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Canderwood\", \"X\", \"ladder\", \"fireplace\", \"stove\", \"pipes\", \"pipe\", \"stairs\", \"chair\", \"sofa\", \"bed\", \"bookshelf\", \"books\", \"basket\", \"plant\", \"television\", \"remote control\", \"sofa bed\", \"side table\", \"cupboard\", \"door\", \"window\", \"chair\", \"rug\", \"lamp\", \"vase\", \"television\", \"remote control\", \"sofa bed\", \"side table\", \"cupboard\", \"door\", \"window\", \"chair\", \"rug\", \"lamp\", \"vase\", \"television\", \"remote control\", \"sofa bed\", \"side table\", \"cupboard\", \"door\", \"window\", \"chair\", \"rug\", \"lamp\", \"vase\", \"television\", \"remote control\", \"sofa bed\", \"side table\", \"cupboard\", \"door\", \"window\", \"chair\", \"rug\", \"lamp\", \"vase\", \"television\", \"remote control\", \"sofa bed\", \"side table\", \"cupboard\", \"door\", \"window\", \"chair\", \"rug\", \"lamp\", \"vase\", \"television\", \"remote control\", \"sofa bed\", \"side table\", \"cupboard\", \"door\", \"window\", \"chair\", \"rug\", \"lamp\", \"vase\", \"television\", \"remote control\", \"sofa bed\", \"side table\", \"cupboard\", \"door\", \"window\", \"chair\", \"rug\", \"lamp\", \"vase\", \"television\", \"remote control\", \"sofa bed\", \"side table\", \"cupboard\", \"door\", \"window\", \"chair\", \"rug\", \"lamp\", \"vase\", \"television\", \"remote control\", \"sofa bed\", \"side table\", \"cupboard\", \"door\", \"window\", \"chair\", \"rug\", \"lamp\", \"vase\", \"television\", \"remote control\", \"sofa bed\", \"side table\", \"cupboard\", \"door\", \"window\", \"chair\", \"rug\", \"lamp\", \"vase\", \"television\", \"remote control\", \"sofa bed\", \"side table\", \"cupboard\", \"door\", \"window\", \"chair\", \"rug\", \"lamp\", \"vase\", \"television\", \"remote control\", \"sofa",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"LONDON\", \"ENGLAND\", \"WALLPAPER\", \"TILES\", \"AND\", \"WEB\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Tous\" and \"T LJ\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"TCH\" and \"TOUS\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"TCM\", \"FOCUS\", and \"HOTEL\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"TCM\", \"1919\", \"Cup\", and \"-shop\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"coffee\", \"espresso\", \"mug\", \"cup\", \"and\", \"breakfast\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"and\", \"on\", \"the\", \"is\", \"it\", \"a\", \"of\", \"to\", \"have\", \"at\", \"in\", \"that\", \"which\", \"one\", \"are\", \"a\", \"an\", \"the\", \"to\", \"of\", \"in\", \"that\", \"which\", \"one\", \"are\", \"a\", \"an\", \"the\", \"to\", \"of\", \"in\", \"that\", \"which\", \"one\", \"are\", \"a\", \"an\", \"the\", \"to\", \"of\", \"in\", \"that\", \"which\", \"one\", \"are\", \"a\", \"an\", \"the\", \"to\", \"of\", \"in\", \"that\", \"which\", \"one\", \"are\", \"a\", \"an\", \"the\", \"to\", \"of\", \"in\", \"that\", \"which\", \"one\", \"are\", \"a\", \"an\", \"the\", \"to\", \"of\", \"in\", \"that\", \"which\", \"one\", \"are\", \"a\", \"an\", \"the\", \"to\", \"of\", \"in\", \"that\", \"which\", \"one\", \"are\", \"a\", \"an\", \"the\", \"to\", \"of\", \"in\", \"that\", \"which\", \"one\", \"are\", \"a\", \"an\", \"the\", \"to\", \"of\", \"in\", \"that\", \"which\", \"one\", \"are\", \"a\", \"an\", \"the\", \"to\", \"of\", \"in\", \"that\", \"which\", \"one\", \"are\", \"a\", \"an\", \"the\", \"to\", \"of\", \"in\", \"that\", \"which\", \"one\", \"are\", \"a\", \"an\", \"the\", \"to\", \"of\", \"in\", \"that\", \"which\", \"one\", \"are\", \"a\", \"an\", \"the\", \"to\", \"of\", \"in\", \"that\", \"which\", \"one\", \"are\", \"a\", \"an\", \"the\", \"to\", \"of\", \"in\", \"that\", \"which\", \"one\", \"are\", \"a\", \"an\", \"the\", \"to\", \"of\", \"in\", \"that\", \"which\", \"one\", \"are\", \"a\", \"an\", \"the",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "TLJ, Domestic, Bank, Since, 1927, TOUS, Tous,\u9996\u9970,",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "TLJ, toast, jam, and Tous are the English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"TC\", \"Caf\u00e9\", \"Bookstore\", and \"M\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"TC\", \"Mall\", \"Store\", and \"Book\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"TCM\", \"Traditional Chinese Medicine\", and \"Herbal\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Tous\", \"since 1927\", \"authentic bank\", \"since 1927\", \"TUI\", \"since 1997\", and \"Tous\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"T LJ\", \"TO\", \"T\", \"U\", \"S\", \"U\", \"S\", \"E\", \"U\", \"S\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"S\", \"E\", \"U\", \"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"TLC\", \"The Learning Centre\", \"ILC\", \"Inclusive Learning Centre\", and \"ILC Singapore\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"THE\", \"NEW\", \"YORKER\", \"MAGAZINE\", \"COMES\", \"OUT\", \"TUESDAY\", \"MAY\", \"2ND\", \"2017\", \"AND\", \"IT'S\", \"ALL\", \"HERE\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There is no existence of any English words in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Monterey Fire\" and \"fire truck.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Monterey Fire\" and \"Monterey Fire Department.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are two English words visible in the image: \"Monterey Fire\" and \"Fire Department\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are two English words visible in the image: \"Fire\" and \"Truck\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are several English words visible in the image, including \"red,\" \"blurry,\" \"car,\" \"truck,\" \"bus,\" and \"yellow.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Monterey Fire\" and \"fire truck.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Monterey Fire\" and \"12-1-1\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Monterey Fire\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"MONTREAL\", \"FIRE\", and \"QU\u00c9BEC\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"1948\", \"fire department\", and \" responder\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Monterey Fire\" and \"12.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"Mountain\", \"Top\", \"Elevate\", \"Your\", \"Game\", \"Today\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"THE\", \"WORLD\", \"CUP\", and \"2022\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There is no existence of English words in the image description.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Santa Monica,\" \"Yacht Harbor,\" \"Sport Fishing,\" \"Boating,\" and \"Cafes.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Santa Monica,\" \"Yacht Harbor,\" \"Sport Fishing,\" \"Boating,\" and \"Cafes.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Santa Monica,\" \"Ucach Harbor,\" \"Sport Fishing,\" \"Boating,\" and \"Cafes.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"sport fishing\" and \"boat\" on the sign.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are several English words visible in the image, including \"bed,\" \"mattress,\" \"pillow,\" and \"blanket.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Santa Monica,\" \"Yacht Harbor,\" \"Sport Fishing,\" \"Boating,\" and \"Cafes.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Santa Monica\", \"Yacht Harbor\", \"Sport Fishing\", \"Boating\", \"Cafes\", and \"Pubs\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Santa Monica\", \"Yacht Harbor\", \"Sport Fishing\", \"Boating\", \"Cafes\", and \"Restaurants\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"sport fishing,\" \"cafe,\" \"boating,\" and \"Santa Monica.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"welcome\" and \"michigan's.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Santa Monica,\" \"Yacht Harbor,\" \"Sport Fishing,\" \"Boating,\" \"Cafes,\" and \"Boating.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Santa Monica\", \"Yacht Harbor\", \"Sport Fishing\", \"Boats\", \"Cafes\", and \"Boating\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"SpringHill Camp\", \"SpringHill\", \"Camp\", and \"Fun\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"and\", \"on\", \"a\", \"blue\", \"background\", \"with\", \"a\", \"white\", \"dot\", \"in\", \"the\", \"top\", \"left\", \"corner\", \"and\", \"a\", \"white\", \"square\", \"with\", \"black\", \"lines\", \"in\", \"the\", \"bottom\", \"right\", \"corner\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There is no existence of any English words in the image description.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"istanbul\", \"kebab\", \"burger\", \"house\", \"london\", \"ealing\", \"gourmet\", \"best\", \"takeaway\", \"delivery\", \"open\", \"closed\", \"closes\", \"24\", \"7\", \"open\", \"kebabs\", \"burgers\", \"house\", \"london\", \"ealing\", \"gourmet\", \"best\", \"takeaway\", \"delivery\", \"open\", \"closed\", \"closes\", \"24\", \"7\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Istanbul,\" \"kebab,\" \"burger,\" \"house,\" and \"London.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Istanbul\" and \"House\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Istanbul\" and \"Mediterranean.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Istanbul\" and \"Turkish Restaurant\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Chinese\" and \"takeout\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"istanbul,\" \"kebab,\" \"burger,\" \"house,\" and \"london.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"istanbul,\" \"kebab,\" \"burger,\" \"house,\" and \"107.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Istanbul,\" \"kebab,\" \"burger,\" and \"house.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Istanbul\" and \"Chinese\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I can see the following English words in the image: \"Istanbul\", \"Gourmet\", \"Take Away\", \"Fast Food\", \"Pasta\", \"Pizza\", \"Burger\", \"Kebab\", \"Doner Kebab\", \"Turkish\", \"Meatball\", \"Baklava\", \"Samosa\", \"Doner\", \"Burger\", \"Pizza\", \"Pasta\", \"Baklava\", \"Samosa\", \"Kebab\", \"Meatball\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"Take Away\", \"Gourmet\", \"Istanbul\", \"Fast Food\", \"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Istanbul,\" \"Bebas,\" \"Burger,\" and \"House.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"istanbul\" and \"tulip\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"shadows\" and \"dancing\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"water\", \"ocean\", \"sea\", \"land\", \"sky\", and \"world\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"dalewood townhomes\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"dalewood townhomes.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"dalewood townhomes.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"dalewood\" and \"constructions\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Dalewood\" and \"Meat & Produce\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"The\", \"World\", \"Is\", \"Not\", \"A\", \"Dish\", \"Or\", \"A\", \"Trick\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"dalewood townhomes\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"dalewood townhomes\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"dalewood townhomes.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"dalewood townhomes.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"dalewood\" and \"homes for sale.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"dalewood townhomes.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Dalewood Townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"DANDELION\", \"BREW\", \"TEA\", \"HERB\", \"HEALTH\", \"BEVERAGE\", \"DRINK\", \"MILK\", \"FOOD\", \"FOOD\", \"PRODUCT\", \"SUPPLEMENT\", \"FOOD\", \"DRINK\", \"Beverage\", \"DANDELION\", \"BREW\", \"TEA\", \"HERB\", \"HEALTH\", \"BEVERAGE\", \"DRINK\", \"MILK\", \"FOOD\", \"FOOD\", \"PRODUCT\", \"SUPPLEMENT\", \"FOOD\", \"DRINK\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There is no existence of any English words in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Khatulistiwa Cafe\" and \"Open 24-Hours\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Khatulistiwa Cafe\" and \"Open 24-Hours\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Khatulistiwa Cafe\" and \"Open 24-Hours\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Phatulushi Cafe\" and \"Open 24 hours\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Gillman's\", \"Coff\", and \"Ice Cream\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"and\", \"but\", \"or\", \"if\", \"then\", \"else\", \"while\", \"for\", \"because\", \"yet\", \"so\", \"all\", \"any\", \"some\", \"no\", \"a\", \"an\", \"the\", \"their\", \"there\", \"they're\", \"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Khatulistiwa Cafe\" and \"Open 24-Hours\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Khatulistiwa Cafe\" and \"Open 24-Hours\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Khatulistiwa Cafe\" and \"Open 24-Hours\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Whatalistini Cafe\" and \"Open 24 hours\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Fellini's Cafe\" and \"Open 7 Days\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Khatulistiwa Cafe\" and \"Open 24-Hours\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Khatulistiwa Cafe\" and \"Open 24-Hours\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Cauldron Cafe\" and \"Open 24 Hours\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"The New York Botanical Garden\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"The quick brown fox jumps over the lazy dog\" and \"Faster\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Indian Harbor Yacht Club\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Indian Harbor Yacht Club\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Indian Harbor Yacht Club\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Indian Harbor Yacht Club.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Inman Harbor\" and \"Yacht Club\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"The New York Rangers\" and \"Columbus Blue Jackets\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Indian Harbor Yacht Club org 1889\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Indian Harbor Yacht Club\" and \"1889\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Indian Harbor Yacht Club\" and \"org. 1889\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Indian Harbor Yacht Club.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"ManlyHarbor\", \"Yacht Club\", and \"Marina\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Indian Harbor Yacht Club\" and \"1889\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"Indian Harbor Yacht Club\" and the year \"1889\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Indian Harbor Yacht Club\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"Oval\" and \"Maiden\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There is no existence of any English words in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Sun Fresh Market\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Sun Fresh Market\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Sun Fresh Market\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Sun Fresh Market\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Sun Fresh\" and \"Bakery\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"the\", \"book\", \"people\", \"read\", \"and\", \"write\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Sun Fresh Market\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Sun Fresh Market\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Sun Fresh Market\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Sun Fresh Market\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Sun Fresh\" and \"Market\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Sun Fresh Market\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Sun Fresh Market\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Sun Fresh Market\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Cry Me A River\" and \"BROOKLYN\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"not a robot\" and \"please wait\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Welcome Bienvenue Parliament Hill\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Welcome\" and \"Parliament Hill\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Welcome\", \"Bienvenue\", \"Parliament Hill\", and \"ottawa\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"welcome\", \"Parliament\", and \" Bienvenue \".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Lindblom\" and \"Lindblom's\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Lindblom\" and \"University\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"welcome,\" \"Bienvenue,\" \"Parliament Hill,\" and \"ottawa.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"welcome,\" \"Bienvenue,\" \"Parliament Hill,\" and \"ottawa.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Welcome\", \"Bienvenue\", \"Parliament Hill\", and \"The Library of Parliament\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"welcome,\" \"Parliament,\" and \" Bienvenue.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Canada\", \"Parliament Hill\", \"Ottawa\", and \"Tourist Information\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"welcome\", \"Bienvenue\", \"Parliament Hill\", and \"ottawa\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Welcome, Bienvenue, Parliament, of, Canada, are all the English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"welcome\", \" Bienvenue\", \"Parliament\", and \"Welcome to Parliament\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are: \"Cape Town\" and \"South Africa\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Port of Newcastle,\" \"Est. 1833,\" and \"Sailboat.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Port of Newcastle,\" \"Est. 1838,\" and \"Newcastle.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Port of Newcastle,\" \"Established 1839,\" and \"1839.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Port of Newcastle\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"welcome\", \"residents\", \"visitors\", and \"welcome\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"and\", \"the\", \"of\", \"a\", \"is\", \"in\", \"it\", \"that\", \"to\", \"have\", \"I\", \"as\", \"I'm\", \"at\", \"which\", \"are\", \"from\", \"that\", \"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Port of Newcastle,\" \"Est. 1838,\" and \"Sailboat.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Port of Newcastle\", \"Est. 1838\", and \"Newcastle\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Port of Newcastle,\" \"Established 1839,\" and \"Sailboat.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Port of Newcastle,\" \"Welcome,\" \"Yacht Club,\" and \"Marine.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Age of Newcastle,\" \"Marina,\" and \"Harbor.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Port of Newcastle,\" \"Established 1898,\" and \"Welcome.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Port of Newcastle\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Port of Newcastle, Est. 1858",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Brisbane\" and \"Celtic\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There is no existence of any English words in the image description.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Texas\", \"Embassy\", \"London\", \"Cantina\", and \"London Cantina\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Texas\", \"Embassy\", \"London\", \"Cantina\", and \"London\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Texas\", \"Embassy\", \"London\", \"Cantina\", and \"London\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Texas\", \"Embassy\", \"London\", \"Cantina\", and \"London\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"CANTINFLA\" and \"CANTINFLA\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"and\", \"on\", \"a\", \"with\", \"the\", \"is\", \"it\", \"of\", \"to\", \"have\", \"in\", \"a\", \"the\", \"of\", \"as\", \"by\", \"from\", \"is\", \"in\", \"a\", \"of\", \"on\", \"the\", \"and\", \"to\", \"with\", \"a\", \"in\", \"the\", \"of\", \"on\", \"it\", \"is\", \"to\", \"with\", \"a\", \"in\", \"the\", \"of\", \"on\", \"it\", \"is\", \"to\", \"with\", \"a\", \"in\", \"the\", \"of\", \"on\", \"it\", \"is\", \"to\", \"with\", \"a\", \"in\", \"the\", \"of\", \"on\", \"it\", \"is\", \"to\", \"with\", \"a\", \"in\", \"the\", \"of\", \"on\", \"it\", \"is\", \"to\", \"with\", \"a\", \"in\", \"the\", \"of\", \"on\", \"it\", \"is\", \"to\", \"with\", \"a\", \"in\", \"the\", \"of\", \"on\", \"it\", \"is\", \"to\", \"with\", \"a\", \"in\", \"the\", \"of\", \"on\", \"it\", \"is\", \"to\", \"with\", \"a\", \"in\", \"the\", \"of\", \"on\", \"it\", \"is\", \"to\", \"with\", \"a\", \"in\", \"the\", \"of\", \"on\", \"it\", \"is\", \"to\", \"with\", \"a\", \"in\", \"the\", \"of\", \"on\", \"it\", \"is\", \"to\", \"with\", \"a\", \"in\", \"the\", \"of\", \"on\", \"it\", \"is\", \"to\", \"with\", \"a\", \"in\", \"the\", \"of\", \"on\", \"it\", \"is\", \"to\", \"with\", \"a\", \"in\", \"the\", \"of\", \"on\", \"it\", \"is\", \"to\", \"with\", \"a\", \"in\", \"the\", \"of\", \"on\", \"it\", \"is\", \"to\", \"with\", \"a\", \"in\", \"the\", \"of\", \"on\", \"it\", \"is",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Texas\", \"Embassy\", \"London\", \"Cantina\", and \"London\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Texas\", \"Embassy\", \"London\", \"Cantina\", and \"London\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Texas\", \"Embassy\", \"London\", \"Cantina\", and \"London\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Texas\", \"Embassy\", \"London\", \"Cantina\", and \"London\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Texas Rangers\" and \"Cantina.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Texas\", \"Embassy\", \"London\", \"Cantina\", and \"London\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"Texas\", \"Embassy\", \"London\", \"Cantina\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are: \"The London Mint Office\", \"London\", \"Antique\", and \"English\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"The Washington Glass School.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"The Washington Glass School.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"The Washington Glass.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Glass\" and \"Coke.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"LADY GAGA\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"The Washington Glass School.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"The Washington Glass School.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"The Washington Glass School.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"glass\" and \"neon.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Glass\" and \"Bar.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"The Washington Glass School.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"What's on\", \"Glass\", and \"The\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Glow\" and \"By\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"edge\" and \"out\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There is no existence of any English words in the image description.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Capitano Memberships,\" \"UNLIMITED ADMISSION,\" \"DAYS,\" \"DISCOUNTS,\" and \"Free Admission.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image include \"Capitano Memberships,\" \"UNLIMITED ADMISSION,\" \"365 Days,\" \"DISCOUNTS,\" \"FREE ADMISSION,\" and \"365 Days.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image include \"Cupland Memberships,\" \"Unlimited,\" \"Discounted,\" and \" discovery.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are several English words visible in the image, including \"unnel\", \"Tangled\", \" Rapunzel\", \"Garden\", \"tavern\", \"rider\", \"carriage\", \"horse\", \"love\", \"bride\", \"groom\", \"kiss\", \" happily\", \"ever\", \"after\", \"dining\", \"chair\", \"and\", \"blurred\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are several English words visible in the image, including \"Capilano\", \"Memberships\", \"Unlimited Admission\", \"Discounts\", \"Free Aunts\", and \"365 Days\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Unlimited, admission, discounts, free, after, Capitano, memberships, and 365 days.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image include \"Cupland Memberships,\" \"Unlimited Access,\" \"Discounts,\" and \"Passes.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image include \"Disney,\" \"California Adventure,\" \"Pirates of the Caribbean,\" and \"Indiana Jones.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are several English words visible in the image, including \"Disneyland\", \"California Adventure\", \"Park\", \"Ride\", \"Pavilion\", \"Giraffe\", \"Monorail\", \"Adventure\", \"Passport\", \"Ticket\", \"Pass\", and \"\u5b58\u5728\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image include \"Capilano\", \"Memberships\", \"Unlimited Admission\", \"Discounts\", \"Free Admission\", and \"365 Days\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image include \"Capitano Memberships\", \"Unlimited Admission\", \"Discounts\", and \"365 Days\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Cap and membership, unlimited, since 1982, English words in the image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There is no existence of any English words in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"antique,\" \"hostel,\" and \"inn.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"antique,\" \"hostel,\" and \"inn.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"antique,\" \"hostel,\" and \"hotel.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Antique Hostel\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"English\" and \"Bosters.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are several English words visible in the image, including \"American\", \"flag\", \"United\", \"States\", \"of\", \"America\", \"and\", \"The\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"antique,\" \"hostel,\" and \"hotel.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Antique Hostel\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"antique\", \"hostel\", and \"inn\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"antique,\" \"hostel,\" and \"inn.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"Antique Hostel\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"Antique Hostel\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There is no existence of any English words in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"The keen\", \"Ankylosaurus\", \"Creation Museum\", \"Exit 11\", and \"org\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Ankylosaurus,\" \"Creation Museum,\" and \"Exit 11.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"The Keen\", \"Ankylosaurus\", \"Creation Museum\", and \"Exit 11\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Ankylosaurus\" and \"Exit 19.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Fruit Stand\" and \"Open\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Fruit salad\" and \"Orange\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"The keen Ankylosaurus\", \"exit 11\", and \"Creation Museum\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"THE KEEN\", \"ANKYLOSAURUS\", \"CREATION MUSEUM\", and \"EXIT 11\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Ankylosaurus\", \"Creation Museum\", and \"Exit 11\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Ankylosaurus\" and \"Group D\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Aristocrat,\" \"Lanes,\" \"Stop,\" and \"Motel.\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"THE KEEN\", \"ANKYLOSAURUS\", \"CREATION MUSEUM\", \"EXIT 11\", and \"OG\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"THE KEEN\" and \"EXIT 11\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"THE KEEN\", \"INKOSAURUS\", \"CREATION MUSEUM\", \"EXIT 11\", and \"THE END\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"King\", \"Castle\", \"Do\", \"Enter\", \"Here\", \"Now\", and \"By\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"hello\" and \"world\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Liddells\", \"lactose free\", \"spreadable cream cheese\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddells lactose free spreadable cream cheese",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Liddells\", \"lactose free\", \"spreadable\", \"cream cheese\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Liddells\" and \"Blue Cheese\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Philadelphia\" and \"Philly\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"MARS\", \"2021\", and \"CHINA\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddells lactose free spreadable cream cheese",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddells, lactose free, cream cheese",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Liddells\", \"lactose free\", \"cream cheese\", and \"since 1887\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "lidells, the, creamery, light, cream, cheese",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "farmer's, cheddar, 8 oz",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "In the image, the English words that are visible are \"Liddells\", \"lactose free\", \"spreadable cream cheese\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are:\n\n  * Liddells\n  * lactose free\n  * cream cheese\n  * spreadable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are: Liddells, cream cheese, spreadable, and fresh.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"overtures\", \"welcome\", and \"engage\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"original rice crackers\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"original rice crackers\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"original rice crackers\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"original rice crackers\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Organic\" and \"Free From\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"M&M's\" and \"5 Flavors\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"original rice crackers\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"original rice crackers\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"original rice crackers\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"original rice crackers\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"original rice crackers\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"original rice crackers\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"original rice crackers\" and \"biskut beras\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Original Rice Crackers\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"the\", \"of\", \"and\", \"a\", \"is\", \"in\", \"it\", \"that\", \"to\", \"at\", \"by\", \"for\", \"with\", \"I\", \"you\", \"we\", \"our\", \"your\", \"their\", \"was\", \"by\", \"as\", \"had\", \"has\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\", \"has\", \"had\",",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "There are no English words visible in the image.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are:\n\nSt. Martin Bier\nTattoo Studio\nKhaosan\nThailand\n\nThere are also two decorative elements at the bottom of the design, a triangle with a ship inside and a circle with a cross inside.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"St.Martin\", \"Tattoo\", \"Studio\", \"Thailand\", \"1999\", \"Khaosan\", and \"Praying hands\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"St.Martin 1999\", \"Tattoo Studio\", \"BHAOSAN\", and \"Thailand\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"St Martin\", \"Tattoo Studio\", \"Food\", \"Thailand\", and \"Bhao Sar\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"Navy\", \"Sailor\", \"Spirit\", \" Tradition\", \"Pride\", and \"Unity\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"Colorado\", \" Avalanche\", and \"NHL\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"St.Martin\", \"Tattoo Studio\", \"Thailand\", \"1999\", \"Khaosan\", and \"BBB\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"St.Martin\", \"Tattoo Studio\", \"Thailand\", \"1999\", \"B&B\", \"Khaosan\", and \"Praying hands\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 32
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"St.Martin\", \"Tattoo\", \"Studio\", \"Thailand\", \"BHAOSAN\", and \"KRAOSAN\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 33
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "St. Martin In The Fields Thailand",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 34
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"Strathmore\" and \"School\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 35
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are \"St Martin\", \"Birr\", \"Tattoo\", \"Khaosan\", \"Studio Thailand\", and \"1999\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 36
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are: \n\nSt. Martin's Ink \n\nTattoo Khaosan Studio Thailand \n\nand below: \n\nTattoo Khaosan Studio Thailand \n\nwith a triangle logo beneath it",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 38
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"St. Martin's Ink\", \"Tattoo Studio Thailand\", \"1999\", \"Khaosan\", and \"St. Martin's\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 39
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are \"Stepping Out\", \"1993\", \"Chasing The Sun\", and \"Florida\".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 40
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are: \"Stuttering\", \"Support\", \"\u57fa\u91d1\u4f1a\", and \" stuttering \".",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 41
+    }
+]
