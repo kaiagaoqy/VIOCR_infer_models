@@ -141,13 +141,13 @@ def load_model(model_path, model_base):
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description='train domain generalization (oracle)')
-    parser.add_argument('--infile', type=str,default='data/filtered/concept_2_image.json',help="Json file storing q&a")
-    parser.add_argument('--outfile', type=str,default='data/output/llava/')
-    parser.add_argument('--img_dir', type=str,default='data/imgs/cogBench')
+    parser.add_argument('--infile', type=str,default='data/viocr/anno.json',help="Json file storing image paths and annotations")
+    parser.add_argument('--outfile', type=str,default='output/llava.json')
+    parser.add_argument('--img_dir', type=str,default='data/viocr/selected_images_new',help="Directory storing images")
     parser.add_argument('--model_base', type=str, default=None)
     parser.add_argument('--model_path', type=str, default="liuhaotian/llava-v1.6-34b")
     parser.add_argument('--use_placeholder', action='store_true',help="Need to self-define placeholder in the question")
-    parser.add_argument('--reason',action='store_true',help="if provide reasoning")
+    parser.add_argument('--filter', nargs='+',default=["1","2","3","4","5","6","7","32","33","34","35","36","38","39","40","41"], help="low vision filter id")
     # choices=[
     #     "liuhaotian/llava-v1.6-34b", "liuhaotian/llava-v1.5-13b",
     #     "liuhaotian/llava-v1.5-7b", "liuhaotian/llava-v1.6-mistral-7b",
