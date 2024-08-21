@@ -207,7 +207,7 @@ if __name__ == "__main__":
                                 })())
             output = output.strip().replace(".", '')
             formatted_sample["rec_texts"] = output
-            formatted_samples.append(formatted_samples)
+            formatted_samples.append(formatted_sample)
 
     os.makedirs(os.path.dirname(args.outfile), exist_ok=True) 
     json.dump(formatted_samples, open(args.outfile, "w"), indent=4) 
