@@ -1,0 +1,15 @@
+analysis_app/
+checkpoints/
+recog_algorithms/
+*.pth
+data/
+baselines/
+dataset_funcs/
+mmocr-dev-1.x/work_dirs
+mmocr-dev-1.x/mmdeploy-dep
+add_data/
+mmocr-0.x/
+mae/output_dir
+*.pyc
+MAERec-Gradio
+union14m.github.io
