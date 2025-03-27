@@ -46,12 +46,8 @@ train_pipeline = [
         saturation=0.5),
     dict(
         type='ImgAugWrapper',
-        args=[['Fliplr', 0.5], #  Flip 50% of all images vertically:
-              dict(cls='Affine', rotate=[-10, 10]), 
-              ['Resize', [0.5, 3.0]],
-              ['LogContrast', [0.5, 1.5]],
-              ['GaussianBlur', [0, 1.0]],
-              ],),
+        args=[['Fliplr', 0.5],
+              dict(cls='Affine', rotate=[-10, 10]), ['Resize', [0.5, 3.0]]]),
     dict(type='RandomCrop', min_side_ratio=0.1),
     dict(type='Resize', scale=(640, 640), keep_ratio=True),
     dict(type='Pad', size=(640, 640)),

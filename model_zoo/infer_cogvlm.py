@@ -31,7 +31,7 @@ def eval_model(model, tokenizer, image_file, query, torch_type):
         outputs = model.generate(**inputs, **gen_kwargs)
         outputs = outputs[:, inputs['input_ids'].shape[1]:]
         output = tokenizer.decode(outputs[0])
-        output = output.split("</s>")[0]
+        output = output.split("</s>")[0].strip().replace(".", "")
     return output
 
 
@@ -40,16 +40,16 @@ def eval_model(model, tokenizer, image_file, query, torch_type):
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description='train domain generalization (oracle)')
-    parser.add_argument('--infile', type=str,default='data/viocr/anno.json',help="Json file storing image paths and annotations")
-    parser.add_argument('--outfile', type=str,default='output/cogvlm.json')
-    parser.add_argument('--img_dir', type=str,default='data/viocr/selected_images_new',help="Directory storing images")
+    parser.add_argument('--infile', type=str,default='data/mnread/anno.json',help="Json file storing image paths and annotations")
+    parser.add_argument('--outfile', type=str,default='output/mnread/cogvlm.json')
+    parser.add_argument('--img_dir', type=str,default='data/mnread',help="Directory storing images")
     parser.add_argument("--quant", choices=[4], type=int, default=None, help='quantization bits')
     parser.add_argument("--from_pretrained", type=str, default="THUDM/cogagent-chat-hf", help='pretrained ckpt')
     parser.add_argument("--local_tokenizer", type=str, default="lmsys/vicuna-7b-v1.5", help='tokenizer path')
     parser.add_argument("--fp16", action="store_true")
     parser.add_argument("--bf16", action="store_true")
     parser.add_argument('--use_placeholder', action='store_true',help="Need to self-define placeholder in the question")
-    parser.add_argument('--filter', nargs='+',default=["1","2","3","4","5","6","7","32","33","34","35","36","38","39","40","41"], help="low vision filter id")
+    parser.add_argument('--filter', nargs='+',default=["0"], help="low vision filter id")
 
     args = parser.parse_args()
     
@@ -93,24 +93,25 @@ if __name__ == "__main__":
     # leave the output key empty
     
     samples = json.load(open(args.infile, "r"))['images']
-    q = "What are all English words visible in the image?"
+    q = os.getenv("Prompt")
     model_output = []
 
     for sample in tqdm.tqdm(samples):
         for filter_id in args.filter:
+
             formatted_sample = {"image_id":int(sample["id"]),
                                 "category_id": 1,
                                 "polys":[],
                                 "rec_texts":"",
                                 "rec_score":0,
                                 "det_score":0,
-                                "filter":int(filter_id),
+                                "filter":int(filter_id) if int(filter_id) > 0 else int(sample["Filter_no"]),
                                 }
-                
-            image_file = os.path.join(args.img_dir,filter_id, sample["file_name"])
+
+            
+            image_file = os.path.join(args.img_dir,filter_id, sample["file_name"]) if int(filter_id) > 0 else os.path.join(args.img_dir, sample["file_name"])
             
             output = eval_model(model, tokenizer, image_file, q, torch_type)
-            print(output)
             formatted_sample["rec_texts"] = output
             model_output.append(formatted_sample)
             

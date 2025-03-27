@@ -30,7 +30,7 @@ for image_path in image_files.glob("*.jpg"):
 	      "content": [
 	        {
 	          "type": "text",
-	          "text": "Please write all the visibile text which you can read in the image?"
+	          "text": "Read all the visibile text in the image."
 	        },
 	        {
 	          "type": "image_url",

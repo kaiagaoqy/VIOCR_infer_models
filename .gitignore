@@ -4,3 +4,4 @@ viocrvenv/
 venv/
 **.pth
 # **/Union14M-main/**
+data/
