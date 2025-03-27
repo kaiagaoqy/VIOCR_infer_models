@@ -1,7 +1,7 @@
 **/pretrained_model.pth
-data/total_text/
+data/totaltext/
 viocrvenv/
 venv/
 **.pth
 # **/Union14M-main/**
-data/
+data/viocr/
