@@ -18,6 +18,17 @@ import base64
 import numpy as np
 import anthropic
 
+resume_file = "resume_claude.txt"
+resume_index = 0
+# If a resume file exists, read the index to resume from.
+if os.path.exists(resume_file):
+    try:
+        with open(resume_file, "r") as f:
+            resume_index = int(f.read().strip().split()[0])
+        print(f"Resuming from sample index: {resume_index}")
+    except Exception as e:
+        print("Failed to read resume file, starting from index 0")
+
 client = anthropic.Anthropic()
 
 
@@ -41,7 +52,7 @@ def encode_image(image_path):
 @retry((Exception), tries=3, delay=0, backoff=0)
 def call_claude(messages, model_name="claude-3-5-sonnet-20240620", parse_fn=None):
     response = client.messages.create(
-        model="claude-3-5-sonnet-20240620",
+        model=model_name,
         max_tokens=1000,
         temperature=0,
         system="You are a helpful AI assistant.",
@@ -64,13 +75,16 @@ if __name__ == "__main__":
     parser.add_argument('--use_placeholder', action='store_true',help="Need to self-define placeholder in the question")
     parser.add_argument('--filter', nargs='+',default=["1","2","3","4","5","6","7","32","33","34","35","36","38","39","40","41"], help="low vision filter id")
     args = parser.parse_args()
+    should_exit = False
 
     
     samples = json.load(open(args.infile, "r"))['images']
     formatted_samples = []
-    q = "What are all the English words visible in the image?"
+    q = os.getenv("Prompt")
 
     for i, sample in enumerate(tqdm.tqdm(samples)):
+        if i < resume_index:
+            continue
         for filter_id in args.filter:
             formatted_sample = {"image_id":int(sample["id"]),
                                 "category_id": 1,
@@ -78,11 +92,15 @@ if __name__ == "__main__":
                                 "rec_texts":"",
                                 "rec_score":0,
                                 "det_score":0,
-                                "filter":int(filter_id),
+                                "filter":int(filter_id) if int(filter_id) > 0 else int(sample["Filter_no"]),
                                 }
 
+            
+            image_file = os.path.join(args.img_dir,filter_id, sample["file_name"]) if int(filter_id) > 0 else os.path.join(args.img_dir, sample["file_name"])
+            if not os.path.exists(image_file):
+                print(f"Image not found: {image_file}")
+                continue
 
-            image_file = os.path.join(args.img_dir,filter_id, sample["file_name"])
             image = encode_image(image_file)
             postfix = image_file.split(".")[-1].lower()
             if postfix == "png":
@@ -109,14 +127,22 @@ if __name__ == "__main__":
                     }
             ]
             try:
-                output = call_claude(messages, model_name=args.model_path, parse_fn=lambda x: x.strip().replace(".", '').lower())
+                output = call_claude(messages, model_name=args.model_path, parse_fn=lambda x: x.strip().replace(".", ''))
                 formatted_sample["rec_texts"] = output
             except:
                 print(f'fail on {image_file}')
+                break
                 
             formatted_samples.append(formatted_sample)
+        if should_exit:
+            break
         
     os.makedirs(os.path.dirname(args.outfile), exist_ok=True) 
     json.dump(formatted_samples, open(args.outfile, "w"), indent=4) 
+    
+    # Optionally, if processing completes successfully, remove the resume file.
+    if not should_exit and os.path.exists(resume_file):
+        os.remove(resume_file)
+            
             
 

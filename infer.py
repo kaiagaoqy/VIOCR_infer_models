@@ -17,7 +17,7 @@ from collections import Counter
 import pandas as pd
 import glob
 
-
+device = "cuda" if torch.cuda.is_available() else "cpu"
 multi_li = [181,
 276,
 277,
@@ -110,9 +110,9 @@ def main(model_name,BASEPATH,infer):
     for file_path in tqdm(glob.glob(BASEPATH+'*')):
         filter = int(file_path.split('/')[-1])
         print("Processing filter: ",filter)
-        output_dir = '/Users/kaiagao/Documents/Models/results/totaltext_new/{}/'.format(filter)
+        output_dir = 'results/totaltext_new/{}/'.format(filter)
         dataset = CocoDetection(img_folder=BASEPATH+str(filter),
-                            ann_file='/Users/kaiagao/Documents/Models/viocr/data/viocr/anno.json',
+                            ann_file='./viocr/data/viocr/anno.json',
                             dataset_name='totaltext',
                             filter_id=filter)
 
@@ -129,11 +129,11 @@ def main(model_name,BASEPATH,infer):
                 preds = infer(inputs=img_arr, out_dir='outputs', save_pred=True)
                 target = targets[0]
             except Exception as e:
-                print(target['image_id'].to('cpu').item())
-                err.append('id:{},image_id{}'.format(target['annotations'][0]['id'].to('cpu').item(),
-                                                    target['annotations'][0]['image_id'].to('cpu').item()))
+                print(target['image_id'].to(device).item())
+                err.append('id:{},image_id{}'.format(target['annotations'][0]['id'].to(device).item(),
+                                                    target['annotations'][0]['image_id'].to(device).item()))
                 continue
-            image_id = target['image_id'].to('cpu').item()
+            image_id = target['image_id'].to(device).item()
             preds = preds['predictions'][0]
             for det_polygons,rec_texts,det_scores,rec_scores in zip(preds['det_polygons'],preds['rec_texts'],preds['det_scores'],preds['rec_scores']):
                 result = {
@@ -158,8 +158,8 @@ def main(model_name,BASEPATH,infer):
 if __name__ == '__main__':
     dataset_name = 'totaltext'
     model_name = f'dbpp_maerecS_{dataset_name}'
-    infer = MMOCRInferencer(det="dbnetpp",
-                        rec='mmocr-dev-1.x/configs/textrecog/maerec/maerec_s_union14m.py',
-                        rec_weights = 'mmocr-dev-1.x/checkpoint/maerec_s_union14m.pth')
-    BASEPATH = '/Users/kaiagao/Documents/Models/data/totaltext/selected_images_new/'
+    infer = MMOCRInferencer(det="dbnetpp",rec='maerec')
+                        #rec='mmocr-dev-1.x/configs/textrecog/maerec/maerec_s_union14m.py',
+                        #rec_weights = 'mmocr-dev-1.x/checkpoint/maerec_s_union14m.pth')
+    BASEPATH = 'data/viocr/selected_images_new/'
     main(model_name,BASEPATH,infer)

@@ -64,7 +64,6 @@ if __name__ == "__main__":
     parser.add_argument('--model_path', type=str, default="gpt-4o")
     parser.add_argument('--filter', nargs='+',default=["0"], help="low vision filter id")
     args = parser.parse_args()
-    model_name = 'gpt-4o'
     should_exit = False
 
 

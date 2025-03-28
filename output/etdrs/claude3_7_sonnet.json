@@ -1,0 +1,4322 @@
+[
+    {
+        "image_id": 0,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of letters displayed in a horizontal line: C V D O S\n\nThese appear to be individual capital letters rather than complete English words The letters are displayed in a bold, black font against a white background\n\n['C', 'V', 'D', 'O', 'S']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 1,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['C', 'O', 'H', 'K', 'N']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of capital letters: V, R, H, Z, C These appear to be individual characters rather than forming English words\n\nSince there are no actual English words in the image, just individual letters, the answer in the requested format would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 3,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['N', 'K', 'O', 'Z', 'R']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 4,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['V', 'H', 'R', 'C', 'S']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 5,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['V', 'O', 'S', 'N', 'D']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 6,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of uppercase letters: S, C, N, D, Z arranged horizontally There are no English words visible in the image, only these individual letters\n\n['S', 'C', 'N', 'D', 'Z']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 7,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['R', 'O', 'Z', 'N', 'S']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 8,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain only a sequence of uppercase letters: R, D, Z, H, S There are no complete English words visible in the image\n\n['R', 'D', 'Z', 'H', 'S']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 9,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of letters: \"s H V R Z\" These appear to be individual letters rather than complete English words Since there are no actual English words visible in the image, the answer would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 10,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['z', 'r', 'h', 'o', 'v']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 11,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I can see a CAPTCHA-like image with distorted text characters The image shows what appears to be \"c a h v z\" - these are individual letters rather than words\n\nSince you asked for English words and there are no actual words in the image (only individual characters), the answer would be:\n\n[]\n\nThis appears to be a CAPTCHA verification system designed to distinguish humans from automated systems",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 12,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clear English words in this image The image appears to show a small row of pixelated or blurry characters that are not legible enough to identify as specific English words \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 13,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in the image The image appears to be a very small, low-resolution dot or period mark There's not enough content to identify any text\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 14,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in the image The image appears to contain only a few dots or small marks that don't form recognizable text \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 15,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly recognizable English words in this image The image appears to be a very small, low-resolution grayscale pattern or texture that's difficult to make out There's no discernible text content that I can identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 16,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely small, low resolution, or possibly blank I cannot discern any clear English words in the image Based on what I can see, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 17,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white with no visible content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white Therefore, the list of visible English words is:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 19,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 21,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['R', 'D', 'N', 'S', 'Z']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 22,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['H', 'D', 'Z', 'C', 'N']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 23,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of capital letters displayed in a light gray color against a white background From left to right, the letters are:\n\n['Z', 'C', 'K', 'S', 'N']\n\nThese appear to be individual letters rather than complete English words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of capital letters: H, D, N, C, K\n\nThese appear to be individual letters rather than complete English words The letters are arranged horizontally from left to right in a gray or light silver color against a white background\n\nSince there are no complete English words visible in the image, just individual letters, the answer would be: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 25,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of grayscale letters or characters that appear to be: R, Z, C, N, H\n\nThese appear to be individual capital letters arranged horizontally, rather than forming complete English words\n\n['R', 'Z', 'C', 'N', 'H']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 26,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['H', 'K', 'O', 'N', 'D']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 27,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['R', 'V', 'O', 'K', 'Z']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 28,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very faint or low contrast, showing what looks like some barely visible letters I can make out what might be \"K H N V S\" but the text is extremely light and difficult to read with certainty\n\nBased on what I can discern:\n['K', 'H', 'N', 'V', 'S']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 29,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see some faint, blurry letters The visible letters appear to be:\n\n['H', 'S', 'O', 'Z', 'K']\n\nThese appear to be individual letters rather than complete English words They're arranged horizontally in a light gray or faded appearance against a white background",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 30,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see a few letters that appear to be part of a logo or brand name The visible letters seem to be:\n\n['W', 'S', 'C', 'N']\n\nThese appear to be capital letters arranged horizontally, possibly representing a company or organization's initials",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 31,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in the image The image appears to show a row of very light gray or white dots or circles against a light background There is no discernible text content that I can identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 32,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white with possibly some very faint dots at the top Without any visible text content, I would return:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 33,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible English words in the image The image appears to be completely blank or white with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 34,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 35,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 36,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 37,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 38,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 39,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 40,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 42,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain only letters rather than complete English words The visible letters from left to right appear to be:\n\n['Z', 'K', 'H', 'R', 'N']\n\nThese are individual capital letters displayed in a light gray color against a white background, not forming complete English words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 43,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of faded or light gray capital letters arranged horizontally From left to right, I can identify:\n\n['N', 'Z', 'V', 'H', 'O']\n\nThese appear to be individual letters rather than complete words, displayed in a light gray color against a white background",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 44,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of faded or light gray letters that appear to be: \n\n['D', 'S', 'H', 'R', 'C']\n\nThese letters are arranged horizontally from left to right They appear to be capital letters with minimal styling, possibly representing an acronym or logo",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 45,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see some faint, light gray letters The letters appear to be:\n\n['N', 'Z', 'V', 'D', 'R']\n\nThese appear to be individual letters rather than complete words, arranged horizontally in the image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 46,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain very faint or low-contrast text that's difficult to make out clearly From what I can see, there appear to be some letters visible, possibly \"R\", \"N\", \"V\", \"O\", \"H\" arranged horizontally, but they're quite faded or light gray\n\nBased on what I can discern:\n\n['R', 'N', 'V', 'O', 'H']\n\nHowever, these don't form complete English words, just individual letters If there are other words present in the image, they're not clearly visible enough for me to identify them reliably",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 47,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see what appears to be a series of capital letters The visible text appears to be:\n\n['A', 'Z', 'O', 'N', 'K']\n\nThe letters are displayed in a light gray or white color against what seems to be a lighter background, and they appear to be arranged horizontally",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 48,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see a series of uppercase letters The visible letters appear to be:\n\n['A', 'K', 'S', 'O', 'V']\n\nThese are individual letters rather than complete English words, arranged horizontally in the image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 49,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in the image The image appears to be completely white or very light gray with no discernible text content \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 50,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in the image The image appears to be completely white or very light gray with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 51,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be very faint or washed out with minimal visible content \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 52,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white Therefore, the list of visible English words would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 53,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 54,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 55,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 56,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 57,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 58,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 59,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 60,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 63,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain very faint, light gray text that's difficult to make out clearly From what I can see, there seem to be some letters that might spell out \"Z R C V S\" or similar characters, but they are extremely faded and low contrast against the background\n\nSince I cannot confidently identify complete English words in this image due to the low visibility, I would represent the output as:\n\n['Z', 'R', 'C', 'V', 'S']\n\nNote that these might be individual letters rather than complete words, and even this identification is uncertain due to the faintness of the text",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 64,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see some very faint, light gray letters The letters appear to be:\n\n['K', 'R', 'N', 'V', 'D']\n\nThese appear to be individual letters rather than complete words, arranged horizontally from left to right The letters are quite faded and low contrast against the background",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 65,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain very faint, light gray text characters that are difficult to make out clearly From what I can see, there seem to be some letters visible, but they're too blurry or faded for me to confidently identify specific complete words\n\nSince I cannot reliably recognize any complete English words in the image, my response would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 66,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the image The image appears to contain only abstract circular and rectangular shapes in a light gray or white color against a white background These shapes don't form any recognizable text\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 67,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the image The image appears to contain only simple white icons or symbols on a light background There is no text visible that I can recognize\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 68,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in the image The image appears to contain very light or white text/shapes on a white background, making it essentially blank or unreadable from what I can observe\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 69,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very faint or low contrast with white/light text that's difficult to make out clearly against what seems to be a light background I cannot confidently identify any specific English words in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 70,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be completely white or extremely low contrast, making it impossible to discern any text content \n\nIf there is text present in the image, it may be too faint to detect or blends completely with the background",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 71,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 72,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe\n\nSince there are no visible words in the image, the output would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 73,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 74,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 75,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 76,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 77,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 78,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 79,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 80,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 81,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 82,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 84,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain a very faint or low-contrast text that reads \"BROWN\" The text is extremely light, making it difficult to see clearly against the white background\n\n['BROWN']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 85,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very faint or low contrast, with what looks like extremely light text that's barely visible I can make out what might be some letter shapes, but they're too faded or washed out to confidently identify specific words\n\nBased on what I can see in the image, I would have to provide:\n\n[]\n\nThe image doesn't contain any clearly legible English words that I can reliably identify",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 86,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely faded or washed out with very low contrast I cannot discern any clear English words in the image The content appears to be almost completely white or very light gray with minimal visible text\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 87,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely faint or blank with no clearly visible English words I cannot detect any legible text content to transcribe\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 88,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible English words in the image The image appears to be completely blank or white Therefore, the list of words would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 89,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible English words in the provided image The image appears to be completely blank or white \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 90,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible English words in the provided image The image appears to be completely blank or white \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 91,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 92,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 93,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 94,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 96,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 97,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 98,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white \n\nThe result would be: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white \n\nThe result would be: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 100,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 101,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 102,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 103,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 105,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 106,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 107,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible English words in the provided image The image appears to be completely blank or white \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 108,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or text in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 109,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 110,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in the image that I can identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 111,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 112,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible text or words in the image The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 113,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 115,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 116,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 118,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 119,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 120,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 121,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 122,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 123,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 124,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 126,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['K', 'V', 'C', 'N', 'D']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 127,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['C', 'Z', 'S', 'R', 'H']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 128,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['D', 'S', 'H', 'V', 'R']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 129,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['N', 'K', 'O', 'D', 'V']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 130,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of capital letters: O, Z, R, C, D arranged horizontally There are no English words visible in the image, only individual letters\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 131,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain only a sequence of uppercase letters: K, H, C, D, and Z There are no English words visible in the image, just these individual letters\n\n['K', 'H', 'C', 'D', 'Z']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 132,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of uppercase letters: V, N, R, S, K These appear to be individual letters rather than forming complete English words\n\nSince there are no complete English words visible in the image, just individual letters, the answer would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 133,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of uppercase letters: C, D, Z, N, R These appear to be individual letters rather than words\n\nSince you asked for English words and there are no complete words visible in the image, just individual letters, the answer would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 134,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a CAPTCHA or verification test containing only the letters \"v c z H D\" There are no English words visible in the image, just these individual letters\n\n['v', 'c', 'z', 'H', 'D']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 135,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain a CAPTCHA with the letters \"c Z N V K\" displayed There are no English words visible in the image, only these individual letters or characters that are typically used in CAPTCHA verification systems to distinguish human users from automated systems\n\nSince there are no actual English words in the image, the answer would be:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 136,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['SZVDN']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 137,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very minimal, showing only what looks like \"C V H N C\" or similar characters in a simple, light gray font against a white background These don't form recognizable English words, but rather appear to be individual letters or characters\n\n['C', 'V', 'H', 'N', 'C']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 138,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clear English words in this image The image appears to contain some very small, blurry text or characters that are not legible enough to identify as specific English words \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 139,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clear English words in the image The image appears to contain only a few dots or periods in a horizontal line There's no readable text visible\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 140,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely small and contains only a few dots or pixels I cannot discern any English words or text in this image Based on what I can see, there are no readable words to extract\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 141,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very small and blurry, with minimal visible text I cannot make out any clear English words in this image The content is too low resolution or unclear for me to identify specific text\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 142,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely small and low quality, showing what looks like a thin horizontal line or dash I cannot discern any readable English words in this image Based on what I can see:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 143,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be blank or extremely low contrast with no visible text content I cannot detect any English words in the provided image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 144,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be blank or extremely low contrast with no visible text content I cannot detect any English words in the provided image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 145,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 147,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Z', 'V', 'O', 'H', 'D']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 148,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of capital letters displayed in a light gray color against a white background The letters appear to be:\n\n['D', 'N', 'Z', 'K', 'C']\n\nThese appear to be individual letters rather than complete English words, arranged horizontally from left to right",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 149,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of capital letters arranged horizontally From left to right, I can see:\n\n['C', 'D', 'K', 'N', 'S']\n\nThese appear to be individual letters rather than complete words, displayed in a light gray color against a white background",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 150,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['V', 'K', 'O', 'Z', 'H']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 151,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I can see some letters in the image, but they don't appear to form complete English words The image shows what looks like a series of capital letters: Z, D, N, K, C arranged horizontally\n\nSince I don't see any complete English words in this image, the answer would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 152,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['V', 'Z', 'D', 'R', 'O']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 153,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['N', 'V', 'R', 'K', 'C']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 154,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I can see some faint, blurry letters in the image, but they appear to be individual letters rather than complete words The visible characters seem to be: D, N, K, H, and possibly a few other faint letters or symbols Since there are no complete English words visible in the image, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 155,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very faint or low contrast, showing what looks like some light gray text However, the text is too faded or blurry for me to confidently identify any specific English words \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 156,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Looking at the image, I can see a series of letters at the top These appear to be individual capital letters rather than complete English words The visible letters from left to right are:\n\n['G', 'Y', 'R', 'C', 'N']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 157,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in the image The image appears to be very faint or low contrast with what looks like small gray dots or pixels, but no discernible text that I can read\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 158,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white with no visible content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 159,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible English words in the image The image appears to be completely blank or white with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 160,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 161,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white \n\nThe result would be: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 162,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 163,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 164,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 165,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 168,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['R', 'V', 'C', 'S', 'H']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 169,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['K', 'O', 'R', 'D', 'S']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 170,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of letters displayed in a light gray color against a white background The letters appear to be: D, O, H, R, K\n\nIn the requested format:\n['D', 'O', 'H', 'R', 'K']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 171,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to show a series of capital letters: V, S, K, D, and N arranged horizontally There are no complete English words visible in the image, just these individual letters\n\nSince you asked for words specifically and not letters, and following your requested format:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 172,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the image The image appears to show a series of light gray or white circular and letter-like shapes on a white or very light background I can make out what might be the letters 'O', 'C', 'R', 'D', and 'K', but these are individual letters rather than words\n\nSince there are no actual words in the image, the answer would be:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 173,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see a few letters that appear to be part of a logo or header The visible letters are:\n\n['K', 'Z', 'N', 'R', 'V']\n\nThese appear to be capital letters arranged horizontally There don't seem to be any complete English words in the image, just these individual letters",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 174,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Looking at the image, I can see a series of letters displayed These appear to be individual letters rather than complete English words The letters visible from left to right are:\n\n['A', 'C', 'D', 'Z', 'V']\n\nThese are uppercase letters arranged horizontally in the image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 175,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in the image The image appears to be completely white or very light gray with no discernible text content \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 176,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible English words in the image The image appears to be completely white or blank with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 177,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the provided image The image appears to be completely blank or white with possibly some very faint dots or texture, but no discernible text content is visible\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 178,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 179,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 180,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 182,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 183,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 185,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 186,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 187,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 189,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain very faint, light gray text or characters that are difficult to make out clearly From what I can see, there seem to be some letters visible, possibly \"Z\", \"K\", \"D\", \"R\", and \"V\", but they are extremely faint and I cannot be certain these are accurate or complete words\n\nBased on what I can discern:\n\n['Z', 'K', 'D', 'R', 'V']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 190,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain very faint or low-contrast letters that are difficult to make out clearly From what I can see, there appear to be several capital letters arranged horizontally:\n\n['C', 'S', 'R', 'H', 'V']\n\nThese letters are displayed in a light gray or white color against what seems to be a light background, making them quite difficult to read with certainty",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 191,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain very faint or low-contrast text that is difficult to make out clearly From what I can see, there seem to be some letters or characters, but they are too light or blurry for me to confidently identify specific English words\n\nBased on what's visible in the image, I would have to provide:\n\n[]\n\nThe characters appear to be extremely faded or low contrast white text on a light background, making it impossible for me to reliably identify any complete words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 192,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to show a very light or faded navigation bar with icons rather than text I cannot clearly identify any English words in this image The content appears to be a series of light gray or white icons/symbols against a light background\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 193,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clear English words in the image The image appears to show a series of very faint or low-contrast shapes or icons that are difficult to make out They look like light gray or white symbols against a white background, making them nearly invisible\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 194,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be very low contrast or completely white, making it impossible to distinguish any text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 195,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly legible English words in this image The image appears to be very light or white with some extremely faint markings that I cannot make out as distinct words\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 196,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be completely white or extremely low contrast, making it impossible to discern any text content \n\nIf there is text present in the image, it may be too faint to detect or blends completely with the background",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 197,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 198,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white \n\nThe result would be: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 199,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 200,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 201,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 202,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white \n\nThe result would be: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 203,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 204,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 206,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 207,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 208,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very faint or low contrast, showing what looks like extremely light text that's barely visible I can make out some letter shapes that might spell \"CONDR\" or similar, but the text is too faded and unclear to confidently identify specific complete words\n\nBased on what I can see in this low-contrast image:\n\n[]\n\nThe image doesn't contain any clearly legible English words that I can confidently identify",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 211,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very faint or low contrast, showing what looks like extremely light text that's barely visible I cannot make out any clear English words in the image The content appears to be some extremely light or washed-out text characters, but they're too faint for me to reliably identify specific words\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 212,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely faint or blank with white/light gray text that is not legible I cannot make out any clear English words in the provided image \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 213,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely faint or washed out, with what looks like very light text that is not clearly legible I cannot make out any distinct English words in the image with confidence Based on what I can see, I would have to return:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 214,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in the image The image appears to be completely white or very light gray with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 215,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible English words in the image The image appears to be completely white or blank \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 216,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible English words in the provided image The image appears to be completely blank or white \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 217,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible English words in the provided image The image appears to be completely blank or white \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 218,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 219,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 220,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 221,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 222,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 223,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 224,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white \n\nThe result would be: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 225,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white \n\nThe result would be: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 226,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 227,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 228,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 229,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 231,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 232,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 233,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 234,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or text in the provided image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 235,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 236,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white Therefore, the list of words would be empty:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 237,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 238,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible text or words in the image The image appears to be completely blank or white Therefore, I cannot identify any English words\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 239,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 240,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 241,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 242,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 243,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 244,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white \n\nThe result would be: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 246,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the image The image appears to be completely blank or white Therefore, the list of visible English words is:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 247,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white \n\nThe result would be: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 248,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 249,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 250,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 252,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['H', 'D', 'R', 'Z', 'K']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 253,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['S', 'N', 'C', 'H', 'V']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 254,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of capital letters arranged horizontally: Z, O, K, S, and H There are no actual English words visible in the image, just these individual letters\n\n['Z', 'O', 'K', 'S', 'H']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 255,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['K', 'R', 'C', 'H', 'S']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 256,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of capital letters arranged horizontally: V R Z C N\n\nThese appear to be individual letters rather than complete English words The letters are displayed in a simple black font against a white background, possibly as part of a visual acuity test or CAPTCHA\n\n['V', 'R', 'Z', 'C', 'N']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 257,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain a sequence of letters: K, O, H, D, Z These don't form a recognizable English word, but rather appear to be individual letters displayed in a row\n\n['K', 'O', 'H', 'D', 'Z']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 258,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see a partial sequence of letters The visible letters appear to be:\n\n['N', 'K', 'D', 'O', 'V']\n\nThese letters are shown in a row, but they don't form a complete English word that I can recognize They appear to be individual capital letters spaced apart",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 259,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain a partial logo or text that is very blurry and low resolution I can only make out what seems to be \"Z O N C\" or similar characters, but it's difficult to identify with certainty due to the image quality\n\nBased on what I can see:\n\n['Z', 'O', 'N', 'C']\n\nNote that this is my best attempt at reading the visible characters, but the image is quite unclear and these letters may not be accurate",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 260,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see a series of letters: N, R, D, H, C These appear to be individual capital letters rather than complete English words\n\nSince I don't see any actual English words in the image, just individual letters, the answer would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 261,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a row of small icons or symbols I don't see any clear English words in the image The symbols appear to be simple geometric shapes or logo-like elements\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 262,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the image The image appears to contain only a series of small gray dots or circles arranged in a horizontal line There is no readable text visible\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 263,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the image The image appears to show a series of gray dots or circles arranged in a horizontal line There is no text visible that I can identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly recognizable English words in this image The image appears to be a very small, low-resolution gray bar or strip with some barely visible dots or pixels, but no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 265,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very blurry or low resolution, and I cannot make out any clear English words in it The image shows what looks like a light gray or white background with some extremely faint markings or dots, but no legible text is visible\n\nBased on what I can see, the answer would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 266,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very faint or blank, with no clearly visible English words that I can recognize Based on what I can see, there are no legible text elements to transcribe\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 267,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a blank or very light gray image with no visible text content I cannot detect any English words or text in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 269,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 270,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text or content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 271,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 273,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['O', 'H', 'R', 'S', 'N']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 274,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of individual letters: O, C, R, K, and V These appear to be standalone letters rather than forming complete English words \n\nSince there are no actual English words in the image, just individual letters, the answer would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 275,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of uppercase letters: D, Z, S, V, and C arranged horizontally These appear to be individual letters rather than forming complete English words\n\nSince there are no actual English words in the image, just individual letters, the answer would be:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['N', 'D', 'C', 'R', 'O']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of uppercase letters: N, K, Z, C, S arranged horizontally There are no English words visible in the image, only individual letters\n\n['N', 'K', 'Z', 'C', 'S']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 278,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain a series of uppercase letters: S V D Z H\n\nThese don't form any English words - they appear to be individual letters arranged in a row Since there are no actual English words visible in the image, the answer would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 279,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see a series of uppercase letters The letters visible are:\n\n['R', 'K', 'S', 'D', 'O']\n\nThese appear to be individual letters rather than complete English words They are arranged horizontally from left to right in the image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 280,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the image The image appears to contain only symbols or characters: \"o c v k z\" These appear to be lowercase letters rather than words\n\nSince there are no actual English words in the image, the answer would be:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 281,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain a series of uppercase letters: V, D, C, O, Z These don't form a complete English word, but rather appear to be individual letters possibly from a visual acuity test or similar character display\n\n['V', 'D', 'C', 'O', 'Z']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 282,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain a small sequence of letters: ['C', 'N', 'R', 'H', 'K'] These appear to be individual capital letters rather than complete English words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 283,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a very small snippet showing what looks like a few letters or characters: \"V O N N Z\" (or similar characters) There don't appear to be any complete English words visible in this small image, just these individual letters\n\nBased on the requested format and what I can see:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 284,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['m', 'e', 'n', 'u']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 285,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very small and low contrast, containing what looks like a partial word or logo I cannot clearly identify any complete English words in this image Based on the limited visibility, I would have to return:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 286,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I can see a very small, blurry image that appears to contain some text, but it's extremely difficult to make out any clear words The image quality is too low and the text is too small for me to reliably identify specific English words\n\n['']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 287,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be a very faint or blank gray pattern with no discernible text content\n\nIf there is text in the image that's intended to be visible, it might be too light or low contrast for me to detect The response would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 288,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in the provided image The image appears to be extremely faint or blank, with no discernible text content that I can identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 289,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very low resolution or blurry, and I cannot make out any clear English words in it The image shows what looks like a light gray or white background with possibly some extremely faint text or patterns that are not legible\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 290,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 291,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the image The image appears to be completely blank or white Therefore, the list of visible English words is:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 292,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible text or English words in the image The image appears to be completely blank or white\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 293,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['K', 'C', 'V', 'D', 'Z']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 294,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of uppercase letters displayed in a horizontal row The letters visible are:\n\n['K', 'V', 'S', 'N', 'H']\n\nThese appear to be individual letters rather than complete English words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 295,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['C', 'N', 'V', 'O', 'R']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 296,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of letters: C, K, H, Z, O These appear to be individual letters rather than complete English words Since there are no actual English words visible in the image, just individual letters, the answer would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 297,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of capital letters: K, O, C, D, Z arranged horizontally There are no English words visible in the image, only individual letters\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 298,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of letters: H, C, K, O, Z These appear to be individual letters rather than complete English words Since there are no actual English words visible in the image, the answer would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of letters: V Z R O D\n\nThese appear to be individual letters rather than complete English words Since there are no actual English words visible in the image, just individual characters, the answer would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 300,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can only see a partial text that appears to be cut off or blurry The visible letters seem to be \"N C D O S\" but I cannot determine with certainty if this is a complete word or part of a larger word/logo\n\n['NCDOS']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 301,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see a partial word or brand name The visible letters appear to be:\n\n['HONSO']\n\nThe image shows what seems to be a logo or text fragment with these letters visible The text appears to be in uppercase letters",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 302,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['N', 'V', 'O', 'R']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 303,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very small and blurry, containing only a row of gray dots or circles I cannot discern any English words or text in this image Based on what I can see, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 304,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very low resolution, blurry, or faded, and I cannot make out any clear English words in it The image shows what looks like a light gray or white horizontal line or bar against a slightly darker background, but no legible text is visible\n\nBased on what I can see, the answer would be:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 305,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly legible English words in this image The image appears to be a very light gray or white background with minimal or no visible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 306,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very low contrast and blurry, with what looks like light gray text on a slightly lighter background I cannot make out any distinct English words in this image The content is too faded or unclear to reliably identify specific text\n\nBased on what I can see, I would have to return:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 307,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely faint or low contrast, and I cannot make out any clear English words in it The image looks like a light gray or white background with possibly some very faint text that is not legible\n\nBased on what I can see, I would have to return:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 308,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very low contrast or blank, and I cannot discern any visible English words in it Based on what I can see, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 309,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white Therefore, the list of visible English words is:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 310,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white Therefore, the list of visible English words is:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 311,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text or content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 312,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 313,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of uppercase letters arranged horizontally: S, N, R, Z, V\n\nThese appear to be individual letters rather than complete English words The letters are displayed in a bold, black font against a white background\n\n['S', 'N', 'R', 'Z', 'V']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 314,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of letters or characters displayed in a row: V K O C Z\n\nThese appear to be individual letters rather than complete English words Following your requested format:\n\n[]\n\nThere are no complete English words in the image, only individual letters/characters",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 315,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of uppercase letters arranged horizontally From left to right, I can see:\n\n['O', 'K', 'N', 'V', 'D']\n\nThese appear to be individual letters rather than complete English words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 316,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of capital letters: Z, V, H, C, and D arranged horizontally There are no English words visible in the image, only these individual letters\n\nSince you asked for words specifically and there are no actual words in the image, the answer would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 317,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see what appears to be a logo or brand name with the letters:\n\n['D', 'R', 'O', 'Z', 'H']\n\nThese letters appear to be displayed in a gray or dark color on a light background, arranged horizontally",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 318,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see what appears to be a partial logo or text with some letters visible The letters I can make out are:\n\n['N', 'D', 'R', 'K', 'O']\n\nThese appear to be capital letters arranged horizontally There don't seem to be any complete English words visible in the image, just these individual letters",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 319,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of characters that appear to be a CAPTCHA From left to right, I can see:\n\n['O', 'Z', 'V', 'R', 'D']\n\nThese are capital letters that are slightly distorted, as is typical in CAPTCHA verification systems designed to distinguish humans from automated systems",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 320,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I can see a series of characters in the image, but they appear to be random letters or possibly a CAPTCHA-like text rather than English words The characters visible are:\n\n['z', 'v', 'k', 'o', 'b']\n\nThese don't form any recognizable English words, just individual letters arranged in a sequence",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 321,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the image The image appears to show a row of gray dots or circles in a horizontal line There is no text visible that I can identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 322,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the image The image appears to show a row of gray dots or circles in a horizontal line There is no text visible that I can identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 323,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly legible English words in this image The image appears to be a very light gray or white horizontal bar with some barely visible dots or pixels There's no discernible text that I can make out\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 324,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be a very light gray or white strip with some faint dots or pixels, but no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 325,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be a very light gray or white background with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 326,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be a small gray rectangle or placeholder with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 327,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be a blank or very light gray rectangle with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 328,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white Therefore, the list of visible English words is:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 329,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the provided image The image appears to be completely blank or white Therefore, the list of visible English words is:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 330,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white Therefore, the list of visible English words is:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 331,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text or content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 332,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 333,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['H', 'O', 'C', 'R', 'N']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 334,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of uppercase letters arranged horizontally: D, V, O, Z, S\n\nIn the format requested:\n['D', 'V', 'O', 'Z', 'S']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 335,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see what appears to be a series of uppercase letters arranged horizontally The letters visible are:\n\n['O', 'K', 'D', 'V', 'S']\n\nThese appear to be individual letters rather than complete English words They're displayed in a grayscale or black font against a white background",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 336,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain a series of uppercase letters: H, D, R, Z, V These don't form complete English words, but rather appear to be individual letters arranged horizontally\n\nSince you asked for English words and not individual letters, and I don't see any complete words in the image, the answer would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 337,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I can see some characters in the image, but they appear to be individual letters rather than complete English words The image shows what looks like a series of grayscale letters or symbols:\n\n[]\n\nThe characters are somewhat blurry and appear to be individual letters (possibly D, H, Z, O, N), but they don't form complete English words that I can identify",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 338,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain a series of grayscale symbols or icons rather than English words I don't see any recognizable text or words in the image - just what looks like abstract shapes or symbols in a horizontal row\n\nSince I don't detect any English words in the image, the answer would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 339,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the image The image appears to contain only a row of gray circular dots or buttons There is no text visible\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 340,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very blurry and low contrast, containing what looks like a series of gray dots or pixels I cannot make out any clear English words or text in this image Based on what I can see, there are no legible words to report\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 341,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very blurry or low resolution, and I cannot make out any clear English words in it The image shows what looks like a light gray or white horizontal bar with some indistinct markings, but the text (if any) is not legible\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 342,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly recognizable English words in this image The image appears to be a very light gray or white horizontal bar with a slightly blurred or pixelated appearance There is no discernible text content that I can identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 343,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very light gray or white with no visible text content that I can discern I cannot identify any English words in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 344,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the provided image The image appears to be a small gray or white rectangle with no visible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 345,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be a blank or very light gray rectangle with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 346,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be a very light gray or white rectangle with minimal or no discernible text content\n\nBased on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 347,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be a blank or very light gray rectangle with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 348,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the provided image The image appears to be completely blank or white Therefore, the list of visible English words is:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 349,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the provided image The image appears to be completely blank or white with no visible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 350,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 351,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 352,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 353,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to show a series of blurry or distorted letters: H, V, Z, N, R These look like they might be part of a CAPTCHA or similar verification system\n\nBased on what I can see in the image, the letters are:\n\n['H', 'V', 'Z', 'N', 'R']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 354,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain a series of blurry or distorted letters that resemble a CAPTCHA From what I can make out, the letters visible from left to right appear to be:\n\n['C', 'N', 'Z', 'V', 'S']\n\nThese characters are displayed in a grayscale, blurred format typical of CAPTCHA verification systems used to distinguish human users from automated systems",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 355,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very blurry and contains what looks like a few indistinct symbols or letters I cannot clearly identify any English words in this image The shapes are too blurred and low resolution to make out specific text\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 356,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the image The image appears to contain only a series of 5 gray blurry shapes or icons arranged horizontally There is no text visible that I can recognize\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 357,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the image The image appears to contain only 5 gray circular or oval shapes/dots arranged in a horizontal row There is no text visible\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 358,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very blurry and low contrast, with what looks like a series of gray circular or oval shapes in a row I cannot make out any clear English words or text in this image The content is too blurred and indistinct to identify specific text\n\nBased on what I can see, my response would be:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 359,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very blurry or low resolution, and I cannot make out any clear English words in it The content looks like a gray, blurred horizontal strip\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 360,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or text in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 361,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in the image The image appears to be a very light gray or white rectangle with minimal or no discernible text content\n\nBased on what I can observe: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 362,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be a plain light gray or white rectangle without any discernible text\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 363,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be a plain light gray or white rectangle without any discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 364,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be a plain light gray or white background with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 365,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be a very light gray or white background with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 366,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be a small, blank or very light gray rectangle with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 367,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white Therefore, the list of visible English words is:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 368,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white Therefore, the list of visible English words is:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 369,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or text in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 370,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 371,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white \n\nTherefore, the list of visible English words is:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 372,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 373,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very blurry and low resolution, containing what looks like 5 small icons or symbols I cannot make out any clear English words in this image The content is too pixelated and unclear to identify specific text\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 374,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very blurry and contains what look like abstract shapes or symbols I cannot make out any clear English words in this image The shapes appear to be grayscale circular or rectangular blobs without any discernible text\n\nBased on what I can see: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 375,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain a series of blurry gray circular shapes or dots arranged in a row I don't see any English words or text in this image The content is too blurry or abstract to identify any specific text\n\nBased on what I can observe, the answer would be:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 376,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very blurry and consists of what looks like gray circular shapes or dots in a row I cannot discern any English words or text in this image Based on what I can see, there are no readable words present\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 377,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very blurry or low contrast, and I cannot clearly identify any English words in it The image shows what seems to be a light gray or white background with some indistinct elements, but I cannot make out any specific text\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 378,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a very light gray or white background with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 379,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be a very light gray or white horizontal bar with minimal contrast Without any discernible text, I would represent this as:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 380,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very faint or blank, with no clearly visible English words or text content that I can discern Based on what I can see, there are no recognizable English words in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 381,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible English words in the provided image The image appears to be completely blank or white Therefore, the list of words would be empty:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 382,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be a plain gray or white background with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 383,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in this image The image appears to be a blank or very light gray rectangle without any discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 384,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in the image The image appears to be a plain gray or white background with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 385,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words in the provided image The image appears to be completely blank or white \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 386,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in the image The image appears to be completely blank or white with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 387,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 388,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white Therefore, the list of visible English words is:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 389,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or text in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 390,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 391,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 392,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 393,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['D', 'N', 'R', 'O', 'S']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 394,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of gray letters or characters arranged horizontally From left to right, they appear to be:\n\n['S', 'Z', 'R', 'C', 'O']\n\nThese are individual letters rather than complete words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 395,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['R', 'Z', 'S', 'D', 'O']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 396,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of capital letters: D, R, Z, V, K arranged horizontally There are no English words visible in the image, only these individual letters\n\n['D', 'R', 'Z', 'V', 'K']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 397,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['H', 'V', 'R', 'Z', 'S']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 398,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of letters or symbols: O S C R D These appear to be individual letters rather than complete English words Since there are no actual English words visible in the image, the answer would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 399,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['H', 'O', 'D', 'Z', 'C']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 400,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of letters \"C H Z O V\" spaced out in a light gray color These appear to be individual letters rather than forming complete English words\n\nSince there are no actual English words in the image, just individual letters, the answer would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 401,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['V', 'O', 'S', 'Z', 'R']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 402,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['H', 'R', 'Q', 'D', 'K']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 403,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a simple logo or text that shows \"ONZRO\" (or possibly \"ONZKO\") The letters are displayed in a minimalist gray font\n\nBased on what's visible in the image, the complete list of English words would be:\n\n[]\n\nThere don't appear to be any complete English words in the image, just what looks like a brand name or acronym \"ONZRO\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 404,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain very small, low-contrast text characters that are difficult to make out clearly I can see what looks like a few small symbols or characters, but I cannot confidently identify any specific English words in this image\n\nBased on what's visible, I would return:\n[]\n\nThe image contains what appears to be a few small dots or symbols, but they don't form recognizable English words that I can reliably transcribe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 405,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very faint or low contrast, and I cannot clearly identify any English words in it The image shows what looks like a light gray or white background with possibly some extremely faint markings that are not legible\n\nBased on what I can see, the output would be:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 406,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very minimal, showing only a few gray dots or periods in a horizontal line I don't see any English words or text in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 407,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very faint or low contrast, and I cannot clearly identify any English words in it The image shows what looks like a light gray or white background with possibly some extremely faint text or markings that are not legible\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 408,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a very minimal, light gray dotted pattern or loading indicator I don't see any English words or text in this image Based on the requested format, my response would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 409,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely faint or blank I cannot detect any visible English words or text content in this image Based on what I can see, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 410,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 411,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 412,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 414,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to show very faint, light gray letters or characters against a white background The characters visible seem to be:\n\n['C', 'N', 'Z', 'O', 'V']\n\nThese appear to be individual letters rather than complete words, arranged horizontally from left to right",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 415,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows very faint, light gray letters or characters that appear to be \"K Z V H S\" arranged horizontally These appear to be individual letters rather than complete words\n\n['K', 'Z', 'V', 'H', 'S']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 416,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a series of faint, light gray letters arranged horizontally From left to right, I can identify:\n\n['R', 'D', 'K', 'S', 'Z']\n\nThese appear to be individual capital letters rather than complete words, displayed in a very light, minimalist style against a white background",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 417,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to show a series of individual letters spaced out horizontally From left to right, I can see:\n\n['O', 'S', 'H', 'N', 'K']\n\nThese appear to be uppercase letters displayed in a light gray or white color against a lighter background",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 418,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain very faint or low-contrast letters that are difficult to make out clearly From what I can see, there seem to be 5 capital letters spaced apart, but they're so light that I cannot confidently identify them with certainty\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 419,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Looking at the image, I can see a series of letters or symbols arranged horizontally The visible characters appear to be:\n\n['O', 'C', 'D', 'S', 'V']\n\nThese look like individual letters rather than complete English words They appear to be arranged in a simple row from left to right",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 420,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Looking at the image, I can see a series of uppercase letters displayed in a row The letters appear to be:\n\n['R', 'V', 'K', 'Z', 'O']\n\nThese are individual letters rather than complete English words The image shows these 5 capital letters spaced apart on what appears to be a light background",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 421,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly recognizable English words in the image The image appears to show some very faint, barely visible characters or letters, but they're too light or blurry for me to confidently identify specific English words\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 422,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely faint or low contrast, with barely visible text I cannot clearly make out any distinct English words in the image Based on what I can see, I would have to return:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 423,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely faint or blank, with no clearly visible English words that I can discern Based on what I can see, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 424,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clearly visible English words in the provided image The image appears to be completely blank or white with no discernible text content\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 425,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the provided image The image appears to be completely blank or white \n\nTherefore, the list of words would be empty:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 426,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 427,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content visible in the image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 428,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 429,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any English words or text in the image The image appears to be completely blank or white Therefore, the list of visible English words is:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 430,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 431,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 432,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 433,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 435,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very faint or low contrast, showing what looks like extremely light gray or white text against a white background I cannot clearly distinguish any legible English words in the image Based on what I can see, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 436,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['C', 'V', 'N', 'O', 'S']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 437,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to contain very faint or low-contrast letters that are difficult to make out clearly From what I can see, there appear to be some letters like \"N\", \"S\", \"D\", \"Z\", and \"K\" arranged horizontally, but they're extremely light and hard to read with certainty\n\nBased on what I can discern:\n\n['N', 'S', 'D', 'Z', 'K']\n\nHowever, these don't form complete English words, just individual letters The characters are displayed in a very light gray color against a white background, making them challenging to identify with complete confidence",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 438,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very faint or low contrast, showing what looks like some extremely light text characters I can make out what might be letters \"G\", \"O\", \"V\", \"N\", \"R\" or similar characters, but they're so faint that I cannot confidently identify complete words\n\nBased on what I can see:\n\n[]\n\nThe image doesn't contain any clearly legible English words that I can confidently identify and transcribe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 439,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any clear English words in the image The image appears to show very faint or low-contrast letters or symbols that are difficult to make out Without being able to clearly identify any specific words, I would have to return:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 440,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see what appears to be a logo or text that contains \"ABZERO\" (or possibly \"ABZERO\") The text is in white against a light background\n\n['ABZERO']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 441,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['OFFICE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 442,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible English words in the image The image appears to be completely white or blank \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 443,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible English words in the image The image appears to be completely blank or white Therefore, the list of words would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 444,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 445,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 446,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 447,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 448,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 449,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 450,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 451,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 452,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 453,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, I cannot identify any English words\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 454,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 456,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['VR', '2GO']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 457,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely faint or blank with very low contrast I cannot discern any clear English words in the image Based on what I can see, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 458,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely faint or blank, with no clearly visible English words that I can recognize I cannot make out any distinct text content in the provided image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 459,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely faint or blank with white/very light gray content that is not legible I cannot discern any clear English words in the provided image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 460,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely faint or blank with no clearly visible English words I cannot detect any legible text content in the provided image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 461,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 462,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 463,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 464,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 465,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe \n\nIf there is an image with text that you intended to share, it may not have loaded properly You're welcome to try uploading it again",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 466,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 467,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 468,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 469,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 470,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 471,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 472,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 473,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 474,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 475,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 477,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 478,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 479,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or other text elements in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 480,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white with no visible text content I cannot detect any English words or text in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 481,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible English words in the provided image The image appears to be completely blank or white \n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 482,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 483,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 484,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any visible text or words in the image The image appears to be completely blank or white Therefore, I cannot identify any English words\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 485,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe\n\nSince there are no visible words in the image, the result would be an empty list:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 486,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 487,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 488,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be completely blank or white I don't see any English words or text content to transcribe Based on what I can observe, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 489,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 490,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 491,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 492,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 493,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 494,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, the list of English words visible would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 495,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 496,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "I don't see any text or words in the image provided The image appears to be completely blank or white Therefore, there are no English words to identify\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    }
+]

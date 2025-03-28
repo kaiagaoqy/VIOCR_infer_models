@@ -12,7 +12,8 @@ import tqdm
 from transformers import TextStreamer
 from collections.abc import Sequence
 import re
-
+from dotenv import load_dotenv
+load_dotenv(".env")
 
 def eval_model(tokenizer, model, image_processor, image_file, query):
     conv = conv_templates["mplug_owl2"].copy()
@@ -74,7 +75,7 @@ if __name__ == "__main__":
 
     samples = json.load(open(args.infile, "r"))['images']
     output_samples = []
-    q = "What are all the English words visible in the image?"
+    q = os.getenv("Prompt")
 
 
     for sample in tqdm.tqdm(samples):
@@ -85,9 +86,14 @@ if __name__ == "__main__":
                                 "rec_texts":"",
                                 "rec_score":0,
                                 "det_score":0,
-                                "filter":int(filter_id),
+                                "filter":int(filter_id) if int(filter_id) > 0 else int(sample["Filter_no"]),
                                 }
-            image_file = os.path.join(args.img_dir,filter_id, sample["file_name"])
+
+            
+            image_file = os.path.join(args.img_dir,filter_id, sample["file_name"]) if int(filter_id) > 0 else os.path.join(args.img_dir, sample["file_name"])
+            if not os.path.exists(image_file):
+                print(f"Image not found: {image_file}")
+                continue
                 
             output = eval_model(tokenizer, model, image_processor, image_file, q)
             output = output.strip()

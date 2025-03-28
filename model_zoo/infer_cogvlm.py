@@ -7,7 +7,8 @@ from PIL import Image
 from collections.abc import Sequence
 import re
 from transformers import AutoModelForCausalLM, LlamaTokenizer
-
+from dotenv import load_dotenv
+load_dotenv(".env")
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 
@@ -62,7 +63,8 @@ if __name__ == "__main__":
         torch_type = torch.bfloat16
     else:
         torch_type = torch.float16
-
+        
+    min_pixels = 5*28*28
     print("========Use torch type as:{} with device:{}========\n\n".format(torch_type, DEVICE))
 
     if args.quant:
@@ -71,7 +73,9 @@ if __name__ == "__main__":
             torch_dtype=torch_type,
             trust_remote_code=True,
             low_cpu_mem_usage=True,
-            load_in_4bit=True
+            load_in_4bit=True,
+            # min_pixels=min_pixels,
+            device_map="auto"
         ).eval()
     else:
         model = AutoModelForCausalLM.from_pretrained(
@@ -79,18 +83,11 @@ if __name__ == "__main__":
             torch_dtype=torch_type,
             low_cpu_mem_usage=True,
             load_in_4bit=args.quant is not None,
-            trust_remote_code=True
+            trust_remote_code=True,
+            # min_pixels=min_pixels,
+            device_map="auto"
         ).to(DEVICE).eval()
     
-    # format:
-    # a list of dict
-    # minimum keys: image, question
-    # [
-    #     {
-    #         "image": "xxxx",
-    #         "question": "xxxxx"},
-    #     ...]
-    # leave the output key empty
     
     samples = json.load(open(args.infile, "r"))['images']
     q = os.getenv("Prompt")
