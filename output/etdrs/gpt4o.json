@@ -3,7 +3,7 @@
         "image_id": 0,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CVDOS']",
+        "rec_texts": "['C', 'V', 'D', 'O', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -12,7 +12,7 @@
         "image_id": 1,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['COHKN']",
+        "rec_texts": "['C', 'O', 'H', 'K', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -21,7 +21,7 @@
         "image_id": 2,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VRHZC']",
+        "rec_texts": "['V', 'R', 'H', 'Z', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -30,7 +30,7 @@
         "image_id": 3,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NKOZR']",
+        "rec_texts": "['N', 'K', 'O', 'Z', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -39,7 +39,7 @@
         "image_id": 4,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['V', 'H', 'R', 'C', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -48,7 +48,7 @@
         "image_id": 5,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VOSND']",
+        "rec_texts": "['V', 'O', 'S', 'N', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -57,7 +57,7 @@
         "image_id": 6,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SCNDZ']",
+        "rec_texts": "['S', 'C', 'N', 'D', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -66,7 +66,7 @@
         "image_id": 7,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ROZNS']",
+        "rec_texts": "['R', 'O', 'Z', 'N', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -75,7 +75,7 @@
         "image_id": 8,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RDZHS']",
+        "rec_texts": "['R', 'D', 'Z', 'H', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -84,7 +84,7 @@
         "image_id": 9,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SHY', 'RZ']",
+        "rec_texts": "['S', 'H', 'V', 'R', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -93,7 +93,7 @@
         "image_id": 10,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZRHOY']",
+        "rec_texts": "['Z', 'R', 'H', 'O', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -102,7 +102,7 @@
         "image_id": 11,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['vAHYZ']",
+        "rec_texts": "['N', 'O', 'H', 'V', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -111,7 +111,7 @@
         "image_id": 12,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['D', 'S', 'R', 'V', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -120,7 +120,7 @@
         "image_id": 13,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['K', 'C', 'Z', 'H', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -129,7 +129,7 @@
         "image_id": 14,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['no', 'let', 'as']",
+        "rec_texts": "['K', 'Z', 'O', 'V', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -138,7 +138,7 @@
         "image_id": 15,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MINUTES']",
+        "rec_texts": "['V', 'D', 'H', 'R', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -147,7 +147,7 @@
         "image_id": 16,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SUNDAY']",
+        "rec_texts": "['N', 'Z', 'H', '$', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -156,7 +156,7 @@
         "image_id": 17,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Music', 'From', 'the', 'Motion', 'Picture', 'Soundtrack']",
+        "rec_texts": "['K', 'N', 'R', 'O', 'Y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -165,7 +165,7 @@
         "image_id": 18,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VOLUME', 'I', 'This', 'book', 'among', 'the', 'most', ']",
+        "rec_texts": "['O', 'R', 'E', 'G', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -174,7 +174,7 @@
         "image_id": 19,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['N', 'Y', 'R', 'E', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -183,7 +183,7 @@
         "image_id": 21,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['R', 'D', 'N', 'S', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -192,7 +192,7 @@
         "image_id": 22,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HDZCN']",
+        "rec_texts": "['H', 'D', 'Z', 'C', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -201,7 +201,7 @@
         "image_id": 23,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['Z', 'C', 'K', 'S', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -210,7 +210,7 @@
         "image_id": 24,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HDNCK']",
+        "rec_texts": "['H', 'D', 'N', 'C', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -219,7 +219,7 @@
         "image_id": 25,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RZCNH']",
+        "rec_texts": "['R', 'Z', 'C', 'N', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -228,7 +228,7 @@
         "image_id": 26,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HKOND']",
+        "rec_texts": "['H', 'K', 'O', 'N', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -237,7 +237,7 @@
         "image_id": 27,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RVOKZ']",
+        "rec_texts": "['R', 'V', 'O', 'K', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -255,7 +255,7 @@
         "image_id": 29,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HZOK']",
+        "rec_texts": "['H', 'S', 'O', 'Z', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -264,7 +264,7 @@
         "image_id": 30,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VRZDN']",
+        "rec_texts": "['V', 'R', 'Z', 'D', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -273,7 +273,7 @@
         "image_id": 31,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['C', 'oe', 'Va', 'Hl', 'RI']",
+        "rec_texts": "['O', 'K', 'H', 'N', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -282,7 +282,7 @@
         "image_id": 32,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Don't', 'yourself', 'These', 'were', 'good', 'your', 'next', 'fight', 'be', 'battles', 'strategy', 'the', 'then']",
+        "rec_texts": "['V', 'D', 'R', 'S', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -291,7 +291,7 @@
         "image_id": 33,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['M', 'K', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -300,7 +300,7 @@
         "image_id": 34,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['C', 'O', 'M', 'E', 'T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -309,7 +309,7 @@
         "image_id": 35,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['F', 'A', 'C', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -318,7 +318,7 @@
         "image_id": 36,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GAME', 'ENDS', 'WHEN', 'YOU', 'AND', 'YOUR', 'FRIEND', 'HAVE', 'REACHED', 'MAYBE', 'IT', 'SAYS', 'HERE', 'SIGNS', 'LIFE', 'READ', 'THE', 'FKA']",
+        "rec_texts": "['F', 'I', 'N', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -327,7 +327,7 @@
         "image_id": 37,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['International', 'Federation', 'of', 'Association', 'Football', 'Identity', 'Card', 'Mr', 'Status', 'Single', 'Date', 'of', 'Birth', 'Father']",
+        "rec_texts": "['I', 'V', 'I']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -336,7 +336,7 @@
         "image_id": 38,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['A', 'G', 'T', 'F', 'J', 'G']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -345,7 +345,7 @@
         "image_id": 39,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Tesla', 'Model', '3', 'Long', 'Range', 'Dual', 'Motor']",
+        "rec_texts": "['H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -354,7 +354,7 @@
         "image_id": 40,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['J', 'A', 'R', 'T', 'L', 'F', 'L', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -363,7 +363,7 @@
         "image_id": 42,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZKHRN']",
+        "rec_texts": "['Z', 'K', 'H', 'R', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -372,7 +372,7 @@
         "image_id": 43,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NZVHO']",
+        "rec_texts": "['N', 'Z', 'V', 'H', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -381,7 +381,7 @@
         "image_id": 44,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DSHRC']",
+        "rec_texts": "['D', 'S', 'H', 'R', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -390,7 +390,7 @@
         "image_id": 45,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NZVDR']",
+        "rec_texts": "['N', 'Z', 'V', 'D', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -399,7 +399,7 @@
         "image_id": 46,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RNV', 'OH']",
+        "rec_texts": "['R', 'N', 'V', 'O', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -408,7 +408,7 @@
         "image_id": 47,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RZONK']",
+        "rec_texts": "['R', 'Z', 'O', 'N', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -417,7 +417,7 @@
         "image_id": 48,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['R', 'K', 'S', 'O', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -426,7 +426,7 @@
         "image_id": 49,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['\u318d', 'V', 'M', 'R', 'N']",
+        "rec_texts": "['C', 'V', 'H', 'R', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -435,7 +435,7 @@
         "image_id": 50,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['V', 'G', 'R', 'Z', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -444,7 +444,7 @@
         "image_id": 51,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['comic', 'laptop', 'tablet', 'internet', 'headphones', 'printer']",
+        "rec_texts": "['O', 'V', 'M', 'O', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -453,7 +453,7 @@
         "image_id": 52,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['O', 'N', 'I', 'H', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -462,7 +462,7 @@
         "image_id": 53,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['P', 'I', 'Z', 'Z', 'A']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -471,7 +471,7 @@
         "image_id": 54,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['E', 'B', 'A', 'Y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -480,7 +480,7 @@
         "image_id": 55,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Field', 'Hockey', 'Turf']",
+        "rec_texts": "['N', 'I', 'K', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -489,7 +489,7 @@
         "image_id": 56,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['P', 'E', 'R', 'F', 'E', 'C', 'T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -498,7 +498,7 @@
         "image_id": 57,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['CIEN', 'PATO', 'VES']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -507,7 +507,7 @@
         "image_id": 58,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VISCOSITY', 'SUSPENSIONS', 'OF', 'MINERALS', 'AND', 'SOME', 'OTHER', 'LEADING', 'STOCK', 'PHARMACEUTICALS', 'AC', 'VISCOSIY', 'SUSPENSIONS', 'OF', 'MIMENERALS', 'AND', 'SOME', 'OTHER', 'LEADING', 'STOCK', 'PHARMACEUTICALS', 'A']",
+        "rec_texts": "['T', 'O', 'Y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -516,7 +516,7 @@
         "image_id": 59,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['H', 'E', 'L', 'L', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -525,7 +525,7 @@
         "image_id": 60,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['F', 'L', 'A', 'G']",
+        "rec_texts": "['P', 'N', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -534,7 +534,7 @@
         "image_id": 61,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['EAST', 'RANGE', 'BOOMER', 'SOONER']",
+        "rec_texts": "['T', 'h', 'e', 'q', 'u', 'i', 'c', 'k', 'b', 'r', 'o', 'w', 'n', 'f', 'o', 'x', 'j', 'u', 'm', 'p', 's', 'o', 'v', 'e', 'r', 't', 'h', 'e', 'l', 'a', 'z', 'y', 'd', 'o', 'g']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -543,7 +543,7 @@
         "image_id": 63,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['Z', 'R', 'C', 'V', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -561,7 +561,7 @@
         "image_id": 65,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['Z', 'H', 'K', 'D', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -570,7 +570,7 @@
         "image_id": 66,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ORDHO']",
+        "rec_texts": "['O', 'R', 'D', 'H', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -579,7 +579,7 @@
         "image_id": 67,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CRVOD']",
+        "rec_texts": "['O', 'R', 'V', 'O', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -588,7 +588,7 @@
         "image_id": 68,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HENRY']",
+        "rec_texts": "['H', 'K', 'N', 'V', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -597,7 +597,7 @@
         "image_id": 69,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Persistent', 'Reliable', 'Loyal', 'Resilient', 'Steadfast']",
+        "rec_texts": "['O', 'V', 'V', 'E', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -606,7 +606,7 @@
         "image_id": 70,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ANOTHER']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -624,7 +624,7 @@
         "image_id": 72,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['n', 'n', 'n']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -633,7 +633,7 @@
         "image_id": 73,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NICE']",
+        "rec_texts": "['a', 'p', 'p', 'l', 'e']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -642,7 +642,7 @@
         "image_id": 74,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MOOD', 'How', 'old', 'is', 'your', 'soul?', 'Are', 'you', 'a', 'Free', 'Spirit,', 'Old', 'Soul,', 'or', 'a', 'True', 'Soul', 'Odyssey', 'Adventurer?']",
+        "rec_texts": "['D', 'O', 'L', 'L', 'E', 'T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -651,7 +651,7 @@
         "image_id": 75,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['A', 'D', 'a']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -660,7 +660,7 @@
         "image_id": 76,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['S', 'U', 'R', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -669,7 +669,7 @@
         "image_id": 77,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Want', 'to', 'earn', 'up', 'to', '$40', 'per', 'hour', 'working', 'from', 'home?', 'Apply', 'now', 'to', 'be', 'part', 'of', 'the', 'most', 'exciting', 'company', 'around', 'Don\u2019t', 'miss', 'this', 'opportunity!', 'Click', 'here', 'to', 'learn', 'more']",
+        "rec_texts": "['F', 'I', 'R', 'S', 'T', 'C', 'O', 'M', 'M', 'U', 'N', 'I', 'O', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -678,7 +678,7 @@
         "image_id": 78,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['STOP']",
+        "rec_texts": "['C', 'A', 'F', '\u00c9']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -687,7 +687,7 @@
         "image_id": 79,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MINISTRY', 'OF', 'JUSTICE', 'CONVICT', 'REFERRAL', 'PRISONERS', 'SEEKING', 'EMPLOYMENT', 'EMPLOYER', 'THE', 'MANAGER', 'SOUTH', 'WALES', 'BOWLS', 'CARDIFF', 'WALES', 'DATE', 'OF', 'REFERRAL', '23/7/69', 'TO', 'WHOM', 'IT', 'MAY', 'CONCERN', 'THIS', 'MAN', 'IS', 'A', 'FIRSTOFFENDER', 'WHO', 'FROM', 'MATURE', 'CONSIDERATION', 'SUPPORT', 'REINTEGRATION', 'WORK', 'REFERENCE', 'BOARD', 'INDUSTRY', 'ALBERT', 'SPENCE', 'EVIDENCEFUL', 'PRISON', 'HAND', 'LOOM', 'WORK', 'ENDLESS', 'DRIVE', 'MAKIN']",
+        "rec_texts": "['B', 'R', 'E', 'A', 'K', 'I', 'N', 'G']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -696,7 +696,7 @@
         "image_id": 80,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['A', 'B', 'H', '6']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -705,7 +705,7 @@
         "image_id": 81,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['L', 'O', 'V', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -714,7 +714,7 @@
         "image_id": 82,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Gucci']",
+        "rec_texts": "['A', 'V', 'I', 'C', 'I']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -723,7 +723,7 @@
         "image_id": 84,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DROHN']",
+        "rec_texts": "['D', 'R', 'O', 'H', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -732,7 +732,7 @@
         "image_id": 85,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DKRVH']",
+        "rec_texts": "['D', 'K', 'R', 'V', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -741,7 +741,7 @@
         "image_id": 86,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZSODK']",
+        "rec_texts": "['Z', 'S', 'O', 'D', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -750,7 +750,7 @@
         "image_id": 87,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['Z', 'H', 'O', 'N', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -759,7 +759,7 @@
         "image_id": 88,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['COACH']",
+        "rec_texts": "['H', 'O', 'N', 'E', 'Y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -768,7 +768,7 @@
         "image_id": 89,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['D', 'O', 'C', 'U']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -777,7 +777,7 @@
         "image_id": 90,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['C', 'O', 'C', 'A']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -786,7 +786,7 @@
         "image_id": 91,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['E', 'X', 'P', 'O', 'S', 'U', 'R', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -795,7 +795,7 @@
         "image_id": 92,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FIN']",
+        "rec_texts": "['P', 'I', 'K', 'A', 'C', 'H', 'U']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -804,7 +804,7 @@
         "image_id": 93,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FENDI']",
+        "rec_texts": "['S', 'O', 'N', 'Y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -813,7 +813,7 @@
         "image_id": 94,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['T', 'H', 'I', 'S', 'I', 'S', 'A', 'T', 'E', 'S', 'T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -822,7 +822,7 @@
         "image_id": 95,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['a', 'r', 't', 'd', 'o', 't']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -831,7 +831,7 @@
         "image_id": 96,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SUPERMARKET', 'MAZE', 'Have', 'You', 'Tried', 'Our', 'Delicious', 'Deli']",
+        "rec_texts": "['m', 'e']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -840,7 +840,7 @@
         "image_id": 97,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['T', 'U', 'N', 'N', 'E', 'L']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -849,7 +849,7 @@
         "image_id": 98,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['S', 'a', 'm', 'p', 'l', 'e', 'T', 'e', 'x', 't']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -858,7 +858,7 @@
         "image_id": 99,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['2023', 'Toyota', 'Prius', 'Plug-in', 'Hybrid']",
+        "rec_texts": "['T', 'o', 'y', 'o', 't', 'a']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -867,7 +867,7 @@
         "image_id": 100,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Free', 'Delivery', 'for', 'order', 'from', '299', 'baht']",
+        "rec_texts": "['T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -876,7 +876,7 @@
         "image_id": 101,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Instagram']",
+        "rec_texts": "['F', 'G', 'M', 'H', 'A', 'J']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -885,7 +885,7 @@
         "image_id": 102,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['BRODWAY', 'GRAFFITI']",
+        "rec_texts": "['F']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -894,7 +894,7 @@
         "image_id": 103,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['H', 'W']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -903,7 +903,7 @@
         "image_id": 105,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['Z', 'E', 'K', 'O', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -921,7 +921,7 @@
         "image_id": 107,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['O', 'B', 'I', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -930,7 +930,7 @@
         "image_id": 108,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['POLO', 'RALPH', 'LAUREN', 'FABRICADO']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -939,7 +939,7 @@
         "image_id": 109,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['bale', 'sale', 'pale', 'male']",
+        "rec_texts": "['O', 'O', 'O', 'O', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -948,7 +948,7 @@
         "image_id": 110,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Apple', 'Microsoft', 'Google']",
+        "rec_texts": "['T', 'm', 'u', 'b']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -957,7 +957,7 @@
         "image_id": 111,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Sepia', 'Paradise', 'INGE', 'Hospitals', 'Lorem', 'About', 'US', 'International', 'Awards', 'Academy', 'Lorem', 'Ipsum', 'is', 'simply', 'dummy', 'text', 'Of', 'The', 'Printing', 'And', 'Typesetting', 'Industry', 'lorem', 'ipsum', 'has', 'established', 'fact', 'that', 'a', 'reader', 'will', 'be', 'distracted', 'by', 'the', 'readable', 'content', 'that', 'their', 'layoutess', 'Lorem', 'Ipsum', 'has', 'Lorem', 'Ipsum', 'is', 'simply', 'dummy', 'text', 'of', 'the', 'printing', 'and', 'typesetting', 'industry']",
+        "rec_texts": "['T', 'e', 'm', 'p', 'l', 'a', 't', 'e']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -966,7 +966,7 @@
         "image_id": 112,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['F', 'L', 'O', 'W', 'E', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -975,7 +975,7 @@
         "image_id": 113,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['POKEMON', 'SPANISH', 'Edition', 'Common', 'Set', 'de', 'pesr', 'la', 'basic', 'edition', 'Compulsory', 'Use', 'agua', 'celestial', 'scorpion', 'floracion', 'Del', 'additional', 'dream', 'structure', 'Aguijon', 'Has', 'been', 'revised', 'x', '09', 'Bulbasaur', 'Height', 'Weight', '15', 'm', '6', '9', 'Kg', 'Llamas', 'Charizard', 'PKM-009']",
+        "rec_texts": "['A', 'I']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -984,7 +984,7 @@
         "image_id": 114,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['F', 'R', 'I', 'E', 'D', 'C', 'H', 'I', 'C', 'K', 'E', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -993,7 +993,7 @@
         "image_id": 115,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ID', '00000001', 'John', 'Doe']",
+        "rec_texts": "['R', 'O', 'B', 'H', 'L', 'B', 'R', 'C', 'A']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1002,7 +1002,7 @@
         "image_id": 116,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LTD', 'Neo', 'Air', 'START', 'HI']",
+        "rec_texts": "['C', 'E', 'M', 'E', 'N', 'T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1011,7 +1011,7 @@
         "image_id": 117,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NATIONAL', 'PARK', 'SERVICE', 'US', 'Department', 'of', 'the', 'Interior', 'YOSEMITE', 'VALLEY', 'TRAIL', 'MAP', 'Shuttle', 'Bus', 'Stop', 'Roads', 'Walking', 'Trails']",
+        "rec_texts": "['C', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1020,7 +1020,7 @@
         "image_id": 118,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['A', 'S', 'K', 'E', 'H', 'D', 'B', 'C', 'A', 'M']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1029,7 +1029,7 @@
         "image_id": 119,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SAMPLE', 'MINIMUM', 'STORAGE', 'CONDITIONS', 'PROTECT', 'FROM', 'MOISTURE']",
+        "rec_texts": "['A', 'B', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1038,7 +1038,7 @@
         "image_id": 120,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['U', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1047,7 +1047,7 @@
         "image_id": 121,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['foo']",
+        "rec_texts": "['C', 'o', 'S', ' ' 'g', 'e', 't', 'h', ' ' 'A', 'i', 'H', 'a', 'g', 'e', 'n']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1056,7 +1056,7 @@
         "image_id": 122,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1065,7 +1065,7 @@
         "image_id": 123,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LEVEL']",
+        "rec_texts": "['K', 'I', 'A', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1074,7 +1074,7 @@
         "image_id": 124,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Y', '\"]}",
+        "rec_texts": "['I', 'T', 'I', 'S', 'W', 'H', 'A', 'T', 'I', 'T', 'I', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1083,7 +1083,7 @@
         "image_id": 126,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KVCND']",
+        "rec_texts": "['K', 'V', 'C', 'N', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1101,7 +1101,7 @@
         "image_id": 128,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DSHVR']",
+        "rec_texts": "['D', 'S', 'H', 'V', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1110,7 +1110,7 @@
         "image_id": 129,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NKODV']",
+        "rec_texts": "['N', 'K', 'O', 'D', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1119,7 +1119,7 @@
         "image_id": 130,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OZ', 'RCD']",
+        "rec_texts": "['O', 'Z', 'R', 'C', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1128,7 +1128,7 @@
         "image_id": 131,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KHCDZ']",
+        "rec_texts": "['K', 'H', 'C', 'D', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1137,7 +1137,7 @@
         "image_id": 132,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VNRSK']",
+        "rec_texts": "['V', 'N', 'R', 'S', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1146,7 +1146,7 @@
         "image_id": 133,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CDZNR']",
+        "rec_texts": "['C', 'D', 'Z', 'N', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1155,7 +1155,7 @@
         "image_id": 134,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VCZHD']",
+        "rec_texts": "['V', 'C', 'Z', 'H', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1164,7 +1164,7 @@
         "image_id": 135,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CZN YK']",
+        "rec_texts": "['C', 'Z', 'N', 'V', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1173,7 +1173,7 @@
         "image_id": 136,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['5Z4DN']",
+        "rec_texts": "['S', 'Z', 'V', 'D', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1182,7 +1182,7 @@
         "image_id": 137,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['V', 'R', 'H', 'C']",
+        "rec_texts": "['C', 'V', 'R', 'H', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1191,7 +1191,7 @@
         "image_id": 138,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['hi', 'there']",
+        "rec_texts": "['O', 'V', 'Z', 'H', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1200,7 +1200,7 @@
         "image_id": 139,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SECURITY']",
+        "rec_texts": "['S', 'K', 'R', 'O', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1209,7 +1209,7 @@
         "image_id": 140,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['clr', 'clr', 'clr', 'clr']",
+        "rec_texts": "['R', 'D', 'K', 'S', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1218,7 +1218,7 @@
         "image_id": 141,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['zara']",
+        "rec_texts": "['V', 'K', 'D', 'H', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1227,7 +1227,7 @@
         "image_id": 142,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Tupac']",
+        "rec_texts": "['H', 'Z', 'N', 'R', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1236,7 +1236,7 @@
         "image_id": 143,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "I'm unable to detect any words in the image It seems to be a barcode with no visible text Therefore, the output is:\n\n['']",
+        "rec_texts": "['O', 'Z', 'H', 'O', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1245,7 +1245,7 @@
         "image_id": 144,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['', 'Fendi', '']",
+        "rec_texts": "['V', 'H', 'D', 'Z', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1254,7 +1254,7 @@
         "image_id": 145,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['E', 'D', 'E', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1263,7 +1263,7 @@
         "image_id": 147,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZVOHD']",
+        "rec_texts": "['Z', 'V', 'O', 'H', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1272,7 +1272,7 @@
         "image_id": 148,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DNZKC']",
+        "rec_texts": "['D', 'N', 'Z', 'K', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1281,7 +1281,7 @@
         "image_id": 149,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['C', 'D', 'K', 'N', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1290,7 +1290,7 @@
         "image_id": 150,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VKOZH']",
+        "rec_texts": "['V', 'K', 'O', 'Z', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1299,7 +1299,7 @@
         "image_id": 151,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZDNKC']",
+        "rec_texts": "['Z', 'D', 'N', 'K', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1308,7 +1308,7 @@
         "image_id": 152,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VZDRO']",
+        "rec_texts": "['V', 'Z', 'D', 'R', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1317,7 +1317,7 @@
         "image_id": 153,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NVRKC']",
+        "rec_texts": "['N', 'V', 'R', 'K', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1326,7 +1326,7 @@
         "image_id": 154,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ODNKH']",
+        "rec_texts": "['O', 'D', 'N', 'K', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1335,7 +1335,7 @@
         "image_id": 155,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZKCON']",
+        "rec_texts": "['Z', 'K', 'C', 'O', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1344,7 +1344,7 @@
         "image_id": 156,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZVKON']",
+        "rec_texts": "['Z', 'V', 'K', 'C', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1353,7 +1353,7 @@
         "image_id": 157,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GUCCI']",
+        "rec_texts": "['D', 'O', 'H', 'S', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1362,7 +1362,7 @@
         "image_id": 158,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KING', 'PRICE', 'STREET', 'FOOD', 'SUSHI']",
+        "rec_texts": "['S', 'N', 'D', 'K', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1371,7 +1371,7 @@
         "image_id": 159,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Gallery', 'Home', 'About', 'Blog', 'Contact']",
+        "rec_texts": "['K', 'N', 'M', 'S', 'G']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1380,7 +1380,7 @@
         "image_id": 160,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['System', 'stability', 'improvement']",
+        "rec_texts": "['Q', 'R', 'S', 'T', 'U']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1389,7 +1389,7 @@
         "image_id": 161,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SALIVA', 'POLLEN', 'RAGWEED', 'DOG', 'MERMAIDS']",
+        "rec_texts": "['O', 'P', 'E', 'N', 'A', 'I']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1398,7 +1398,7 @@
         "image_id": 162,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['UNITED', 'STATES', 'OF', 'AMERICA', '000', 'LIBERTY']",
+        "rec_texts": "['D', 'I', 'S', 'C', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1407,7 +1407,7 @@
         "image_id": 163,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MY', 'HOVER', 'CRAFT', 'IS', 'FULL', 'OF', 'EELS']",
+        "rec_texts": "['M', 'I', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1416,7 +1416,7 @@
         "image_id": 164,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['K', 'L', 'A']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1425,7 +1425,7 @@
         "image_id": 165,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SECRET', 'CONFIDENTIAL', 'NAME', 'DATE', 'PLACE', 'SIGNATURE']",
+        "rec_texts": "['U', 'N', 'E', 'C', 'O', 'N', 'O', 'M', 'I', 'C', 'A', 'L']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1434,7 +1434,7 @@
         "image_id": 166,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['G', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1443,7 +1443,7 @@
         "image_id": 168,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RVCSH']",
+        "rec_texts": "['R', 'V', 'C', 'S', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1452,7 +1452,7 @@
         "image_id": 169,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KORDS']",
+        "rec_texts": "['K', 'O', 'R', 'D', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1461,7 +1461,7 @@
         "image_id": 170,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DOHRK']",
+        "rec_texts": "['D', 'O', 'H', 'R', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1470,7 +1470,7 @@
         "image_id": 171,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VSKDN']",
+        "rec_texts": "['V', 'S', 'K', 'D', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1479,7 +1479,7 @@
         "image_id": 172,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OCRDK']",
+        "rec_texts": "['O', 'C', 'R', 'D', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1488,7 +1488,7 @@
         "image_id": 173,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KZNRV']",
+        "rec_texts": "['K', 'Z', 'N', 'R', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1497,7 +1497,7 @@
         "image_id": 174,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KODZV']",
+        "rec_texts": "['K', 'O', 'D', 'Z', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1506,7 +1506,7 @@
         "image_id": 175,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['K', 'H', 'O', 'Z', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1515,7 +1515,7 @@
         "image_id": 176,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['N', 'K', 'Z', 'V', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1524,7 +1524,7 @@
         "image_id": 177,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TONIGHT']",
+        "rec_texts": "['O', 'V', 'O', 'I', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1533,7 +1533,7 @@
         "image_id": 178,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['C', 'A', 'R', 'R', 'O', 'T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1551,7 +1551,7 @@
         "image_id": 180,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['who', 'is', 'who']",
+        "rec_texts": "['F', 'I', 'L', 'A']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1560,7 +1560,7 @@
         "image_id": 181,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['M', 'A', 'N', 'G', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1569,7 +1569,7 @@
         "image_id": 182,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['g', 'a', 'm', 'e']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1578,7 +1578,7 @@
         "image_id": 183,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['F', 'L', 'E', 'F']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1605,7 +1605,7 @@
         "image_id": 186,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "[' ']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1614,7 +1614,7 @@
         "image_id": 187,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['A', 'S', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1623,7 +1623,7 @@
         "image_id": 189,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZKDRV']",
+        "rec_texts": "['Z', 'K', 'D', 'R', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1632,7 +1632,7 @@
         "image_id": 190,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['C', 'S', 'R', 'H', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1641,7 +1641,7 @@
         "image_id": 191,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HVDOC']",
+        "rec_texts": "['H', 'V', 'D', 'O', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1650,7 +1650,7 @@
         "image_id": 192,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SZODN']",
+        "rec_texts": "['S', 'Z', 'O', 'D', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1659,7 +1659,7 @@
         "image_id": 193,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['S', 'H', 'N', 'Z', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1668,7 +1668,7 @@
         "image_id": 194,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['N', 'K', 'S', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1677,7 +1677,7 @@
         "image_id": 195,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DHL']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1686,7 +1686,7 @@
         "image_id": 196,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['H', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1695,7 +1695,7 @@
         "image_id": 197,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NAA', 'NAKANO']",
+        "rec_texts": "['K', 'L', 'S', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1704,7 +1704,7 @@
         "image_id": 198,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Dior', 'Maison', 'Dior']",
+        "rec_texts": "['Z', 'O', 'O', 'M']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1713,7 +1713,7 @@
         "image_id": 199,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ICHIKA']",
+        "rec_texts": "['F', 'L', 'A', 'I', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1722,7 +1722,7 @@
         "image_id": 200,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['A', 'F', 'G', 'H', 'L', 'O', 'P', 'Q', 'R', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1731,7 +1731,7 @@
         "image_id": 201,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['H', 'O', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1740,7 +1740,7 @@
         "image_id": 202,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['A', 'I']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1749,7 +1749,7 @@
         "image_id": 203,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['W']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1758,7 +1758,7 @@
         "image_id": 204,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['WINGSPREAD']",
+        "rec_texts": "['O', 'L', 'Y', 'P', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1767,7 +1767,7 @@
         "image_id": 205,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['League', 'of', 'Maneuvers']",
+        "rec_texts": "['T', 'H', 'O', 'M', 'A', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1776,7 +1776,7 @@
         "image_id": 206,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1794,7 +1794,7 @@
         "image_id": 208,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Shreddies', 'KNITTED', 'BY', 'NANAS', 'AND', 'GRANDADS', 'never', 'miss', 'a', 'single', 'loop', 'ORIGINAL', 'WHOLE', 'WHEAT']",
+        "rec_texts": "['c', 'b', 'b', 'e', 'l']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1803,7 +1803,7 @@
         "image_id": 210,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZONDK']",
+        "rec_texts": "['Z', 'O', 'N', 'D', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1812,7 +1812,7 @@
         "image_id": 211,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DOSVR']",
+        "rec_texts": "['D', 'O', 'S', 'V', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1821,7 +1821,7 @@
         "image_id": 212,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ORKNY']",
+        "rec_texts": "['O', 'R', 'K', 'N', 'Y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1830,7 +1830,7 @@
         "image_id": 213,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['\u0443\u0441\u043c\u0435\u0448\u043a\u0430']",
+        "rec_texts": "['O', 'M', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1839,7 +1839,7 @@
         "image_id": 214,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Chanel']",
+        "rec_texts": "['P', 'R', 'O', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1857,7 +1857,7 @@
         "image_id": 216,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZENON']",
+        "rec_texts": "['Q', 'R', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1866,7 +1866,7 @@
         "image_id": 217,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['free', 'style']",
+        "rec_texts": "['C', 'o', 's', 't']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1875,7 +1875,7 @@
         "image_id": 218,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Millie']",
+        "rec_texts": "['X', 'O', 'F']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1884,7 +1884,7 @@
         "image_id": 219,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['a']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1893,7 +1893,7 @@
         "image_id": 220,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Pudding', 'Fruit', 'Salad', 'Banana']",
+        "rec_texts": "['B', 'O', 'E', 'I', 'N', '']['B']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1902,7 +1902,7 @@
         "image_id": 221,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['V', 'P', 'A', 'Y', 'M', 'E', 'N', 'T', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1911,7 +1911,7 @@
         "image_id": 222,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CAUTION', 'WET', 'FLOOR']",
+        "rec_texts": "['F', 'T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1920,7 +1920,7 @@
         "image_id": 223,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1929,7 +1929,7 @@
         "image_id": 224,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['STANFORD', 'BIKE', 'SHOP', 'THAT', 'WERENT', 'IN', 'HER', 'NOTES', 'MARK', 'FORGOT', 'HIS', 'WALLET', 'AND', 'HAD', 'TO', 'GO', 'BACK', 'HOME', 'HE', 'HAD', 'A', 'COOL', 'FOURDOLLAR', 'BILL', 'IN', 'THERE', 'RYDER', 'SWICK', 'MARK', 'SAW', 'ALOT', 'OF', 'BLUE', 'THINGS', 'ON', 'HIS', 'TRIP', 'TO', 'THE', 'GROCERY', 'STORE']",
+        "rec_texts": "['K', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1938,7 +1938,7 @@
         "image_id": 225,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RATATATA', 'Deadwood', 'Nevada', 'Deadskin']",
+        "rec_texts": "['A']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1947,7 +1947,7 @@
         "image_id": 226,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Life', 'was', 'like', 'a', 'box', 'of', 'chocolates']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1956,7 +1956,7 @@
         "image_id": 227,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DRIVER', 'LICENSE', 'James', '91', 'SEX', 'M', 'H', 'CLASS', 'DOB', '15', 'DL', '15', '17', 'Hgt', 'End', '183CM', '']",
+        "rec_texts": "['V', 'L', 'H', 'E', 'N', 'K', 'A', 'P', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1965,7 +1965,7 @@
         "image_id": 228,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Nutricology', 'Lip', 'osomal', 'EnerG', 'C', 'Energy', 'Support', 'With', 'Ribose', 'AQ', '8668', '2', 'fl', 'oz', '(60', 'ml)', 'Dietary', 'Supplement']",
+        "rec_texts": "['K', 'O', 'O', 'L']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1974,7 +1974,7 @@
         "image_id": 229,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['small', 'big']",
+        "rec_texts": "['M']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1983,7 +1983,7 @@
         "image_id": 231,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ONREV']",
+        "rec_texts": "['O', 'W', 'R', 'D', 'L']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1992,7 +1992,7 @@
         "image_id": 232,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['zero']",
+        "rec_texts": "['Z', 'E', 'R', 'O', 'X']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2001,7 +2001,7 @@
         "image_id": 233,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SYGMA', 'CE', 'KL']",
+        "rec_texts": "['T', 'I', 'M', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2010,7 +2010,7 @@
         "image_id": 234,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['H', 'A', 'P', 'Y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2019,7 +2019,7 @@
         "image_id": 235,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RIFF']",
+        "rec_texts": "['f', 'u', 'd', 't', 'e']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2028,7 +2028,7 @@
         "image_id": 236,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FAMILY', 'DUTY', 'HONOR', 'FAMILIA', 'DEBER', 'HONOR']",
+        "rec_texts": "['O', 'O', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2037,7 +2037,7 @@
         "image_id": 237,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['T', 'e', 's', 't']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2046,7 +2046,7 @@
         "image_id": 238,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Memento']",
+        "rec_texts": "['B', 'A', 'T', 'A', 'N', 'A', 'B']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2055,7 +2055,7 @@
         "image_id": 239,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FASHION', 'MENU', 'Sat', 'Jan', '22']",
+        "rec_texts": "['A', 'T', 'B', 'T', 'O', 'T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2064,7 +2064,7 @@
         "image_id": 240,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['X', 'C', 'A', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2073,7 +2073,7 @@
         "image_id": 241,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FLEECE', 'ROAD']",
+        "rec_texts": "['P', 'A', 'G', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2082,7 +2082,7 @@
         "image_id": 242,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['What', 'is', 'Your', 'Wordle', 'Strategy?']",
+        "rec_texts": "['F', 'P', 'L', 'K', 'O', 'E', 'C', 'F', 'D', 'P', 'T', 'O', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2091,7 +2091,7 @@
         "image_id": 243,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FALL', 'BALL', 'an', 'autumn', 'party']",
+        "rec_texts": "['W', 'h', 'i', 't', 'e']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2100,7 +2100,7 @@
         "image_id": 244,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['M', 'O', 'Z', 'O', 'V', 'K', 'A']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2109,7 +2109,7 @@
         "image_id": 245,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['f', 'a', 'c', 'u', 'l', 't', 'y', 'o', 'f']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2118,7 +2118,7 @@
         "image_id": 246,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FENCE', 'OF', 'AFFAIRS', 'MINISTRY', 'BOARD', 'AND', 'OFFICE', 'FOREIGN', 'THE']",
+        "rec_texts": "['L', 'E', 'T', 'T', 'E', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2127,7 +2127,7 @@
         "image_id": 247,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Tommy', 'Hilfiger']",
+        "rec_texts": "['A', 'X', 'L', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2136,7 +2136,7 @@
         "image_id": 248,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['\"]",
+        "rec_texts": "['H', 'E', 'L', 'L', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2145,7 +2145,7 @@
         "image_id": 249,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['S', 'E', 'R', 'P', 'E', 'N', 'T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2154,7 +2154,7 @@
         "image_id": 250,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['U', 'T', 'X', 'B', 'O', 'E', 'S', 'O', 'Y', 'F', 'G', 'K', 'B', 'N', 'Z', 'R', 'M', 'J', 'P', 'A', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2163,7 +2163,7 @@
         "image_id": 252,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HDRZK']",
+        "rec_texts": "['H', 'D', 'R', 'Z', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2172,7 +2172,7 @@
         "image_id": 253,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SNCHV']",
+        "rec_texts": "['S', 'N', 'C', 'H', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2181,7 +2181,7 @@
         "image_id": 254,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZOKSH']",
+        "rec_texts": "['Z', 'O', 'K', 'S', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2190,7 +2190,7 @@
         "image_id": 255,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KRCHS']",
+        "rec_texts": "['K', 'R', 'C', 'H', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2199,7 +2199,7 @@
         "image_id": 256,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VRZCN']",
+        "rec_texts": "['V', 'R', 'Z', 'C', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2208,7 +2208,7 @@
         "image_id": 257,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KOHDZ']",
+        "rec_texts": "['K', 'O', 'H', 'D', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2217,7 +2217,7 @@
         "image_id": 258,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NKDOV']",
+        "rec_texts": "['N', 'K', 'D', 'O', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2226,7 +2226,7 @@
         "image_id": 259,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['R', 'Z', 'O', 'N', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2235,7 +2235,7 @@
         "image_id": 260,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NRDHC']",
+        "rec_texts": "['N', 'R', 'D', 'H', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2244,7 +2244,7 @@
         "image_id": 261,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VRCDS']",
+        "rec_texts": "['V', 'R', 'O', 'D', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2253,7 +2253,7 @@
         "image_id": 262,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NOKAR']",
+        "rec_texts": "['N', 'S', 'K', 'Z', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2262,7 +2262,7 @@
         "image_id": 263,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'BEATLES']",
+        "rec_texts": "['R', 'Z', 'S', 'K', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2271,7 +2271,7 @@
         "image_id": 264,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['Z', 'V', 'O', 'N', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2280,7 +2280,7 @@
         "image_id": 265,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'GRASS', 'IS', 'ALWAYS', 'GREENER']",
+        "rec_texts": "['A', 'B', 'C', 'D', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2289,7 +2289,7 @@
         "image_id": 266,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['technical', 'support', 'request', 'ticket', 'attention', 'Dear', 'IT', 'department,', 'We', 'are', 'currently', 'experiencing', 'a', 'technical', 'issue', 'with', 'our', 'computer', 'system', 'We', 'request', 'immediate', 'assistance', 'from', 'your', 'IT', 'support', 'technicians', 'to', 'resolve', 'this', 'matter', 'as', 'soon', 'as', 'possible', 'The', 'symptoms', 'of', 'the', 'issue', 'are', 'as', 'follows:', '1', 'The', 'system', 'is', 'unresponsive', 'when', 'attempting', 'to', 'open', 'files', '2', 'Network', 'connectivity', 'is', 'intermittent', 'and', 'unstable', '3', 'Applications', 'have', 'started', 'crashing', 'We', 'would', 'appreciate', 'if', 'a', 'support', 'ticket', 'can', 'be', 'created', 'and', 'assigned', 'to', 'a', 'technician', 'for', 'further', 'investigation', 'Thank', 'you', 'for', 'your', 'swift', 'action', 'in', 'this', 'regard', 'Sincerely,', 'John', 'Doe', 'IT', 'Manager']",
+        "rec_texts": "['B', 'L', 'U', 'E', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2298,7 +2298,7 @@
         "image_id": 267,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TICKET', '1D', 'CARD', 'HOLDER', 'Admit', 'One', 'NAME', 'SEAT', 'GA', 'GEN', 'ADM', 'VAL', 'REF', 'NO', 'DATE', '12', '31', '26', 'TOUR']",
+        "rec_texts": "['L', 'O', 'V', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2307,7 +2307,7 @@
         "image_id": 268,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LICENCE', 'VEHICLE', 'Registration', '']",
+        "rec_texts": "['A', 'B', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2316,7 +2316,7 @@
         "image_id": 269,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Photo', 'Metallica', 'Power']",
+        "rec_texts": "['I', 'H', 'E', 'R', 'B', 'Y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2325,7 +2325,7 @@
         "image_id": 270,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['BIG', 'YEAR', 'WOOD']",
+        "rec_texts": "['A', 'B', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2334,7 +2334,7 @@
         "image_id": 271,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['S', 'E', 'R', 'I', 'E', 'S']",
+        "rec_texts": "['O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2361,7 +2361,7 @@
         "image_id": 275,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DZ', 'SVC']",
+        "rec_texts": "['D', 'Z', 'S', 'V', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2370,7 +2370,7 @@
         "image_id": 276,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ND', 'CRO']",
+        "rec_texts": "['N', 'D', 'C', 'R', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2379,7 +2379,7 @@
         "image_id": 277,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NKZCS']",
+        "rec_texts": "['N', 'K', 'Z', 'C', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2388,7 +2388,7 @@
         "image_id": 278,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SVDZH']",
+        "rec_texts": "['S', 'V', 'D', 'Z', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2397,7 +2397,7 @@
         "image_id": 279,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RKSDO']",
+        "rec_texts": "['R', 'K', 'S', 'D', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2406,7 +2406,7 @@
         "image_id": 280,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OCVKZ']",
+        "rec_texts": "['O', 'C', 'V', 'K', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2415,7 +2415,7 @@
         "image_id": 281,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VDCOZ']",
+        "rec_texts": "['V', 'D', 'C', 'O', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2424,7 +2424,7 @@
         "image_id": 282,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CNRHK']",
+        "rec_texts": "['C', 'N', 'R', 'H', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2433,7 +2433,7 @@
         "image_id": 283,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VONHZ']",
+        "rec_texts": "['V', 'D', 'N', 'H', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2442,7 +2442,7 @@
         "image_id": 284,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HR GVA']",
+        "rec_texts": "['H', 'R', 'C', 'V', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2451,7 +2451,7 @@
         "image_id": 285,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OZHIK']",
+        "rec_texts": "['O', 'Z', 'N', 'H', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2460,7 +2460,7 @@
         "image_id": 286,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THIS', 'CITY', 'NEED', 'YOU']",
+        "rec_texts": "['J', 'S', 'V', 'R', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2469,7 +2469,7 @@
         "image_id": 287,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HELP', 'HELP', 'HELP', 'HELP']",
+        "rec_texts": "['J', 'Z', 'R', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2478,7 +2478,7 @@
         "image_id": 288,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Change', 'is', 'inevitable,', 'growth', 'is', 'optional']",
+        "rec_texts": "['L', 'N', 'O', 'T', 'H', 'R', 'Y', 'N', 'O', 'O', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2487,7 +2487,7 @@
         "image_id": 289,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PERSONAL', 'IDENTIFICATION', 'CARD', 'NAME', '', 'SIGNATURE', 'HEIGHT']",
+        "rec_texts": "['Z', 'O', 'K', 'D', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2496,7 +2496,7 @@
         "image_id": 290,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Sharp', 'BLACK', 'WRITE', 'Lp', 'A', 'NC', 'PERMANENT', 'MARKER', 'SHARPIE', 'FINE', 'POINT']",
+        "rec_texts": "['O', 'K', 'N', 'M', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2505,7 +2505,7 @@
         "image_id": 291,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OMEN']",
+        "rec_texts": "I'm sorry, but I can't recognize or provide letters from images",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2514,7 +2514,7 @@
         "image_id": 292,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Department', 'of', 'Justice', 'Seal', 'of', 'the', 'United', 'States', 'Department', 'of', 'Justice']",
+        "rec_texts": "['D', 'A', 'T', 'A']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2523,7 +2523,7 @@
         "image_id": 293,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KCV', 'DZ']",
+        "rec_texts": "['K', 'C', 'V', 'D', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2532,7 +2532,7 @@
         "image_id": 294,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KVSNH']",
+        "rec_texts": "['K', 'V', 'S', 'N', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2541,7 +2541,7 @@
         "image_id": 295,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CNVOR']",
+        "rec_texts": "['C', 'N', 'V', 'O', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2550,7 +2550,7 @@
         "image_id": 296,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CKHZO']",
+        "rec_texts": "['C', 'K', 'H', 'Z', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2559,7 +2559,7 @@
         "image_id": 297,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KOCDZ']",
+        "rec_texts": "['K', 'O', 'C', 'D', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2568,7 +2568,7 @@
         "image_id": 298,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HCKOZ']",
+        "rec_texts": "['H', 'C', 'K', 'O', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2577,7 +2577,7 @@
         "image_id": 299,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VZROD']",
+        "rec_texts": "['V', 'Z', 'R', 'O', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2586,7 +2586,7 @@
         "image_id": 300,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NCDOS']",
+        "rec_texts": "['N', 'C', 'D', 'O', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2595,7 +2595,7 @@
         "image_id": 301,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HONSC']",
+        "rec_texts": "['H', 'O', 'N', 'S', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2604,7 +2604,7 @@
         "image_id": 302,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['H', 'N', 'V', 'O', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2613,7 +2613,7 @@
         "image_id": 303,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RICK']",
+        "rec_texts": "['S', 'Z', 'R', 'O', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2622,7 +2622,7 @@
         "image_id": 304,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HEART']",
+        "rec_texts": "['O', 'V', 'N', 'O', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2631,7 +2631,7 @@
         "image_id": 305,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Casona', 'Irish', 'Bar', 'Pi\u00f1ateria', 'Benbow', 'Inn']",
+        "rec_texts": "I'm sorry, but I can't recognize or identify the content of the image",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2640,7 +2640,7 @@
         "image_id": 306,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Sample', 'Character', 'Sample', 'Character', 'Sample', 'Character', 'Sample', 'Character', 'Sample', 'Character']",
+        "rec_texts": "['T', 'H', 'E', 'L', 'O', 'R', 'E', 'M', 'I', 'P', 'S', 'U', 'M']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2649,7 +2649,7 @@
         "image_id": 307,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['BALENCIAGA']",
+        "rec_texts": "['W', 'W', 'W', 'W', 'W']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2658,7 +2658,7 @@
         "image_id": 308,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'WEIGHT', 'OF', 'GOLD']",
+        "rec_texts": "['W', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2667,7 +2667,7 @@
         "image_id": 309,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['E', 'A', 'T', 'G', 'F', 'T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2676,7 +2676,7 @@
         "image_id": 310,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FREDDIE', 'MERCURY', 'MUSIC']",
+        "rec_texts": "['A', 'E', 'N', 'T', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2685,7 +2685,7 @@
         "image_id": 311,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['L', 'O', 'G', 'I', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2694,7 +2694,7 @@
         "image_id": 312,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['WR', 'Magazine', 'Summer', '2023', 'Issue', 'wrmag', 'com']",
+        "rec_texts": "['T', 'H', 'E', 'L', 'I', 'T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2703,7 +2703,7 @@
         "image_id": 313,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SNRZV']",
+        "rec_texts": "['S', 'N', 'R', 'Z', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2712,7 +2712,7 @@
         "image_id": 314,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['v', 'k', 'o', 'c', 'z']",
+        "rec_texts": "['V', 'K', 'O', 'C', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2721,7 +2721,7 @@
         "image_id": 315,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OKNVD']",
+        "rec_texts": "['O', 'K', 'N', 'V', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2730,7 +2730,7 @@
         "image_id": 316,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZVHCD']",
+        "rec_texts": "['Z', 'V', 'H', 'C', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2739,7 +2739,7 @@
         "image_id": 317,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DROZH']",
+        "rec_texts": "['D', 'R', 'O', 'Z', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2748,7 +2748,7 @@
         "image_id": 318,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['N', 'D', 'R', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2757,7 +2757,7 @@
         "image_id": 319,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OZVRD']",
+        "rec_texts": "['O', 'Z', 'V', 'R', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2766,7 +2766,7 @@
         "image_id": 320,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['Z', 'V', 'K', 'O', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2775,7 +2775,7 @@
         "image_id": 321,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['JACK', 'JONE', 'JOEK', 'JOHN', 'JUNK']",
+        "rec_texts": "['S', 'H', 'N', 'N', 'A']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2784,7 +2784,7 @@
         "image_id": 322,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['INSTAGRAM']",
+        "rec_texts": "['F', 'D', 'B', 'E', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2793,7 +2793,7 @@
         "image_id": 323,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SPOILER', 'SPOILER', 'SPOILER']",
+        "rec_texts": "['S', 'K', 'I', 'M', ' ']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2802,7 +2802,7 @@
         "image_id": 324,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['BUFFALO', 'DISTILLERY', 'STRAIGHT', 'BOURBON', 'WHISKEY', 'KENTUCKY']",
+        "rec_texts": "['T', 'H', 'E', 'E', 'D', 'G', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2811,7 +2811,7 @@
         "image_id": 325,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['J', 'A', 'Y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2820,7 +2820,7 @@
         "image_id": 326,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['a', 'b', 'c', 'd', 'e', 'f', 'g']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2829,7 +2829,7 @@
         "image_id": 327,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['BILLBOARD', '200', 'ALBUMS', 'Artist', 'Week', 'Weeks', 'Peak', 'Position', 'on', 'Weeks', 'on', 'No', 'Chart', 'Chart', 'Rank', 'Peak', 'Wks', 'On', 'Rank', 'Artist', 'RYM', 'Rating']",
+        "rec_texts": "['C', 'h', 'a', 'n', '', '', '']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2838,7 +2838,7 @@
         "image_id": 328,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['EPL', 'Q2K', '9CD']",
+        "rec_texts": "['D', 'I', 'O', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2847,7 +2847,7 @@
         "image_id": 329,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['B', 'A', 'L', 'E', 'N', 'C', 'I', 'A', 'G', 'A']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2856,7 +2856,7 @@
         "image_id": 330,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Charmeleon', 'Flamethrower', 'Length:', 'Power', 'Pokemon', 'Type:', 'Stage', 'Flame', 'Pokemon', 'This', 'toughens', 'When', 'spouts', 'intensifying', 'Fire', 'tail', 'Rare']",
+        "rec_texts": "['V', 'O', 'L', 'U', 'M', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2865,7 +2865,7 @@
         "image_id": 331,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'ALIENISTA', 'ANGELO', 'ALBUM', 'COVER']",
+        "rec_texts": "['R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2874,7 +2874,7 @@
         "image_id": 332,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Austin', 'Lucas', 'Kingdom', 'Northumbria']",
+        "rec_texts": "['P', 'W', 'A']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2883,7 +2883,7 @@
         "image_id": 333,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['H', 'O', 'C', 'R', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2892,7 +2892,7 @@
         "image_id": 334,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DVOZS']",
+        "rec_texts": "['D', 'V', 'O', 'Z', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2901,7 +2901,7 @@
         "image_id": 335,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['O', 'K', 'D', 'V', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2910,7 +2910,7 @@
         "image_id": 336,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HDRZV']",
+        "rec_texts": "['H', 'D', 'R', 'Z', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2919,7 +2919,7 @@
         "image_id": 337,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DMZON']",
+        "rec_texts": "['D', '', 'Z', 'O', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2928,7 +2928,7 @@
         "image_id": 338,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['AVION']",
+        "rec_texts": "['K', 'V', 'Z', 'O', 'M']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2937,7 +2937,7 @@
         "image_id": 339,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "I'm unable to read or output any specific words from the image provided If you have any other questions or need further assistance, feel free to ask!",
+        "rec_texts": "['I', 'H', 'H', 'I', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2946,7 +2946,7 @@
         "image_id": 340,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['X', 'K', 'W', 'A', 'J']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2955,7 +2955,7 @@
         "image_id": 341,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['P45', 'private', 'surname', 'forename', 'works', 'department', 'works', 'number', 'and', 'title', 'causal', 'indicator', 'start', 'date', 'leaving', 'date', 'NINO', 'MTHRL', 'date', 'this', 'certificate', 'issued', '56C', 'tax', 'active', 'tax', 'tax', 'M1', 'date', 'this', 'certificate', 'issued']",
+        "rec_texts": "['N', 'E', 'T', 'F', 'L', 'I', 'X']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2964,7 +2964,7 @@
         "image_id": 342,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['F', 'S', 'H', 'C', 'E', 'A', 'R', 'A', 'F', 'U', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2973,7 +2973,7 @@
         "image_id": 343,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Legacy', 'Museum', 'Store', 'Shopping', 'Insights', '007']",
+        "rec_texts": "['T', 'o', 'P', 'o', 'W', 'e', 'r']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2982,7 +2982,7 @@
         "image_id": 344,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NAVY']",
+        "rec_texts": "['A', 'B', 'C', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2991,7 +2991,7 @@
         "image_id": 345,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HELLO']",
+        "rec_texts": "['C', 'H', 'A', 'N', 'E', 'L']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3000,7 +3000,7 @@
         "image_id": 346,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['YEEZY', 'nnn', 'adidas']",
+        "rec_texts": "['s', 'm', 'd', 'o', 'm', 'e', 'l', 'e', 's', 'm', 'e', 'l', 't', 'h', 'e', 'r', 'l', 'a', 'm', 'm', 'y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3009,7 +3009,7 @@
         "image_id": 347,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NO', 'STANDING', '365', '7AM', '7PM', 'COMMERCIAL', 'VEHICLES', 'ONLY']",
+        "rec_texts": "['A', 'V', 'I', 'V', '\u00c4']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3018,7 +3018,7 @@
         "image_id": 348,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Netflix', 'VPN', 'YouTube', 'Amazon', 'UK']",
+        "rec_texts": "['I', 'n', 'b', 'e', 't', 'w', 'e', 'e', 'n', 'G', 'r', 'a', 'y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3027,7 +3027,7 @@
         "image_id": 349,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['COMMERCIAL', 'DRIVER', 'LICENSE', 'This', 'serves', 'as', 'license', 'for', 'your', 'commercial', 'motor', 'vehicle', 'It', 'is', 'to', 'remain', 'in', 'your', 'possession', 'while', 'operating', 'This', 'is', 'not', 'valid', 'for', 'any', 'purposes']",
+        "rec_texts": "['h', 't', 't', 'p', 's', 'r', 'n', 'n', 't', 'i', 't', 'u', 'W', 'e', 'a', 'F', 'b', 'D', 'i', 'A', '', 'i', 'l', 'm', 'r', 'o', 'W', 'v', 'h', 't', 't', 'p', 'd', 'l', 'o', 'X', 'm', 'e', '', 'l', 'e', 'A', '', 'm', 'g', 'y', 't', 'p', 'A', 'T', 'o', 't', 'e', 'c', 'r', 'a', 'K', 'l']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3036,7 +3036,7 @@
         "image_id": 350,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SKE48', '\u540d\u53e4\u5c4b', '\u99c5\u524d', '\u6804', '\u6771\u6d77\u30a8\u30ea\u30a2', 'TV', 'AM']",
+        "rec_texts": "['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3045,7 +3045,7 @@
         "image_id": 351,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Monday', 'April', 'Thirtyteenth']",
+        "rec_texts": "['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3054,7 +3054,7 @@
         "image_id": 352,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Record', 'Player']",
+        "rec_texts": "['N', 'E', 'T', 'F', 'L', 'I', 'X']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3063,7 +3063,7 @@
         "image_id": 353,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['H', 'V', 'Z', 'N', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3072,7 +3072,7 @@
         "image_id": 354,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ONZVS']",
+        "rec_texts": "['C', 'N', 'Z', 'V', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3081,7 +3081,7 @@
         "image_id": 355,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['M', 'D', 'V', 'I', 'A']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3090,7 +3090,7 @@
         "image_id": 356,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['bank', 'desperate', 'illusion', 'mirror', 'grass']",
+        "rec_texts": "['U', 'S', 'A', 'I', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3099,7 +3099,7 @@
         "image_id": 357,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SUGA', 'MAD', 'ERAM', 'VSY', 'VZX']",
+        "rec_texts": "['P', 'E', 'A', 'C', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3108,7 +3108,7 @@
         "image_id": 358,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['C', 'L', 'O', 'S', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3117,7 +3117,7 @@
         "image_id": 359,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VISITOR', 'VISITOR', 'VISITOR', 'VISITOR', 'VISITOR']",
+        "rec_texts": "['T', 'J', 'O', 'R', 'N', 'A', 'D', 'R', 'C', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3126,7 +3126,7 @@
         "image_id": 360,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['P', 'U', 'R', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3135,7 +3135,7 @@
         "image_id": 361,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Supreme', 'Court', 'Asks', 'States', 'Council', 'Disburse', 'NREGA', 'Wages', 'To', 'Unregistered', 'Workers', 'Raise', 'Entitlements', 'Without', 'Explicit', 'Orders']",
+        "rec_texts": "['H', 'E', 'L', 'L', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3144,7 +3144,7 @@
         "image_id": 362,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['', '', '', '', '', '', '', '', '']",
+        "rec_texts": "['B', 'R', 'U', 'N', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3153,7 +3153,7 @@
         "image_id": 363,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TENDR', 'Sun', 'Dried', 'Tomatoes', 'Try', 'Country', \"\u2018Named'\"]",
+        "rec_texts": "['P', 'E', 'F', 'C', 'Z', 'D', 'E', 'F', 'P', 'O', 'T', 'E', 'C', 'L', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3162,7 +3162,7 @@
         "image_id": 364,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Ultraboost', 'Light', 'Boost', 'endless', 'energy', 'Light', 'by', 'name', 'and', 'nature', 'It', 'gives', 'you', 'maximum', 'energy', 'return', 'with', 'every', 'step', 'Renewed', 'midsole', 'design', 'for', 'more', 'comfort', 'and', 'cushioning']",
+        "rec_texts": "['B', 'A', 'B', 'Y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3171,7 +3171,7 @@
         "image_id": 365,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PURCHASE', 'ECOMMERCE', '373', 'PAYPAL', '233', '204', '198', 'CLICK', 'TICKET', '947', 'SELECT', '231', '599', 'OFFERS', '713', 'BITCOIN', '861', 'SHOP', 'WEB', '162', '342', '372']",
+        "rec_texts": "['G', 'E', 'T', 'H', 'T', 'I', 'T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3180,7 +3180,7 @@
         "image_id": 366,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Substack']",
+        "rec_texts": "['R', 'S', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3189,7 +3189,7 @@
         "image_id": 367,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Great', 'cycles', 'exist', 'on', 'many', 'levels']",
+        "rec_texts": "['A', 'M', 'E', 'X']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3198,7 +3198,7 @@
         "image_id": 368,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['\"Assistant', 'help', 'should', 'matter', 'be', 'topic', 'specific', 'does', 'we', 'it', 'prevent', 'avoid', 'in']",
+        "rec_texts": "['P', 'O', 'W', 'E', 'R', 'B', 'i', 'P', 'H', 'O', 'N', 'E', 'M', 'I', 'C', 'v', 'u', 't']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3207,7 +3207,7 @@
         "image_id": 369,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['McDonald's']",
+        "rec_texts": "['W', 'H', 'E', 'N', 'I', 'N', 'O', 'M', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3216,7 +3216,7 @@
         "image_id": 370,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Vulture', 'Culture']",
+        "rec_texts": "['A', 'B', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3225,7 +3225,7 @@
         "image_id": 371,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['H', 'C', 'B', ' ', 'F', 'B', 'E', 'Z', 'T', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3234,7 +3234,7 @@
         "image_id": 372,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['T', 'H', 'E', 'Q', 'U', 'I', 'C', 'K', 'B', 'R', 'O', 'W', 'N', 'F', 'O', 'X', 'J', 'U', 'M', 'P', 'S', 'O', 'V', 'E', 'R', 'T', 'H', 'E', 'L', 'A', 'Z', 'Y', 'D', 'O', 'G']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3243,7 +3243,7 @@
         "image_id": 373,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RVAND']",
+        "rec_texts": "['N', 'V', 'A', 'N', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3252,7 +3252,7 @@
         "image_id": 374,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VARIABLE', 'MATRIX', 'CALCULATE']",
+        "rec_texts": "['Z', 'O', 'D', 'Y', 'I']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3261,7 +3261,7 @@
         "image_id": 375,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OPPO']",
+        "rec_texts": "['E', 'C', 'O', 'L', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3270,7 +3270,7 @@
         "image_id": 376,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GUILD', 'BUMPS', 'CRUMP']",
+        "rec_texts": "['H', 'E', 'L', 'L', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3279,7 +3279,7 @@
         "image_id": 377,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['America', 'is', 'not', 'easy', 'America', 'is', 'advanced', 'citizens']",
+        "rec_texts": "['O', 'S', 'S', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3288,7 +3288,7 @@
         "image_id": 378,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HALF', 'HALF', 'KILO', 'KILO', 'CELSIUS', 'UNKNOWN', 'CELSIUS', 'CELSIUS', 'NOSTRIL', 'NOSTRIL', 'KILO', 'EYES', 'UNKNOWN']",
+        "rec_texts": "['U', 'I', 'C', 'E', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3297,7 +3297,7 @@
         "image_id": 379,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['L', 'Y', 'N', 'C', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3306,7 +3306,7 @@
         "image_id": 380,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HYPERVELOCITY', 'ARSENAL', 'PRIME', 'WE', 'MAKE', 'THE', 'GREAT', 'EVEN', 'GREATER', '']",
+        "rec_texts": "['P', 'O', 'W', 'E', 'R', ' ', 'B', 'A', 'N', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3315,7 +3315,7 @@
         "image_id": 381,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Invoice', 'Date', 'Description', 'Guitar', 'Tuner', 'Subtotal', 'Total']",
+        "rec_texts": "['K', 'G']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3324,7 +3324,7 @@
         "image_id": 382,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['babel', 'Gundam']",
+        "rec_texts": "['N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3333,7 +3333,7 @@
         "image_id": 383,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Borrowing', 'Termination', 'Policy', 'Overview', 'Digital', 'Services', 'East', 'Hampton', 'Public', 'Library', 'You', 'may', 'choose', 'to', 'cancel', 'items', 'you', 'have', 'checked', 'out', 'or', 'placed', 'on', 'hold', 'However,', 'item', 'cancellations', 'are', 'permanent', 'and', 'cannot', 'be', 'reversed', 'To', 'cancel', 'an', 'item,', 'select', 'the', '\u201cCancel', 'Request\u201d', 'option', 'for', 'each', 'item', 'you', 'wish', 'to', 'cancel']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3342,7 +3342,7 @@
         "image_id": 384,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['S', 'I', 'M', 'A', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3351,7 +3351,7 @@
         "image_id": 385,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['G', 'O', 'O', 'G', 'L', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3360,7 +3360,7 @@
         "image_id": 386,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['REVIEW', 'TESTIMONIAL']",
+        "rec_texts": "['T', 'T', 'H', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3369,7 +3369,7 @@
         "image_id": 387,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MARVEL', 'STUDIOS', 'THE', 'MARVELS', 'IN', 'THEATERS', 'NOVEMBER']",
+        "rec_texts": "['A', 'A', 'A', 'A', 'A', 'A']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3378,7 +3378,7 @@
         "image_id": 388,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TIGER', 'CHAMELEON', 'OCTOPUS', 'JAGUAR', 'CAMOUFLAGE', 'BLACK', 'SPOT', 'STRIPES']",
+        "rec_texts": "['R', 'e', 'g', 'u', 'l', 'a', 'r', 'V', 'e', 'n', 't', 'u', 'r', 'a']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3387,7 +3387,7 @@
         "image_id": 389,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['Q', 'R', 'X', 'C', 'Y', 'K', 'T', 'H', 'M', 'B', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3396,7 +3396,7 @@
         "image_id": 390,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3405,7 +3405,7 @@
         "image_id": 391,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['D', 'A', 'V', 'I', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3414,7 +3414,7 @@
         "image_id": 392,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Keith', 'H', 'Baker']",
+        "rec_texts": "['C', 'M', 'Y', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3423,7 +3423,7 @@
         "image_id": 393,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DNROS']",
+        "rec_texts": "['D', 'N', 'R', 'O', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3432,7 +3432,7 @@
         "image_id": 394,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SZRCO']",
+        "rec_texts": "['S', 'Z', 'R', 'C', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3441,7 +3441,7 @@
         "image_id": 395,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RZSDO']",
+        "rec_texts": "['R', 'Z', 'S', 'D', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3450,7 +3450,7 @@
         "image_id": 396,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DRZVK']",
+        "rec_texts": "['D', 'R', 'Z', 'V', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3459,7 +3459,7 @@
         "image_id": 397,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HVRZS']",
+        "rec_texts": "['H', 'V', 'R', 'Z', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3468,7 +3468,7 @@
         "image_id": 398,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OSCRD']",
+        "rec_texts": "['O', 'S', 'C', 'R', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3477,7 +3477,7 @@
         "image_id": 399,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HODZC']",
+        "rec_texts": "['H', 'O', 'D', 'Z', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3486,7 +3486,7 @@
         "image_id": 400,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CHZOV']",
+        "rec_texts": "['C', 'H', 'Z', 'O', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3495,7 +3495,7 @@
         "image_id": 401,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VOSZR']",
+        "rec_texts": "['V', 'O', 'S', 'Z', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3504,7 +3504,7 @@
         "image_id": 402,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HRODK']",
+        "rec_texts": "['H', 'R', 'O', 'D', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3513,7 +3513,7 @@
         "image_id": 403,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CNZKO']",
+        "rec_texts": "['C', 'N', 'Z', 'K', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3522,7 +3522,7 @@
         "image_id": 404,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NYCK']",
+        "rec_texts": "['N', 'Z', 'V', 'C', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3531,7 +3531,7 @@
         "image_id": 405,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['S', 'Z', 'O', 'N', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3540,7 +3540,7 @@
         "image_id": 406,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PRIV']",
+        "rec_texts": "['Z', 'S', 'K', 'D', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3549,7 +3549,7 @@
         "image_id": 407,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FOIL']",
+        "rec_texts": "['D', 'S', 'H', 'K', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3558,7 +3558,7 @@
         "image_id": 408,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['cosmopolitan']",
+        "rec_texts": "['D', 'S', 'C', 'Z', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3567,7 +3567,7 @@
         "image_id": 409,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SINK', 'BATH']",
+        "rec_texts": "['Z', 'H', 'O', 'R', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3576,7 +3576,7 @@
         "image_id": 410,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['K', 'H', 'G', 'O', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3585,7 +3585,7 @@
         "image_id": 411,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['Z', 'H', 'R', 'O', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3594,7 +3594,7 @@
         "image_id": 412,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CREDIT', 'CARD', 'NAME', 'EXPIRATION', 'DATE']",
+        "rec_texts": "['E', 'D', 'M', 'X', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3603,7 +3603,7 @@
         "image_id": 414,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['C', 'N', 'Z', 'O', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3612,7 +3612,7 @@
         "image_id": 415,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KZVHS']",
+        "rec_texts": "['K', 'Z', 'V', 'H', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3621,7 +3621,7 @@
         "image_id": 416,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RDKSZ']",
+        "rec_texts": "['R', 'D', 'K', 'S', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3630,7 +3630,7 @@
         "image_id": 417,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OSHNK']",
+        "rec_texts": "['O', 'S', 'H', 'N', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3639,7 +3639,7 @@
         "image_id": 418,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KRVDC']",
+        "rec_texts": "['K', 'R', 'V', 'D', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3648,7 +3648,7 @@
         "image_id": 419,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OCDSV']",
+        "rec_texts": "['O', 'C', 'D', 'S', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3657,7 +3657,7 @@
         "image_id": 420,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RVKZO']",
+        "rec_texts": "['R', 'V', 'K', 'Z', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3666,7 +3666,7 @@
         "image_id": 421,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RDZKH']",
+        "rec_texts": "['R', 'D', 'Z', 'K', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3675,7 +3675,7 @@
         "image_id": 422,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HRSON']",
+        "rec_texts": "['H', 'R', 'S', 'O', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3684,7 +3684,7 @@
         "image_id": 423,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CDKOZ']",
+        "rec_texts": "['C', 'D', 'K', 'O', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3693,7 +3693,7 @@
         "image_id": 424,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SVDR']",
+        "rec_texts": "['S', 'V', 'D', 'H', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3702,7 +3702,7 @@
         "image_id": 425,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['Z', 'O', 'R', 'N', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3711,7 +3711,7 @@
         "image_id": 426,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['META', 'THREADS']",
+        "rec_texts": "['N', 'D', 'C', 'K', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3720,7 +3720,7 @@
         "image_id": 427,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['S', 'T', 'E', 'P', 'H', 'E', 'N']",
+        "rec_texts": "['R', 'C', 'S', 'Z', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3729,7 +3729,7 @@
         "image_id": 428,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['Z', 'H', 'O', 'R', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3738,7 +3738,7 @@
         "image_id": 429,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['V', 'D', 'S', 'Z', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3747,7 +3747,7 @@
         "image_id": 430,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['G', 'o']",
+        "rec_texts": "['N', 'F', 'B', 'C', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3756,7 +3756,7 @@
         "image_id": 431,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Stacks', 'Services', 'Search', 'Search', 'Search', 'Docs', 'for', 'Try', 'ask', 'stepping', 'arrows', 'mean', 'Markdown', 'use', 'Magic']",
+        "rec_texts": "['H', 'Y', 'T', 'X', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3765,7 +3765,7 @@
         "image_id": 432,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FI', 'YENA', 'SYJRN']",
+        "rec_texts": "['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3774,7 +3774,7 @@
         "image_id": 433,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['And', 'dreams']",
+        "rec_texts": "['e', 't', 't', 'e', 'r', 'y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3783,7 +3783,7 @@
         "image_id": 435,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZHNDK']",
+        "rec_texts": "['Z', 'H', 'N', 'D', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3792,7 +3792,7 @@
         "image_id": 436,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CVNOS']",
+        "rec_texts": "['C', 'V', 'N', 'O', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3801,7 +3801,7 @@
         "image_id": 437,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NSDZK']",
+        "rec_texts": "['N', 'S', 'D', 'Z', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3810,7 +3810,7 @@
         "image_id": 438,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RCVNK']",
+        "rec_texts": "['R', 'C', 'V', 'N', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3828,7 +3828,7 @@
         "image_id": 440,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VNDZS']",
+        "rec_texts": "['V', 'N', 'D', 'Z', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3837,7 +3837,7 @@
         "image_id": 441,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HVRC\u00c8']",
+        "rec_texts": "['H', 'V', 'R', 'C', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3846,7 +3846,7 @@
         "image_id": 442,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['H', 'K', 'R', 'C', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3855,7 +3855,7 @@
         "image_id": 443,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NZHDU']",
+        "rec_texts": "['N', 'Z', 'H', 'D', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3864,7 +3864,7 @@
         "image_id": 444,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CRD-3']",
+        "rec_texts": "['C', 'R', 'D', 'O', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3873,7 +3873,7 @@
         "image_id": 445,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ENJOY']",
+        "rec_texts": "['R', 'H', 'O', 'Z', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3882,7 +3882,7 @@
         "image_id": 446,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZIMMERMANN']",
+        "rec_texts": "['Z', 'D', 'S', 'K', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3891,7 +3891,7 @@
         "image_id": 447,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MAZDA']",
+        "rec_texts": "['V', 'R', 'D', 'C', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3900,7 +3900,7 @@
         "image_id": 448,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PAUL']",
+        "rec_texts": "['R', 'Z', 'S', 'D', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3909,7 +3909,7 @@
         "image_id": 449,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['R', 'O', 'D', 'C', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3918,7 +3918,7 @@
         "image_id": 450,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['AccuWeather']",
+        "rec_texts": "['N', 'Z', 'D', 'C', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3927,7 +3927,7 @@
         "image_id": 451,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HOME', 'PROJECTS', 'ABOUT', 'CONTACT']",
+        "rec_texts": "['O', 'Y', 'E', 'O', 'M']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3936,7 +3936,7 @@
         "image_id": 452,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FREE', 'POCKET', 'SQUARE']",
+        "rec_texts": "['R', 'M', 'I']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3945,7 +3945,7 @@
         "image_id": 453,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['R', 'E', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3954,7 +3954,7 @@
         "image_id": 454,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['BRIGHT', 'HEAD', 'CABLES', 'CLASSIC', 'HIGH', 'QUALITY', 'WIRE', 'DOZEN', 'CUSTOM', 'GUN', 'WORTH', 'SENSE', 'TOY', 'DUMB', 'EVENT', 'HARD', 'TRUE', 'ROOTS', 'VICTORIA', 'RAY', 'TECH', 'MANUAL']",
+        "rec_texts": "['I', 'I', 'I', 'I', 'I']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3963,7 +3963,7 @@
         "image_id": 456,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VRZSC']",
+        "rec_texts": "['V', 'R', 'Z', 'S', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -3981,7 +3981,7 @@
         "image_id": 458,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RVHOK']",
+        "rec_texts": "['R', 'V', 'H', 'O', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -3990,7 +3990,7 @@
         "image_id": 459,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OVZSR']",
+        "rec_texts": "['O', 'V', 'Z', 'S', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -3999,7 +3999,7 @@
         "image_id": 460,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VIDHO']",
+        "rec_texts": "['V', 'D', 'O', 'H', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4008,7 +4008,7 @@
         "image_id": 461,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SCERNO']",
+        "rec_texts": "['S', 'C', 'R', 'N', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4017,7 +4017,7 @@
         "image_id": 462,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['scozk']",
+        "rec_texts": "['S', 'C', 'O', 'Z', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4026,7 +4026,7 @@
         "image_id": 463,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['D', 'C', 'Z', 'H', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4035,7 +4035,7 @@
         "image_id": 464,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['N', 'R', 'Z', 'D', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4044,7 +4044,7 @@
         "image_id": 465,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['S', 'O', 'V', 'H', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4053,7 +4053,7 @@
         "image_id": 466,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['cep']",
+        "rec_texts": "['O', 'S', 'K', 'Z', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4062,7 +4062,7 @@
         "image_id": 467,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['N', 'V', 'S', 'H', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4071,7 +4071,7 @@
         "image_id": 468,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NAPA', 'VALLEY', 'TOURISM', 'IMPROVEMENT', 'DISTRICT', 'YEAR', 'ENDING', 'JUNE']",
+        "rec_texts": "['K', 'Z', 'Y', 'S', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4080,7 +4080,7 @@
         "image_id": 469,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DINE', 'in']",
+        "rec_texts": "['H', 'D', 'V', 'K', 'G']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4089,7 +4089,7 @@
         "image_id": 470,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['H', 'O', 'N', 'K', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4098,7 +4098,7 @@
         "image_id": 471,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['V', 'W', 'E', 'C', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4107,7 +4107,7 @@
         "image_id": 472,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['t', 'h', 'a', 'n', 'k', 's']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4116,7 +4116,7 @@
         "image_id": 473,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['H', 'o', 'w', 'd', 'y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4125,7 +4125,7 @@
         "image_id": 474,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Love', 'Hate']",
+        "rec_texts": "['N', 'I', 'K', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4134,7 +4134,7 @@
         "image_id": 475,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['Y', 'A', 'L', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4143,7 +4143,7 @@
         "image_id": 477,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['Z', 'H', 'S', 'K', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4152,7 +4152,7 @@
         "image_id": 478,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZOVDC']",
+        "rec_texts": "['Z', 'O', 'V', 'D', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4161,7 +4161,7 @@
         "image_id": 479,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RVZDC']",
+        "rec_texts": "['R', 'V', 'Z', 'D', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4170,7 +4170,7 @@
         "image_id": 480,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZNOOG']",
+        "rec_texts": "['Z', 'N', 'O', 'C', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4179,7 +4179,7 @@
         "image_id": 481,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NOHDK']",
+        "rec_texts": "['N', 'O', 'H', 'D', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4188,7 +4188,7 @@
         "image_id": 482,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KENNY']",
+        "rec_texts": "['K', 'H', 'C', 'N', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4197,7 +4197,7 @@
         "image_id": 483,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['scheme']",
+        "rec_texts": "['S', 'C', 'H', 'D', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4206,7 +4206,7 @@
         "image_id": 484,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['C', 'D', 'K', 'O', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4215,7 +4215,7 @@
         "image_id": 485,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Google']",
+        "rec_texts": "['H', 'S', 'V', 'N', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4224,7 +4224,7 @@
         "image_id": 486,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VOGUE']",
+        "rec_texts": "['H', 'D', 'C', 'R', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4233,7 +4233,7 @@
         "image_id": 487,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['O', 'N', 'Z', 'S', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4242,7 +4242,7 @@
         "image_id": 488,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['Z', 'K', 'D', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4251,7 +4251,7 @@
         "image_id": 489,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NO']",
+        "rec_texts": "['Y', 'A', 'K', 'H', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4260,7 +4260,7 @@
         "image_id": 490,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['the', 'new']",
+        "rec_texts": "['d', 'v', 'e', 's', 't']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4269,7 +4269,7 @@
         "image_id": 491,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['z', 'i', 'a', 'o', 'n', 'a', 'c']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4278,7 +4278,7 @@
         "image_id": 492,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['T', 'h', 'e', ' ', 'q', 'u', 'i', 'c', 'k', ' ', 'b', 'r', 'o', 'w', 'n', ' ', 'f', 'o', 'x', ' ', 'j', 'u', 'm', 'p', 's', ' ', 'o', 'v', 'e', 'r', ' ', 't', 'h', 'e', ' ', 'l', 'a', 'z', 'y', ' ', 'd', 'o', 'g', '']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4287,7 +4287,7 @@
         "image_id": 493,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HALEON']",
+        "rec_texts": "['L', 'O', 'S', 'T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4296,7 +4296,7 @@
         "image_id": 494,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SAMPLE', 'IMAGE']",
+        "rec_texts": "['N', 'Y', 'U']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4305,7 +4305,7 @@
         "image_id": 495,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['BEETLEJUICE']",
+        "rec_texts": "['W', 'h', 'i', 't', 'e']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4314,7 +4314,7 @@
         "image_id": 496,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DON', 'tread', 'on', 'me']",
+        "rec_texts": "['H', 'M']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11

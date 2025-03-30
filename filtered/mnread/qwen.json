@@ -552,7 +552,11 @@
         "image_id": 61,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [],
+        "rec_texts": [
+            "word1",
+            "word2",
+            "word3"
+        ],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -561,11 +565,7 @@
         "image_id": 62,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            "word1",
-            "word2",
-            "word3"
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1160,7 +1160,17 @@
             "word7",
             "word8",
             "word9",
-            "word10"
+            "word10",
+            "word11",
+            "word12",
+            "word13",
+            "word14",
+            "word15",
+            "word16",
+            "word17",
+            "word18",
+            "word19",
+            "word20"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3907,6 +3917,26 @@
             "word7",
             "word8",
             "word9",
+            "word10"
+        ],
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 425,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": [
+            "word1",
+            "word2",
+            "word3",
+            "word4",
+            "word5",
+            "word6",
+            "word7",
+            "word8",
+            "word9",
             "word10",
             "word11",
             "word12",
@@ -3919,15 +3949,6 @@
             "word19",
             "word20"
         ],
-        "rec_score": 0,
-        "det_score": 0,
-        "filter": 7
-    },
-    {
-        "image_id": 425,
-        "category_id": 1,
-        "polys": [],
-        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -4260,11 +4281,7 @@
         "image_id": 462,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            "word1",
-            "word2",
-            "word3"
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -4606,28 +4623,7 @@
         "image_id": 500,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            "word1",
-            "word2",
-            "word3",
-            "word4",
-            "word5",
-            "word6",
-            "word7",
-            "word8",
-            "word9",
-            "word10",
-            "word11",
-            "word12",
-            "word13",
-            "word14",
-            "word15",
-            "word16",
-            "word17",
-            "word18",
-            "word19",
-            "word20"
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -4732,7 +4728,7 @@
         "filter": 3
     },
     {
-        "image_id": 512,
+        "image_id": 1680,
         "category_id": 1,
         "polys": [],
         "rec_texts": [],
@@ -5770,7 +5766,28 @@
         "image_id": 627,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [],
+        "rec_texts": [
+            "word1",
+            "word2",
+            "word3",
+            "word4",
+            "word5",
+            "word6",
+            "word7",
+            "word8",
+            "word9",
+            "word10",
+            "word11",
+            "word12",
+            "word13",
+            "word14",
+            "word15",
+            "word16",
+            "word17",
+            "word18",
+            "word19",
+            "word20"
+        ],
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -5953,7 +5970,18 @@
         "image_id": 645,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [],
+        "rec_texts": [
+            "word1",
+            "word2",
+            "word3",
+            "word4",
+            "word5",
+            "word6",
+            "word7",
+            "word8",
+            "word9",
+            "word10"
+        ],
         "rec_score": 0,
         "det_score": 0,
         "filter": 7

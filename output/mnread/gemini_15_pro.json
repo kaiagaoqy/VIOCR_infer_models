@@ -39,7 +39,7 @@
         "image_id": 4,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['We', 'like', 'to', 'visit', 'our', 'local', 'orchard', 'when', 'wc', 'nccd', 'apple', 'juicc']",
+        "rec_texts": "['We', 'like', 'to', 'visit', 'our', 'local', 'orchard', 'when', 'we', 'need', 'apple', 'juice']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -75,7 +75,7 @@
         "image_id": 8,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Only', 'the', 'kids', 'had', 'a', 'piece', 'of', 'that', 'famous', 'chocolate', 'cocoa', 'pie']",
+        "rec_texts": "['Only', 'the', 'kids', 'had', 'a', 'piece', 'of', 'her', 'famous', 'chocolatecream', 'pie']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -84,7 +84,7 @@
         "image_id": 9,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Es', 'bringt', 'viel', 'lev', 'mifter', 'nennen', 'Lid', 'be', 'bedr\u00fcckt']",
+        "rec_texts": "['He', 'looked', 'up', 'at', 'the', 'top', 'of', 'the', 'mountain', 'that', 'he', 'had', 'climbed']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -93,7 +93,7 @@
         "image_id": 10,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['garder', 'en', 'mer', 'laquelle', 'd\u00e9\u00e7oit', 'les', 'esprits', 'les']",
+        "rec_texts": "['Next', 'time', 'we', 'come', 'here', 'you', 'should', 'ask', 'us', 'to', 'pay', 'for', 'the', 'tea']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -102,7 +102,7 @@
         "image_id": 11,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['In', 'the', 'the', 'on', 'the', 'your', 'I', 'seen', 'on', 'or', 'options']",
+        "rec_texts": "['In', 'the', 'distance', 'they', 'could', 'just', 'make', 'out', 'our', 'new', 'lighthouse']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -111,7 +111,7 @@
         "image_id": 12,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['a', 'random', 'data', 'is', 'provided', 'as', 'an', 'input']",
+        "rec_texts": "['Sometime', 'it', 'is', 'best', 'to', 'walk', 'through', 'the', 'park', 'but', 'not', 'always']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -120,7 +120,7 @@
         "image_id": 13,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['There', 'is', 'a', 'lot', 'of', 'the', 'evidence', 'from', 'one', 'case']",
+        "rec_texts": "['Whenever', 'you', 'pull', 'on', 'this', 'rope', 'it', 'rings', 'the', 'alarm', 'bell', 'once']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -129,7 +129,7 @@
         "image_id": 14,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['at', 'least', '1', 'x', '10', 'cfu/g']",
+        "rec_texts": "['The', 'only', 'thing', 'they', 'forgot', 'to', 'bring', 'was', 'a', 'packet', 'of', 'peanuts']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -138,7 +138,7 @@
         "image_id": 15,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MAXIMUM', 'CAPACITY', '7', 'PERSONS', 'OR', '1500', 'LBS']",
+        "rec_texts": "['There', 'is', 'the', 'initial', 'earth', 'pod', 'site', 'as', 'shown', 'by', 'instruments']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -147,7 +147,7 @@
         "image_id": 16,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['the', 'sum', 'of', 'the', 'first', 'n', 'terms', 'of', 'a', 'geometric', 'progression', 'is', 'given', 'by', 'S_n', '=', '\\frac{a(1-r^n)}{1-r}', 'where', 'a', 'is', 'the', 'first', 'term', 'and', 'r', 'is', 'the', 'common', 'ratio']",
+        "rec_texts": "['The', 'play', 'is', 'somewhat', 'absurdist', 'the', 'problems', 'faced', 'by', 'these', 'two', 'ghosts', 'in']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -156,7 +156,7 @@
         "image_id": 17,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TABLE', 'OF']",
+        "rec_texts": "['They', 'had', 'made', 'a', 'start', 'They', 'had', 'problems']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -165,7 +165,7 @@
         "image_id": 18,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'Great', 'Gatsby']",
+        "rec_texts": "['to', 'work', 'keeps', 'me', 'all', 'company', 'makes', 'the', 'working', 'worthwhile']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -174,7 +174,7 @@
         "image_id": 19,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['Function', 'displays', 'whether', 'the', 'input', 'number', 'is', 'even']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -237,7 +237,7 @@
         "image_id": 26,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['After', 'the', 'visitors', 'we', 'put', 'on', 'our', 'shoes', 'and', 'ran', 'to', 'the', 'buses']",
+        "rec_texts": "['After', 'the', 'rain', 'storms', 'we', 'put', 'on', 'our', 'shoes', 'and', 'ran', 'in', 'the', 'leaves']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -246,7 +246,7 @@
         "image_id": 27,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'cats', 'have', 'decided', 'the', 'children', 'have', 'to', 'leave', 'party', 'plates']",
+        "rec_texts": "['The', 'teacher', 'decided', 'to', 'choose', 'love', 'as', 'her', 'party', 'present']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -255,7 +255,7 @@
         "image_id": 28,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['It', 'takes', 'two', 'to', 'make', 'an', 'accident', 'It', 'takes', 'between', 'six', 'and', 'eight', 'to', 'clear', 'it']",
+        "rec_texts": "['It', 'was', 'the', 'best', 'of', 'times', 'it', 'was', 'the', 'worst', 'of', 'times']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -264,7 +264,7 @@
         "image_id": 29,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['To', 'determine', 'the', 'values', 'of', 'a', 'and', 'b',\n'Given', 'that', 'f(x)', '=', 'ax^2', '+', 'bx', '+', '3',\n'f(1)', '=', '7',\n'f(-1)', '=', '1']",
+        "rec_texts": "['If', 'you', 'cannot', 'see', 'the', 'image', 'or', 'read', 'the', 'text', 'please', 'let', 'me', 'know']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -273,7 +273,7 @@
         "image_id": 30,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']",
+        "rec_texts": "['Given', 'the', 'following', 'information', 'about', 'a', 'parallelogram', 'ABCD', 'find', 'the', 'missing', 'values', 'of', 'x', 'and', 'y', 'AB', '=', '4x', '+', '7', 'DC', '=', '53', 'BC', '=', '2y', '+', '3', 'AD', '=', '30']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -282,7 +282,7 @@
         "image_id": 31,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ACE', 'HARDWARE', 'Helpful', 'Hardware', 'Man']",
+        "rec_texts": "['Given', 'the', 'following', 'system', 'of', 'equations', 'x', '+', 'y', '=', '5', '3x', '-', '2y', '=', '0', 'Solve', 'for', 'x']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -291,7 +291,7 @@
         "image_id": 32,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['you', 'are', 'currently', 'offline']",
+        "rec_texts": "['of', 'the', 'following', 'is', 'an', 'example', 'of', 'deductive', 'reasoning']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -381,7 +381,7 @@
         "image_id": 42,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Our', 'mother', 'told', 'us', 'that', 'we', 'should', 'wear', 'heavy', 'coats', 'outside']",
+        "rec_texts": "['Our', 'mother', 'tells', 'us', 'that', 'we', 'should', 'wear', 'heavy', 'coats', 'outside']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -390,7 +390,7 @@
         "image_id": 43,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Most', 'people', 'like', 'to', 'see', 'the', 'source', 'of', 'the', 'water', 'as', 'the', 'source']",
+        "rec_texts": "['Most', 'people', 'like', 'to', 'be', 'the', 'center', 'of', 'the', 'table', 'at', 'the', 'river']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -408,7 +408,7 @@
         "image_id": 45,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Want', 'some', 'more', 'Want', 'some', 'more', 'Want', 'some', 'more']",
+        "rec_texts": "['', '', '', '', '', '', '', '']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -417,7 +417,7 @@
         "image_id": 46,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']",
+        "rec_texts": "['The', 'following', 'table', 'presents', 'the', 'number', 'of', 'reported', 'cases', 'of', 'measles', 'in', 'the', 'United', 'States', 'for', 'the', 'years', '2011-2019', 'Year', 'Cases', '2011', '220', '2012', '55', '2013', '187', '2014', '667', '2015', '188', '2016', '86', '2017', '120', '2018', '372', '2019', '1282', 'Source:', 'Centers', 'for', 'Disease', 'Control', 'and', 'Prevention']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -507,7 +507,7 @@
         "image_id": 56,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SAVE', 'YOUR', 'SPOT']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -543,7 +543,7 @@
         "image_id": 60,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['I', 'have', 'easy', 'credit', 'and', 'so', 'the', 'rent', 'was', 'always', 'paid', 'by', 'credit']",
+        "rec_texts": "['From', 'easy', 'setup', 'and', 'the', 'intuitive', 'My', 'Vodafone']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -552,7 +552,7 @@
         "image_id": 61,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Given', 'the', 'function', 'f(x)=x^2-2x+3,', 'find', 'the', 'average', 'rate', 'of', 'change', 'of', 'f', 'from', 'x=0', 'to', 'x=2']",
+        "rec_texts": "['Consider', 'the', 'following', 'two', 'projects:', 'Project', 'A:', '-$40', '$25', '$25', '$25', 'Project', 'B:', '-$60', '$30', '$30', '$30', 'Find', 'the', 'IRR', 'for', 'each', 'project']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -561,7 +561,7 @@
         "image_id": 62,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Introduction', 'to', 'Neural', 'Networks', 'Part', '1', 'Foundations', 'of', 'Deep', 'Learning']",
+        "rec_texts": "['', '', '', '']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -903,7 +903,7 @@
         "image_id": 100,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VINTAGE', 'STYLE', 'CLOTHES', 'SHOP']",
+        "rec_texts": "['OF', 'A', 'KIND']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -921,7 +921,7 @@
         "image_id": 102,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HIPAA']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -930,7 +930,7 @@
         "image_id": 103,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['B', 'C', 'G']",
+        "rec_texts": "['B', 'R', 'I', 'T', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1137,7 +1137,7 @@
         "image_id": 126,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['In', 'the', 'cupboard', 'you', 'she', 'said', 'find', 'my', 'two', 'plates', 'of', 'mock', 'food']",
+        "rec_texts": "['In', 'the', 'cupboard', 'you', 'she', 'said', 'find', 'my', 'two', 'plates', 'of', 'uncut', 'bread']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1146,7 +1146,7 @@
         "image_id": 127,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['It', 'is', 'raining', 'outside', 'and', 'we', 'decided', 'that', 'my', 'passenger', 'had', 'better']",
+        "rec_texts": "['It', 'is', 'raining', 'outside', 'and', 'we', 'decided', 'that', 'my', 'younger', 'brother']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1155,7 +1155,7 @@
         "image_id": 128,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['They', 'were', 'surprised', 'at', 'the', 'unexpected', 'it', 'was', 'rainy', 'after']",
+        "rec_texts": "['They', 'were', 'waiting', 'for', 'the', 'scheduled', 'I', 'was', 'aware', 'of', 'them']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1164,7 +1164,7 @@
         "image_id": 129,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['A', 'sequence', 'is', 'the', 'arrangement', 'of', 'elements', 'in', 'a', 'succession', 'or', 'in', 'a', 'specified', 'order']",
+        "rec_texts": "['It', 'appears', 'that', 'the', 'provided', 'image', 'is', 'too', 'blurred']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1173,7 +1173,7 @@
         "image_id": 130,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['A', 'comprehensive', 'overview', 'of', 'key', 'aspects', 'of', '', 'Time', 'Series', 'Forecasting', ':', 'Data', 'Preprocessing', ':', 'Handling', 'missing', 'values', 'and', 'outliers', 'Feature', 'Engineering', ':', 'Creating', 'time-based', 'features', 'Model', 'Selection', ':', 'Choosing', 'appropriate', 'models', 'Evaluation', 'Metrics', ':', 'Assessing', 'forecast', 'accuracy']",
+        "rec_texts": "['Let', 'the', 'cost', 'of', 'each', 'chair', 'be', '$x$', 'and', 'the', 'cost', 'of', 'each', 'table', 'be', '$y$', 'Given', 'that', '$4$', 'chairs', 'and', '$3$', 'tables', 'cost', 'a', 'total', 'of', '$2100$', 'So,', '$4x', '+', '$3y$', '$=$', '$2100$', '(1)', '$5$', 'chairs', 'and', '$2$', 'tables', 'cost', '$1750$', 'So,', '$5x', '+', '$2y$', '$=$', '$1750$', '(2)']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1182,7 +1182,7 @@
         "image_id": 131,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ingredients', '2', 'cups', 'all-purpose', 'flour', '1', 'teaspoon', 'baking', 'soda', '1/2', 'teaspoon', 'salt', '1/2', 'cup', '(1', 'stick)', 'unsalted', 'butter', 'softened', '3/4', 'cup', 'granulated', 'sugar', '3/4', 'cup', 'packed', 'light', 'brown', 'sugar', '1', 'teaspoon', 'pure', 'vanilla', 'extract', '2', 'large', 'eggs', '2', 'cups', 'chocolate', 'chips']",
+        "rec_texts": "['These', 'questions', 'are', 'examples', 'of', 'the', 'types', 'of', 'questions', 'that', 'might', 'appear', 'on', 'the', 'Scholastic', 'Assessment', 'Test', 'SAT', 'The', 'questions', 'are', 'designed', 'to', 'measure', 'your', 'ability', 'to', 'reason', 'with', 'facts', 'and', 'figures']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1191,7 +1191,7 @@
         "image_id": 132,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Start', 'your', 'free', 'trial']",
+        "rec_texts": "['of', 'the', 'fundamental', 'theorem', 'of', 'calculus']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1200,7 +1200,7 @@
         "image_id": 133,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['of', 'the', 'most', 'famous', 'and', 'influential', 'philosophers', 'of', 'all', 'time']",
+        "rec_texts": "I cannot see any discernible words in the provided blurry white image  Therefore, I return an empty list as per the requested format:\n\n[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1209,7 +1209,7 @@
         "image_id": 134,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DUCK', 'DUCK', 'GOOSE']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1218,7 +1218,7 @@
         "image_id": 135,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['of', 'the', 'most', 'common', 'causes', 'of', 'hair', 'loss']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1317,7 +1317,7 @@
         "image_id": 146,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Your', 'tetru', 'said', 'that', 'we', 'should', 'go', 'to', 'the', 'island', 'by', 'this', 'week']",
+        "rec_texts": "['Your', 'hero', 'said', 'that', 'we', 'should', 'go', 'to', 'the', 'island', 'by', 'this', 'week']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1326,7 +1326,7 @@
         "image_id": 147,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Their', 'partner', 'asked', 'me', 'if', 'the', 'guard', 'bid', 'the', 'boys', 'by', 'the', 'ball']",
+        "rec_texts": "['Their', 'partner', 'asked', 'me', 'if', 'the', 'guard', 'hid', 'the', 'bow', 'by', 'the', 'hall']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1335,7 +1335,7 @@
         "image_id": 148,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'villa', 'said', 'that', 'both', 'of', 'you', 'have', 'to', 'motor', 'to', 'the', 'bridge']",
+        "rec_texts": "['The', 'witch', 'said', 'that', 'both', 'of', 'you', 'have', 'to', 'motor', 'to', 'the', 'bridge']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1344,7 +1344,7 @@
         "image_id": 149,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Travel', 'lub', 'ux', 'warrior', 'is', 'u', 'Luego', 'ti', 'le', 'leo']",
+        "rec_texts": "['The', 'soldier', 'told', 'me', 'your', 'neighbors', 'lost', 'the', 'maps', 'in', 'the', 'bag']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1353,7 +1353,7 @@
         "image_id": 150,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['travelling', 'around', 'with', 'bros']",
+        "rec_texts": "['Instead', 'of', 'watching', 'movies', 'you', 'all', 'will', 'march', 'to', 'the', 'prison']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1362,7 +1362,7 @@
         "image_id": 151,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['You', 'should', 'be', 'more', 'bold']",
+        "rec_texts": "['Your', 'uncle', 'asked', 'if', 'the', 'soldiers', 'wanted', 'the', 'snow', 'in', 'the', 'bar']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1371,7 +1371,7 @@
         "image_id": 152,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['IN', 'AMERICA', 'IF', 'YOU', 'WANT', 'TO', 'IMPRESS']",
+        "rec_texts": "['He', 'noticed', 'that', 'our', 'brother', 'told', 'me', 'not', 'to', 'play', 'by', 'the', 'pond']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1380,7 +1380,7 @@
         "image_id": 153,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Is', 'Istanbul', 'in', 'Europe', 'or', 'Asia']",
+        "rec_texts": "['Her', 'doctor', 'told', 'you', 'to', 'study', 'a', 'few', 'long', 'stories', 'about', 'music']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1389,7 +1389,7 @@
         "image_id": 154,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['All', 'Models', '3', '5', 'Model', '3', 'Model', 'Y']",
+        "rec_texts": "['You', 'usually', 'like', 'to', 'read', 'books', 'but', 'find', 'before', 'going', 'to', 'bed']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1398,7 +1398,7 @@
         "image_id": 155,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['A', 'Novel', 'Approach', 'for', 'Improving', 'the', 'Performance', 'of', 'Cross', 'Domain', 'Few', 'Shot', 'Learning']",
+        "rec_texts": "['by', 'water', 'and', 'air', 'the', 'propellant', 'the', 'glider', 'and', 'the', 'breasts']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1407,7 +1407,7 @@
         "image_id": 156,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['I', 'V', 'am', 'so', 'V']",
+        "rec_texts": "['After', 'reading', 'support', 'they', 'also', 'indicate', 'certain', 'their', 'paid']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1416,7 +1416,7 @@
         "image_id": 157,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'quick', 'brown', 'fox']",
+        "rec_texts": "['We', 'need', 'to', 'put', 'the', 'people', 'that', 'represent', 'these', 'regions']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1425,7 +1425,7 @@
         "image_id": 158,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['BLUE', 'LAKE']",
+        "rec_texts": "['the', 'people', 'asked', 'if', 'someone', 'knew', 'the', 'other', 'one', 'before']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1434,7 +1434,7 @@
         "image_id": 159,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['-', '']",
+        "rec_texts": "['Local', 'Directory', 'of', 'Services', 'Emergency', 'Numbers', 'Other', 'Useful', 'Numbers']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1506,7 +1506,7 @@
         "image_id": 167,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'young', 'girl', 'told', 'me', 'like', 'to', 'walk', 'near', 'the', 'road', 'after', 'down']",
+        "rec_texts": "['The', 'young', 'girl', 'told', 'me', 'not', 'to', 'walk', 'near', 'the', 'road', 'after', 'dawn']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1515,7 +1515,7 @@
         "image_id": 168,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'delicious', 'cake', 'is', 'up', 'of', 'apple', 'juice', 'and', 'ice', 'cream']",
+        "rec_texts": "['The', 'soldiers', 'shared', 'a', 'cold', 'cup', 'of', 'apple', 'juice', 'and', 'ice', 'cream']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1524,7 +1524,7 @@
         "image_id": 169,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['along', 'with', 'raising', 'he', 'cost', 'to', 'fly', 'to', 'Las', 'Cruces']",
+        "rec_texts": "['Along', 'with', 'visiting', 'he', 'may', 'like', 'to', 'play', 'in', 'the', 'room', 'tonight']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1533,7 +1533,7 @@
         "image_id": 170,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['i', 'have', 'data', 'g', 'browser', 'on', 'all', 'my', 'id', 'tabs', 'it', 'starts', 'on', 'tab']",
+        "rec_texts": "['After', 'doing', 'lessons', 'you', 'all', 'might', 'skate', 'to', 'the', 'canyon', 'today']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1542,7 +1542,7 @@
         "image_id": 171,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['He', 'walks', 'with', 'a', 'swagger', 'and', 'a', 'limp']",
+        "rec_texts": "['My', 'son', 'told', 'us', 'that', 'the', 'major', 'found', 'the', 'records', 'in', 'the', 'bank']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1551,7 +1551,7 @@
         "image_id": 172,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['I', 'would', 'like', 'to', 'take', 'the', 'exam', 'on', 'Monday', 'at', '9am', 'at', 'Level', '3', 'Room', '302']",
+        "rec_texts": "['Their', 'dad', 'hoped', 'all', 'the', 'farmers', 'saw', 'the', 'plates', 'over', 'the', 'dam']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1560,7 +1560,7 @@
         "image_id": 173,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['If', '3', 'is', 'added', 'to', 'twice', 'a', 'number', 'the', 'result', 'is', '17']",
+        "rec_texts": "['Their', 'friends', 'asked', 'you', 'all', 'to', 'wish', 'the', 'minor', 'this', 'morning']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1569,7 +1569,7 @@
         "image_id": 174,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DATE', 'OF', 'BIRTH', 'PLACE', 'OF', 'BIRTH']",
+        "rec_texts": "['They', 'usually', 'read', 'a', 'book', 'for', 'one', 'hour', 'in', 'while', 'eating', 'supper']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1578,7 +1578,7 @@
         "image_id": 175,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LIST', 'OF', 'USERS']",
+        "rec_texts": "['I', 'noted', 'that', 'a', 'small', 'clipboard', 'had', 'fallen', 'to', 'rack']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1587,7 +1587,7 @@
         "image_id": 176,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['of', 'the', 'sum']",
+        "rec_texts": "['In', 'place', 'of', 'a', 'wedding', 'dance,', 'they', 'will', 'carry', 'a', 'canoe', 'to', 'the', 'bridge']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1596,7 +1596,7 @@
         "image_id": 177,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Try', 'again']",
+        "rec_texts": "['The', 'butterfly', 'was', 'beautiful', 'flying', 'by', 'in', 'such', 'a', 'delicate', 'way', 'it', 'was', 'dancing']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1605,7 +1605,7 @@
         "image_id": 178,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KINETIC', 'SAND']",
+        "rec_texts": "['The', 'likelihood', 'that', 'someone', 'draws', 'the', 'proper', 'conclusions']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1614,7 +1614,7 @@
         "image_id": 179,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Hello', 'AI']",
+        "rec_texts": "['The', 'minimum', 'is', '0', 'when', 'x', 'is', '0', 'or', 'when', 'x', 'is', '4']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1677,7 +1677,7 @@
         "image_id": 186,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['He', 'noticed', 'that', 'one', 'could', 'run', 'around', 'the', 'city', 'in', 'the', 'morning']",
+        "rec_texts": "['He', 'noticed', 'that', 'cars', 'and', 'vans', 'around', 'the', 'city', 'in', 'the', 'morning']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1686,7 +1686,7 @@
         "image_id": 187,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'professor', 'had', 'a', 'dish', 'of', 'ice', 'cream', 'and', 'was', 'enjoying', 'her', 'treat']",
+        "rec_texts": "['The', 'professor', 'had', 'a', 'dish', 'of', 'chicken', 'and', 'three', 'eggs', 'for', 'lunch']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1695,7 +1695,7 @@
         "image_id": 188,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['These', 'friends', 'asked', 'me', 'for', 'a', 'color', 'photo', 'of', 'each', 'with', 'them']",
+        "rec_texts": "['These', 'diamonds', 'reflect', 'one', 'the', 'a', 'cold', 'places', 'of', 'north', 'north', 'america']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1704,7 +1704,7 @@
         "image_id": 189,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['You', 'are', 'required', 'to', 'determine', 'the', 'possible', 'values', 'of', 'the', 'variable', 'x', 'and', 'then']",
+        "rec_texts": "['You', 'are', 'invited', 'to', 'attend', 'the', 'previews', 'sessions', 'on', 'and', 'and']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1713,7 +1713,7 @@
         "image_id": 190,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'average', 'speed', 'of', 'a', 'car', 'is', '75', 'km/h', 'It', 'travels', 'for', '3', 'hours', 'How', 'much', 'distance', 'does', 'it', 'cover?']",
+        "rec_texts": "['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1722,7 +1722,7 @@
         "image_id": 191,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Top', 'Gainers', 'Name', 'Last', 'Chg', '%Chg', 'Vol', 'AMC', 'Entertainment', 'Holdings', 'Inc', 'Class', 'A', '719', '043', '637%', '3897M', 'Marathon', 'Digital', 'Holdings', 'Inc', '1670', '071', '443%', '817M', 'Upstart', 'Holdings', 'Inc', '1614', '054', '346%', '712M', 'Phunware', 'Inc', '08380', '00232', '284%', '493M', 'Sunnova', 'Energy', 'International', 'Inc', '1618', '042', '266%', '217M']",
+        "rec_texts": "['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1731,7 +1731,7 @@
         "image_id": 192,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GINGER', 'SNAPS']",
+        "rec_texts": "['In', 'this', 'study', 'we', 'investigated', 'the', 'effects', 'of', 'different', 'types', 'of', 'music', 'on', 'the', 'cognitive', 'performance', 'of', 'participants', 'while', 'they', 'completed', 'a', 'series', 'of', 'tasks', 'The', 'results', 'showed', 'that', 'listening', 'to', 'classical', 'music', 'led', 'to', 'a', 'significant', 'improvement', 'in', 'spatial', 'reasoning', 'abilities', 'whereas', 'listening', 'to', 'rock', 'music', 'had', 'no', 'significant', 'effect', 'These', 'findings', 'suggest', 'that', 'the', 'type', 'of', 'music', 'can', 'influence', 'cognitive', 'function', 'and', 'that', 'classical', 'music', 'may', 'be', 'particularly', 'beneficial', 'for', 'enhancing', 'spatial', 'reasoning', 'skills']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1740,7 +1740,7 @@
         "image_id": 193,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['AND', 'HERSHEY', 'KISSES']",
+        "rec_texts": "I cannot see any text in the provided image, as it is a blurred white image Therefore, I cannot provide any words\n\nReturning the requested format with an empty list:\n\n[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1749,7 +1749,7 @@
         "image_id": 194,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SIGNATURE', 'COLLECTION']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1758,7 +1758,7 @@
         "image_id": 195,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "I cannot see any recognizable English words in the blurred image Therefore, I return an empty list\n\n```\n[]\n```",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1767,7 +1767,7 @@
         "image_id": 196,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['of', 'the', 'most', 'common', 'causes', 'of', 'hair', 'loss', 'is', 'genetics']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1821,7 +1821,7 @@
         "image_id": 202,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'pilot', 'hoped', 'our', 'grandfather', 'saw', 'the', 'clay', 'behind', 'the', 'bed']",
+        "rec_texts": "['The', 'pilot', 'hoped', 'our', 'grandfather', 'saw', 'the', 'clay', 'behind', 'the', 'bird']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -1830,7 +1830,7 @@
         "image_id": 203,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['They', 'dad', 'asked', 'for', 'a', 'cold', 'cup', 'of', 'water', 'and', 'a', 'piece', 'of', 'cake']",
+        "rec_texts": "['There', 'dad', 'asked', 'for', 'a', 'cold', 'cup', 'of', 'water', 'and', 'a', 'piece', 'of', 'cake']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -1839,7 +1839,7 @@
         "image_id": 204,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'colors', 'will', 'use', 'one', 'page', 'please', 'the', 'words', 'lead', 'the', 'proof']",
+        "rec_texts": "['The', 'editors', 'will', 'use', 'one', 'page', 'placed', 'the', 'order', 'that', 'the', 'post']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -1848,7 +1848,7 @@
         "image_id": 205,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['To', 'access', 'the', 'test', 'please', 'use', 'the', 'below', 'login', 'cred']",
+        "rec_texts": "['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -1857,7 +1857,7 @@
         "image_id": 206,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'general', 'solution', 'is', 'obtained', 'by', 'adding', 'any', 'solution', 'of', 'the', 'associated', 'homogeneous', 'equation', 'to', 'the', 'particular']",
+        "rec_texts": "['The', 'purpose', 'of', 'this', 'is', 'to', 'ensure', 'that', 'all', 'of', 'the', 'text', 'is', 'fully', 'readable']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -1866,7 +1866,7 @@
         "image_id": 207,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['To', 'explore', 'the', 'impact', 'of', 'different', 'variables', 'on', 'the', 'performance', 'of', 'a', 'classification', 'model', 'using', 'the', 'sonar', 'dataset']",
+        "rec_texts": "['If', 'x', '=', '2', 'and', 'y', '=', '3', 'what', 'is', 'the', 'value', 'of', 'the', 'following', 'expression?', '2x', '+', '3xy', '-', 'y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -1875,7 +1875,7 @@
         "image_id": 208,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['You', 'can', 'also', 'use', 'this', 'equation', 'to', 'find', 'the', 'change', 'in', 'internal', 'energy', 'when', 'the', 'volume', 'does', 'not', 'change', 'as', 'shown', 'in', 'Example', '121']",
+        "rec_texts": "['The', 'following', 'table', 'shows', 'the', 'number', 'of', 'students', 'in', 'each', 'grade', 'at', 'a', 'school', 'Grade', 'Number', 'of', 'Students', '9', '120', '10', '115', '11', '100', '12', '95', 'What', 'is', 'the', 'median', 'grade', 'of', 'the', 'students', 'at', 'the', 'school?']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -1884,7 +1884,7 @@
         "image_id": 209,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['of', 'the', 'United', 'States', 'in', 'Congress', 'assembled', 'July', '4', '1776', 'A', 'Declaration', 'by', 'the', 'Representatives', 'of', 'the', 'united', 'States', 'of', 'America,', 'When', 'in', 'the', 'Course', 'of', 'human', 'events,', 'it', 'becomes', 'necessary', 'for', 'one', 'people', 'to', 'dissolve', 'the', 'political', 'bands', 'which', 'have', 'connected', 'them', 'with', 'another,', 'and', 'to', 'assume', 'among', 'the', 'powers', 'of', 'the', 'earth,', 'the', 'separate', 'and', 'equal', 'station', 'to', 'which', 'the', 'Laws', 'of', 'Nature', 'and', 'of', 'Natures', 'God', 'entitle', 'them,', 'a', 'decent', 'respect', 'to', 'the', 'opinions', 'of', 'mankind', 'requires', 'that', 'they', 'should', 'declare', 'the', 'causes', 'which', 'impel', 'them', 'to', 'the', 'separation']",
+        "rec_texts": "['of', 'the', 'most', 'common', 'causes', 'of', 'back', 'pain', 'is', 'a', 'muscle', 'strain', 'or', 'spasm', 'These', 'can', 'occur', 'due', 'to', 'a', 'variety', 'of', 'factors', 'including', 'poor', 'posture', 'lifting', 'heavy', 'objects', 'sudden', 'movements', 'and', 'overuse', 'Symptoms', 'of', 'a', 'muscle', 'strain', 'or', 'spasm', 'can', 'include', 'pain', 'stiffness', 'muscle', 'spasms', 'and', 'limited', 'range', 'of', 'motion', 'Treatment', 'for', 'a', 'muscle', 'strain', 'or', 'spasm', 'typically', 'involves', 'rest', 'ice', 'compression', 'and', 'elevation', 'RICE', 'Over-the-counter', 'pain', 'relievers', 'such', 'as', 'ibuprofen', 'or', 'naproxen', 'can', 'also', 'help', 'to', 'reduce', 'pain', 'and', 'inflammation', 'In', 'some', 'cases', 'a', 'doctor', 'may', 'prescribe', 'muscle', 'relaxants', 'or', 'physical', 'therapy', 'to', 'help', 'relieve', 'symptoms']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -1893,7 +1893,7 @@
         "image_id": 210,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "I cannot see any discernible words in the blurred image provided Therefore, I return an empty list as instructed\n\n```\n[]\n```",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -1965,7 +1965,7 @@
         "image_id": 218,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HELLO', 'WORLD']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -1974,7 +1974,7 @@
         "image_id": 219,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['YOUR', 'VOICE', 'YOUR', 'CHOICE']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2055,7 +2055,7 @@
         "image_id": 228,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['His', 'class', 'also', 'will', 'have', 'us', 'should', 'look', 'at', 'your', 'chest', 'seems']",
+        "rec_texts": "['His', 'classmates', 'said', 'that', 'we', 'should', 'look', 'at', 'four', 'short', 'poems']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2064,7 +2064,7 @@
         "image_id": 229,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Because', 'I', 'know', 'that', 'a', 'wife', 'must', 'respect']",
+        "rec_texts": "['He', 'noticed', 'that', 'our', 'dad', 'told', 'me', 'a', 'story', 'about', 'talking', 'ducks']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2073,7 +2073,7 @@
         "image_id": 230,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['To', 'provide', 'clinical', 'and', 'surgical']",
+        "rec_texts": "['The', 'queen', 'said', 'that', 'all', 'of', 'us', 'must', 'wash', 'your', 'toys', 'right', 'now']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2082,7 +2082,7 @@
         "image_id": 231,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Visible', 'Like', 'a', 'ray', 'of', 'ray', 'In', 'midst', 'darkness']",
+        "rec_texts": "['Your', 'family', 'told', 'us', 'all', 'the', 'members', 'hid', 'the', 'needle', 'outdoors']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2091,7 +2091,7 @@
         "image_id": 232,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['AVERAGE', 'HIGH', 'LOW', 'DAYS', 'OVER', '90\u00b0F', 'DAYS', 'BELOW', '32\u00b0F']",
+        "rec_texts": "['As', 'well', 'as', 'sleeping', 'we', 'may', 'like', 'to', 'play', 'in', 'her', 'room', 'tonight']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2100,7 +2100,7 @@
         "image_id": 233,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['If', 'there', 'exists', 'a', 'such', 'that', 'for', 'all', 'then']",
+        "rec_texts": "['The', 'witch', 'said', 'that', 'your', 'daddy', 'lost', 'the', 'ladies', 'by', 'the', 'barn']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2109,7 +2109,7 @@
         "image_id": 234,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Mobile', 'Number', 'Password', 'Login']",
+        "rec_texts": "['The', 'mistake', 'of', 'my', 'life', 'was', 'being', 'born', 'through', 'liquid', 'fire']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2118,7 +2118,7 @@
         "image_id": 235,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GET', 'STARTED']",
+        "rec_texts": "['Modesty', 'is', 'an', 'odd', 'one', 'doesn\u2019t', 'plant', 'the', 'phlox', 'by', 'his', 'square']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2127,7 +2127,7 @@
         "image_id": 236,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['This', 'is', 'an', 'old', 'one', 'the', 'leaves', 'were', 'the', 'top', 'of', 'the', 'tree']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2136,7 +2136,7 @@
         "image_id": 237,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['AVEDA']",
+        "rec_texts": "['Set', 'the', 'corresponding', 'channel', 'Set', 'Channel', 'Setting', 'Set', 'the', 'select', 'code']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2145,7 +2145,7 @@
         "image_id": 238,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "I cannot read any English words in this image It appears to be entirely blank or perhaps contains a very faint, blurred element that is not legible Therefore, I return an empty list:\n\n[]",
+        "rec_texts": "['The', 'Romans', 'called', 'it', 'Londinium', 'after', 'the', 'prehistoric', 'settlement']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2154,7 +2154,7 @@
         "image_id": 239,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['Your', 'personal', 'shopping', 'experience', 'just', 'got', 'easier', 'Download', 'the', 'app']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2163,7 +2163,7 @@
         "image_id": 240,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['There', 'papa', 'asked', 'if', 'all', 'the', 'waiters', 'had', 'their', 'coat', 'by', 'the', 'leave']",
+        "rec_texts": "['This', 'page', 'shows', 'all', 'the', 'members', 'but', 'the', 'cool', 'by', 'the', 'boss']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2172,7 +2172,7 @@
         "image_id": 241,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['You', 'can', 'either', 'tell', 'me', 'the', 'password', 'or', 'the', 'number', 'on', 'the', 'house']",
+        "rec_texts": "['You', 'can', 'also', 'tell', 'us', 'the', 'period', 'or', 'the', 'number', 'on', 'the', 'frame']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2181,7 +2181,7 @@
         "image_id": 242,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['He', 'drinks', 'milk', 'at', 'He', 'watches', 'TV', 'at', 'He', 'goes', 'to', 'bed', 'at']",
+        "rec_texts": "['If', 'needed', 'add', '1', 'cup', 'water', 'per', 'cup', 'flour', 'to', 'make', 'it', 'runny']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2190,7 +2190,7 @@
         "image_id": 243,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['These', 'variables', 'also', 'Its', 'possible', 'values', 'Its', 'actual', 'value']",
+        "rec_texts": "['These', 'words', 'are', 'all', 'in', 'English', 'They', 'form', 'meaningful', 'sentences', 'It', 'is', 'easy', 'to', 'read']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2199,7 +2199,7 @@
         "image_id": 244,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Complete', 'the', 'square', 'to', 'rewrite', 'y', '=', 'ax^2', '+', 'bx', '+', 'c', 'in', 'vertex', 'form', 'y', '=', 'a(x-h)^2', '+', 'k']",
+        "rec_texts": "['Congratulations', 'on', 'your', 'new', 'baby']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2208,7 +2208,7 @@
         "image_id": 245,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['To', 'see', 'a', 'World', 'in', 'a', 'Grain', 'of', 'Sand', 'And', 'a', 'Heaven', 'in', 'a', 'Wild', 'Flower', 'Hold', 'Infinity', 'in', 'the', 'palm', 'of', 'your', 'hand', 'And', 'Eternity', 'in', 'an', 'hour']",
+        "rec_texts": "['', '']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2217,7 +2217,7 @@
         "image_id": 246,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['of', 'the', 'most', 'common', 'causes', 'of', 'back', 'pain', 'are', 'muscle', 'strains', 'and', 'ligament', 'sprains', 'These', 'injuries', 'can', 'occur', 'from', 'a', 'variety', 'of', 'activities', 'such', 'as', 'lifting', 'heavy', 'objects', 'twisting', 'awkwardly', 'or', 'sudden', 'movements', 'Other', 'common', 'causes', 'of', 'back', 'pain', 'include', 'bulging', 'or', 'herniated', 'discs', 'arthritis', 'spinal', 'stenosis', 'and', 'osteoporosis']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2235,7 +2235,7 @@
         "image_id": 248,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "I cannot see any words in the image provided It appears to be a blurred, entirely white or light gray background Therefore, I cannot provide a list of words\n\nReturning the requested format with an empty list:\n\n[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2406,7 +2406,7 @@
         "image_id": 267,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Your', 'sons', 'said', 'that', 'the', 'mayor', 'liked', 'the', 'shot', 'near', 'the', 'bush']",
+        "rec_texts": "['Your', 'sons', 'said', 'that', 'the', 'mayor', 'liked', 'the', 'sheet', 'near', 'the', 'bush']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2415,7 +2415,7 @@
         "image_id": 268,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['It', 'was', 'almost', 'seven', 'miles', 'back', 'to', 'the', '--', 'town', 'and', 'the', 'valley']",
+        "rec_texts": "['It', 'was', 'almost', 'seven', 'miles', 'between', 'their', 'barn', 'and', 'the', 'valley']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2424,7 +2424,7 @@
         "image_id": 269,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['porque', 'libros', 'hay', 'del', 'mundo', 'leyendo', 'de', 'luz']",
+        "rec_texts": "['The', 'officer', 'told', 'me', 'that', 'my', 'dad', 'put', 'the', 'boy', 'next', 'to', 'the', 'dam']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2433,7 +2433,7 @@
         "image_id": 270,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['To', 'prevent', 'this', 'use', 'my', 'disk', 'brake', 'lock']",
+        "rec_texts": "['The', 'group', 'said', 'that', 'our', 'enemies', 'put', 'the', 'flowers', 'on', 'the', 'bank']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2442,7 +2442,7 @@
         "image_id": 271,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['You', 'don\u2019t', 'get', 'any', 'smarter', 'just', 'older', 'ups']",
+        "rec_texts": "['Your', 'aunt', 'has', 'a', 'pet', 'kitten', 'with', 'a', 'brown', 'patch', 'under', 'its', 'paw']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2451,7 +2451,7 @@
         "image_id": 272,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FIRST', 'CLASS', 'US', 'POSTAGE', '6', 'CENTS']",
+        "rec_texts": "['Their', 'friends', 'asked', 'if', 'the', 'worker', 'knew', 'the', 'orders', 'outdoors']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2460,7 +2460,7 @@
         "image_id": 273,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']",
+        "rec_texts": "['My', 'hosties', 'told', 'us', 'the', 'nabobs', 'live', 'the', 'pigs', 'by', 'the', 'beach']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2469,7 +2469,7 @@
         "image_id": 274,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Distribution', 'Channels', 'Website', 'eBay', 'Amazon', 'Craigslist']",
+        "rec_texts": "['Donate', 'watching', 'random', 'videos', 'into', 'electricity']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2478,7 +2478,7 @@
         "image_id": 275,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['a', 'simple', 'question', 'with', 'a', 'simple', 'answer']",
+        "rec_texts": "['Mr', 'Daniel', 'has', 'worked', 'in', 'London', '&', 'Berkshire']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2487,7 +2487,7 @@
         "image_id": 276,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['by', 'placing', 'something', 'above', 'you', 'activate', 'hand', 'to', 'hair', 'area']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2496,7 +2496,7 @@
         "image_id": 277,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MCKINSEY']",
+        "rec_texts": "['If', 'A', 'is', 'a', 'square', 'matrix', 'of', 'order', 'n', 'and', 'k', 'is', 'a', 'scalar,', 'then']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2505,7 +2505,7 @@
         "image_id": 278,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['User', 'Study', 'Overview', 'Executive', 'Summary', 'Introduction', 'Method', 'Results', 'Discussion', 'Appendix']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2514,7 +2514,7 @@
         "image_id": 279,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['Annual', 'Percentage', 'Rate', '(APR)', 'for', 'Purchases', 'Based', 'on', 'your', 'creditworthiness,', 'this', 'APR', 'will', 'range', 'from', '1774%', 'to', '2874%', 'This', 'APR', 'will', 'vary', 'with', 'the', 'market', 'based', 'on', 'the', 'Prime', 'Rate', 'Balance', 'Transfers', 'APR', 'is', '1774%', 'Cash', 'Advance', 'APR', 'is', '2874%', 'Penalty', 'APR', 'up', 'to', '2999%']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2523,7 +2523,7 @@
         "image_id": 280,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['We', 'love', 'to', 'play', 'in', 'the', 'sun', 'and', 'eat', 'ice', 'cream']",
+        "rec_texts": "['cat', 'dog', 'fish', 'frog', 'bird', 'horse', 'cow', 'sheep', 'pig']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -2532,7 +2532,7 @@
         "image_id": 281,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['A', 'carpenter', 'named', 'John', 'had', 'a', 'son', 'named', 'Jack']",
+        "rec_texts": "['We', 'went', 'to', 'the', 'park', 'and', 'saw', 'a', 'dog']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -2541,7 +2541,7 @@
         "image_id": 282,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "I'm sorry, the image is too blurry to be able to read the words",
+        "rec_texts": "['THE', 'LORD', 'OF', 'THE', 'RINGS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -2550,7 +2550,7 @@
         "image_id": 283,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'ONLY', 'LIMIT', 'IS', 'YOU']",
+        "rec_texts": "['IM']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -2559,7 +2559,7 @@
         "image_id": 284,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "I cannot see any discernible words in the provided image  It appears to be a blurred or blank white space Therefore, I return an empty list:\n\n[]",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -2649,7 +2649,7 @@
         "image_id": 294,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['AVAILABLE', 'NOW']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -2757,7 +2757,7 @@
         "image_id": 306,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'queen', 'said', 'that', 'both', 'of', 'you', 'have', 'an', 'rug', 'to', 'the', 'bathhouse']",
+        "rec_texts": "['The', 'queen', 'said', 'that', 'both', 'of', 'you', 'have', 'to', 'run', 'to', 'the', 'bathroom']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2766,7 +2766,7 @@
         "image_id": 307,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['I', 'visited', 'the', 'sea', 'mother', '23', 'and', 'the', 'park', 'in', 'the', 'morning']",
+        "rec_texts": "['He', 'noticed', 'that', 'our', 'mother', 'ran', 'past', 'the', 'park', 'in', 'the', 'morning']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2775,7 +2775,7 @@
         "image_id": 308,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Mobile', 'Delivery', 'bouquets', 'and', 'expressions']",
+        "rec_texts": "['Rather', 'than', 'helping', 'he', 'will', 'escape', 'from', 'the', 'cellar', 'tomorrow']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2784,7 +2784,7 @@
         "image_id": 309,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['They', 'called', 'her', 'crazy', 'until', 'she', 'did', 'them']",
+        "rec_texts": "['Your', 'team', 'said', 'that', 'the', 'workers', 'put', 'the', 'ducks', 'in', 'the', 'church']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2793,7 +2793,7 @@
         "image_id": 310,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['You', 'are', 'my', 'sunshine', 'my', 'only', 'sunshine']",
+        "rec_texts": "['This', 'stranger', 'keeps', 'a', 'goat', 'with', 'a', 'white', 'spot', 'over', 'its', 'mouth']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2802,7 +2802,7 @@
         "image_id": 311,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['If', 'there', 'could', 'be', 'a', 'monument', 'to', 'the', 'idea', 'that', 'the', 'letter', 'counts']",
+        "rec_texts": "['My', 'friends', 'asked', 'if', 'the', 'crowd', 'liked', 'the', 'waste', 'on', 'the', 'tracks']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2811,7 +2811,7 @@
         "image_id": 312,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['YOU', 'ARE', 'ALL', 'SET', 'FOR', 'A', 'GREAT', 'YEAR']",
+        "rec_texts": "['The', 'owner', 'said', 'that', 'you', 'have', 'to', 'look', 'at', 'a', 'few', 'hypotheses']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2820,7 +2820,7 @@
         "image_id": 313,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Personalized', 'Gifts', 'for', 'Dad']",
+        "rec_texts": "['Her', 'Ladyship', 'added', 'or', 'have', 'a', 'cup', 'infused', 'with', 'piese', 'of']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2829,7 +2829,7 @@
         "image_id": 314,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['International', 'Patent', 'Classification']",
+        "rec_texts": "['We', 'dedicate', 'our', 'detail', 'and', 'experience']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2838,7 +2838,7 @@
         "image_id": 315,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['COCOA']",
+        "rec_texts": "['Welcome', 'to', 'our', 'English', 'Project']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2847,7 +2847,7 @@
         "image_id": 316,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2856,7 +2856,7 @@
         "image_id": 317,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['OF', 'THE', 'ROYAL', 'SOCIETY']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2874,7 +2874,7 @@
         "image_id": 319,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GOLF']",
+        "rec_texts": "['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2883,7 +2883,7 @@
         "image_id": 320,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'following', 'table', 'shows', 'the', 'number', 'of', 'active', 'users', 'of', 'a', 'social', 'media', 'platform', 'over', 'a', 'period', 'of', 'six', 'months']",
+        "rec_texts": "['The', 'following', 'table', 'shows', 'the', 'number', 'of', 'enrolled', 'students', 'in', 'different', 'grades', 'at', 'a', 'school']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -2991,7 +2991,7 @@
         "image_id": 332,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "```\n['the', 'walt', 'disney', 'company']\n```",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3099,7 +3099,7 @@
         "image_id": 344,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Rather', 'than', 'waiting', 'you', 'all', 'may', 'skip', 'in', 'the', 'sheet', 'tomorrow']",
+        "rec_texts": "['Rather', 'than', 'waiting', 'you', 'all', 'may', 'skip', 'in', 'the', 'street', 'tomorrow']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -3108,7 +3108,7 @@
         "image_id": 345,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'police', 'asked', 'your', 'cousin', 'hid', 'the', 'pony', 'in', 'the', 'garage']",
+        "rec_texts": "['The', 'police', 'asked', 'if', 'your', 'cousin', 'hid', 'the', 'penny', 'in', 'the', 'garage']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -3126,7 +3126,7 @@
         "image_id": 347,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['the', 'player', 'selected', 'my', 'console', 'load', 'its', 'playlist', 'the', 'host']",
+        "rec_texts": "['The', 'player', 'asked', 'if', 'my', 'cousins', 'lost', 'the', 'pipe', 'under', 'the', 'deck']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -3135,7 +3135,7 @@
         "image_id": 348,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Stylish', 'clothing', 'inspired', 'by', 'your', 'favorite', 'lifestyles']",
+        "rec_texts": "['In', 'place', 'of', 'cooking', 'breakfast', 'they', 'must', 'proceed', 'to', 'the', 'caves']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -3144,7 +3144,7 @@
         "image_id": 349,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Read', 'X', 'After', 'five', 'years', 'and', 'before', 'ten']",
+        "rec_texts": "['Our', 'sister', 'asked', 'us', 'if', 'the', 'goat', 'wanted', 'the', 'pin', 'on', 'the', 'beets']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -3153,7 +3153,7 @@
         "image_id": 350,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['I', 'have', 'a', 'cough', 'and', 'I', 'have', 'difficulty', 'breathing']",
+        "rec_texts": "['Here', 'lies', 'hared', 'a', 'cup', 'of', 'cold', 'water', 'and', 'a', 'piece', 'of', 'ice']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -3162,7 +3162,7 @@
         "image_id": 351,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'seeds', 'of', 'the', 'future', 'are', 'sown', 'today']",
+        "rec_texts": "['The', 'Green', 'Kids', 'their', 'grandma', 'liked', 'the', 'best', 'on', 'the', 'web']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -3171,7 +3171,7 @@
         "image_id": 352,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['WORDS', 'CAN', 'BREAK', 'MY', 'BONES', 'BUT', 'STICKS', 'AND', 'STONES', 'MAY', 'BREAK', 'MY', 'BONES', 'BUT', 'CHAINS', 'AND', 'WHIPS', 'EXCITE', 'ME']",
+        "rec_texts": "['Come', 'rest', 'and', 'live', 'for', 'your', 'foundation', 'gather', 'near', 'the', 'hear']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -3315,7 +3315,7 @@
         "image_id": 368,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'utils', 'will', 'tell', 'you', 'have', 'to', 'look', 'at', 'a', 'few', 'sectors', 'to', 'access']",
+        "rec_texts": "['The', 'witch', 'said', 'that', 'you', 'have', 'to', 'look', 'at', 'a', 'few', 'serious', 'books']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -3324,7 +3324,7 @@
         "image_id": 369,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['To', 'use', 'using', 'a', 'this', 'section', 'or', 'as', 'part', 'of', 'ritual']",
+        "rec_texts": "['They', 'need', 'to', 'sing', 'a', 'little', 'song', 'when', 'we', 'are', 'going', 'to', 'school']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -3333,7 +3333,7 @@
         "image_id": 370,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'tournament', 'starts', 'pm', 'on', 'Feb']",
+        "rec_texts": "['Their', 'partner', 'asked', 'whether', 'the', 'players', 'saw', 'the', 'box', 'outside']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -3342,7 +3342,7 @@
         "image_id": 371,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['There', 'should', 'be', 'at', 'least', 'two', 'opinions', 'on']",
+        "rec_texts": "['The', 'crowd', 'said', 'that', 'both', 'of', 'you', 'have', 'to', 'escape', 'from', 'the', 'sea']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -3351,7 +3351,7 @@
         "image_id": 372,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['You', 'may', 'need', 'a', 'new', 'pin', 'Go', 'to', 'mylife']",
+        "rec_texts": "['After', 'eating', 'supper', 'you', 'all', 'must', 'run', 'in', 'the', 'fields', 'tomorrow']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -3360,7 +3360,7 @@
         "image_id": 373,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['horizontal', 'and', 'or', 'composed', 'of']",
+        "rec_texts": "['Instead', 'of', 'watching', 'movies', 'he', 'will', 'race', 'to', 'the', 'garage', 'today']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -3369,7 +3369,7 @@
         "image_id": 374,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Maximum', 'Load', 'Load', '00', 'Kg/cm']",
+        "rec_texts": "['The', 'queen', 'said', 'that', 'your', 'kids', 'found', 'the', 'leaf', 'by', 'the', 'highway']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -3378,7 +3378,7 @@
         "image_id": 375,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['the', 'gpt', 'local', 'docs']",
+        "rec_texts": "['The', 'leading', 'professional', 'hair', 'dress']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -3387,7 +3387,7 @@
         "image_id": 376,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'density', 'of', 'states', 'g(E)', 'is', 'defined', 'as', 'the', 'number', 'of', 'states', 'per', 'unit', 'energy', 'at', 'energy', 'E']",
+        "rec_texts": "['The', 'survey', 'told', 'me', 'a', 'things', 'i', 'say', 'shows', 'a', 'low', 'stability', 'status']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -3396,7 +3396,7 @@
         "image_id": 377,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PETITE', 'STUDIO']",
+        "rec_texts": "['You', 'asked', 'a', 'specific', 'question', 'that', 'needs', 'a', 'specific', 'answer']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -3405,7 +3405,7 @@
         "image_id": 378,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FLYPIX']",
+        "rec_texts": "['A', 'general', 'relation', 'between', 'population', 'age', 'structure', 'and', 'economic', 'growth']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -3414,7 +3414,7 @@
         "image_id": 379,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Burberry']",
+        "rec_texts": "['The', 'delivery', 'time', 'is', 'usually', 'less', 'or', 'equal', 'to', 'the', 'expected', 'delivery', 'date']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -3495,7 +3495,7 @@
         "image_id": 388,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['In', 'place', 'of', 'backing', 'tentatively', 'parade', 'to', 'the', 'caves']",
+        "rec_texts": "['In', 'place', 'of', 'cooking', 'breakfast', 'they', 'must', 'parade', 'to', 'the', 'caves']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3504,7 +3504,7 @@
         "image_id": 389,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['One', 'night', 'a', 'blue', 'if', 'the', 'girl', 'could', 'leave', 'le', 'bed']",
+        "rec_texts": "['Our', 'sister', 'asked', 'me', 'if', 'the', 'guard', 'wanted', 'the', 'pan', 'on', 'the', 'beds']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3513,7 +3513,7 @@
         "image_id": 390,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Triphenyl', 'lead', 'acetyl', 'acetonate', 'distributor']",
+        "rec_texts": "['Her', 'teachers', 'shared', 'a', 'cup', 'of', 'cold', 'water', 'and', 'a', 'piece', 'of', 'cake']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3522,7 +3522,7 @@
         "image_id": 391,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['There', 'will', 'be', 'answers', 'Let', 'them', 'be', 'bad']",
+        "rec_texts": "['The', 'farmer', 'asked', 'if', 'their', 'grandma', 'liked', 'the', 'lock', 'on', 'the', 'bed']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3531,7 +3531,7 @@
         "image_id": 392,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['If', 'you', 'like', 'the', 'idea', 'we', 'present', 'here', 'of', 'predicting', 'which', 'new']",
+        "rec_texts": "['Your', 'sons', 'said', 'that', 'the', 'group', 'found', 'the', 'guide', 'near', 'the', 'barn']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3540,7 +3540,7 @@
         "image_id": 393,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['My', 'heart', 'felt', 'so', 'I', 'have', 'never', 'been', 'more', 'emptying', 'yet', 'so']",
+        "rec_texts": "['Our', 'friend', 'told', 'you', 'a', 'funny', 'story', 'about', 'three', 'singing', 'ducks']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3549,7 +3549,7 @@
         "image_id": 394,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Given', 'the', 'following', 'equations', 'Solve', 'for', 'x', 'and', 'y']",
+        "rec_texts": "['Your', 'aunt', 'said', 'that', 'we', 'have', 'to', 'sort', 'out', 'our', 'toy', 'chest', 'today']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3558,7 +3558,7 @@
         "image_id": 395,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['If', 'a', 'random', 'variable', 'y', 'follows', 'a', 'Poisson', 'distribution', 'with', 'parameter', 'lambda', 'then', 'the', 'probability', 'mass', 'function', 'is', 'given', 'by']",
+        "rec_texts": "['My', 'people', 'did', 'not', 'build', 'or', 'serve', 'the', 'pyramids,', 'both', 'did', 'not', 'exist', 'during']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3567,7 +3567,7 @@
         "image_id": 396,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['number', 'of', 'elements', 'and', 'atomic', 'radius', 'r']",
+        "rec_texts": "['The', 'judge', 'is', 'older', 'or', 'I', 'should', 'have', 'the', 'notes', 'by', 'this', 'work']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3576,7 +3576,7 @@
         "image_id": 397,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['By', 'Humans']",
+        "rec_texts": "['It', 'was', 'dark', 'and', 'we', 'could', 'barely', 'see', 'the', 'path', 'in', 'front', 'of', 'us', 'The', 'trees', 'loomed', 'overhead', 'their', 'branches', 'entangled', 'like', 'skeletal', 'fingers']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3585,7 +3585,7 @@
         "image_id": 398,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Live', 'Well']",
+        "rec_texts": "['The', 'function', 'returns', 'each', 'combination', 'once', 'without', 'getting', 'an']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3594,7 +3594,7 @@
         "image_id": 399,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['M', 'A', 'R', 'S']",
+        "rec_texts": "['The', 'correlation', 'between', 'core', 'inflation', 'is', 'expected', 'positive']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3657,7 +3657,7 @@
         "image_id": 406,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['He', 'noticed', 'that', 'one', 'must', 'run', 'around', 'the', 'city', 'in', 'the', 'morning']",
+        "rec_texts": "['He', 'noticed', 'that', 'car', 'and', 'ran', 'around', 'the', 'city', 'in', 'the', 'morning']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3666,7 +3666,7 @@
         "image_id": 407,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'professor', 'had', 'a', 'dish', 'of', 'ice', 'cream', 'and', 'was', 'enjoying', 'himself']",
+        "rec_texts": "['The', 'professor', 'had', 'a', 'dish', 'of', 'chicken', 'and', 'beans', 'ready', 'for', 'lunch']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3675,7 +3675,7 @@
         "image_id": 408,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['These', 'friends', 'ordered', 'one', 'by', 'a', 'small', 'plate', 'of', 'nachos', 'with', 'cheese']",
+        "rec_texts": "['These', 'diamonds', 'reflect', 'more', 'than', 'a', 'cold', 'piece', 'of', 'rock', 'with', 'shine']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3684,7 +3684,7 @@
         "image_id": 409,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['You', 'can', 'convert', 'the', 'degrees', 'to', 'the', 'radian', 'measure', 'x', 'rad']",
+        "rec_texts": "['You', 'are', 'asked', 'to', 'choose', 'the', 'proper', 'answer', 'a', 'and', 'b']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3693,7 +3693,7 @@
         "image_id": 410,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'parameters', 'of', 'the', 'model', 'are', 'estimated', 'using', 'maximum', 'likelihood', 'estimation', 'MLE', 'The', 'likelihood', 'function', 'is', 'given', 'by']",
+        "rec_texts": "['The', 'average', 'of', 'the', 'first', '50', 'natural', 'numbers', 'is', '255']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3702,7 +3702,7 @@
         "image_id": 411,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'QUICK', 'BROWN', 'FOX', 'JUMPS', 'OVER', 'THE', 'LAZY', 'DOG']",
+        "rec_texts": "['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3711,7 +3711,7 @@
         "image_id": 412,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['of', 'the', 'United', 'States', 'of', 'America']",
+        "rec_texts": "['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3720,7 +3720,7 @@
         "image_id": 413,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SHOP']",
+        "rec_texts": "['of', 'the', 'most', 'popular', 'ways', 'to', 'learn', 'about', 'the', 'world', 'is', 'by', 'reading', 'books', 'Books', 'can', 'take', 'us', 'to', 'different', 'places', 'and', 'times', 'They', 'can', 'introduce', 'us', 'to', 'new', 'people', 'and', 'ideas', 'They', 'can', 'teach', 'us', 'about', 'history', 'science', 'and', 'culture', 'Books', 'can', 'also', 'be', 'a', 'source', 'of', 'entertainment', 'and', 'enjoyment', 'They', 'can', 'make', 'us', 'laugh', 'cry', 'and', 'think', 'Books', 'are', 'a', 'valuable', 'resource', 'for', 'everyone']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3729,7 +3729,7 @@
         "image_id": 414,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Pukka', 'Pads']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3738,7 +3738,7 @@
         "image_id": 415,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "```\n['to', 'be', 'or', 'not', 'to', 'be']\n```",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3747,7 +3747,7 @@
         "image_id": 416,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['made', 'in', 'italy']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3810,7 +3810,7 @@
         "image_id": 423,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'officer', 'told', 'me', 'that', 'my', 'son', 'put', 'the', 'groceries', 'on', 'the', 'house']",
+        "rec_texts": "['The', 'officer', 'told', 'me', 'that', 'my', 'car', 'put', 'the', 'crowd', 'on', 'the', 'lawn']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3819,7 +3819,7 @@
         "image_id": 424,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'leaves', 'covered', 'the', 'forest', 'floor', 'the', 'nature', 'takes', 'over']",
+        "rec_texts": "['The', 'biggest', 'covered', 'the', 'basket', 'leaves', 'the', 'leaves', 'below', 'does']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3828,7 +3828,7 @@
         "image_id": 425,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'credits', 'didn\u2019t', 'fit', 'with', 'how', 'the', 'scene', 'is', 'being']",
+        "rec_texts": "['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3837,7 +3837,7 @@
         "image_id": 426,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'parameters', 'used', 'in', 'the', 'different', 'models', 'are', 'listed', 'in', 'Table', '1', 'and', 'Table', '2']",
+        "rec_texts": "['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3846,7 +3846,7 @@
         "image_id": 427,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['A', 'simple', 'yet', 'elegant', 'way', 'to', 'make', 'your', 'home', 'feel', 'more', 'inviting', 'is', 'by', 'adding', 'a', 'touch', 'of', 'nature']",
+        "rec_texts": "['In', 'the', 'given', 'code', 'the', 'variable', 'x', 'is', 'assigned', 'the', 'value', 'of', '2']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3855,7 +3855,7 @@
         "image_id": 428,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Given', 'the', 'following', 'two', 'matrices', 'A', 'and', 'B', 'find', 'their', 'product', 'AB']",
+        "rec_texts": "['two', 'plus', 'two']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3864,7 +3864,7 @@
         "image_id": 429,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['of', 'the', 'British', 'Isles', 'The', 'flora', 'of', 'the', 'British', 'Isles', 'is', 'rich', 'and', 'varied,', 'with', 'over', '2,000', 'native', 'species', 'of', 'flowering', 'plants', 'and', 'ferns', 'This', 'diversity', 'is', 'due', 'to', 'a', 'number', 'of', 'factors,', 'including', 'the', 'islands\u2019', 'mild', 'climate,', 'varied', 'geology,', 'and', 'long', 'history', 'of', 'human', 'influence']",
+        "rec_texts": "['', '', '', '', '']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3873,7 +3873,7 @@
         "image_id": 430,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "I cannot see any discernible words in the provided blurred image Therefore, I return an empty list:\n\n[]",
+        "rec_texts": "['This', 'image', 'contains', 'no', 'visible', 'English', 'words']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3882,7 +3882,7 @@
         "image_id": 431,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "I cannot interpret images, so I cannot read the words in the blurry image provided Please provide the words in text form",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3945,7 +3945,7 @@
         "image_id": 438,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SMART', 'TECHNOLOGIES']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3954,7 +3954,7 @@
         "image_id": 439,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['UNINHABITABLE']",
+        "rec_texts": "['OF', 'THE', 'UNITED', 'STATES', 'OF', 'AMERICA']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -4035,7 +4035,7 @@
         "image_id": 448,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['His', 'class', 'also', 'said', 'how', 'we', 'should', 'look', 'at', 'your', 'chest', 'seems']",
+        "rec_texts": "['His', 'classmates', 'said', 'that', 'we', 'should', 'look', 'at', 'four', 'short', 'poems']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -4044,7 +4044,7 @@
         "image_id": 449,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['because', 'it', 'will', 'reveal', 'your', 'idleness']",
+        "rec_texts": "['He', 'noticed', 'that', 'our', 'dad', 'told', 'me', 'a', 'story', 'about', 'talking', 'ducks']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -4053,7 +4053,7 @@
         "image_id": 450,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['To', 'provide', 'clinical', 'web', 'services']",
+        "rec_texts": "['The', 'queen', 'said', 'that', 'all', 'of', 'us', 'must', 'wash', 'your', 'toys', 'right', 'now']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -4062,7 +4062,7 @@
         "image_id": 451,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['You', 'have', 'the', 'i', 'can', 'not', 'see', 'the', 'words', 'clearly']",
+        "rec_texts": "['Your', 'family', 'told', 'us', 'all', 'the', 'members', 'hid', 'the', 'needle', 'outdoors']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -4071,7 +4071,7 @@
         "image_id": 452,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['AVERAGE', 'HIGH', 'LOW', 'RECORD', 'HIGH', 'LOW']",
+        "rec_texts": "['As', 'well', 'as', 'sleeping', 'we', 'may', 'like', 'to', 'play', 'in', 'her', 'room', 'tonight']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -4080,7 +4080,7 @@
         "image_id": 453,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['if', 'x', 'and', 'y', 'are', 'positive', 'real', 'numbers', 'prove', 'that']",
+        "rec_texts": "['The', 'witch', 'said', 'that', 'your', 'daddy', 'lost', 'the', 'ladies', 'by', 'the', 'barn']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -4089,7 +4089,7 @@
         "image_id": 454,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Maximum', 'characters', 'allowed', 'is', '50']",
+        "rec_texts": "['The', 'mistake', 'of', 'my', 'life', 'was', 'named', 'the', 'aquatic', 'life']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -4098,7 +4098,7 @@
         "image_id": 455,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SHOP', 'NOW']",
+        "rec_texts": "['Modern', 'is', 'an', 'old', 'one', 'dream', 'planet', 'the', 'globby', 'bio', 'square']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -4107,7 +4107,7 @@
         "image_id": 456,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['There', 'was', 'an', 'old', 'man', 'in', 'the', 'house', 'on', 'the', 'top', 'of', 'Muldoon', 'Island']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -4116,7 +4116,7 @@
         "image_id": 457,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['EXPRESS']",
+        "rec_texts": "['Set', 'Maximum', 'allowed', 'bandwidth', 'Set', 'Preferred', 'bandwidth', 'Set', 'Minimum', 'bandwidth']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -4125,7 +4125,7 @@
         "image_id": 458,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "```\n['SUN', 'SCREEN']\n```",
+        "rec_texts": "['The', 'maximum', 'allowed', 'is', 'maximum', 'size', 'of', 'maximum', 'allowed']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -4134,7 +4134,7 @@
         "image_id": 459,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['They', 'represent', 'different', 'ways', 'of', 'thinking', 'about', 'the', 'same', 'data']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -4143,7 +4143,7 @@
         "image_id": 460,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'crowd', 'said', 'that', 'we', 'must', 'look', 'at', 'six', 'stories', 'about', 'music']",
+        "rec_texts": "['The', 'crowd', 'said', 'that', 'we', 'must', 'look', 'at', 'six', 'movies', 'about', 'movies']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -4152,7 +4152,7 @@
         "image_id": 461,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['It', 'was', 'almost', 'upon', 'us', 'when', 'the', 'car', 'turned', 'to', 'pass', 'her']",
+        "rec_texts": "['It', 'was', 'almost', 'upon', 'us', 'when', 'the', 'car', 'turned', 'to', 'pass', 'beneath']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -4161,7 +4161,7 @@
         "image_id": 462,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'promotion', 'of', 'the', 'nation', 'and', 'the', 'glory', 'to', 'the', 'Lord']",
+        "rec_texts": "['The', 'demand', 'for', 'the', 'increase', 'in', 'the', 'supply', 'of', 'chairs']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -4170,7 +4170,7 @@
         "image_id": 463,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['To', 'prove', 'this', 'we', 'can', 'use', 'the', 'law', 'of', 'cosines', 'c\u00b2', '=', 'a\u00b2', '+', 'b\u00b2', '-', '2ab', 'cos(C)']",
+        "rec_texts": "['We', 'cannot', 'solve', 'problems', 'with', 'the', 'same', 'thinking', 'we', 'used', 'when', 'we', 'created', 'them']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -4179,7 +4179,7 @@
         "image_id": 464,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']",
+        "rec_texts": "['Lets', 'go', 'Brandon']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -4188,7 +4188,7 @@
         "image_id": 465,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'current', 'population', 'of', 'Earth', 'is', 'about', '8', 'billion', 'people', 'Over', '90%', 'of', 'that', 'population', 'lives', 'in', 'the', 'Northern', 'Hemisphere']",
+        "rec_texts": "['Two', 'sum', 'Given', 'an', 'array', 'of', 'integers', 'nums', 'and', 'an', 'integer', 'target,', 'return', 'indices', 'of', 'the', 'two', 'numbers', 'such', 'that', 'they', 'add', 'up', 'to', 'target', 'You', 'may', 'assume', 'that', 'each', 'input', 'would', 'have', 'exactly', 'one', 'solution,', 'and', 'you', 'may', 'not', 'use', 'the', 'same', 'element', 'twice', 'You', 'can', 'return', 'the', 'answer', 'in', 'any', 'order', 'Example', '1:', 'Input:', 'nums', '=', '[2,7,11,15]', ',', 'target', '=', '9', 'Output:', '[0,1]', 'Example', '2:', 'Input:', 'nums', '=', '[3,2,4]', ',', 'target', '=', '6', 'Output:', '[1,2]', 'Example', '3:', 'Input:', 'nums', '=', '[3,3]', ',', 'target', '=', '6', 'Output:', '[0,1]']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -4197,7 +4197,7 @@
         "image_id": 466,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['of', 'the', 'most', 'common', 'types', 'of', 'pain', 'are', 'headaches', 'back', 'pain', 'neck', 'pain', 'and', 'facial', 'pain']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -4206,7 +4206,7 @@
         "image_id": 467,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "I cannot see any discernible words in the provided image It appears to be a blurred grey gradient  Therefore, I return an empty list as instructed\n\n[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -4395,7 +4395,7 @@
         "image_id": 488,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'soldier', 'kisses', 'a', 'pig', 'with', 'a', 'big', 'pink', 'butt', 'under', 'its', 'nose']",
+        "rec_texts": "['The', 'soldier', 'keeps', 'a', 'pig', 'with', 'a', 'big', 'pink', 'mark', 'under', 'its', 'nose']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -4404,7 +4404,7 @@
         "image_id": 489,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Global', 'wedding', 'now', 'or', 'I', 'will', 'explode', 'lol']",
+        "rec_texts": "['Instead', 'of', 'watching', 'movies', 'you', 'all', 'will', 'step', 'to', 'the', 'bedroom']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -4413,7 +4413,7 @@
         "image_id": 490,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Pure', 'olive', 'oil', 'and', 'vinegar']",
+        "rec_texts": "['Our', 'coach', 'said', 'that', 'you', 'should', 'hurry', 'to', 'the', 'ships', 'right', 'now']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -4422,7 +4422,7 @@
         "image_id": 491,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['I', 'do', 'not', 'think', 'it', 'means', 'what', 'you', 'think', 'it', 'means']",
+        "rec_texts": "['His', 'kids', 'each', 'asked', 'me', 'for', 'a', 'cold', 'glass', 'of', 'milk', 'with', 'dinner']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -4431,7 +4431,7 @@
         "image_id": 492,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Cat', 'Banana', 'Orange', 'Car',\n'3', '8', '10', '34', '47876',\n'8', '7', '545', '24', '823409239']",
+        "rec_texts": "['Her', 'uncle', 'told', 'both', 'of', 'you', 'to', 'study', 'two', 'books', 'about', 'history']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -4440,7 +4440,7 @@
         "image_id": 493,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['It', 'is', 'because', 'of', 'you', 'that', 'we', 'are', 'what', 'we', 'are', 'today', 'Thank', 'you', 'so', 'much']",
+        "rec_texts": "['This', 'teacher', 'asked', 'me', 'for', 'a', 'cup', 'of', 'ice', 'with', 'juice', 'and', 'cake']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -4449,7 +4449,7 @@
         "image_id": 494,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Measurement', 'of', 'Velocity', 'of', 'Projectiles']",
+        "rec_texts": "['Your', 'team', 'should', 'alike', 'introduce', 'the', 'positive', 'tone']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -4458,7 +4458,7 @@
         "image_id": 495,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CRAFT']",
+        "rec_texts": "['Create', 'better', 'photography', 'for', 'your', 'business']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -4467,7 +4467,7 @@
         "image_id": 496,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['the', 'cat', 'sat']",
+        "rec_texts": "['Your', 'connection', 'is', 'not', 'private', 'Attackers', 'might', 'be', 'trying', 'to', 'steal', 'your', 'information', 'from']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -4476,7 +4476,7 @@
         "image_id": 497,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['COMPASS']",
+        "rec_texts": "['BALANCING', 'ROCKS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -4485,7 +4485,7 @@
         "image_id": 498,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['Stop', 'Asian', 'Hate', 'Crimes', 'Against', 'Asians']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -4494,7 +4494,7 @@
         "image_id": 499,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['of']",
+        "rec_texts": "['Something', 'Wonderful', 'Will', 'Happen']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -4503,7 +4503,7 @@
         "image_id": 500,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['These', 'are', 'definitely', 'the', 'words', 'you', 'are', 'looking', 'for']",
+        "rec_texts": "['These', 'are', 'definitely', 'the', 'words', 'that', 'I', 'see']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -4512,7 +4512,7 @@
         "image_id": 501,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['These', 'are', 'the', 'days', 'of', 'our', 'lives']",
+        "rec_texts": "['WERE', 'GOING', 'ON', 'A', 'BEAR', 'HUNT']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -4521,7 +4521,7 @@
         "image_id": 502,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KILL']",
+        "rec_texts": "['ITEM']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -4530,7 +4530,7 @@
         "image_id": 503,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['AND', 'ARE', 'BOTH', 'BUT', 'COULD', 'DOWN', 'EACH', 'EVEN', 'FIRST', 'FROM', 'GET', 'GO', 'HAD', 'HAS', 'HER', 'HERE', 'HIM', 'HIS', 'HOW', 'INTO', 'ITS', 'JUST', 'KNOW', 'LIKE', 'LOOK', 'MAKE', 'MANY', 'MORE', 'MOST', 'MUCH', 'MUST', 'MY', 'NEW', 'NO', 'NOW', 'OF', 'OLD', 'ON', 'ONE', 'ONLY', 'OR', 'OTHER', 'OUR', 'OUT', 'OVER', 'RIGHT', 'SEE', 'SHE', 'SO', 'SOME', 'THAN', 'THAT', 'THE', 'THEIR', 'THEM', 'THEN', 'THERE', 'THESE', 'THEY', 'THIS', 'THOSE', 'TIME', 'TO', 'TWO', 'UP', 'US', 'VERY', 'WANT', 'WAS', 'WAY', 'WE', 'WELL', 'WENT', 'WERE', 'WHAT', 'WHEN', 'WHERE', 'WHICH', 'WHILE', 'WHO', 'WILL', 'WITH', 'WOULD', 'YOUR']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -4608,7 +4608,7 @@
         "filter": 3
     },
     {
-        "image_id": 512,
+        "image_id": 1680,
         "category_id": 1,
         "polys": [],
         "rec_texts": "[]",
@@ -4629,7 +4629,7 @@
         "image_id": 514,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SHOP', 'SMALL']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -4746,7 +4746,7 @@
         "image_id": 527,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Their', 'partner', 'asked', 'me', 'if', 'they', 'could', 'bid', 'the', 'base', 'by', 'the', 'lake']",
+        "rec_texts": "['Their', 'partner', 'asked', 'me', 'if', 'the', 'guard', 'hid', 'the', 'bow', 'by', 'the', 'hall']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4755,7 +4755,7 @@
         "image_id": 528,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'site', 'will', 'look', 'built', 'of', 'your', 'image', 'using', 'Stile', 'bricks']",
+        "rec_texts": "['The', 'witch', 'said', 'that', 'both', 'of', 'you', 'have', 'to', 'motor', 'to', 'the', 'bridge']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4764,7 +4764,7 @@
         "image_id": 529,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Create', 'or', 'edit', 'connections', 'between', 'letters', 'or', 'lines']",
+        "rec_texts": "['The', 'soldier', 'told', 'me', 'your', 'neighbors', 'lost', 'the', 'maps', 'in', 'the', 'bag']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4773,7 +4773,7 @@
         "image_id": 530,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['You', 'discovered', 'an', 'island', 'on', 'the', 'ocean']",
+        "rec_texts": "['Instead', 'of', 'watching', 'movies', 'you', 'all', 'will', 'march', 'to', 'the', 'prison']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4782,7 +4782,7 @@
         "image_id": 531,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['You', 'could', 'be', 'anyone', 'Be', 'kind']",
+        "rec_texts": "['Your', 'uncle', 'asked', 'if', 'the', 'soldiers', 'wanted', 'the', 'snow', 'in', 'the', 'bar']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4791,7 +4791,7 @@
         "image_id": 532,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['IN', 'CASE', 'OF', 'FIRE', 'BREAK', 'GLASS']",
+        "rec_texts": "['He', 'noticed', 'that', 'our', 'brother', 'told', 'me', 'not', 'to', 'play', 'by', 'the', 'pond']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4800,7 +4800,7 @@
         "image_id": 533,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'PODCAST', 'NETWORK']",
+        "rec_texts": "['He', 'doesn\u2019t', 'give', 'you', 'candy', 'or', 'buy', 'nice', 'dinners']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4809,7 +4809,7 @@
         "image_id": 534,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OF', 'A', 'KIND', 'ONE']",
+        "rec_texts": "['You', 'can', 'by', 'Matte', 'notebooks', 'and', 'loose', 'leaf', 'paper', 'too']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4818,7 +4818,7 @@
         "image_id": 535,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['INTRODUCTION', 'TO', 'COMPUTATIONAL', 'THINKING', 'USING', 'PYTHON']",
+        "rec_texts": "['Where', 'did', 'you', 'find', 'that']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4827,7 +4827,7 @@
         "image_id": 536,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['Amazing', 'Things', 'Will', 'Happen']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4836,7 +4836,7 @@
         "image_id": 537,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "```\n[]\n```",
+        "rec_texts": "['NEW', 'GAMES', 'EVERY', 'DAY']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4863,7 +4863,7 @@
         "image_id": 540,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Problem', 'Solving', 'with', 'Algorithms', 'and', 'Data', 'Structures', 'using', 'Python']",
+        "rec_texts": "['Consider', 'the', 'following', 'two', 'systems', 'of', 'equations:', '2x', '-', '3y', '=', '4', '4x', '-', '6y', '=', '8', '2x', '-', '3y', '=', '4', '4x', '-', '5y', '=', '12']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4872,7 +4872,7 @@
         "image_id": 541,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['the', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -5088,7 +5088,7 @@
         "image_id": 565,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Once', 'I', 'spotted', 'the', 'crew', 'placing', 'iron', 'under', 'the', 'bal']",
+        "rec_texts": "['Our', 'uncle', 'hoped', 'all', 'the', 'crew', 'placed', 'the', 'horns', 'under', 'the', 'bed']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -5097,7 +5097,7 @@
         "image_id": 566,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Your', 'lady', 'takes', 'to', 'read', 'three', 'happy', 'stories', 'about', 'pigs']",
+        "rec_texts": "['Your', 'family', 'told', 'us', 'to', 'read', 'three', 'happy', 'stories', 'about', 'games']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -5106,7 +5106,7 @@
         "image_id": 567,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Your', 'satisfaction', 'is', 'my', 'priority', 'that', 'what', \"it's\", 'about']",
+        "rec_texts": "['Your', 'sons', 'said', 'that', 'the', 'mayor', 'liked', 'the', 'sheet', 'near', 'the', 'bush']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -5115,7 +5115,7 @@
         "image_id": 568,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Individual', 'achievements', 'contribute']",
+        "rec_texts": "['It', 'was', 'almost', 'seven', 'miles', 'between', 'their', 'barn', 'and', 'the', 'valley']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -5124,7 +5124,7 @@
         "image_id": 569,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Exact', 'Science', 'from', 'first', 'month', 'by', 'Structured']",
+        "rec_texts": "['The', 'officer', 'told', 'me', 'that', 'my', 'dad', 'put', 'the', 'toy', 'next', 'to', 'the', 'dam']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -5133,7 +5133,7 @@
         "image_id": 570,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Types', 'of', 'the', 'Gas', 'and', 'the', 'Installation']",
+        "rec_texts": "['The', 'group', 'said', 'the', 'currencies', 'put', 'the', 'doves', 'on', 'the', 'front']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -5142,7 +5142,7 @@
         "image_id": 571,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Lets', 'get', 'physical', 'physical']",
+        "rec_texts": "['Your', 'suit', 'its', 'a', 'pet', 'kitten', 'with', 'a', 'woven', 'patch', 'under', 'its', 'paw']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -5151,7 +5151,7 @@
         "image_id": 572,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['YOU', 'ARE', 'AS', 'UNIQUE', 'AS', 'YOUR', 'DNA']",
+        "rec_texts": "['Comic', 'books', 'tilled', 'in', 'the', 'winter', 'their', 'roles', 'reverse']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -5268,7 +5268,7 @@
         "image_id": 585,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['A', 'lier', 'speaking', 'they', 'should', 'sing', 'in', 'your', 'living', 'room', 'tonight']",
+        "rec_texts": "['After', 'speaking', 'they', 'should', 'sing', 'in', 'your', 'living', 'room', 'tonight']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -5286,7 +5286,7 @@
         "image_id": 587,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['I', 'often', 'write', 'poems', 'with', 'our', 'not', 'while', 'watching', 'television']",
+        "rec_texts": "['I', 'often', 'write', 'poems', 'with', 'our', 'aunt', 'while', 'watching', 'television']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -5295,7 +5295,7 @@
         "image_id": 588,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Their', 'neighbors', 'are', 'a', 'cup', 'of', 'turkey', 'and', 'corn', 'syrup', 'on', 'truck']",
+        "rec_texts": "['Their', 'neighbors', 'ate', 'a', 'cup', 'of', 'turkey', 'and', 'corn', 'soup', 'for', 'lunch']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -5304,7 +5304,7 @@
         "image_id": 589,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['To', 'say', 'but', 'a', 'few', 'of', 'many', 'nice', 'of', 'occasions']",
+        "rec_texts": "['The', 'fairy', 'had', 'a', 'cup', 'of', 'orange', 'juice', 'and', 'a', 'bowl', 'of', 'ice', 'cream']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -5313,7 +5313,7 @@
         "image_id": 590,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['There's', 'a', 'dead-head', 'under', 'on', 'bed']",
+        "rec_texts": "['This', 'farmer', 'keeps', 'a', 'rabbit', 'with', 'a', 'brown', 'mark', 'under', 'its', 'foot']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -5322,7 +5322,7 @@
         "image_id": 591,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Harrand', 'Williams', 'insurance']",
+        "rec_texts": "['My', 'son', 'asked', 'all', 'of', 'us', 'to', 'read', 'two', 'long', 'stories', 'about', 'music']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -5331,7 +5331,7 @@
         "image_id": 592,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['palliative', 'problems', 'for', 'non', 'on', 'law']",
+        "rec_texts": "['Our', 'dad', 'told', 'us', 'not', 'to', 'walk', 'by', 'the', 'lake', 'because', 'it', 'was', 'dark']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -5340,7 +5340,7 @@
         "image_id": 593,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['I', 'am', 'bottled', 'Italian', 'balsamic', 'vinegar']",
+        "rec_texts": "['It', 'was', 'four', 'hundred', 'kilometers', 'from', 'the', 'woods', 'to', 'their', 'barn']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -5349,7 +5349,7 @@
         "image_id": 594,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['horizontal', 'vertical', 'both']",
+        "rec_texts": "['Our', 'friends', 'told', 'me', 'the', 'witch', 'found', 'the', 'whistle', 'by', 'the', 'beds']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -5358,7 +5358,7 @@
         "image_id": 595,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['comprehensive', 'program', 'of', 'public', 'information']",
+        "rec_texts": "['In', 'place', 'of', 'fishing', 'a', 'spoonful', 'may', 'pollute', 'the', 'rush']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -5367,7 +5367,7 @@
         "image_id": 596,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Find', 'the', 'derivative', 'of', 'y', '=', '\\frac{x^2-1}{x^2+1}']",
+        "rec_texts": "['You', 'dread', 'till', 'an', 'enemy', 'stays', 'above', 'a', 'love', 'that', 'is', 'above', 'us']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -5376,7 +5376,7 @@
         "image_id": 597,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['of', 'water', 'per']",
+        "rec_texts": "['Variable', 'and', 'its', 'description']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -5385,7 +5385,7 @@
         "image_id": 598,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['W', 'T']",
+        "rec_texts": "['A', 'normal', 'dose', 'produces', 'sedation', 'A', 'therapeutic', 'dose']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -5394,7 +5394,7 @@
         "image_id": 599,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Personalized', 'by']",
+        "rec_texts": "['Is', 'recognized', 'by', 'a', 'small', 'group', 'being', 'related']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -5475,7 +5475,7 @@
         "image_id": 608,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Then', 'you', 'must', 'each', 'both', 'of', 'you', 'to', 'work', 'at', 'three', 'long', 'poems']",
+        "rec_texts": "['Their', 'partner', 'asked', 'both', 'of', 'you', 'to', 'look', 'at', 'three', 'long', 'poems']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -5484,7 +5484,7 @@
         "image_id": 609,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['It', 'is', 'owing', 'such', 'a', 'car', 'and', 'having', 'such', 'a', 'large', 'house']",
+        "rec_texts": "['After', 'eating', 'supper', 'we', 'could', 'bicycle', 'to', 'the', 'gathering', 'today']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -5493,7 +5493,7 @@
         "image_id": 610,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['They', 'were', 'at', 'Adelaide', 'yesterday']",
+        "rec_texts": "['The', 'nurse', 'has', 'a', 'pet', 'rabbit', 'with', 'a', 'brown', 'patch', 'above', 'its', 'eye']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -5502,7 +5502,7 @@
         "image_id": 611,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['It', 'was', 'at', 'the', 'proper', 'time', 'and', 'by', 'the']",
+        "rec_texts": "['Our', 'granny', 'said', 'the', 'policeman', 'liked', 'the', 'candles', 'by', 'the', 'bush']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -5511,7 +5511,7 @@
         "image_id": 612,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['I', 'can', 'talk', 'to', 'the', 'tide', 'The', 'tide', 'knows', 'all', 'my', 'secrets']",
+        "rec_texts": "['This', 'professor', 'rode', 'through', 'the', 'college', 'because', 'it', 'was', 'dark']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -5520,7 +5520,7 @@
         "image_id": 613,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['I', 'looked', 'around', 'and', 'saw', 'that', 'there', 'was']",
+        "rec_texts": "['Their', 'brother', 'asked', 'me', 'whether', 'they', 'saw', 'the', 'bat', 'outside']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -5529,7 +5529,7 @@
         "image_id": 614,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Maximum', 'value', 'of', 'f(x)', 'x', '=', 'x1', '+', 'x2', '+', 'x3', '+', 'x4', 'such', 'that', 'g(x)', '=', '0']",
+        "rec_texts": "['The', 'crowd', 'said', 'that', 'you', 'must', 'learn', 'fair', 'stories', 'about', 'games']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -5538,7 +5538,7 @@
         "image_id": 615,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['A', 'GENERAL', 'MODEL', 'OF', 'INTEGRATED', 'ASSESSMENT']",
+        "rec_texts": "['My', 'advice', 'on', 'bad', 'publications', 'could', 'just', 'advise', 'averse']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -5547,7 +5547,7 @@
         "image_id": 616,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['sum', 'of', 'squares', 'Regression', 'sum', 'of', 'squares', 'Residual', 'sum', 'of', 'squares', 'Total']",
+        "rec_texts": "['The', 'player', 'is', 'able', 'to', 'pass', 'the', 'team', 'are', 'they', 'can', 'but', 'behind', 'the', 'desk']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -5556,7 +5556,7 @@
         "image_id": 617,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Total', 'Fat', '0g']",
+        "rec_texts": "['Problem', '1', 'Solve', 'by', 'partial', 'fractions', 'the', 'integral']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -5565,7 +5565,7 @@
         "image_id": 618,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Forever', 'in', 'My', 'Heart']",
+        "rec_texts": "['In', 'such', 'proceedings', 'as', 'shall', 'be', 'defined', 'by', 'law,', 'regulations', 'or', 'rules']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -5574,7 +5574,7 @@
         "image_id": 619,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['Theorem', 'If', 'f(x)', 'is', 'differentiable', 'at', 'x', '=', 'a', 'then', 'f(x)', 'is', 'continuous', 'at', 'x', '=', 'a']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -5646,7 +5646,7 @@
         "image_id": 627,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'phone', 'will', 'help', 'of', 'you', 'to', 'choose', 'our', 'dishes', 'by', 'this', 'week']",
+        "rec_texts": "['The', 'phone', 'will', 'help', 'of', 'you', 'to', 'choose', 'one', 'taken', 'by', 'the', 'world']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -5655,7 +5655,7 @@
         "image_id": 628,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'dominant', 'note', 'that', 'no', 'doubt', 'took', 'of', 'them', 'that', 'passes']",
+        "rec_texts": "['He', 'demonstrates', 'that', 'we', \"shouldn't\", 'look', 'at', 'how', 'they', 'present']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -5664,7 +5664,7 @@
         "image_id": 629,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['To', 'ensure', 'that', 'no', 'one', 'sells', 'ice', 'cream', 'from', 'wheeled', 'carts']",
+        "rec_texts": "['To', 'calculate', 'the', 'area', 'of', 'a', 'rectangle', 'x', 'width']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -5673,7 +5673,7 @@
         "image_id": 630,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'parameters', 'of', 'the', 'linear', 'regression', 'model', 'are', 'estimated', 'using', 'the', 'ordinary', 'least', 'squares', 'OLS', 'method', 'The', 'OLS', 'estimators', 'are', 'given', 'by']",
+        "rec_texts": "['The', 'average', 'number', 'of', 'times', 'per', 'week', 'that', 'kids', 'ages', '6-17', 'eat', 'dinner', 'with', 'their', 'families', 'is', '45']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -5682,7 +5682,7 @@
         "image_id": 631,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ESS', 'TWO', 'ESSENTIAL', 'STEP', 'SYSTEM']",
+        "rec_texts": "['FACTS', 'ABOUT', 'EARTH']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -5691,7 +5691,7 @@
         "image_id": 632,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Kiss', 'the', 'Cook']",
+        "rec_texts": "['ARE', 'YOU', 'A', 'ROBOT']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -5700,7 +5700,7 @@
         "image_id": 633,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Promotion']",
+        "rec_texts": "I cannot see any words in this image as it is entirely blurred and white Therefore, I return an empty list as requested\n\n`[]`",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -5709,7 +5709,7 @@
         "image_id": 634,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Happy', 'Birthday']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -5718,7 +5718,7 @@
         "image_id": 635,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Silver', 'Chain', 'Bracelet']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -5727,7 +5727,7 @@
         "image_id": 636,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Weller']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -5781,7 +5781,7 @@
         "image_id": 642,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'players', 'told', 'us', 'our', 'parents', 'saw', 'the', 'stellar', 'over', 'the', 'dam']",
+        "rec_texts": "['The', 'players', 'told', 'us', 'our', 'parents', 'saw', 'the', 'dollar', 'over', 'the', 'dam']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -5790,7 +5790,7 @@
         "image_id": 643,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['We', 'discover', 'and', 'that', 'we', 'must', 'travel', 'to', 'the', 'stars', 'tonight']",
+        "rec_texts": "['We', 'choose', 'and', 'that', 'we', 'must', 'travel', 'to', 'the', 'dark', 'knight']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -5799,7 +5799,7 @@
         "image_id": 644,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Rather', 'than', 'deleting', 'any', 'deleted', 'text', 'is', 'the', 'same', 'color']",
+        "rec_texts": "['Rather', 'than', 'destroying', 'they', 'should', 'be', 'put', 'to', 'the', 'best', 'use']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -5808,7 +5808,7 @@
         "image_id": 645,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'dog', 'wanted', 'to', 'catch', 'three', 'the', 'squirrels', 'that', 'were', 'in', 'the']",
+        "rec_texts": "['The', 'sky', 'outside', 'the', 'window', 'turns', 'the', 'usual', 'shade', 'of', 'grey']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -5817,7 +5817,7 @@
         "image_id": 646,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['There', 'are', 'lots', 'of', 'things', 'we', 'can', 'do']",
+        "rec_texts": "['Total', 'Cash', 'and', 'Short-Term', 'Investments', 'is', 'the', 'sum', 'of', 'Cash', '&', 'Cash', 'Equivalents', 'and', 'Short-Term', 'Investments']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -5835,7 +5835,7 @@
         "image_id": 648,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['To', 'calculate', 'the', 'standard', 'deviation', 'of', 'a', 'sample', 'of', 'data', 'you', 'can', 'use', 'the', 'following', 'formula', 's', 'frac{sum_{i=1}^{n}(x_i', 'bar{x})^2}{n', '1}', 'where', 's', 'is', 'the', 'sample', 'standard', 'deviation', 'x_i', 'represents', 'each', 'individual', 'data', 'point', 'bar{x}', 'is', 'the', 'sample', 'mean', 'and', 'n', 'is', 'the', 'sample', 'size']",
+        "rec_texts": "['Abstract', '1', 'Introduction', '2', 'Related', 'Work', '3', 'Proposed', 'Method', '4', 'Experiments', '5', 'Results', '6', 'Conclusion']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -5844,7 +5844,7 @@
         "image_id": 649,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['of', 'the', 'most', 'common', 'causes', 'of', 'hair', 'loss', 'is', 'a', 'hereditary', 'condition', 'called', 'male-pattern', 'baldness', 'or', 'female-pattern', 'baldness', 'It', 'usually', 'occurs', 'gradually', 'with', 'aging', 'and', 'in', 'predictable', 'patterns', 'a', 'receding', 'hairline', 'and', 'bald', 'spots', 'in', 'men', 'and', 'thinning', 'hair', 'along', 'the', 'crown', 'of', 'the', 'scalp', 'in', 'women']",
+        "rec_texts": "",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -5853,7 +5853,7 @@
         "image_id": 650,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['of', 'and', 'to', 'a', 'in', 'is', 'you', 'that', 'it', 'he', 'was', 'for', 'on', 'are', 'with', 'as', 'I', 'his', 'they', 'be', 'at', 'one', 'have', 'this', 'from', 'or', 'had', 'by', 'not', 'word', 'but', 'what', 'some', 'we', 'can', 'out', 'other', 'were', 'all', 'there', 'when', 'up', 'use', 'your', 'how', 'said', 'an', 'each', 'she', 'which', 'do', 'their', 'time', 'if', 'will', 'way', 'about', 'many', 'then', 'them', 'write', 'would', 'like', 'so', 'these', 'her', 'long', 'make', 'thing', 'see', 'him', 'two', 'has', 'look', 'more', 'day', 'could', 'go', 'come', 'did', 'number', 'sound', 'no', 'most', 'people', 'my', 'over', 'know', 'water', 'than', 'call', 'first', 'who', 'may', 'down', 'side', 'been', 'now', 'find']",
+        "rec_texts": "I cannot see any legible text within the provided blurred image Therefore, I cannot provide a list of words  Returning an empty list as per the requested format:\n\n[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -5925,7 +5925,7 @@
         "image_id": 658,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OF', 'AND', 'TO', 'A', 'IN', 'THAT', 'IS', 'I', 'IT', 'FOR', 'AS', 'WITH', 'WAS', 'HIS', 'HE', 'BE', 'BY', 'NOT', 'YOU', 'ARE', 'ON', 'AT', 'OR', 'HER', 'HAVE', 'AN', 'THEY', 'WHICH', 'ONE', 'THIS', 'FROM', 'HAD', 'ALL', 'BUT', 'THEIR', 'SHE', 'HAS', 'THERE', 'WERE', 'HIM', 'SO', 'UP', 'OUT', 'ABOUT', 'WHO', 'GET', 'INTO', 'WHEN', 'MAKE', 'CAN', 'LIKE', 'TIME', 'NO', 'JUST', 'KNOW', 'TAKE', 'PEOPLE', 'SEE', 'NOW', 'THAN', 'THEN', 'FIRST', 'ANY', 'NEW', 'WORK', 'HOW', 'WANT', 'BECAUSE', 'THESE', 'GIVE', 'DAY', 'MOST', 'US']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -5934,7 +5934,7 @@
         "image_id": 659,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['YOOX', 'NET-A-PORTER', 'GROUP']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -6006,7 +6006,7 @@
         "image_id": 667,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'young', 'girl', 'told', 'me', 'not', 'to', 'walk', 'near', 'the', 'road', 'after', 'down']",
+        "rec_texts": "['The', 'young', 'girl', 'told', 'me', 'not', 'to', 'walk', 'near', 'the', 'road', 'after', 'dawn']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -6015,7 +6015,7 @@
         "image_id": 668,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'substitutional', 'oxide', 'is', 'of', 'n-type', 'like', 'cad', 'selenide']",
+        "rec_texts": "['The', 'soldiers', 'shared', 'a', 'cold', 'cup', 'of', 'apple', 'juice', 'and', 'ice', 'cream']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -6024,7 +6024,7 @@
         "image_id": 669,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['They', 'will', 'using', 'terms', 'like', 'pure', 'or', '100', 'saturated']",
+        "rec_texts": "['Along', 'with', 'visiting', 'he', 'may', 'like', 'to', 'play', 'in', 'the', 'room', 'tonight']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -6033,7 +6033,7 @@
         "image_id": 670,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['shaking', 'heaven', 'and', 'earth', 'it', 'seems']",
+        "rec_texts": "['After', 'doing', 'lessons', 'you', 'all', 'might', 'skate', 'to', 'the', 'canyon', 'today']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -6042,7 +6042,7 @@
         "image_id": 671,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['We', 'make', 'sure', 'it', 'never', 'happens', 'so', 'much', 'is', 'at', 'stake']",
+        "rec_texts": "['My', 'son', 'told', 'us', 'that', 'the', 'major', 'found', 'the', 'records', 'in', 'the', 'bank']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -6051,7 +6051,7 @@
         "image_id": 672,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['POOL', 'VILLA', 'PRIVATE', 'POOL']",
+        "rec_texts": "['Their', 'dad', 'hoped', 'all', 'the', 'farmers', 'saw', 'the', 'plates', 'over', 'the', 'dam']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -6060,7 +6060,7 @@
         "image_id": 673,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['If', 'you', 'cannot', 'find', 'all', 'of', 'the', 'words', 'in', 'the', 'puzzle', 'try', 'looking', 'for', 'common', 'words', 'first']",
+        "rec_texts": "['Their', 'friends', 'asked', 'you', 'all', 'to', 'wash', 'the', 'name', 'this', 'morning']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -6069,7 +6069,7 @@
         "image_id": 674,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Name', 'Description', 'Type', 'Required', 'Format']",
+        "rec_texts": "['The', 'really', 'bad', 'look', 'like', 'her', 'cousin', 'white', 'outliquer']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -6078,7 +6078,7 @@
         "image_id": 675,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['POWER', 'SUPPLY', 'CORD', 'INPUT', '100', '240V', '~', '50', '60Hz', '04A', 'OUTPUT', '52V', '===24A']",
+        "rec_texts": "['Choose', 'the', 'good', 'options', 'from', 'the', 'list']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -6087,7 +6087,7 @@
         "image_id": 676,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['it', 'is', '20']",
+        "rec_texts": "['be', 'placed', 'according', 'before', 'they', 'will', 'carry', 'current', 'the', 'body']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -6096,7 +6096,7 @@
         "image_id": 677,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KITCHEN']",
+        "rec_texts": "['YOU', 'Learned', 'the', 'FIRST', 'English', 'word', 'in', 'seconds']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -6105,7 +6105,7 @@
         "image_id": 678,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HELLO']",
+        "rec_texts": "['The', 'download', 'link', 'has', 'been', 'sent', 'to', 'your', 'registered']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -6114,7 +6114,7 @@
         "image_id": 679,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SERVICES']",
+        "rec_texts": "['It', 'is', 'not', 'from', 'the', 'benevolence', 'of', 'the', 'butcher', 'the', 'brewer', 'or', 'the', 'baker', 'that', 'we', 'expect', 'our', 'dinner', 'but', 'from', 'their', 'regard', 'to', 'their', 'own', 'interest']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -6123,7 +6123,7 @@
         "image_id": 680,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Besides', 'being', 'the', 'oil', 'disappears', 'from', 'the', 'existing', 'knowledge']",
+        "rec_texts": "['Besides', 'being', 'the', 'will', 'disappear', 'from', 'the', 'meeting', 'tonight']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -6132,7 +6132,7 @@
         "image_id": 681,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['It', 'was', 'the', 'intestinal', 'liberation', 'from', 'the', 'devil', 'to', 'pass', 'loose']",
+        "rec_texts": "['It', 'was', 'the', 'beautiful', 'Lilium', 'from', 'the', 'desert', 'to', 'pass', 'over']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -6141,7 +6141,7 @@
         "image_id": 682,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['If', 'Daniel', 'didn\u2019t', 'go', 'ahead', 'and', 'try', 'to', 'be', 'obedient']",
+        "rec_texts": "['It', 'looks', 'older', 'It', 'does', 'not', 'say', 'If', 'is', 'closed']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -6150,7 +6150,7 @@
         "image_id": 683,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'purpose', 'of', 'life,', 'after', 'all,', 'is', 'to', 'live', 'it,', 'to', 'taste', 'experience', 'to', 'the', 'utmost,', 'to', 'reach', 'out', 'eagerly', 'and', 'without', 'fear', 'for', 'newer', 'and', 'richer', 'experience']",
+        "rec_texts": "['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -6159,7 +6159,7 @@
         "image_id": 684,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Suppose', 'that', 'the', 'joint', 'probability', 'density', 'function', 'of', 'X', 'and', 'Y', 'is', 'given', 'by']",
+        "rec_texts": "['When', 'the', 'going', 'gets', 'tough', 'the', 'tough', 'get', 'going']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -6168,7 +6168,7 @@
         "image_id": 685,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Here', 'are', 'some', 'examples', 'of', 'different', 'types', 'of', 'pasta:', 'Spaghetti', 'Penne', 'Fusilli', 'Farfalle', 'Lasagna', 'Ravioli', 'Tortellini']",
+        "rec_texts": "['', '', '']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -6177,7 +6177,7 @@
         "image_id": 686,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['of', 'the', 'most', 'common', 'types', 'of', 'intellectual', 'property', 'protection', 'is', 'copyright', 'Copyright', 'protects', 'original', 'works', 'of', 'authorship', 'including', 'literary', 'dramatic', 'musical', 'and', 'certain', 'other', 'intellectual', 'works', 'such', 'as', 'computer', 'programs']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -6186,7 +6186,7 @@
         "image_id": 687,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['of', 'the', 'most', 'common', 'causes', 'of', 'back', 'pain', 'are:', 'Muscle', 'strains', 'and', 'sprains', 'These', 'are', 'often', 'caused', 'by', 'lifting', 'heavy', 'objects', 'or', 'sudden', 'movements', 'Herniated', 'disk', 'This', 'occurs', 'when', 'a', 'disk', 'in', 'the', 'spine', 'bulges', 'out', 'and', 'presses', 'on', 'a', 'nerve', 'Spinal', 'stenosis', 'This', 'is', 'a', 'narrowing', 'of', 'the', 'spinal', 'canal', 'which', 'can', 'put', 'pressure', 'on', 'the', 'spinal', 'cord', 'and', 'nerves', 'Arthritis', 'This', 'is', 'a', 'degenerative', 'condition', 'that', 'can', 'affect', 'the', 'joints', 'in', 'the', 'spine', 'Osteoporosis', 'This', 'is', 'a', 'condition', 'that', 'causes', 'bones', 'to', 'become', 'weak', 'and', 'brittle', 'making', 'them', 'more', 'prone', 'to', 'fractures']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -6357,7 +6357,7 @@
         "image_id": 706,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['He', 'noticed', 'that', 'we', 'will', 'run', 'around', 'the', 'city', 'in', 'the', 'morning']",
+        "rec_texts": "['He', 'noticed', 'that', 'our', 'aunt', 'ran', 'around', 'the', 'city', 'in', 'the', 'morning']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -6375,7 +6375,7 @@
         "image_id": 708,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Their', 'trials', 'shall', 'not', 'for', 'a', 'single', 'glance', 'still', 'vex', 'dinner']",
+        "rec_texts": "['Their', 'friends', 'asked', 'me', 'for', 'a', 'cold', 'glass', 'of', 'milk', 'with', 'dinner']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -6384,7 +6384,7 @@
         "image_id": 709,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Could', 'I', 'ask', 'the', 'photographer', 'to', 'leave', 'you', 'alone']",
+        "rec_texts": "['Our', 'dad', 'carried', 'the', 'phone', 'to', 'the', 'palace', 'because', 'it', 'was', 'dark']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -6393,7 +6393,7 @@
         "image_id": 710,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['To', 'be', 'able', 'upon', 'my', 'mind', 'my', 'path', 'before', 'my', 'death']",
+        "rec_texts": "['The', 'child', 'has', 'a', 'pet', 'pig', 'with', 'a', 'big', 'pink', 'spot', 'over', 'its', 'mouth']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -6402,7 +6402,7 @@
         "image_id": 711,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'solution', 'to', 'xxx', 'xxxx', 'xxx', 'is', 'xxx', 'into', 'xxxx']",
+        "rec_texts": "['The', 'wizard', 'asked', 'if', 'your', 'classmates', 'put', 'the', 'cars', 'on', 'the', 'dam']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -6411,7 +6411,7 @@
         "image_id": 712,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LAST', 'CALL', 'FOR', 'ALL', 'GET', 'YOUR', 'ORDERS', 'AT', 'THE', 'BAR']",
+        "rec_texts": "['After', 'doing', 'lessons', 'you', 'all', 'should', 'play', 'in', 'my', 'cabin', 'tonight']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -6420,7 +6420,7 @@
         "image_id": 713,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'Museum', 'of', 'the', 'Bible', 'invites', 'you', 'to', 'experience', 'the', 'living', 'word', 'of', 'God']",
+        "rec_texts": "['You', 'usually', 'like', 'to', 'sort', 'out', 'my', 'clothes', 'while', 'eating', 'supper']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -6429,7 +6429,7 @@
         "image_id": 714,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Data', 'Science', 'and', 'Statistical', 'Learning', 'Course', 'Instructor:', 'Ryan', 'Tibshirani']",
+        "rec_texts": "['Over', 'a', 'Just', 'walk', 'between', 'the', 'wall', 'until', 'the', 'time']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -6438,7 +6438,7 @@
         "image_id": 715,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KISS', 'THE', 'COOK']",
+        "rec_texts": "['Investors', 'are', 'selling', 'short', 'dated', 'and', 'spending', 'the', 'options']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -6447,7 +6447,7 @@
         "image_id": 716,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FOR', 'RENT']",
+        "rec_texts": "['Prof', 'Dr', 'Ing\u00e9nieur', 'dipl', '\u00e9conomiste', 'EPF', 'Lausanne']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -6456,7 +6456,7 @@
         "image_id": 717,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NEXT']",
+        "rec_texts": "['MY', 'BROTHERS', 'ARE', 'MY', 'HEROES']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -6465,7 +6465,7 @@
         "image_id": 718,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['If', 'you', 'can', 'read', 'this', 'you', 'are', 'too', 'close']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -6474,7 +6474,7 @@
         "image_id": 719,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['STUDIO']",
+        "rec_texts": "['Cut', 'Copy', 'Paste']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -6483,7 +6483,7 @@
         "image_id": 720,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['While', 'doing', 'research', 'they', 'used', 'several', 'it', 'also', 'involved']",
+        "rec_texts": "['When', 'I', 'look', 'back', 'I', 'can', 'see', 'that', 'I', 'was', 'always']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -6492,7 +6492,7 @@
         "image_id": 721,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['I', 'love', 'my', 'dog', 'He', 'is', 'the', 'best']",
+        "rec_texts": "['WAYFAIR', 'PICK']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -6501,7 +6501,7 @@
         "image_id": 722,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "I cannot read the blurred text in the image Therefore, I cannot provide a list of words  Please provide a clearer image",
+        "rec_texts": "['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -6510,7 +6510,7 @@
         "image_id": 723,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['of', 'the', 'following', 'statements', 'regarding', 'the', 'immune', 'system', 'is', 'are', 'false']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -6726,7 +6726,7 @@
         "image_id": 747,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Your', 'son', 'said', 'that', 'the', 'mayor', 'liked', 'the', 'short', 'cut', 'to', 'hurst']",
+        "rec_texts": "['Your', 'sons', 'said', 'that', 'the', 'mayor', 'liked', 'the', 'sheet', 'near', 'the', 'bush']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -6735,7 +6735,7 @@
         "image_id": 748,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['I', 'can', 'listen', 'no', 'more', 'because', 'it', 'is', 'too', 'to', 'the', 'valley']",
+        "rec_texts": "['It', 'was', 'almost', 'seven', 'miles', 'between', 'their', 'barn', 'and', 'the', 'valley']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -6744,7 +6744,7 @@
         "image_id": 749,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Love', 'like', 'doing', 'is', 'only', 'by', 'suckers']",
+        "rec_texts": "['The', 'officer', 'told', 'me', 'that', 'my', 'dad', 'put', 'the', 'boy', 'next', 'to', 'the', 'dam']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -6753,7 +6753,7 @@
         "image_id": 750,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['To', 'provide', 'women', 'dis', 'benefits']",
+        "rec_texts": "['The', 'group', 'said', 'that', 'our', 'enemies', 'put', 'the', 'flowers', 'on', 'the', 'bank']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -6762,7 +6762,7 @@
         "image_id": 751,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['You', 'can', 'remove', 'your', 'worry', 'lines', 'from', 'makeup']",
+        "rec_texts": "['Your', 'aunt', 'has', 'a', 'pet', 'kitten', 'with', 'a', 'brown', 'patch', 'under', 'its', 'paw']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -6771,7 +6771,7 @@
         "image_id": 752,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['YOUR', 'ACCOUNT', 'IS', 'NOW', 'ACTIVE']",
+        "rec_texts": "['Their', 'heads', 'ached', 'of', 'the', 'water', 'they', 'the', 'oldest', 'widows']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -6780,7 +6780,7 @@
         "image_id": 753,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['I', 'asked', 'God', 'for', 'a', 'bike', 'but', 'I', 'know', 'God', \"doesn't\", 'work', 'that', 'way', 'So', 'I', 'stole', 'a', 'bike', 'and', 'asked', 'for', 'forgiveness']",
+        "rec_texts": "['My', 'little', 'fellow', 'for', 'another', 'peace', 'dynamic']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -6789,7 +6789,7 @@
         "image_id": 754,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['EXPRESS', 'CAR', 'WASH']",
+        "rec_texts": "['Remote', 'cardiology', 'portable', 'ultimate', 'in', 'flexibility']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -6798,7 +6798,7 @@
         "image_id": 755,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GO', 'AHEAD', 'MAKE']",
+        "rec_texts": "['The', 'State', 'of', 'Arizona', 'Office', 'of', 'Tourism']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -6807,7 +6807,7 @@
         "image_id": 756,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -6816,7 +6816,7 @@
         "image_id": 757,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['PROFESSIONAL', 'HAIR', 'CARE']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -6834,7 +6834,7 @@
         "image_id": 759,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['THE', 'WONDER', 'YEARS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -6843,7 +6843,7 @@
         "image_id": 760,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'graph', 'of', 'y', '=', 'f(x)', 'is', 'shown', 'below', 'Evaluate', 'each', 'of', 'the', 'following:', 'f(-1)', '=', 'f(0)', '=', 'f(2)', '=']",
+        "rec_texts": "['The', 'following', 'table', 'shows', 'the', 'number', 'of', 'enrolled', 'students', 'in', 'different', 'courses', 'at', 'a', 'university']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -6951,7 +6951,7 @@
         "image_id": 772,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OF', 'THE', 'UNITED', 'STATES', 'OF', 'AMERICA']",
+        "rec_texts": "[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -7068,7 +7068,7 @@
         "image_id": 785,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['My', 'teacher', 'asked', 'the', 'witch', 'how', 'the', 'arrow', 'on', 'the', 'bridge']",
+        "rec_texts": "['My', 'teacher', 'asked', 'if', 'the', 'witch', 'threw', 'the', 'arrow', 'on', 'the', 'bridge']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -7077,7 +7077,7 @@
         "image_id": 786,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'queen', 'said', 'that', 'both', 'were', 'honest', 'until', 'otherwise']",
+        "rec_texts": "['The', 'queen', 'said', 'that', 'both', 'of', 'you', 'have', 'to', 'run', 'to', 'the', 'bathroom']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -7086,7 +7086,7 @@
         "image_id": 787,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Created', 'Leaves', 'mother', '20', 'months', 'after', 'inheriting']",
+        "rec_texts": "['He', 'noticed', 'that', 'our', 'mother', 'ran', 'past', 'the', 'park', 'in', 'the', 'morning']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -7095,7 +7095,7 @@
         "image_id": 788,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Retire', 'Medicine', 'Foundation', 'for', 'Alzheimer']",
+        "rec_texts": "['Rather', 'than', 'being', 'he', 'will', 'escape', 'from', 'the', 'cell', 'tomorrow']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -7104,7 +7104,7 @@
         "image_id": 789,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['interested', 'in', 'prices', 'only', 'listed', 'defined']",
+        "rec_texts": "['Your', 'team', 'said', 'that', 'the', 'workers', 'put', 'the', 'decks', 'in', 'the', 'church']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -7113,7 +7113,7 @@
         "image_id": 790,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Recovery', 'Upward', 'Trend']",
+        "rec_texts": "['The', 'stagekeeper', 'a', 'goat', 'with', 'a', 'white', 'spot', 'over', 'its', 'mouth']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -7122,7 +7122,7 @@
         "image_id": 791,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['It', 'is', 'difficult', 'to', 'separate', 'a', 'city', 'from', 'its', 'people']",
+        "rec_texts": "['Old', 'friends', 'alike', 'the', 'new', 'liked', 'the', 'vest', 'on', 'the', 'track']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -7131,7 +7131,7 @@
         "image_id": 792,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'UNIVERSITY', 'OF', 'HONG', 'KONG']",
+        "rec_texts": "['Oftentimes', 'you', 'have', 'to', 'look', 'for', 'hyperparameters']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11

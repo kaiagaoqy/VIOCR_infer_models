@@ -3,7 +3,7 @@
         "image_id": 0,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VIDEOS']",
+        "rec_texts": "['C', 'V', 'D', 'O', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -12,7 +12,7 @@
         "image_id": 1,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['COHKN']",
+        "rec_texts": "['C', 'O', 'H', 'K', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -21,7 +21,7 @@
         "image_id": 2,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VRHZC']",
+        "rec_texts": "['V', 'R', 'H', 'Z', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -30,7 +30,7 @@
         "image_id": 3,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NK', 'OZ', 'R']",
+        "rec_texts": "['N', 'K', 'O', 'Z', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -39,7 +39,7 @@
         "image_id": 4,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VHRS']",
+        "rec_texts": "['V', 'H', 'R', 'C', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -48,7 +48,7 @@
         "image_id": 5,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VOSND']",
+        "rec_texts": "['V', 'O', 'S', 'N', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -57,7 +57,7 @@
         "image_id": 6,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SCNDZ']",
+        "rec_texts": "['S', 'C', 'N', 'D', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -66,7 +66,7 @@
         "image_id": 7,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ROZNS']",
+        "rec_texts": "['R', 'O', 'Z', 'N', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -75,7 +75,7 @@
         "image_id": 8,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RDZHS']",
+        "rec_texts": "['R', 'D', 'Z', 'H', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -84,7 +84,7 @@
         "image_id": 9,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SHYRZ']",
+        "rec_texts": "['S', 'H', 'V', 'R', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -93,7 +93,7 @@
         "image_id": 10,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZRHOv']",
+        "rec_texts": "['Z', 'R', 'H', 'O', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -102,7 +102,7 @@
         "image_id": 11,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['\u0574\u056b', 'Hz']",
+        "rec_texts": "['N', 'O', 'H', 'V', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -111,7 +111,7 @@
         "image_id": 12,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['n', 'r', 'n', 's', 'u']",
+        "rec_texts": "['D', 'S', 'R', 'V', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -120,7 +120,7 @@
         "image_id": 13,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['prefer']",
+        "rec_texts": "['K', 'C', 'Z', 'H', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -129,7 +129,7 @@
         "image_id": 14,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['K', 'Z', 'O', 'V', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -138,7 +138,7 @@
         "image_id": 15,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['JP']",
+        "rec_texts": "['V', 'D', 'H', 'R', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -147,7 +147,7 @@
         "image_id": 16,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['N', '\u039e', 'H', '\u2272', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -156,7 +156,7 @@
         "image_id": 17,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['K', 'N', 'R', 'O', 'Y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -165,7 +165,7 @@
         "image_id": 18,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['p', 'R', 'E', 'S', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -174,7 +174,7 @@
         "image_id": 19,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['M', 'Y', 'B', 'I', 'F']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -210,7 +210,7 @@
         "image_id": 24,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HDNCK']",
+        "rec_texts": "['H', 'D', 'N', 'C', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -219,7 +219,7 @@
         "image_id": 25,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RZCNH']",
+        "rec_texts": "['R', 'Z', 'C', 'N', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -228,7 +228,7 @@
         "image_id": 26,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HKOND']",
+        "rec_texts": "['H', 'K', 'O', 'N', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -237,7 +237,7 @@
         "image_id": 27,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RVO', 'KZ']",
+        "rec_texts": "['R', 'V', 'O', 'K', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -246,7 +246,7 @@
         "image_id": 28,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KHNVS']",
+        "rec_texts": "['K', 'H', 'N', 'V', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -255,7 +255,7 @@
         "image_id": 29,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MBOZK']",
+        "rec_texts": "['H', 'S', 'O', 'Z', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -264,7 +264,7 @@
         "image_id": 30,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['V', 'R', 'Z', 'O', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -372,7 +372,7 @@
         "image_id": 43,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NZ', 'WHO']",
+        "rec_texts": "['N', 'Z', 'V', 'H', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -381,7 +381,7 @@
         "image_id": 44,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DSHRC']",
+        "rec_texts": "['D', 'S', 'H', 'R', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -390,7 +390,7 @@
         "image_id": 45,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NZ', 'VDR']",
+        "rec_texts": "['N', 'Z', 'V', 'D', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -399,7 +399,7 @@
         "image_id": 46,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RINOH']",
+        "rec_texts": "['R', 'N', 'V', 'O', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -408,7 +408,7 @@
         "image_id": 47,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['K', 'Z', 'O', 'N', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -417,7 +417,7 @@
         "image_id": 48,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['W', 'W']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -552,7 +552,7 @@
         "image_id": 64,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KRAVD']",
+        "rec_texts": "['K', 'R', 'N', 'V', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -561,7 +561,7 @@
         "image_id": 65,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZHIKORE']",
+        "rec_texts": "['Z', 'H', 'N', 'D', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -570,7 +570,7 @@
         "image_id": 66,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['M', 'N', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -633,7 +633,7 @@
         "image_id": 73,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['I', 'N', 'C', 'O', 'R', 'P', 'O', 'R', 'A', 'T', 'E', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -642,7 +642,7 @@
         "image_id": 74,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['T', 'O', 'P']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -723,7 +723,7 @@
         "image_id": 84,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['M', 'A', 'V', 'I', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -786,7 +786,7 @@
         "image_id": 91,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['O', 'R', 'I', 'G', 'I', 'N', 'A', 'L']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -795,7 +795,7 @@
         "image_id": 92,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['T', 'H', 'E', 'F', 'L', 'A', 'S', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -804,7 +804,7 @@
         "image_id": 93,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['C', 'o', 'c', 'a', '-', 'C', 'o', 'l', 'a']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -822,7 +822,7 @@
         "image_id": 95,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['S', 'A', 'F', 'E', 'T', 'Y', 'F', 'I', 'R', 'S', 'T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -831,7 +831,7 @@
         "image_id": 96,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['T', 'h', 'e', 'A', 'm', 'e', 'r', 'i', 'c', 'a', 'n', 'L', 'e', 'g', 'i', 'o', 'n']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -930,7 +930,7 @@
         "image_id": 108,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['N', 'O', 'S', 'I', 'G', 'N', 'A', 'L']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -948,7 +948,7 @@
         "image_id": 110,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['P', 'R', 'O', 'T', 'E', 'C', 'T', 'I', 'O', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -957,7 +957,7 @@
         "image_id": 111,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['I', 'N', 'T', 'E', 'R', 'N', 'A', 'T', 'I', 'O', 'N', 'A', 'L']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1092,7 +1092,7 @@
         "image_id": 127,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CZSRH']",
+        "rec_texts": "['C', 'Z', 'S', 'R', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1101,7 +1101,7 @@
         "image_id": 128,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DSHVR']",
+        "rec_texts": "['D', 'S', 'H', 'V', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1110,7 +1110,7 @@
         "image_id": 129,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NKODV']",
+        "rec_texts": "['N', 'K', 'O', 'D', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1119,7 +1119,7 @@
         "image_id": 130,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['0', 'Z', 'R', 'C', 'D']",
+        "rec_texts": "['O', 'Z', 'R', 'C', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1137,7 +1137,7 @@
         "image_id": 132,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VNRSK']",
+        "rec_texts": "['V', 'N', 'R', 'S', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1146,7 +1146,7 @@
         "image_id": 133,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CDZNR']",
+        "rec_texts": "['C', 'D', 'Z', 'N', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1164,7 +1164,7 @@
         "image_id": 135,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CZNYK']",
+        "rec_texts": "['C', 'Z', 'N', 'V', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1173,7 +1173,7 @@
         "image_id": 136,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['5', 'Z', 'Y', 'D', 'N']",
+        "rec_texts": "['S', 'Z', 'V', 'D', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1182,7 +1182,7 @@
         "image_id": 137,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['*', 'Y', 'B', 'H', 'C']",
+        "rec_texts": "['C', 'V', 'R', 'H', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1191,7 +1191,7 @@
         "image_id": 138,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['n', '?', '?', '+', 'k']",
+        "rec_texts": "['O', 'V', 'Z', 'H', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1200,7 +1200,7 @@
         "image_id": 139,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['T', 'I', 'e', 'h']",
+        "rec_texts": "['S', 'K', 'R', 'O', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1209,7 +1209,7 @@
         "image_id": 140,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HIS']",
+        "rec_texts": "['R', 'D', 'K', 'S', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1218,7 +1218,7 @@
         "image_id": 141,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['V', 'K', 'D', 'H', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1227,7 +1227,7 @@
         "image_id": 142,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['N', '\u039e', 'N', 'R', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1236,7 +1236,7 @@
         "image_id": 143,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['o', 'z', 'H', 'o', 'k']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1245,7 +1245,7 @@
         "image_id": 144,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['T', 'H', 'C', 'I', 'Q']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1254,7 +1254,7 @@
         "image_id": 145,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['E', 'F', 'B', 'F', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1299,7 +1299,7 @@
         "image_id": 151,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZDNKC']",
+        "rec_texts": "['Z', 'D', 'N', 'K', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1308,7 +1308,7 @@
         "image_id": 152,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VZDRO']",
+        "rec_texts": "['V', 'Z', 'D', 'R', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1317,7 +1317,7 @@
         "image_id": 153,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NV', 'RKC']",
+        "rec_texts": "['N', 'V', 'R', 'K', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1326,7 +1326,7 @@
         "image_id": 154,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DONKH']",
+        "rec_texts": "['O', 'D', 'N', 'K', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1335,7 +1335,7 @@
         "image_id": 155,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZOOM']",
+        "rec_texts": "['Z', 'K', 'C', 'O', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1344,7 +1344,7 @@
         "image_id": 156,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['Z', 'V', 'K', 'O', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1452,7 +1452,7 @@
         "image_id": 169,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KORDS']",
+        "rec_texts": "['K', 'O', 'R', 'D', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1461,7 +1461,7 @@
         "image_id": 170,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DOHRK']",
+        "rec_texts": "['D', 'O', 'H', 'R', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1470,7 +1470,7 @@
         "image_id": 171,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VSKDN']",
+        "rec_texts": "['V', 'S', 'K', 'D', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1479,7 +1479,7 @@
         "image_id": 172,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['COORDK']",
+        "rec_texts": "['O', 'C', 'R', 'D', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1488,7 +1488,7 @@
         "image_id": 173,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['K', 'Z', 'N', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1497,7 +1497,7 @@
         "image_id": 174,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['W', 'O', 'W']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1506,7 +1506,7 @@
         "image_id": 175,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['H', 'W']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1623,7 +1623,7 @@
         "image_id": 189,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZKDRV']",
+        "rec_texts": "['Z', 'K', 'D', 'R', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1632,7 +1632,7 @@
         "image_id": 190,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CSRFHV']",
+        "rec_texts": "['C', 'S', 'R', 'H', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1641,7 +1641,7 @@
         "image_id": 191,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HYPOT']",
+        "rec_texts": "['H', 'U', 'D', 'O', 'G']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1650,7 +1650,7 @@
         "image_id": 192,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['W', 'O', 'W']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1713,7 +1713,7 @@
         "image_id": 199,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['L', 'O', 'V', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1722,7 +1722,7 @@
         "image_id": 200,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['O', 'L', 'L', 'Y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1803,7 +1803,7 @@
         "image_id": 210,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['K', 'I', 'M']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1866,7 +1866,7 @@
         "image_id": 217,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['S', 'T', 'A', 'R', 'B', 'U', 'C', 'K', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1875,7 +1875,7 @@
         "image_id": 218,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['I', 'I']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1947,7 +1947,7 @@
         "image_id": 226,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['C', 'O', 'M', 'I', 'N', 'G', 'S', 'O', 'O', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2028,7 +2028,7 @@
         "image_id": 236,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['T', 'h', 'e', 'f', 'a', 'c', 't', 't', 'h', 'a', 't', 't', 'h', 'e', 'r', 'e', 'i', 's', 'n', 'o', 'b', 'i', 'o', 's', 'i', 'g', 'n', 'a', 'l', 'o', 'f', 'e', 'x', 't', 'r', 'a', 't', 'e', 'r', 'r', 'e', 's', 't', 'r', 'i', 'a', 'l', 'l', 'i', 'f', 'e', 'i', 's', 'o', 'n', 'e', 'o', 'f', 't', 'h', 'e', 'm', 'o', 's', 't', 'p', 'r', 'o', 'f', 'o', 'u', 'n', 'd', 'm', 'y', 's', 't', 'e', 'r', 'i', 'e', 's', 'o', 'f', 's', 'c', 'i', 'e', 'n', 'c', 'e']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2037,7 +2037,7 @@
         "image_id": 237,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['H', 'O', 'M', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2163,7 +2163,7 @@
         "image_id": 252,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HDRZK']",
+        "rec_texts": "['H', 'D', 'R', 'Z', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2172,7 +2172,7 @@
         "image_id": 253,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SNCHV']",
+        "rec_texts": "['S', 'N', 'C', 'H', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2181,7 +2181,7 @@
         "image_id": 254,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZOKSH']",
+        "rec_texts": "['Z', 'O', 'K', 'S', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2190,7 +2190,7 @@
         "image_id": 255,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KRCHS']",
+        "rec_texts": "['K', 'R', 'C', 'H', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2199,7 +2199,7 @@
         "image_id": 256,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VRZCN']",
+        "rec_texts": "['V', 'R', 'Z', 'C', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2208,7 +2208,7 @@
         "image_id": 257,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KOHD2']",
+        "rec_texts": "['K', 'O', 'H', 'D', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2217,7 +2217,7 @@
         "image_id": 258,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NK', 'DOV']",
+        "rec_texts": "['N', 'K', 'D', 'O', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2226,7 +2226,7 @@
         "image_id": 259,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RZONC']",
+        "rec_texts": "['R', 'Z', 'O', 'N', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2235,7 +2235,7 @@
         "image_id": 260,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NROHC']",
+        "rec_texts": "['N', 'R', 'D', 'H', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2244,7 +2244,7 @@
         "image_id": 261,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MODE']",
+        "rec_texts": "['V', 'R', 'C', 'D', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2253,7 +2253,7 @@
         "image_id": 262,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NIN']",
+        "rec_texts": "['N', 'B', 'K', 'Z', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2262,7 +2262,7 @@
         "image_id": 263,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['K', 'W', 'W']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2307,7 +2307,7 @@
         "image_id": 268,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['I', 'N', 'F', 'O', 'R', 'M', 'A', 'T', 'I', 'O', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2361,7 +2361,7 @@
         "image_id": 275,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DZSVC']",
+        "rec_texts": "['D', 'Z', 'S', 'V', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2370,7 +2370,7 @@
         "image_id": 276,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NDCRO']",
+        "rec_texts": "['N', 'D', 'C', 'R', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2379,7 +2379,7 @@
         "image_id": 277,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NKZCS']",
+        "rec_texts": "['N', 'K', 'Z', 'C', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2388,7 +2388,7 @@
         "image_id": 278,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SVDZH']",
+        "rec_texts": "['S', 'V', 'D', 'Z', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2397,7 +2397,7 @@
         "image_id": 279,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RKSDQ']",
+        "rec_texts": "['R', 'K', 'S', 'D', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2415,7 +2415,7 @@
         "image_id": 281,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VDCOZ']",
+        "rec_texts": "['V', 'D', 'C', 'O', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2424,7 +2424,7 @@
         "image_id": 282,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CNRHK']",
+        "rec_texts": "['C', 'N', 'R', 'H', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2433,7 +2433,7 @@
         "image_id": 283,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VONHZ']",
+        "rec_texts": "['V', 'D', 'N', 'H', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2442,7 +2442,7 @@
         "image_id": 284,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['H', 'F', ':', '\u03c8', 'F']",
+        "rec_texts": "['H', 'R', 'C', 'V', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2451,7 +2451,7 @@
         "image_id": 285,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZENIR']",
+        "rec_texts": "['O', 'Z', 'N', 'H', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2460,7 +2460,7 @@
         "image_id": 286,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PLAY', 'WITH']",
+        "rec_texts": "['J', 'S', 'V', 'R', '2']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2469,7 +2469,7 @@
         "image_id": 287,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['J', '2', 'R', 'V', 'J']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2478,7 +2478,7 @@
         "image_id": 288,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['L', 'E', 'N', 'O', 'T', 'R', 'E', 'r', 'N', 'o', 'm']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2487,7 +2487,7 @@
         "image_id": 289,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['z', 'p', 'k', 'p', 'n']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2496,7 +2496,7 @@
         "image_id": 290,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['\u03a6', 'K', 'N', 'H', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2505,7 +2505,7 @@
         "image_id": 291,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['H', 'U', 'L', 'K', 'H', 'U', 'L', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2514,7 +2514,7 @@
         "image_id": 292,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['T', 'I', 'T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2532,7 +2532,7 @@
         "image_id": 294,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KV', 'S', 'N', 'H']",
+        "rec_texts": "['K', 'V', 'S', 'N', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2541,7 +2541,7 @@
         "image_id": 295,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CNVOR']",
+        "rec_texts": "['C', 'N', 'V', 'O', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2550,7 +2550,7 @@
         "image_id": 296,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CKHZO']",
+        "rec_texts": "['C', 'K', 'H', 'Z', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2568,7 +2568,7 @@
         "image_id": 298,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HCKO2']",
+        "rec_texts": "['H', 'C', 'K', 'O', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2577,7 +2577,7 @@
         "image_id": 299,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VZROD']",
+        "rec_texts": "['V', 'Z', 'R', 'O', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2586,7 +2586,7 @@
         "image_id": 300,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NODOS']",
+        "rec_texts": "['N', 'C', 'D', 'O', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2595,7 +2595,7 @@
         "image_id": 301,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HONSC']",
+        "rec_texts": "['H', 'O', 'N', 'S', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2604,7 +2604,7 @@
         "image_id": 302,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ENVOIR']",
+        "rec_texts": "['H', 'N', 'Y', 'O', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2613,7 +2613,7 @@
         "image_id": 303,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MENS']",
+        "rec_texts": "['N', 'Z', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2703,7 +2703,7 @@
         "image_id": 313,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SNRZV']",
+        "rec_texts": "['S', 'N', 'R', 'Z', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2712,7 +2712,7 @@
         "image_id": 314,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VKOCZ']",
+        "rec_texts": "['V', 'K', 'O', 'C', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2739,7 +2739,7 @@
         "image_id": 317,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DROZH']",
+        "rec_texts": "['D', 'R', 'O', 'Z', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2748,7 +2748,7 @@
         "image_id": 318,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NORKO']",
+        "rec_texts": "['N', 'D', 'R', 'K', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2757,7 +2757,7 @@
         "image_id": 319,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OZVRD']",
+        "rec_texts": "['D', 'Z', 'V', 'R', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2766,7 +2766,7 @@
         "image_id": 320,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['Z', 'V', 'N', 'O', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2883,7 +2883,7 @@
         "image_id": 333,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HOCRN']",
+        "rec_texts": "['H', 'O', 'C', 'R', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2892,7 +2892,7 @@
         "image_id": 334,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DVOZS']",
+        "rec_texts": "['D', 'V', 'O', 'Z', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2901,7 +2901,7 @@
         "image_id": 335,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OKDVS']",
+        "rec_texts": "['O', 'K', 'D', 'V', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2910,7 +2910,7 @@
         "image_id": 336,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HDRZY']",
+        "rec_texts": "['N', 'D', 'R', 'Z', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2919,7 +2919,7 @@
         "image_id": 337,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ONZONE']",
+        "rec_texts": "['O', 'N', 'Z', 'O', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3063,7 +3063,7 @@
         "image_id": 353,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NV2NR']",
+        "rec_texts": "['N', 'V', 'Z', 'N', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3072,7 +3072,7 @@
         "image_id": 354,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ON2VB']",
+        "rec_texts": "['C', 'N', 'Z', 'V', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3081,7 +3081,7 @@
         "image_id": 355,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NOVIN']",
+        "rec_texts": "['N', 'O', 'V', 'I']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3090,7 +3090,7 @@
         "image_id": 356,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['I', 'I', 'I', 'I']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3243,7 +3243,7 @@
         "image_id": 373,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['I', 'I', 'I', 'I']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3423,7 +3423,7 @@
         "image_id": 393,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DNROS']",
+        "rec_texts": "['D', 'N', 'R', 'O', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3432,7 +3432,7 @@
         "image_id": 394,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SZRCO']",
+        "rec_texts": "['S', 'Z', 'R', 'C', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3441,7 +3441,7 @@
         "image_id": 395,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RZ', 'SDO']",
+        "rec_texts": "['R', 'Z', 'S', 'D', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3450,7 +3450,7 @@
         "image_id": 396,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DRZVK']",
+        "rec_texts": "['D', 'R', 'Z', 'V', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3468,7 +3468,7 @@
         "image_id": 398,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OSCRD']",
+        "rec_texts": "['O', 'S', 'C', 'R', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3477,7 +3477,7 @@
         "image_id": 399,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HODZC']",
+        "rec_texts": "['H', 'O', 'D', 'Z', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3486,7 +3486,7 @@
         "image_id": 400,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CH2OV']",
+        "rec_texts": "['C', 'H', 'Z', 'O', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3495,7 +3495,7 @@
         "image_id": 401,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VOSZR']",
+        "rec_texts": "['V', 'O', 'S', 'Z', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3504,7 +3504,7 @@
         "image_id": 402,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HF\u00d8DK']",
+        "rec_texts": "['H', 'R', 'O', 'D', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3513,7 +3513,7 @@
         "image_id": 403,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FOREKO']",
+        "rec_texts": "['C', 'N', 'Z', 'K', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3522,7 +3522,7 @@
         "image_id": 404,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SERVICE']",
+        "rec_texts": "['N', 'Z', 'V', 'C', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3531,7 +3531,7 @@
         "image_id": 405,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['as', 'is', 'the', 'a', 'of', 'in', 'to']",
+        "rec_texts": "['S', 'Z', 'O', 'N', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3540,7 +3540,7 @@
         "image_id": 406,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['IIII']",
+        "rec_texts": "['Z', 'S', 'K', 'D', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3549,7 +3549,7 @@
         "image_id": 407,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['D', 'S', 'H', 'K', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3558,7 +3558,7 @@
         "image_id": 408,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['D', 'S', 'C', 'Z', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3567,7 +3567,7 @@
         "image_id": 409,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['HH']",
+        "rec_texts": "['E', 'H', '\u03a6', 'R', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3576,7 +3576,7 @@
         "image_id": 410,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['K', 'H', 'U', 'O', 'P']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3585,7 +3585,7 @@
         "image_id": 411,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['z', 'h', 'i', 'p']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3594,7 +3594,7 @@
         "image_id": 412,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['E', 'F', 'G', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -3630,7 +3630,7 @@
         "image_id": 417,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['05', 'HNK']",
+        "rec_texts": "['O', 'S', 'H', 'N', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3639,7 +3639,7 @@
         "image_id": 418,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KRVDC']",
+        "rec_texts": "['K', 'R', 'V', 'D', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3648,7 +3648,7 @@
         "image_id": 419,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GCD5V']",
+        "rec_texts": "['O', 'C', 'D', 'S', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3657,7 +3657,7 @@
         "image_id": 420,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PVKZO']",
+        "rec_texts": "['R', 'V', 'K', 'Z', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3666,7 +3666,7 @@
         "image_id": 421,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FUZZY']",
+        "rec_texts": "['R', 'D', 'Z', 'K', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3675,7 +3675,7 @@
         "image_id": 422,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NFSC']",
+        "rec_texts": "['H', 'R', 'S', 'O', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3684,7 +3684,7 @@
         "image_id": 423,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['C', 'D', 'K', 'O', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3693,7 +3693,7 @@
         "image_id": 424,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['S', 'V', 'D', 'H', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3702,7 +3702,7 @@
         "image_id": 425,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['Z', 'O', 'R', 'N', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3711,7 +3711,7 @@
         "image_id": 426,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['N', 'D', 'C', 'K', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3720,7 +3720,7 @@
         "image_id": 427,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['F', 'C', 'B', 'Z', 'D']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3729,7 +3729,7 @@
         "image_id": 428,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['Z', 'H', 'U', 'R', 'U']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3738,7 +3738,7 @@
         "image_id": 429,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['W', 'U', 'B', 'Z', 'U']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3747,7 +3747,7 @@
         "image_id": 430,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['X', 'M', 'E', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3756,7 +3756,7 @@
         "image_id": 431,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['F', 'r', 'e', 's', 'h', ' ', 'M', 'e', 'a', 't']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -3783,7 +3783,7 @@
         "image_id": 435,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ZHNDK']",
+        "rec_texts": "['Z', 'H', 'N', 'D', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3792,7 +3792,7 @@
         "image_id": 436,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CVNOS']",
+        "rec_texts": "['C', 'V', 'N', 'O', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3801,7 +3801,7 @@
         "image_id": 437,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NSDZK']",
+        "rec_texts": "['N', 'S', 'D', 'Z', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3810,7 +3810,7 @@
         "image_id": 438,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PROVING']",
+        "rec_texts": "['R', 'C', 'V', 'N', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3819,7 +3819,7 @@
         "image_id": 439,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CKINFH']",
+        "rec_texts": "['C', 'K', 'N', 'R', 'H']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3828,7 +3828,7 @@
         "image_id": 440,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['V', 'N', 'D', 'Z', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3837,7 +3837,7 @@
         "image_id": 441,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['H', 'V', 'R', 'C', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3846,7 +3846,7 @@
         "image_id": 442,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['H', 'K', 'R', 'C', 'V']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3855,7 +3855,7 @@
         "image_id": 443,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['N', 'Z', 'H', 'D', 'G']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3864,7 +3864,7 @@
         "image_id": 444,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['C', 'R', 'D', 'O', 'G']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3873,7 +3873,7 @@
         "image_id": 445,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['R', 'H', 'V', 'Z', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3882,7 +3882,7 @@
         "image_id": 446,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['Z', 'U', 'G', 'K', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3900,7 +3900,7 @@
         "image_id": 448,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['P', 'L', 'A', 'Y', 'I', 'N', 'G']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -3963,7 +3963,7 @@
         "image_id": 456,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['VIRGIL']",
+        "rec_texts": "['V', 'R', 'Z', 'S', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -3972,7 +3972,7 @@
         "image_id": 457,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KOHRV']",
+        "rec_texts": "['K', 'D', 'H', 'R', 'Z']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -3981,7 +3981,7 @@
         "image_id": 458,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['R', 'V', 'H', 'O', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -3990,7 +3990,7 @@
         "image_id": 459,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['V', 'I', 'S', 'I', 'B', 'L', 'E']",
+        "rec_texts": "['O', 'V', 'Z', 'S', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -3999,7 +3999,7 @@
         "image_id": 460,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['V', 'D', 'O', 'H', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4008,7 +4008,7 @@
         "image_id": 461,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['S', 'C', 'R', 'N', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4017,7 +4017,7 @@
         "image_id": 462,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['S', 'C', 'O', 'Z', 'K']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4026,7 +4026,7 @@
         "image_id": 463,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['E', 'C', 'O', '2', 'H', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4035,7 +4035,7 @@
         "image_id": 464,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['M', 'A', 'R', 'I', 'O', 'T', 'T']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4044,7 +4044,7 @@
         "image_id": 465,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['S', 'A', 'V', 'I', 'N', 'G']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4053,7 +4053,7 @@
         "image_id": 466,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['M', 'E', 'N', 'Z', 'E', 'S']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -4143,7 +4143,7 @@
         "image_id": 477,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['Z', 'H', 'S', 'K', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4152,7 +4152,7 @@
         "image_id": 478,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['Z', 'O', 'V', 'D', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4161,7 +4161,7 @@
         "image_id": 479,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OF', 'THE', 'UNITED', 'STATES', 'OF', 'AMERICA']",
+        "rec_texts": "['R', 'V', '2', 'D', 'C']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4170,7 +4170,7 @@
         "image_id": 480,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['Z', 'N', 'O', 'C', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4179,7 +4179,7 @@
         "image_id": 481,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['N', 'O', 'H', 'O']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4188,7 +4188,7 @@
         "image_id": 482,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['M', 'I', 'C', 'H', 'I', 'G', 'A', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4197,7 +4197,7 @@
         "image_id": 483,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['S', 'A', 'V', 'A', 'G', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4206,7 +4206,7 @@
         "image_id": 484,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['G', 'E', 'N', 'E', 'R', 'A', 'T', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4215,7 +4215,7 @@
         "image_id": 485,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['I', 'N', 'F', 'I', 'N', 'I', 'T', 'Y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4224,7 +4224,7 @@
         "image_id": 486,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['I', 'N', 'T', 'E', 'R', 'I', 'O', 'R']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4233,7 +4233,7 @@
         "image_id": 487,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['I', 'N', 'F', 'I', 'N', 'I', 'T', 'Y']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4251,7 +4251,7 @@
         "image_id": 489,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['L', 'I', 'F', 'E']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -4269,7 +4269,7 @@
         "image_id": 491,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "[]",
+        "rec_texts": "['K', 'E', 'E', 'P', 'C', 'A', 'L', 'M', 'A', 'N', 'D', 'C', 'A', 'R', 'R', 'Y', 'O', 'N']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11

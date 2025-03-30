@@ -4,7 +4,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CVDOS"
+            "C",
+            "V",
+            "D",
+            "O",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -15,7 +19,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "COHKN"
+            "C",
+            "O",
+            "H",
+            "K",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -26,7 +34,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VRHZC"
+            "V",
+            "R",
+            "H",
+            "Z",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -37,7 +49,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "NKOZR"
+            "N",
+            "K",
+            "O",
+            "Z",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -48,7 +64,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VHRCS"
+            "V",
+            "H",
+            "R",
+            "C",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -59,7 +79,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VOSND"
+            "V",
+            "O",
+            "S",
+            "N",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -70,7 +94,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "SCNDZ"
+            "S",
+            "C",
+            "N",
+            "D",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -81,7 +109,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ROZNS"
+            "R",
+            "O",
+            "Z",
+            "N",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -92,7 +124,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RDZHS"
+            "R",
+            "D",
+            "Z",
+            "H",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -103,7 +139,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "SHYRZ"
+            "S",
+            "H",
+            "V",
+            "R",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -114,7 +154,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZRHOV"
+            "Z",
+            "R",
+            "H",
+            "O",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -125,7 +169,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "N",
+            "O",
+            "H",
+            "V",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -136,7 +184,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "news"
+            "D",
+            "S",
+            "R",
+            "V",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -147,7 +199,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "K",
+            "C",
+            "Z",
+            "H",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -158,7 +214,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "K",
+            "Z",
+            "O",
+            "V",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -169,7 +229,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "V",
+            "D",
+            "H",
+            "R",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -180,7 +244,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "H",
+            "Z",
+            "S",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -191,7 +258,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "K",
+            "N",
+            "R",
+            "O",
+            "Y"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -202,7 +273,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "O",
+            "R",
+            "E",
+            "S",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -213,7 +288,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "N",
+            "O",
+            "T",
+            "E",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -224,7 +303,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RDNSZ"
+            "R",
+            "D",
+            "N",
+            "S",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -235,7 +318,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HDZCN"
+            "H",
+            "D",
+            "Z",
+            "C",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -246,7 +333,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZCKSN"
+            "Z",
+            "C",
+            "K",
+            "S",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -257,7 +348,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HDNCK"
+            "H",
+            "D",
+            "N",
+            "C",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -268,7 +363,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RZCNH"
+            "R",
+            "Z",
+            "C",
+            "N",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -279,7 +378,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HKOND"
+            "H",
+            "K",
+            "O",
+            "N",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -290,7 +393,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RVOKZ"
+            "R",
+            "V",
+            "O",
+            "K",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -301,7 +408,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KHNVS"
+            "K",
+            "H",
+            "N",
+            "V",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -312,7 +423,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HSOZK"
+            "H",
+            "S",
+            "O",
+            "Z",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -323,7 +438,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VRZDN"
+            "V",
+            "R",
+            "Z",
+            "D",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -334,7 +453,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CGMN"
+            "O",
+            "K",
+            "H",
+            "N",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -345,7 +468,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "V",
+            "D",
+            "R",
+            "S",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -356,7 +483,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "M",
+            "N",
+            "K",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -366,9 +496,7 @@
         "image_id": 34,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -377,9 +505,7 @@
         "image_id": 35,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -388,9 +514,7 @@
         "image_id": 36,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -399,9 +523,7 @@
         "image_id": 37,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -410,9 +532,7 @@
         "image_id": 38,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -421,9 +541,7 @@
         "image_id": 39,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -432,9 +550,7 @@
         "image_id": 40,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -444,7 +560,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZKHRN"
+            "Z",
+            "K",
+            "H",
+            "R",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -455,7 +575,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "NZVHO"
+            "N",
+            "Z",
+            "V",
+            "H",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -466,7 +590,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "DSHRC"
+            "D",
+            "S",
+            "H",
+            "R",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -477,7 +605,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "NZVDR"
+            "N",
+            "Z",
+            "V",
+            "D",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -488,7 +620,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RNVOH"
+            "R",
+            "N",
+            "V",
+            "O",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -499,7 +635,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RZONK"
+            "R",
+            "Z",
+            "C",
+            "N",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -510,7 +650,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RKSOV"
+            "R",
+            "K",
+            "S",
+            "O",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -521,7 +665,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CYMN"
+            "C",
+            "V",
+            "H",
+            "R",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -532,7 +680,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VORZIN"
+            "V",
+            "O",
+            "R",
+            "Z",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -543,7 +695,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "O",
+            "V",
+            "M",
+            "E",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -553,9 +709,7 @@
         "image_id": 52,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -564,9 +718,7 @@
         "image_id": 53,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -575,9 +727,7 @@
         "image_id": 54,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -587,7 +737,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "W",
+            "H",
+            "A",
+            "T"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -597,9 +750,7 @@
         "image_id": 56,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -608,9 +759,7 @@
         "image_id": 57,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -619,9 +768,7 @@
         "image_id": 58,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -630,9 +777,7 @@
         "image_id": 59,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -641,9 +786,7 @@
         "image_id": 60,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -652,9 +795,7 @@
         "image_id": 61,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -664,7 +805,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZRCVS"
+            "Z",
+            "R",
+            "C",
+            "V",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -675,7 +820,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KRNVD"
+            "K",
+            "R",
+            "N",
+            "V",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -686,7 +835,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZHKDR"
+            "Z",
+            "H",
+            "K",
+            "D",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -697,7 +850,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ORDHO"
+            "O",
+            "R",
+            "D",
+            "H",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -708,7 +865,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CRVOD"
+            "O",
+            "R",
+            "V",
+            "O",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -719,7 +880,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "H",
+            "K",
+            "N",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -729,9 +893,7 @@
         "image_id": 69,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -740,9 +902,7 @@
         "image_id": 70,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -751,9 +911,7 @@
         "image_id": 71,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -762,9 +920,7 @@
         "image_id": 72,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -773,9 +929,7 @@
         "image_id": 73,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -785,7 +939,12 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "D",
+            "O",
+            "N",
+            "A",
+            "L",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -795,9 +954,7 @@
         "image_id": 75,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -806,9 +963,7 @@
         "image_id": 76,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -817,9 +972,7 @@
         "image_id": 77,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -828,9 +981,7 @@
         "image_id": 78,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -839,9 +990,7 @@
         "image_id": 79,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -850,9 +999,7 @@
         "image_id": 80,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -861,9 +1008,7 @@
         "image_id": 81,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -872,9 +1017,7 @@
         "image_id": 82,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -884,7 +1027,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "DROHN"
+            "D",
+            "R",
+            "O",
+            "H",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -895,7 +1042,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "D",
+            "K",
+            "R",
+            "V",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -906,7 +1057,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZSODK"
+            "Z",
+            "S",
+            "O",
+            "D",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -917,7 +1072,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZHONE"
+            "Z",
+            "H",
+            "O",
+            "M",
+            "I"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -927,9 +1086,7 @@
         "image_id": 88,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -938,9 +1095,7 @@
         "image_id": 89,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -949,9 +1104,7 @@
         "image_id": 90,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -960,9 +1113,7 @@
         "image_id": 91,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -971,9 +1122,7 @@
         "image_id": 92,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -983,7 +1132,8 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "U",
+            "M"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -993,9 +1143,7 @@
         "image_id": 94,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1004,9 +1152,7 @@
         "image_id": 95,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1016,7 +1162,8 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "W",
+            "E"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1026,9 +1173,7 @@
         "image_id": 97,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1037,9 +1182,7 @@
         "image_id": 98,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1048,9 +1191,7 @@
         "image_id": 99,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1059,9 +1200,7 @@
         "image_id": 100,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1070,9 +1209,7 @@
         "image_id": 101,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1081,9 +1218,7 @@
         "image_id": 102,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1092,9 +1227,7 @@
         "image_id": 103,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1104,7 +1237,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZEKON"
+            "Z",
+            "E",
+            "K",
+            "O",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1115,7 +1252,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "A",
+            "A",
+            "A",
+            "M"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1126,7 +1266,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "B",
+            "C",
+            "D",
+            "E"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1136,9 +1279,7 @@
         "image_id": 108,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1147,9 +1288,7 @@
         "image_id": 109,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1158,9 +1297,7 @@
         "image_id": 110,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1170,7 +1307,9 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "L",
+            "M",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1180,9 +1319,7 @@
         "image_id": 112,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1191,9 +1328,7 @@
         "image_id": 113,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1202,9 +1337,7 @@
         "image_id": 114,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1213,9 +1346,7 @@
         "image_id": 115,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1224,9 +1355,7 @@
         "image_id": 116,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1235,9 +1364,7 @@
         "image_id": 117,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1246,9 +1373,7 @@
         "image_id": 118,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1257,9 +1382,7 @@
         "image_id": 119,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1268,9 +1391,7 @@
         "image_id": 120,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1279,9 +1400,7 @@
         "image_id": 121,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1291,7 +1410,9 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "a",
+            "b",
+            "c"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1301,9 +1422,7 @@
         "image_id": 123,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1312,9 +1431,7 @@
         "image_id": 124,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1324,7 +1441,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KVCND"
+            "K",
+            "V",
+            "C",
+            "N",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1335,7 +1456,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CZSRH"
+            "C",
+            "Z",
+            "S",
+            "R",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1346,7 +1471,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "DSHVR"
+            "D",
+            "S",
+            "H",
+            "V",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1357,7 +1486,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "NKODV"
+            "N",
+            "K",
+            "O",
+            "D",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1368,7 +1501,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "OZRCD"
+            "O",
+            "Z",
+            "R",
+            "C",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1379,7 +1516,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KHCDZ"
+            "K",
+            "H",
+            "C",
+            "D",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1390,7 +1531,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VNRSK"
+            "V",
+            "N",
+            "R",
+            "S",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1401,7 +1546,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CDZNR"
+            "C",
+            "D",
+            "Z",
+            "N",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1412,7 +1561,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VCZHD"
+            "V",
+            "C",
+            "Z",
+            "H",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1423,7 +1576,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CZNYK"
+            "C",
+            "Z",
+            "N",
+            "V",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1434,7 +1591,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "5ZYDN"
+            "S",
+            "Z",
+            "V",
+            "D",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1445,7 +1606,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "YVRHC"
+            "C",
+            "V",
+            "R",
+            "H",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1456,7 +1621,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "O",
+            "V",
+            "Z",
+            "H",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1467,7 +1636,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "S",
+            "K",
+            "R",
+            "O",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1478,7 +1651,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "R",
+            "D",
+            "K",
+            "S",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1489,7 +1666,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "V",
+            "K",
+            "D",
+            "H",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1500,7 +1681,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "H",
+            "Z",
+            "N",
+            "R",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1511,7 +1696,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "O",
+            "Z",
+            "H",
+            "O",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1522,7 +1711,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "V",
+            "H",
+            "D",
+            "Z",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1533,7 +1726,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "E",
+            "D",
+            "E",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1544,7 +1740,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZVOHD"
+            "Z",
+            "V",
+            "O",
+            "H",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1555,7 +1755,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "DNZKC"
+            "D",
+            "N",
+            "Z",
+            "K",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1566,7 +1770,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CDKNS"
+            "C",
+            "D",
+            "K",
+            "N",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1577,7 +1785,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VKOZH"
+            "V",
+            "K",
+            "O",
+            "Z",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1588,7 +1800,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZDNKC"
+            "Z",
+            "D",
+            "N",
+            "K",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1599,7 +1815,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VZDRO"
+            "V",
+            "Z",
+            "D",
+            "R",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1610,7 +1830,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "NVRKC"
+            "N",
+            "V",
+            "R",
+            "K",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1621,7 +1845,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ODNKH"
+            "O",
+            "D",
+            "N",
+            "K",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1632,7 +1860,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZKCON"
+            "Z",
+            "K",
+            "C",
+            "O",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1643,7 +1875,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZVKON"
+            "Z",
+            "V",
+            "K",
+            "C",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1654,7 +1890,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "COMO"
+            "D",
+            "O",
+            "H",
+            "S",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1665,7 +1905,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "S",
+            "N",
+            "D",
+            "K",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1676,7 +1920,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "K",
+            "N",
+            "S",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1686,9 +1933,7 @@
         "image_id": 160,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1697,9 +1942,7 @@
         "image_id": 161,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1708,9 +1951,7 @@
         "image_id": 162,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1719,9 +1960,7 @@
         "image_id": 163,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1730,9 +1969,7 @@
         "image_id": 164,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1741,9 +1978,7 @@
         "image_id": 165,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1752,9 +1987,7 @@
         "image_id": 166,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1764,7 +1997,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RVCSH"
+            "R",
+            "V",
+            "C",
+            "S",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1775,7 +2012,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KORDS"
+            "K",
+            "O",
+            "R",
+            "D",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1786,7 +2027,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "DOHRK"
+            "D",
+            "O",
+            "H",
+            "R",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1797,7 +2042,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VSKDN"
+            "V",
+            "S",
+            "K",
+            "D",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1808,7 +2057,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "OCRDK"
+            "O",
+            "C",
+            "R",
+            "D",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1819,7 +2072,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KZNRV"
+            "K",
+            "Z",
+            "N",
+            "R",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1830,7 +2087,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KODZV"
+            "K",
+            "O",
+            "D",
+            "Z",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1841,7 +2102,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KMOZD"
+            "K",
+            "H",
+            "O",
+            "Z",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1852,7 +2117,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "N",
+            "K",
+            "Z",
+            "V",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1862,9 +2131,7 @@
         "image_id": 177,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1873,9 +2140,7 @@
         "image_id": 178,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1884,9 +2149,7 @@
         "image_id": 179,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1895,9 +2158,7 @@
         "image_id": 180,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1906,9 +2167,7 @@
         "image_id": 181,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1917,9 +2176,7 @@
         "image_id": 182,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1928,9 +2185,7 @@
         "image_id": 183,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1939,9 +2194,7 @@
         "image_id": 184,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1950,9 +2203,7 @@
         "image_id": 185,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1961,9 +2212,7 @@
         "image_id": 186,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1972,9 +2221,7 @@
         "image_id": 187,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1984,7 +2231,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZKDRV"
+            "Z",
+            "K",
+            "D",
+            "R",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -1995,7 +2246,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CSRHV"
+            "C",
+            "S",
+            "R",
+            "H",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2006,7 +2261,12 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HVDOC"
+            "H",
+            "V",
+            "D",
+            "O",
+            "O",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2017,7 +2277,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "SZODN"
+            "s",
+            "z",
+            "o",
+            "d",
+            "n"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2028,7 +2292,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "SHNZO"
+            "S",
+            "H",
+            "N",
+            "Z",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2039,7 +2307,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "N",
+            "K",
+            "S",
+            "O",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2049,9 +2321,7 @@
         "image_id": 195,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2060,9 +2330,7 @@
         "image_id": 196,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2071,9 +2339,7 @@
         "image_id": 197,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2082,9 +2348,7 @@
         "image_id": 198,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2093,9 +2357,7 @@
         "image_id": 199,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2104,9 +2366,7 @@
         "image_id": 200,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2116,7 +2376,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "W",
+            "H",
+            "A",
+            "T"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2126,9 +2389,7 @@
         "image_id": 202,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2138,7 +2399,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "W",
+            "A",
+            "T",
+            "E",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2148,9 +2413,7 @@
         "image_id": 204,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2159,9 +2422,7 @@
         "image_id": 205,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2170,9 +2431,7 @@
         "image_id": 206,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2181,9 +2440,7 @@
         "image_id": 207,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2192,9 +2449,7 @@
         "image_id": 208,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2204,7 +2459,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZONDK"
+            "Z",
+            "O",
+            "N",
+            "D",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2215,7 +2474,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "DOSVR"
+            "D",
+            "O",
+            "S",
+            "V",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2226,7 +2489,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ORKNY"
+            "O",
+            "R",
+            "K",
+            "N",
+            "Y"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2237,7 +2504,9 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "O",
+            "N",
+            "E"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2247,9 +2516,7 @@
         "image_id": 214,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2258,9 +2525,7 @@
         "image_id": 215,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2269,9 +2534,7 @@
         "image_id": 216,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2280,9 +2543,7 @@
         "image_id": 217,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2292,7 +2553,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "L",
+            "O",
+            "V",
+            "E"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2302,9 +2566,7 @@
         "image_id": 219,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2313,9 +2575,7 @@
         "image_id": 220,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2324,9 +2584,7 @@
         "image_id": 221,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2335,9 +2593,7 @@
         "image_id": 222,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2346,9 +2602,7 @@
         "image_id": 223,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2357,9 +2611,7 @@
         "image_id": 224,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2368,9 +2620,7 @@
         "image_id": 225,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2379,9 +2629,7 @@
         "image_id": 226,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2390,9 +2638,7 @@
         "image_id": 227,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2401,9 +2647,7 @@
         "image_id": 228,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2412,9 +2656,7 @@
         "image_id": 229,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2424,7 +2666,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ONRV"
+            "O",
+            "N",
+            "R",
+            "B",
+            "Y"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2435,7 +2681,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "zero"
+            "X",
+            "E",
+            "R",
+            "O",
+            "Y"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2446,7 +2696,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "H",
+            "E",
+            "L",
+            "L",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2456,9 +2710,7 @@
         "image_id": 234,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2467,9 +2719,7 @@
         "image_id": 235,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2479,7 +2729,9 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "o",
+            "o",
+            "o"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2490,7 +2742,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "W",
+            "A",
+            "R",
+            "U",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2500,9 +2756,7 @@
         "image_id": 238,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2511,9 +2765,7 @@
         "image_id": 239,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2522,9 +2774,7 @@
         "image_id": 240,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2533,9 +2783,7 @@
         "image_id": 241,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2544,9 +2792,7 @@
         "image_id": 242,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2555,9 +2801,7 @@
         "image_id": 243,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2566,9 +2810,7 @@
         "image_id": 244,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2577,9 +2819,7 @@
         "image_id": 245,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2588,9 +2828,7 @@
         "image_id": 246,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2599,9 +2837,7 @@
         "image_id": 247,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2610,9 +2846,7 @@
         "image_id": 248,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2621,9 +2855,7 @@
         "image_id": 249,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2632,9 +2864,7 @@
         "image_id": 250,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2644,7 +2874,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HDRZK"
+            "H",
+            "D",
+            "R",
+            "Z",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2655,7 +2889,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "SNCHV"
+            "S",
+            "N",
+            "C",
+            "H",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2666,7 +2904,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZOKSH"
+            "Z",
+            "O",
+            "K",
+            "S",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2677,7 +2919,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KRCHS"
+            "K",
+            "R",
+            "C",
+            "H",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2688,7 +2934,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VRZCN"
+            "V",
+            "R",
+            "Z",
+            "C",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2699,7 +2949,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KOHDZ"
+            "K",
+            "O",
+            "H",
+            "D",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2710,7 +2964,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "NKDOV"
+            "N",
+            "K",
+            "D",
+            "O",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2721,7 +2979,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RZONC"
+            "R",
+            "Z",
+            "O",
+            "N",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2732,7 +2994,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "NRDHC"
+            "N",
+            "R",
+            "D",
+            "H",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2743,7 +3009,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VRCDS"
+            "V",
+            "R",
+            "O",
+            "D",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2754,7 +3024,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "NOKER"
+            "N",
+            "S",
+            "K",
+            "Z",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2765,7 +3039,12 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "R",
+            "Z",
+            "S",
+            "K",
+            "D",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2776,7 +3055,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "Thequickbrownfox"
+            "E",
+            "V",
+            "O",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2787,7 +3069,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2797,9 +3083,7 @@
         "image_id": 266,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2809,7 +3093,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2819,9 +3107,7 @@
         "image_id": 268,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2830,9 +3116,7 @@
         "image_id": 269,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2841,9 +3125,7 @@
         "image_id": 270,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2852,9 +3134,7 @@
         "image_id": 271,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2864,7 +3144,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "OHRSN"
+            "O",
+            "H",
+            "R",
+            "S",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2875,7 +3159,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "OCRKV"
+            "O",
+            "C",
+            "R",
+            "K",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2886,7 +3174,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "DZSVC"
+            "D",
+            "Z",
+            "S",
+            "V",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2897,7 +3189,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "NDCRO"
+            "N",
+            "D",
+            "C",
+            "R",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2908,7 +3204,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "NKZCS"
+            "N",
+            "K",
+            "Z",
+            "C",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2919,7 +3219,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "SVDZH"
+            "S",
+            "V",
+            "D",
+            "Z",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2930,7 +3234,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RKSDO"
+            "R",
+            "K",
+            "S",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2941,7 +3248,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "OCVKZ"
+            "o",
+            "c",
+            "v",
+            "k",
+            "z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2952,7 +3263,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VDCOZ"
+            "V",
+            "D",
+            "C",
+            "O",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2963,7 +3278,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CNRHK"
+            "C",
+            "N",
+            "R",
+            "H",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2974,7 +3293,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VONHZ"
+            "V",
+            "D",
+            "N",
+            "H",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2985,7 +3308,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HRENA"
+            "H",
+            "R",
+            "C",
+            "V",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -2996,7 +3323,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "DZNIK"
+            "O",
+            "Z",
+            "N",
+            "H",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3007,7 +3338,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "J",
+            "S",
+            "V",
+            "R",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3018,7 +3353,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "J",
+            "Z",
+            "R",
+            "V",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3029,7 +3368,17 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "L",
+            "N",
+            "O",
+            "T",
+            "H",
+            "E",
+            "K",
+            "N",
+            "O",
+            "W",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3040,7 +3389,13 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "E",
+            "L",
+            "Z",
+            "O",
+            "K",
+            "D",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3051,7 +3406,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "O",
+            "K",
+            "N",
+            "H",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3062,7 +3421,16 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "N",
+            "O",
+            "R",
+            "I",
+            "X",
+            "K",
+            "O",
+            "P",
+            "A",
+            "L"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3072,9 +3440,7 @@
         "image_id": 292,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -3084,7 +3450,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KCVDZ"
+            "K",
+            "C",
+            "V",
+            "D",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3095,7 +3465,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KVSNH"
+            "K",
+            "V",
+            "S",
+            "N",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3106,7 +3480,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CNVOR"
+            "C",
+            "N",
+            "V",
+            "O",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3117,7 +3495,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CKHZO"
+            "C",
+            "K",
+            "H",
+            "Z",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3128,7 +3510,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KOCDZ"
+            "K",
+            "O",
+            "C",
+            "D",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3139,7 +3525,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HCKOZ"
+            "H",
+            "C",
+            "K",
+            "O",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3150,7 +3540,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VZROD"
+            "V",
+            "Z",
+            "R",
+            "O",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3161,7 +3555,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "NCDOS"
+            "N",
+            "C",
+            "D",
+            "O",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3172,7 +3570,12 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HONSC"
+            "H",
+            "O",
+            "N",
+            "S",
+            "O",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3183,7 +3586,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HNVOR"
+            "H",
+            "N",
+            "V",
+            "O",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3194,7 +3601,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "BZRCK"
+            "S",
+            "Z",
+            "R",
+            "O",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3205,7 +3616,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CYMOR"
+            "O",
+            "V",
+            "N",
+            "O",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3216,7 +3631,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "O",
+            "M",
+            "B",
+            "D",
+            "Y"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3226,9 +3645,7 @@
         "image_id": 306,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3237,9 +3654,7 @@
         "image_id": 307,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3248,9 +3663,7 @@
         "image_id": 308,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3259,9 +3672,7 @@
         "image_id": 309,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3270,9 +3681,7 @@
         "image_id": 310,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3281,9 +3690,7 @@
         "image_id": 311,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3292,9 +3699,7 @@
         "image_id": 312,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -3304,7 +3709,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "SNRZV"
+            "S",
+            "N",
+            "R",
+            "Z",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3315,7 +3724,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "vkocz"
+            "V",
+            "K",
+            "O",
+            "C",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3326,7 +3739,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "OKNVD"
+            "O",
+            "K",
+            "N",
+            "V",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3337,7 +3754,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZVHCD"
+            "Z",
+            "V",
+            "H",
+            "C",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3348,7 +3769,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "DROZH"
+            "D",
+            "R",
+            "O",
+            "Z",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3359,7 +3784,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "NDRK0"
+            "N",
+            "D",
+            "R",
+            "K",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3370,7 +3799,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "OZVRD"
+            "O",
+            "Z",
+            "V",
+            "R",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3381,7 +3814,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZVKOD"
+            "Z",
+            "V",
+            "K",
+            "O",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3392,7 +3829,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "S",
+            "H",
+            "N",
+            "A",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3403,7 +3844,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3413,9 +3858,7 @@
         "image_id": 323,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3424,9 +3867,7 @@
         "image_id": 324,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3435,9 +3876,7 @@
         "image_id": 325,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3446,9 +3885,7 @@
         "image_id": 326,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3457,9 +3894,7 @@
         "image_id": 327,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3468,9 +3903,7 @@
         "image_id": 328,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3479,9 +3912,7 @@
         "image_id": 329,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3490,9 +3921,7 @@
         "image_id": 330,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3501,9 +3930,7 @@
         "image_id": 331,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3512,9 +3939,7 @@
         "image_id": 332,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -3524,7 +3949,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HOCRN"
+            "H",
+            "O",
+            "C",
+            "R",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3535,7 +3964,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "DVOZS"
+            "D",
+            "V",
+            "O",
+            "Z",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3546,7 +3979,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "OKDVS"
+            "O",
+            "K",
+            "D",
+            "V",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3557,7 +3994,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HDRZV"
+            "H",
+            "D",
+            "R",
+            "Z",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3568,7 +4009,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "DHZON"
+            "D",
+            "M",
+            "Z",
+            "O",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3579,7 +4024,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "AVON"
+            "K",
+            "V",
+            "Z",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3589,9 +4037,7 @@
         "image_id": 339,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3600,9 +4046,7 @@
         "image_id": 340,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3611,9 +4055,7 @@
         "image_id": 341,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3622,9 +4064,7 @@
         "image_id": 342,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3633,9 +4073,7 @@
         "image_id": 343,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3644,9 +4082,7 @@
         "image_id": 344,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3655,9 +4091,7 @@
         "image_id": 345,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3666,9 +4100,7 @@
         "image_id": 346,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3677,9 +4109,7 @@
         "image_id": 347,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3688,9 +4118,7 @@
         "image_id": 348,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3699,9 +4127,7 @@
         "image_id": 349,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3710,9 +4136,7 @@
         "image_id": 350,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3721,9 +4145,7 @@
         "image_id": 351,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3732,9 +4154,7 @@
         "image_id": 352,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -3744,7 +4164,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "H",
+            "V",
+            "Z",
+            "N",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3755,7 +4179,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CNZVS"
+            "C",
+            "N",
+            "Z",
+            "V",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3766,7 +4194,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "MDVSR"
+            "M",
+            "D",
+            "V",
+            "I",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3776,9 +4208,7 @@
         "image_id": 356,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3787,9 +4217,7 @@
         "image_id": 357,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3798,9 +4226,7 @@
         "image_id": 358,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3809,9 +4235,7 @@
         "image_id": 359,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3820,9 +4244,7 @@
         "image_id": 360,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3831,9 +4253,7 @@
         "image_id": 361,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3842,9 +4262,7 @@
         "image_id": 362,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3853,9 +4271,7 @@
         "image_id": 363,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3864,9 +4280,7 @@
         "image_id": 364,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3875,9 +4289,7 @@
         "image_id": 365,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3886,9 +4298,7 @@
         "image_id": 366,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3897,9 +4307,7 @@
         "image_id": 367,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3908,9 +4316,7 @@
         "image_id": 368,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3919,9 +4325,7 @@
         "image_id": 369,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3930,9 +4334,7 @@
         "image_id": 370,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3941,9 +4343,7 @@
         "image_id": 371,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3952,9 +4352,7 @@
         "image_id": 372,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -3964,7 +4362,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RVAND"
+            "A",
+            "V",
+            "A",
+            "N",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -3974,9 +4376,7 @@
         "image_id": 374,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3985,9 +4385,7 @@
         "image_id": 375,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -3996,9 +4394,7 @@
         "image_id": 376,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4007,9 +4403,7 @@
         "image_id": 377,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4018,9 +4412,7 @@
         "image_id": 378,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4029,9 +4421,7 @@
         "image_id": 379,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4040,9 +4430,7 @@
         "image_id": 380,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4051,9 +4439,7 @@
         "image_id": 381,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4062,9 +4448,7 @@
         "image_id": 382,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4073,9 +4457,7 @@
         "image_id": 383,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4084,9 +4466,7 @@
         "image_id": 384,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4095,9 +4475,7 @@
         "image_id": 385,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4106,9 +4484,7 @@
         "image_id": 386,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4117,9 +4493,7 @@
         "image_id": 387,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4128,9 +4502,7 @@
         "image_id": 388,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4139,9 +4511,7 @@
         "image_id": 389,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4150,9 +4520,7 @@
         "image_id": 390,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4161,9 +4529,7 @@
         "image_id": 391,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4172,9 +4538,7 @@
         "image_id": 392,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -4184,7 +4548,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "DNROS"
+            "D",
+            "N",
+            "R",
+            "O",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4195,7 +4563,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "SZRCO"
+            "S",
+            "Z",
+            "R",
+            "C",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4206,7 +4578,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RZSDO"
+            "R",
+            "Z",
+            "S",
+            "D",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4217,7 +4593,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "DRZVK"
+            "D",
+            "R",
+            "Z",
+            "V",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4228,7 +4608,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HVRZS"
+            "H",
+            "V",
+            "R",
+            "Z",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4239,7 +4623,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "OSCRD"
+            "O",
+            "S",
+            "C",
+            "R",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4250,7 +4638,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HODZC"
+            "H",
+            "O",
+            "D",
+            "Z",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4261,7 +4653,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CHZOV"
+            "C",
+            "H",
+            "Z",
+            "O",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4272,7 +4668,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VOSZR"
+            "V",
+            "O",
+            "S",
+            "Z",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4283,7 +4683,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HRODK"
+            "H",
+            "R",
+            "O",
+            "D",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4294,7 +4698,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CNZKO"
+            "C",
+            "N",
+            "Z",
+            "K",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4305,7 +4713,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "N",
+            "Z",
+            "V",
+            "C",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4316,7 +4728,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "S",
+            "Z",
+            "O",
+            "N",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4327,7 +4743,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "STORY"
+            "Z",
+            "S",
+            "K",
+            "D",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4338,7 +4758,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "D",
+            "S",
+            "H",
+            "K",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4349,7 +4773,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "D",
+            "S",
+            "C",
+            "Z",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4360,7 +4788,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "I",
+            "H",
+            "O",
+            "R",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4371,7 +4803,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "K",
+            "H",
+            "O",
+            "O",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4382,7 +4818,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "Z",
+            "H",
+            "R",
+            "O",
+            "Y"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4393,7 +4833,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "E",
+            "D",
+            "N",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4404,7 +4847,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CNZOV"
+            "C",
+            "N",
+            "Z",
+            "O",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4415,7 +4862,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KZVHS"
+            "K",
+            "Z",
+            "V",
+            "H",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4426,7 +4877,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RDKSZ"
+            "R",
+            "D",
+            "K",
+            "S",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4437,7 +4892,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "OSHNK"
+            "O",
+            "S",
+            "H",
+            "N",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4448,7 +4907,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KRVDC"
+            "K",
+            "R",
+            "V",
+            "D",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4459,7 +4922,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "OCDSV"
+            "O",
+            "C",
+            "D",
+            "S",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4470,7 +4937,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RVKZO"
+            "R",
+            "V",
+            "K",
+            "Z",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4481,7 +4952,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RDZKH"
+            "R",
+            "D",
+            "Z",
+            "K",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4492,7 +4967,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HRSON"
+            "H",
+            "R",
+            "S",
+            "O",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4503,7 +4982,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CDKOZ"
+            "C",
+            "D",
+            "K",
+            "O",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4514,7 +4997,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "SYDHR"
+            "S",
+            "V",
+            "D",
+            "H",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4525,7 +5012,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZRW"
+            "Z",
+            "O",
+            "R",
+            "N",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4536,7 +5027,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "N",
+            "D",
+            "C",
+            "K",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4547,7 +5042,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KETTY"
+            "R",
+            "C",
+            "S",
+            "Z",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4558,7 +5057,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "Z",
+            "H",
+            "O",
+            "R",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4569,7 +5072,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "V",
+            "D",
+            "S",
+            "Z",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4580,7 +5087,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "N",
+            "S",
+            "R",
+            "C",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4591,7 +5102,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "H",
+            "E",
+            "L",
+            "L",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4602,7 +5117,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "V",
+            "E",
+            "R",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4613,7 +5131,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "E",
+            "N",
+            "V",
+            "Y"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4624,7 +5145,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZHNDK"
+            "Z",
+            "H",
+            "N",
+            "D",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4635,7 +5160,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CVNOS"
+            "C",
+            "V",
+            "N",
+            "O",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4646,7 +5175,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "NSDZK"
+            "N",
+            "S",
+            "D",
+            "Z",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4657,7 +5190,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RCVNK"
+            "R",
+            "C",
+            "V",
+            "N",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4668,7 +5205,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CKNRH"
+            "C",
+            "K",
+            "N",
+            "R",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4679,7 +5220,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VNDZS"
+            "V",
+            "N",
+            "D",
+            "Z",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4690,7 +5235,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HVRCS"
+            "H",
+            "V",
+            "R",
+            "C",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4701,7 +5250,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "HKRCV"
+            "H",
+            "K",
+            "R",
+            "C",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4712,7 +5265,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "NZHDO"
+            "N",
+            "Z",
+            "H",
+            "D",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4723,7 +5280,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CRDS"
+            "C",
+            "R",
+            "D",
+            "O",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4734,7 +5295,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "SHAPES"
+            "R",
+            "H",
+            "O",
+            "Z",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4745,7 +5310,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZMA"
+            "Z",
+            "D",
+            "S",
+            "K",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4756,7 +5325,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "V",
+            "R",
+            "D",
+            "C",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4767,7 +5340,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "R",
+            "Z",
+            "S",
+            "D",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4778,7 +5355,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "R",
+            "O",
+            "D",
+            "C",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4789,7 +5370,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "N",
+            "Z",
+            "D",
+            "C",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4800,7 +5385,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "B",
+            "Y",
+            "D",
+            "O",
+            "M"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4811,7 +5400,9 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "E",
+            "C",
+            "M"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4821,9 +5412,7 @@
         "image_id": 453,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -4832,9 +5421,7 @@
         "image_id": 454,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -4844,7 +5431,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "V",
+            "R",
+            "Z",
+            "S",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4855,7 +5446,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "K",
+            "D",
+            "H",
+            "R",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4866,7 +5461,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RVHOK"
+            "R",
+            "V",
+            "H",
+            "O",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4877,7 +5476,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "OVZSR"
+            "O",
+            "V",
+            "Z",
+            "S",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4888,7 +5491,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "VDOHE"
+            "V",
+            "D",
+            "O",
+            "H",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4899,7 +5506,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "SCRNO"
+            "S",
+            "C",
+            "R",
+            "N"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4910,7 +5520,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "scoz"
+            "S",
+            "C",
+            "O",
+            "Z",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4921,7 +5535,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "DCZWS"
+            "D",
+            "C",
+            "Z",
+            "H",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4932,7 +5550,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "WRZBDT"
+            "N",
+            "R",
+            "Z",
+            "D",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4943,7 +5565,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "S",
+            "O",
+            "V",
+            "H",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4954,7 +5580,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "O",
+            "S",
+            "K",
+            "Z",
+            "R"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4965,7 +5595,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "N",
+            "V",
+            "S",
+            "H",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4976,7 +5610,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "K",
+            "Z",
+            "Y",
+            "S",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4987,7 +5625,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "4",
+            "D",
+            "Y",
+            "K",
+            "G"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -4998,7 +5640,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "M",
+            "O",
+            "N",
+            "K",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5009,7 +5655,8 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "W",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5019,9 +5666,7 @@
         "image_id": 472,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -5031,7 +5676,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "P",
+            "N",
+            "A",
+            "P",
+            "T"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5041,9 +5690,7 @@
         "image_id": 474,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -5052,9 +5699,7 @@
         "image_id": 475,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -5064,7 +5709,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZHSKC"
+            "Z",
+            "H",
+            "S",
+            "K",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5075,7 +5724,12 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZOVDC"
+            "Z",
+            "O",
+            "V",
+            "I",
+            "D",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5086,7 +5740,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "RVZDGC"
+            "R",
+            "V",
+            "Z",
+            "D",
+            "C"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5097,7 +5755,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "ZNOOS"
+            "Z",
+            "N",
+            "O",
+            "C",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5108,7 +5770,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "NOHDK"
+            "N",
+            "O",
+            "H",
+            "D",
+            "K"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5119,7 +5785,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "KEYONY"
+            "K",
+            "H",
+            "C",
+            "N",
+            "V"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5130,7 +5800,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "S",
+            "C",
+            "H",
+            "D",
+            "Z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5141,7 +5815,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            "CBAD"
+            "C",
+            "D",
+            "K",
+            "O",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5152,7 +5830,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "H",
+            "S",
+            "V",
+            "N",
+            "D"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5163,7 +5845,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "H",
+            "D",
+            "C",
+            "R",
+            "S"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5174,7 +5860,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "O",
+            "N",
+            "Z",
+            "S",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5185,7 +5875,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "Z",
+            "K",
+            "O",
+            "B",
+            "H"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5196,7 +5890,10 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "V",
+            "A",
+            "K",
+            "E"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5207,7 +5904,13 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "d",
+            "v",
+            "e",
+            "r",
+            "t",
+            "i",
+            "z"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5218,7 +5921,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "z",
+            "i",
+            "a",
+            "n",
+            "a"
         ],
         "rec_score": 0,
         "det_score": 0,
@@ -5228,9 +5935,7 @@
         "image_id": 492,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -5239,9 +5944,7 @@
         "image_id": 493,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -5250,9 +5953,7 @@
         "image_id": 494,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -5261,9 +5962,7 @@
         "image_id": 495,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [
-            ""
-        ],
+        "rec_texts": [],
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -5273,7 +5972,11 @@
         "category_id": 1,
         "polys": [],
         "rec_texts": [
-            ""
+            "H",
+            "E",
+            "L",
+            "L",
+            "O"
         ],
         "rec_score": 0,
         "det_score": 0,
