@@ -3484,7 +3484,10 @@
         "image_id": 377,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [],
+        "rec_texts": [
+            "Riding",
+            "Academy"
+        ],
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -3646,7 +3649,9 @@
         "image_id": 395,
         "category_id": 1,
         "polys": [],
-        "rec_texts": [],
+        "rec_texts": [
+            "my吹奏楽の個別指導"
+        ],
         "rec_score": 0,
         "det_score": 0,
         "filter": 15

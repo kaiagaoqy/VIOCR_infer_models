@@ -1,0 +1,2882 @@
+[
+    {
+        "image_id": 0,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can only see the words \"GEMBIRA LOKA\" visible on the building These words appear on a sign or facade on the curved green and red band across the front of the structure\n\nSo in the requested format:\n['GEMBIRA', 'LOKA']\n\nThis appears to be a building with Chinese dragon decorations (one on the roof and one on the side), and it likely represents some kind of cultural or entertainment venue, possibly in Indonesia as \"Gembira Loka\" is Indonesian for \"Happy Place\" and is the name of a well-known zoo in Yogyakarta, Indonesia",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 1,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can only see one set of words visible, which appears to be the name of the building or establishment:\n\n['GEMBIRA', 'LOKA']\n\nThese words are displayed on what appears to be a sign on the front of a building that has Asian architectural influences, featuring a colorful dragon decoration and ornate carvings The building seems to be some kind of cultural or entertainment venue with green trim accents against a white structure",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a building with some text visible on its facade Although the image is somewhat blurry, I can make out the following words:\n\n['MBIRA', 'LOKA']\n\nThese words appear to be part of a sign or name on what looks like an Asian-style building with decorative elements that include what appears to be a dragon or similar ornamental figure in green and red colors The building has a distinctive architectural style against a blue sky background",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 3,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify all text I can make out what appears to be a building with some signage, possibly a restaurant or shop There seems to be text on what looks like a sign or facade, but due to the blurriness, I can only partially make out what might be \"CAMBIRA\" or similar text with red lettering against a darker background The building appears to have green trim or accents\n\nSince I cannot confidently identify specific words with certainty due to the image quality, I would provide: ['CAMBIRA'] - though even this is not completely clear from the blurry image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 4,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify text I can see what appears to be some text in the lower portion of the image, possibly on a sign or display, but I cannot make out specific words with confidence due to the blurriness Without being able to reliably read any text, I would have to provide:\n\n[]\n\nIf you have a clearer version of this image, I'd be happy to try again to identify any text present",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 5,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify any specific English words I cannot make out distinct text in the image with confidence The image appears to show what might be hands interacting with something on a surface with some blue elements in the background, but the resolution and focus are too low to reliably read any text that might be present\n\nSince I cannot recognize any clear words in this blurry image, the result would be: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 6,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can only see the words \"GEMBIRA LOKA\" visible on the building These words appear on a curved sign on the front of the structure, which appears to be an attraction or venue featuring dragon decorations\n\nSo in the requested format:\n\n['GEMBIRA', 'LOKA']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 7,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see the words \"GEMBIRA LOKA\" displayed on what appears to be a building or entrance These words are visible on a sign with colorful lettering (green and red/pink background) The building has dragon decorations (a green dragon figure is prominently displayed on the right side) and appears to be some kind of attraction or theme park\n\nThe format you requested would be:\n['GEMBIRA', 'LOKA']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 8,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can only make out a few words on the building The visible text appears to be:\n\n['BIRA', 'LOKA']\n\nThese words appear to be on the front of what looks like an Asian-style building with decorative elements including what appears to be a dragon sculpture The text is displayed on what seems to be a sign or facade of the building The image is somewhat blurry, which makes it difficult to identify any other potential text with certainty",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 9,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can see what appears to be a building with some decorative elements including what might be green trim and possibly some red text on a sign or banner However, due to the low resolution and blurriness of the image, I cannot make out any specific English words with confidence \n\nBased on what I can see, the result would be:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 10,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry and out of focus, making it difficult to clearly identify any English words I cannot make out any distinct text or words in the image The picture appears to show what might be a colorful building or structure with green trim against a blue sky background, but the quality is too low to discern any text\n\nBased on what I can see, I would have to return: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 11,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see the following English words:\n\n['GEMBIRA', 'LOKA']\n\nThese words appear on the curved sign on the building, which appears to be the name of what looks like a cultural attraction or park The building features a colorful dragon statue and decorative relief carvings The words \"GEMBIRA LOKA\" are displayed prominently on a green and red curved banner on the front of the structure",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 12,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a building with some text visible on it From what I can make out in this somewhat dark/dim image, the visible English words appear to be:\n\n['MBIRA', 'LOKA']\n\nThese words appear to be part of a sign or name on what looks like an Asian-style building with decorative elements including what appears to be a dragon figure on the right side The image is quite dark, making it difficult to clearly identify any other text that might be present",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 13,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite dark and low contrast, making it difficult to clearly identify all text From what I can make out, there appears to be a sign or structure with some text that looks like \"MBIRA LOKA\" visible near the bottom of the image The format you requested would be:\n\n['MBIRA', 'LOKA']\n\nHowever, I should note that due to the poor visibility in the image, this identification may not be completely accurate",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 14,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite dark and low contrast, making it difficult to clearly identify text I can make out what appears to be \"FIRE\" or possibly \"FIRE EXIT\" in the lower portion of the image, but the rest of the text is too blurry or dark to confidently identify Based on what I can discern:\n\n['FIRE']\n\nNote that there may be additional text in the image that isn't legible due to the image quality, lighting conditions, and contrast issues",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 15,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a dark gray or slate-colored background with very low contrast I cannot discern any visible English words or text in this image The entire image has a uniform dark appearance without any clearly distinguishable text elements\n\nIf there is text present in the image, it may be too dark, low contrast, or low resolution for me to identify Would you like me to try analyzing a different image, or perhaps you could provide a higher contrast version of this one?",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 16,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['CANNERY', 'ROW', 'DIRECTORY']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 17,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['CANNERY', 'ROW', 'DIRECTORY']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out some text on what appears to be a sign or directory From what I can see:\n\n['CARBERRY', 'ROAD']\n\nThe image shows what looks like a directional sign or map post with \"CARBERRY ROAD\" at the top and what appears to be a red arrow symbol The rest of the content on the sign is too blurry for me to reliably identify specific words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 19,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be a sign or pillar with some text From what I can discern:\n\n['CROSSROADS']\n\nThere appears to be a logo or symbol in the middle of the sign (looks like red arrows or similar), but I cannot make out any other clear English words due to the blurriness of the image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 20,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify text I can see what appears to be a tall sign or pillar with what looks like a red logo or symbol near the top, but I cannot make out any specific English words with confidence Based on the limited clarity of the image, I would have to return:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 21,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry and I cannot clearly make out any specific English words The image appears to show what might be a sign or post with some red elements against a light background, but the text is not legible in this low-resolution or blurred image\n\nSince I cannot recognize any specific words with confidence, my response would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 22,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['CANNERY', 'ROW', 'DIRECTORY']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 23,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['CANNERY', 'ROW', 'DIRECTORY']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['CARNEVALE', 'DIRECTORY']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 25,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be a sign or marker From what I can discern:\n\n['LIBERTY']\n\nThe sign appears to have a red arrow or directional symbol at the top, but the other text on the vertical sign is too blurry for me to confidently identify any other words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 26,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be a vintage gas pump or fuel dispenser There seems to be some text at the top of the pump that might be a brand name, but it's too blurry for me to confidently identify specific words \n\nBased on what I can see in this blurry image, I would have to provide:\n\n[]\n\nThe image doesn't contain any clearly legible English words that I can confidently identify due to the blurriness of the image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 27,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['CANNERY', 'ROW', 'DIRECTORY']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 28,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite faded and low contrast, making it difficult to clearly identify all text From what I can make out, there appears to be a sign with \"CANNERY ROW\" visible at the top, and what looks like a directional arrow symbol below it The image shows what seems to be a map or directory display stand with some kind of route or pathway diagram\n\nBased on the visible text I can recognize:\n\n['CANNERY', 'ROW']\n\nThere may be additional text on the map/directory portion, but it's too faded or small in this image for me to reliably identify specific words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 29,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite faded and low contrast, making it difficult to clearly identify all text From what I can make out, there appears to be a vintage gas pump or similar structure with some text on it The most visible text seems to be \"CONOCO\" or possibly \"CONOCO PUMP\" at the top of the structure, though even this is quite faint\n\nBased on the limited visibility, I can offer:\n\n['CONOCO']\n\nNote that there may be other text present, but the image quality and fading make it extremely difficult to identify with certainty",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 30,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite faded and low contrast, making it difficult to clearly identify all text From what I can make out, there appears to be a British-style telephone booth or kiosk with some text at the top that might say \"TELEPHONE,\" but the image is too washed out and blurry to confidently identify specific words \n\nWithout being able to clearly read the text in the image, I would have to provide:\n\n[]\n\nIf you have a clearer version of this image, I'd be happy to try again with better visibility",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 31,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very low contrast and gray in color I cannot clearly make out any distinct English words in this image The content is too faint or blurry to identify specific text\n\nIf there are words present in the image, they are not legible enough for me to recognize and transcribe accurately",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 32,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, here are the English words visible from left to right and top to bottom:\n\n['AUTHENTIC', 'BAKERY', 'TLJ', 'SINCE', '1997', 'TOUS', 'apm']\n\nThe image shows a bakery shop called TLJ (with \"AUTHENTIC BAKERY\" and \"SINCE 1997\" around the logo) in what appears to be a shopping mall There's also a TOUS store visible and what looks like an \"apm\" logo or sign in the background",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 33,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a retail storefront in what appears to be a shopping mall I can see the following English words visible in the image:\n\n['SINCE', 'TOUS']\n\nThe image is somewhat blurry, but I can make out a circular logo with \"SINCE\" and what appears to be a year (possibly 1920), and a store sign that says \"TOUS\" which is a jewelry and accessories brand There may be other text in the image, but it's not clearly legible due to the blurriness of the photo",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 34,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify all text From what I can make out, I can see:\n\n['YOURS']\n\nThere appears to be a store or shop front with some signage, including what looks like a logo or emblem on the left side, and partial text that includes \"YOURS\" visible in the lower portion of the image There may be other text present, but due to the blurriness of the image, I cannot confidently identify additional words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 35,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify all text I can see what appears to be a storefront or retail space with some signage, but the text is not clearly legible due to the blurriness of the image There seems to be a logo or brand name visible, but I cannot make out the specific letters or words with confidence\n\n['TO']\n\nThis is the only text I can make out with reasonable certainty, appearing in the upper right portion of the image The rest of the text is too blurry for me to accurately identify",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 36,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify specific text I can see what appears to be some signage or lettering, but the resolution and focus of the image make it impossible for me to reliably read any distinct English words There seems to be some white text or logos against darker backgrounds, but I cannot make out the specific letters or words with confidence\n\nIf you have a clearer version of this image or could specify what text you're looking for, I'd be happy to try again with better input",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 37,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify specific text I can see what appears to be some signage or display, but the resolution and focus of the image make it impossible for me to reliably read any specific English words There seem to be some light-colored elements against darker backgrounds that might be text, but I cannot make out distinct words with confidence\n\nSince I cannot clearly identify any specific words in the image, the result would be:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 38,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are:\n\n['AUTHENTIC', 'BAKERY', 'TLJ', 'SINCE', 'TOUS']\n\nThe image shows what appears to be a shopping mall or retail space with store signage There's a circular logo for \"TLJ\" that says \"AUTHENTIC BAKERY\" and \"SINCE\" (with a year that's not clearly legible) There's also a \"TOUS\" store sign visible on the right side The scene shows a retail environment with some people near the storefronts",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 39,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see the following English words:\n\n['TOUS']\n\nThe image shows what appears to be a shopping mall or retail space with a store that has \"TOUS\" visible on its signage There's also a circular logo/sign with some text that's not clearly legible in the image The rest of the text in the image is either too blurry to read accurately or may be in another language",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 40,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out some text visible in what appears to be a shopping mall or retail environment From what I can see:\n\n['TO']\n\nThere appears to be a circular logo/emblem on the left side, and what looks like the beginning of a store name starting with \"TO\" on the right side in large illuminated letters The rest of the text is too blurry or partially visible for me to confidently identify specific words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 41,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify all text I can see what appears to be a store or boutique in what looks like a shopping mall or retail environment There's a logo visible (appears to be the Chanel logo) and part of a sign with some bright letters that might start with \"TO\" on the right side However, due to the blurriness of the image, I cannot confidently identify complete words to list in the requested format\n\n['TO']\n\nThis is my best attempt based on the visible text, though the image quality makes it difficult to be certain about all text elements",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 42,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify all text I can only make out what appears to be a partial logo or sign with what looks like \"TC\" or similar letters on the right side The rest of the text is too blurry to confidently identify\n\nBased on the limited visible text:\n['TC']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 43,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, here are the English words visible from left to right and top to bottom:\n\n['AUTHENTIC', 'BAKERY', 'TLJ', 'SINCE', '1997', 'TOUS']\n\nThe image shows what appears to be a shopping mall or retail space with store signage The TLJ bakery sign indicates it's an \"AUTHENTIC BAKERY\" established \"SINCE 1997,\" and there's also a \"TOUS\" store visible in the space",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 44,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite dark and low contrast, making it difficult to clearly identify all text From what I can make out, there appears to be a storefront with some signage I can see what looks like \"TLJ\" in a circular logo that says \"AUTHENTIC BAKERY\" and \"SINCE 1992\" around it There are other partial text elements visible but they're too blurry or dark to confidently identify\n\nBased on the visible text elements:\n\n['AUTHENTIC', 'BAKERY', 'TLJ', 'SINCE', '1992']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 45,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite dark and low contrast, making it difficult to clearly identify all text I can make out what appears to be a circular logo or certification mark in the center of the upper portion of the image, but the specific text within it is not clearly legible There appears to be \"TU\" visible within the circular emblem, and possibly some partial text on the right side that might start with \"TO\", but the image quality and darkness make it challenging to confidently identify complete words\n\n['TU']\n\nNote that this is my best attempt based on the visible elements, but the image is quite dark and blurry, limiting the text I can reliably identify",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 46,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be quite dark and low contrast with a brownish tint, making it difficult to clearly identify text I can make out what seems to be a circular logo or emblem in the center upper portion, but the specific text elements are not clearly legible Due to the poor visibility and low contrast in the image, I cannot confidently identify any specific English words\n\nIf you need text extraction from this image, you might want to try sharing a higher contrast or brighter version of the image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 47,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid brown/taupe colored background with no visible text or words I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 48,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['MONTEREY', 'FIRE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 49,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['MONTEREY', 'FIRE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 50,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['MONTEREY', 'FIRE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 51,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a portion of what appears to be a fire truck with a red body and some text on it The visible text is blurry, but I can make out:\n\n['FIRE', 'DEPT']\n\nThe image is quite blurry, so there may be other words that aren't clearly legible I can see what appears to be a fire department emblem or logo in the middle, but the other text is too blurred to accurately transcribe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 52,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify specific words I can see what appears to be a red fire truck or emergency vehicle with some text and possibly an emblem or logo on it, but the resolution is too low to make out distinct words with confidence \n\nBased on what's visible in this blurry image, I cannot reliably identify specific English words to list in the requested format",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 53,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry and out of focus, making it difficult to clearly identify any specific English words I cannot make out any distinct text in the red object shown in the image Without being able to recognize any clear words, I would have to return:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 54,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['MONTEREY', 'FIRE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 55,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['MONTEREY', 'FIRE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 56,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['MONTEREY', 'FIRE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 57,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['MONTEREY', 'FIRE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 58,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a portion of what appears to be a fire truck with a bright red exterior I can see some text on the side of the vehicle, but the image is quite blurry and low resolution, making it difficult to read all the text clearly From what I can make out:\n\n['FIRE']\n\nThere appears to be other text or emblems on the truck, but they're not clearly legible in this blurry image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 59,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['MONTEREY', 'FIRE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 60,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows what appears to be a fire truck or emergency vehicle with some text on it, but the image has a strong red tint/overlay that makes it difficult to clearly read all the text I can make out what seems to be \"VOLUNTEER\" and possibly \"FIRE\" on the side of the vehicle, though the text is quite faded or obscured by the red coloration\n\nBased on what I can discern:\n\n['VOLUNTEER', 'FIRE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be predominantly red with very low contrast, making it difficult to clearly identify any text I cannot make out any distinct English words in this image Based on what I can see, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 62,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid red background with no visible text or words There are no English words or any text visible in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 63,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid red or brick-red colored background with no visible text or words There are no English words or any text visible in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 64,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Harbor', 'Sport', 'Fishing', 'Boating', 'Cafes']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 65,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Harbor', 'Sport', 'Fishing', 'Cafes', 'Boating']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 66,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Harbor', 'Sport', 'Fishing', 'Boating', 'Cafes']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 67,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be the entrance arch to the Santa Monica Pier From what I can discern, the visible text reads:\n\n['Santa', 'Monica', 'SPORT', 'FISHING', '+', 'BOATING']\n\nThere may be additional words on the arch that are not clearly legible due to the blurriness of the image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 68,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly read the text on what appears to be an entrance arch or gateway I can make out that there is some text on an arched structure against a blue sky, with palm trees visible, but I cannot reliably identify specific words due to the blurriness of the image Without being able to read the text clearly, I would have to represent this as:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 69,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify any text I cannot make out any distinct English words in this image The photo appears to show some kind of structure or arch against a blue sky with possibly some trees or vegetation, but the resolution and focus are too low to discern any text\n\nBased on what I can see, the result would be:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 70,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['SANTA', 'MONICA', 'YACHT', 'HARBOR', 'SPORT', 'FISHING', 'BOATING', 'Cafes']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 71,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['SANTA', 'MONICA', 'YACHT', 'HARBOR', 'SPORT', 'FISHING', 'BOATING', 'Cafes']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 72,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Harbor', 'Sport', 'Fishing', 'Boating', 'Cafes']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 73,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows the iconic entrance arch to the Santa Monica Pier Although the image is somewhat blurry, I can make out the following words:\n\n['Santa', 'Monica', 'SPORT', 'FISHING', 'BOATING', 'Cafe']\n\nThe arch appears to be the famous Santa Monica Pier entrance sign, with text indicating the various activities available at the pier There are palm trees visible in the background and a clear blue sky",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 74,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly read the text on what appears to be an entrance arch or gateway I can make out that it's some kind of welcome sign or entrance marker with what looks like a dark arch against a blue sky, with a palm tree visible on the right side However, due to the blurriness of the image, I cannot reliably identify specific words to list in the requested format The text on the arch is not legible enough for me to transcribe accurately",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 75,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Harbor', 'Sport', 'Fishing', 'Boating', 'Cafes']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 76,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows an entrance arch with text, though it appears somewhat faded or hazy The visible words I can recognize are:\n\n['Santa', 'Monica', 'Yacht', 'Harbor', 'Sport', 'Fishing', 'Boating', 'Cafes']\n\nThe arch appears to be the entrance sign to the Santa Monica Pier or harbor area, with text indicating the various activities and amenities available there",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 77,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be quite foggy or hazy, making it difficult to clearly distinguish all text I can make out what seems to be an entrance arch or gateway sign, but the text is significantly obscured by the fog/haze \n\nFrom what I can partially discern, it appears to be some kind of \"Fishing Pier\" or similar recreational area entrance, but I cannot confidently identify specific words with enough clarity to list them in the requested format\n\n['Santa', 'Monica', 'Pier', 'Sport', 'Fishing']\n\nNote that this is my best attempt at identifying the words, but due to the low visibility in the image, this identification may not be completely accurate",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 78,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid blue-gray background with no visible text or words The image has a somewhat hazy or foggy quality, but I cannot discern any English words or text content within it\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 79,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid blue-gray background with no visible text or words There are no English words or any text content visible in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 80,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ISTANBUL', 'KEBAB', '&', 'NOODLE', 'HOUSE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 81,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ISTANBUL', 'KEBAB', 'HOUSE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 82,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ISTANBUL']\n\nThe image shows a storefront with \"ISTANBUL\" clearly visible on the signage at the top The rest of the text in the image is too blurry or unclear to reliably identify specific words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 83,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out:\n\n['ISTANBUL']\n\nThe storefront appears to have a red facade with \"ISTANBUL\" visible at the top There may be other text present, but it's too blurry for me to confidently identify any other English words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 84,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be a storefront with \"ISTANBUL\" visible at the top The rest of the text is too blurry or unclear for me to confidently identify specific words\n\nBased on what I can recognize:\n\n['ISTANBUL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 85,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry and low resolution, making it difficult to clearly identify specific words I can see what appears to be a storefront with some signage, but I cannot make out distinct English words with confidence Based on the limited clarity of the image, I would have to provide:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 86,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ISTANBUL', 'KEBAB', '&', 'NOODLE', 'HOUSE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 87,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ISTANBUL', 'KEBAB', 'HOUSE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 88,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ISTANBUL', 'KEBAB', 'HOUSE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 89,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ISTANBUL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 90,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows what appears to be a storefront with a sign The visible English text I can make out is:\n\n['ISTANBUL']\n\nThe image is somewhat blurry and low resolution, making it difficult to clearly identify any other text that might be present on the storefront or below the main sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 91,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ISTANBUL', 'KEBAB', 'N', 'NAAN', 'HOUSE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 92,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a storefront with some text, but it's quite foggy or hazy, making it difficult to clearly read all the text From what I can make out:\n\n['ISTANBUL']\n\nThere appears to be other text on the storefront, but it's too blurry or faded in the hazy image to confidently identify additional English words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 93,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to show a storefront or business with \"ISTANBUL\" visible at the top The image is quite dim or low contrast, making it difficult to clearly identify other text Based on what I can discern:\n\n['ISTANBUL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 94,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very low contrast and has a purplish-gray tone, making it difficult to clearly identify any text I cannot make out any distinct English words in the image The content is too blurry or low in contrast to reliably recognize any text\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid mauve or dusty purple colored background with no visible text or words There are no English words or any text content visible in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 96,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 97,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 98,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a sign that appears to be blurry, but I can make out:\n\n['DALEWOOD', 'TOWNHOMES']\n\nThe sign appears to be for a residential development or apartment complex called \"Dalewood Townhomes\" The image is quite blurry, making it difficult to identify any additional text that might be present on the sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 100,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be a sign with \"DALEWOOD\" in red letters The rest of the text is too blurry to reliably identify any other words Based on what I can discern:\n\n['DALEWOOD']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 101,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify specific words I can see what appears to be a sign or storefront with some red text at the top, but the resolution and focus of the image prevent me from reliably reading any specific English words \n\nSince I cannot confidently identify any specific words in the image, my response would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 102,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 103,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 104,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 105,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 106,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out a sign that appears to say \"DALEWOOD\" in red letters The rest of the text on the sign is too blurry to read with confidence Based on what I can discern:\n\n['DALEWOOD']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 107,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 108,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a sign that appears to be for a residential complex The visible text reads:\n\n['DALEWOOD', 'TOWNHOMES']\n\nThe image is somewhat foggy or low contrast, but these two words are legible on what appears to be the main entrance sign for a townhouse community",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 109,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be quite blurry and low contrast, making it difficult to clearly identify text I can make out what seems to be a sign or banner with some text, but the specific words are not clearly legible due to the image quality \n\nBased on what I can see, there appears to be a larger text at the top of what might be a sign or poster, and possibly some smaller text below it, but I cannot confidently identify specific English words to list in the requested format\n\n[  ]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 110,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very low contrast and gray in color I cannot clearly make out any distinct English words in this image The content is too blurry or faded to identify specific text\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 111,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid gray background with no visible text or words There are no English words or any other text elements that I can identify in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 112,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 113,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a sign for a cafe, and the visible English words are:\n\n['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']\n\nThe sign appears to be illuminated with an orange/amber background and dark text It's a 24-hour cafe named \"Khatulistiwa Cafe\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 115,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a sign for a cafe, though it's somewhat blurry The visible text appears to be:\n\n['MATULISTIWA', 'CAFE', 'OPEN', '24', 'HOURS']\n\nThe sign has an orange/amber background with dark lettering, and appears to be illuminated at night It's advertising the Matulistiwa Cafe, which is open 24 hours",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 116,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be a sign with an orange/amber background From what I can discern, it looks like a \"RAILROAD CROSSING\" warning sign, though the exact text is difficult to read with certainty due to the blurriness of the image\n\nIn the format requested:\n['RAILROAD', 'CROSSING']\n\nNote that this is my best attempt at reading the text, but the image quality makes it difficult to be completely certain of all words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry and has an orange/amber glow, making it difficult to clearly identify specific text While there appears to be some text or signage in the image, I cannot make out distinct English words with confidence due to the low resolution and color saturation \n\nBased on what I can see, I would have to provide:\n[]\n\nThe image shows what seems to be an illuminated sign or display with an orange/amber color, but the text is not legible enough for me to transcribe specific words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 118,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 119,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 120,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 121,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a sign for a cafe, and the visible English words are:\n\n['NATURISTIKA', 'CAFE', 'OPEN', '24', 'HOURS']\n\nThe sign appears to be illuminated with an orange/amber glow against a dark background, indicating it's a 24-hour establishment called \"Naturistika Cafe\"",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 122,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a sign for what appears to be \"Needles Cafe,\" though the image is quite blurry I can make out:\n\n['NEEDLES', 'CAFE']\n\nThere appears to be additional text below these words, but it's too blurry for me to reliably identify the specific words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 123,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 124,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 125,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a sign with the following text:\n\n['KHAULISTA', 'CAFE', 'OPEN', '24', 'HOURS']\n\nThe sign appears to be for a cafe called \"Khaulista Cafe\" that is open 24 hours The image has a brownish/sepia tone which makes the text somewhat difficult to read, but these words are visible on what looks like a framed cafe sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 126,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very dark with a brownish tint, making it difficult to clearly identify text I can see what seems to be some text or signage, but the details are too obscured by the dark coloration to reliably read specific words Without being able to make out distinct words with confidence, I would have to represent this as:\n\n[]\n\nThe image would need to be brightened or have better contrast for me to accurately identify and list the words contained within it",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 127,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid brown background with no visible text or words There are no English words or any text content that I can identify in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 128,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 129,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 130,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 131,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['INDIAN', 'HARBOR', 'YACHT', 'CLUB']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 132,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a blurry sign for a yacht club From what I can make out, the visible English words appear to be:\n\n['INDIAN', 'HARBOR', 'YACHT', 'CLUB']\n\nThe sign has an oval blue background with white text, and there appears to be a red and white pennant or flag symbol in the center",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 133,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify all text From what I can make out, it appears to be an oval-shaped logo or emblem with a dark blue background and what looks like a small red triangular or flag-like symbol in the center However, the text around the perimeter is too blurry for me to reliably read any specific words\n\nBased on what's visible in this low-resolution image, I cannot confidently identify any specific English words to list in the requested format",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 134,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 135,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 136,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 137,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['INDIAN', 'HARBOR', 'YACHT', 'CLUB']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 138,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a sign for a yacht club From what I can make out in this somewhat blurry image, the visible English words appear to be:\n\n['INDIAN', 'HARBOR', 'YACHT', 'CLUB']\n\nThe sign has an oval blue background with white text, and there appears to be a red and white pennant flag symbol in the center of the sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 139,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 140,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['INDIAN', 'HARBOR', 'ORG', '1889', 'YACHT', 'CLUB']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 141,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a faded logo or emblem for the Indian Harbor Yacht Club The visible text appears to be:\n\n['INDIAN', 'HARBOR', 'YACHT', 'CLUB']\n\nThere also appears to be a date \"1889\" visible in the logo, and possibly a small pennant or flag symbol in the center of the design The overall image is quite faded and has a bluish-gray tint, making some details difficult to discern clearly",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 142,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a faded or low-contrast seal or logo, likely for \"Hormel Foods\" or \"Hormel Classic\" based on what I can faintly make out However, the text is quite difficult to read clearly due to the bluish-gray coloring and low contrast\n\nFrom what I can discern, the format appears to be:\n['Hormel', 'Classic']\n\nThere may be additional text in the circular seal design, but it's too faded or blurry in this image for me to confidently identify other words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 143,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid slate blue or gray background without any visible text or words I don't see any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 144,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'MARKET', '4001']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 145,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 147,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'market']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 148,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be a storefront sign that says:\n\n['sub', 'fresh', 'bakery']\n\nThe text appears to be the name of a bakery or sandwich shop, with \"sub fresh\" being the main part of the name and \"bakery\" underneath Due to the blurriness of the image, I cannot be completely certain about other potential words that might be present",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 149,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify all the text From what I can make out, there appears to be a storefront or building with some signage, but the specific words are not clearly legible due to the low resolution and blurriness of the image \n\nBased on what I can see:\n\n['Fresh']\n\nNote that this is my best attempt, but the image quality makes it very difficult to confidently identify all text elements",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 150,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'MARKET', '4001']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 151,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 152,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 153,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 154,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 155,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 156,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'market']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 157,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'market']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 158,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very low contrast and blurry, making it difficult to clearly identify any English words I can see what might be text, but it's too faint and unclear to reliably read any specific words\n\nBased on what I can see in this gray, low-resolution image, I cannot confidently identify any distinct English words\n\n['']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 159,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid gray background with no visible text or words I cannot detect any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 160,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Welcome', 'Parliament']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 161,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, the English words visible are:\n\n['Welcome', 'Parliament']\n\nThe sign appears to be bilingual (English and French), with \"Bienvenue\" being the French equivalent of \"Welcome\" The blue sign in the middle shows what appears to be the silhouette of the Parliament building with its distinctive Peace Tower in Ottawa, Canada",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 162,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Welcome', 'Parliament']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 163,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a blurry sign with some visible text From what I can make out, the visible English words are:\n\n['Welcome', 'Bienvenue', 'Parliament']\n\nThe sign appears to be a bilingual (English/French) welcome sign for a parliament building, with a blue icon showing what looks like a parliament or government building with a tower In the background, there appears to be a building with a green roof or tower, likely part of a parliament complex",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 164,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify all text I can see what appears to be a blue sign with what might be a lighthouse or tower symbol on it, but the text is too blurry for me to reliably read any specific words Without being able to make out distinct words with confidence, I would have to represent this as:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 165,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify text I can see what appears to be a blue sign with some white text or symbols on it, but the resolution and focus of the image make it impossible for me to reliably read any specific English words \n\nBased on what I can see in this blurry image, I would have to return:\n\n[]\n\nThe image doesn't contain any clearly legible English words that I can confidently identify",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Welcome', 'Parliament']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 167,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, the English words visible are:\n\n['Welcome', 'Parliament']\n\nThe sign is bilingual with \"Bienvenue\" (French for \"Welcome\") also visible, but you specifically asked for English words The sign appears to be directing visitors to the Canadian Parliament, with the iconic Peace Tower silhouette visible in the blue information sign In the background, you can see part of what appears to be the Parliament building with its distinctive green copper roof",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 168,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, the English words visible are:\n\n['Welcome', 'Parliament']\n\nThe image shows a bilingual welcome sign near the Canadian Parliament buildings, with \"Welcome\" in English at the top, \"Bienvenue\" (which is French for \"Welcome\") below it, and \"Parliament\" at the bottom There's also a blue sign with a silhouette of what appears to be the Parliament building with its distinctive Peace Tower",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 169,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see a welcome sign with both English and French text The visible English words are:\n\n['Welcome', 'Parliament']\n\nThe sign appears to be a bilingual welcome sign for the Canadian Parliament, with \"Bienvenue\" being the French equivalent of \"Welcome\" In the background, there's what looks like a portion of a building with a green roof, likely part of the Parliament buildings in Ottawa",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 170,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify all text I can see what appears to be a blue directional sign with some white silhouettes or symbols on it, possibly indicating a landmark or tourist attraction There's also what looks like a building with a green spire or tower visible on the left side of the image However, the text on the sign is too blurry for me to reliably read any specific English words\n\nBased on what I can see, I would have to provide: []\n\nThe image quality doesn't allow me to confidently identify any specific English words on the signage",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 171,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, the English words visible are:\n\n['Welcome', 'Parliament']\n\nThe sign appears to be bilingual with \"Bienvenue\" (French for \"Welcome\") also visible The sign features a blue square with a white silhouette of what appears to be the Parliament building with its distinctive clock tower (likely the Peace Tower in Ottawa, Canada)",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 172,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see the following English words:\n\n['Welcome', 'Parliament']\n\nThe image shows what appears to be a welcome sign for a parliament building, with both English and French text (the French word \"Bienvenue\" is visible) The sign is photographed in foggy or misty conditions, with what looks like a clock tower or similar structure visible on the left side The sign contains a simplified graphic representation of what is likely a parliament building with a tower",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 173,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to show a large billboard or sign in foggy conditions The text is somewhat difficult to make out clearly due to the fog, but I can see what appears to be:\n\n['Welcome', 'Parliament']\n\nThere seems to be an image of what might be a parliament building or clock tower in the middle of the sign, but the foggy conditions make it challenging to discern all details with complete certainty",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 174,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely foggy or hazy with very low visibility I cannot discern any clear English words or text in this image The entire frame is covered in a gray/bluish haze that obscures any potential text or distinct features\n\nBased on what I can see, my response would be:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 175,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid gray background with no visible text or words There are no English words or any other text elements that I can identify in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 176,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', 'EST', '1838']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 177,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', 'Est', '1838']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 178,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', 'Est', '1889']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 179,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a sign that reads ['PORT', 'OF', 'NEWCASTLE'] The sign appears to be a blue entrance or welcome sign for the Port of Newcastle, with what looks like a ship or sailing vessel logo in a circular white/light blue area in the center The image is somewhat blurry, making it difficult to read any additional text that might be present on either side of the central logo",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 180,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify all the text I can see what appears to be a sign or entrance marker with a dark blue background and what looks like a circular logo or emblem in the center However, the specific words are too blurred to reliably read and transcribe \n\nBased on what I can observe in this low-resolution image:\n\n[]\n\nThe text is simply too blurry for me to confidently identify any specific words in the required format",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be quite blurry, making it difficult to clearly identify specific words I can see what looks like a sign or banner with a dark blue background and what might be text or a logo in the center, but the resolution and focus of the image don't allow me to reliably read any specific English words\n\nSince I cannot confidently identify any specific words in the image, the result would be:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 182,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', 'Est', '1838']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 183,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', 'Est', '1838']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', 'Est', '1889']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 185,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['PORT', 'OF', 'NEWCASTLE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 186,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify all the text From what I can make out, there appears to be a sign or plaque with \"CITY OF\" visible at the top, and what seems to be an oval emblem or logo in the center that might depict a boat or watercraft However, due to the low resolution and blurriness of the image, I cannot confidently identify all the words with certainty\n\nIn the format requested:\n['CITY', 'OF', '']\n\nThe remaining text is too blurry for me to reliably transcribe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 187,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', 'Est', '1838']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 188,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, I can see a sign for the Port of Newcastle The visible English words are:\n\n['PORT', 'OF', 'NEWCASTLE', 'Est', '1888']\n\nThe sign appears to have a nautical theme with what looks like a sailboat silhouette in the center The sign indicates that the Port of Newcastle was established in 1888",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 189,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a sign for the Port of Newcastle The visible text appears to be:\n\n['PORT', 'OF', 'NEWCASTLE', 'Est', '1999']\n\nThe sign appears to have a nautical theme with what looks like a ship or boat silhouette in the center The image is somewhat faded or has a bluish-gray overlay making it a bit difficult to see clearly, but these are the English words that are visible",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 190,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be quite dark and low contrast, making it difficult to clearly identify all text From what I can make out, there seems to be a sign or header with \"PORT OF NEW ORLEANS\" visible at the top The rest of the content is too faded or unclear to reliably transcribe specific words\n\nBased on what I can discern:\n['PORT', 'OF', 'NEW', 'ORLEANS']\n\nHowever, I should note that there may be additional text that's not legible due to the dark, low-contrast nature of the image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 191,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid gray background with no visible text or words I cannot detect any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 192,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 193,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 194,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 195,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 196,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a blurry circular emblem or badge with a star in the center I can make out some text around the circular border, though it's quite blurry From what I can discern:\n\n['CANTINA']\n\nThe word \"CANTINA\" appears to be visible at the bottom of the circular emblem There may be other text at the top portion of the circle, but it's too blurry for me to confidently identify specific words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 197,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but it appears to show a circular emblem or badge with a star in the center I cannot clearly make out any English words in this image The star symbol is visible within what looks like a circular border, but any text that might be present is too blurred to reliably identify\n\nBased on what I can see: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 198,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 199,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 200,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 201,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 202,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['TEXAS', 'CANTINA']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 203,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 204,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a faded or low-contrast circular logo or emblem I can make out the following words:\n\n['EMBASSY', 'CANTINA']\n\nThere appears to be another word in the center of the star shape, but it's too faded for me to confidently identify it",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 206,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a very faded or low-contrast document with a grayish-brown background I can see what might be some text or possibly a watermark or logo, but the content is too faded and unclear for me to reliably identify any specific English words \n\nSince I cannot clearly recognize any words in this image, my response would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 207,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid grayish-brown or taupe colored background with minimal visible text I can only faintly make out what might be some text near the bottom, but it's too unclear for me to confidently identify specific words\n\nBased on what I can see in this image:\n\n[]\n\nThe image appears to be mostly a solid color with possibly some very faint text that I cannot reliably read or distinguish",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 208,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['The', 'Washington', 'Glass', 'School']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 209,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['The', 'Washington', 'Glass', 'School']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['The', 'Washington', 'Glass', 'School']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 211,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a neon sign that appears to say \"Glass\" in yellow illuminated text The image is quite blurry, making it difficult to clearly identify any other text that might be present on the sign Based on what's visible, I can only confidently identify:\n\n['Glass']\n\nThere may be other words on the sign, particularly above or below \"Glass,\" but they're not clearly legible in this blurry image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 212,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be a sign or logo with illuminated text From what I can discern, there seems to be only one main word visible, which looks like \"Cheers\" in a stylized script font with some illumination around it The sign appears to have a reddish/pinkish glow\n\nBased on what I can recognize:\n\n['Cheers']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 213,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify any text I can see what appears to be some kind of food item with reddish coloring, possibly in a container or wrapper, but I cannot make out any distinct English words in the image Based on what I can see:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 214,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['The', 'Washington', 'Glass', 'SCHOOL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 215,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['The', 'Washington', 'Glass', 'School']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 216,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['The', 'Washington', 'Glass', 'School']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 217,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Glass']\n\nThe image shows a neon sign on the side of a building with the word \"Glass\" prominently displayed in illuminated lettering There appear to be other words in the sign, but they're not clearly legible in this somewhat blurry image The word \"Glass\" is the only text that can be confidently identified",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 218,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows an illuminated sign on the side of a building, but it's quite blurry From what I can make out, it appears to be a neon sign with the word \"Glass\" visible The rest of the text is too blurry to reliably identify\n\nBased on what I can discern:\n\n['Glass']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 219,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['The', 'Washington', 'Glass', 'School']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 220,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a sign that appears to be for a business called \"The Washington Glass Company\" or similar, though the image is quite foggy or hazy, making it difficult to read clearly Based on what I can make out, the visible words would be:\n\n['The', 'Washington', 'Glass', 'Company']\n\nThe sign has a distinctive logo or design with \"Glass\" appearing to be in a larger, possibly script font The other text is less clear due to the foggy conditions in the image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 221,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite foggy or low contrast, making it difficult to clearly make out all text I can see what appears to be a sign with the word \"Glass\" visible in cursive lettering The rest of the text is too blurry or faded to confidently identify\n\nBased on what I can discern:\n\n['Glass']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 222,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very low contrast and has a grayish-purple tone I can faintly see what might be a logo or design element, but I cannot clearly distinguish any readable English words in the image The content is too faded or low contrast to accurately identify specific text\n\nSince I cannot recognize any clear words in this image, my response would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 223,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid grayish-purple background with very low contrast I cannot discern any clear English words or text in this image Based on what I can see, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 224,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The visible English words in the image are:\n\n['CAPILANO', 'MEMBERSHIPS', 'UNLIMITED', 'ADMISSION', 'FOR', '365', 'DAYS', 'DISCOUNTS', 'ON', 'AS', 'WELL', 'AS', 'ON', 'FREE', 'ADMISSION']\n\nThe image shows a membership information board at what appears to be Capilano (likely Capilano Suspension Bridge Park in Vancouver, Canada) The board advertises membership benefits including unlimited admission for 365 days, various discounts, and free admission for certain individuals or services, though some text on the board is partially visible or unclear",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 225,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The visible English words in the image are:\n\n['CAPILANO', 'MEMBERSHIPS', 'UNLIMITED', 'ADMISSION', '365', 'DAYS', 'DISCOUNTS', 'FREE']\n\nThese words appear on a sign board advertising membership options at what appears to be Capilano, likely referring to Capilano Suspension Bridge Park or a similar attraction The sign highlights membership benefits including unlimited admission for 365 days, discounts, and free admission",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 226,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out some text on a sign in the background From what I can discern, it appears to be:\n\n['ENGLAND', 'MEMBERSHIP', 'UNLIMITED']\n\nThere may be more text on the sign, but due to the blurriness of the image and people standing in front of it, I cannot clearly identify additional words with confidence",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 227,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly read any text There appears to be a sign or board with some text in the background, but the words are not legible enough for me to confidently identify specific English words \n\nBased on what I can see in this blurry image:\n[]\n\nThe image shows what appears to be people in an indoor setting with wooden walls or paneling, but the text elements are too blurry to accurately transcribe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 228,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, and I cannot make out any clear English words in it The image appears to show people in what might be an indoor setting with wooden walls or paneling in the background, but the text, if any exists, is not legible due to the blurriness of the image\n\nSince I cannot identify any clear words, the result would be:\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 229,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry and out of focus, making it difficult to clearly identify any specific English words I cannot make out any distinct text or words in the image with confidence The image appears to show some indistinct shapes and colors, but the details are too blurred to recognize any specific text content\n\nIf you'd like me to analyze a clearer version of this image or a different image with visible text, please feel free to share it",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 230,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The visible English words in the image are:\n\n['CAPILANO', 'MEMBERSHIPS', 'UNLIMITED', 'ADMISSION', '365', 'DAYS', 'DISCOUNTS', 'FREE']\n\nThe image shows a membership information board at what appears to be Capilano (likely Capilano Suspension Bridge Park in Vancouver, Canada) The board advertises membership benefits including unlimited admission for 365 days, various discounts, and free admission The board is mounted on a wooden cedar-shingled wall under a covered structure with string lights",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 231,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The visible English words in the image are:\n\n['CAPILANO', 'MEMBERSHIPS', 'UNLIMITED', 'ADMISSION', '365', 'DAYS', 'DISCOUNTS', 'FREE']\n\nThese words appear on a sign advertising membership options at what appears to be Capilano, likely referring to the Capilano Suspension Bridge Park or a similar attraction The sign mentions unlimited admission for 365 days, along with discounts and free access to certain features",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 232,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is somewhat blurry, but I can make out a sign in the background that appears to be for some kind of establishment The visible text includes:\n\n['CHALK', 'FARM', 'UNLIMITED']\n\nThere may be more text on the sign, but it's difficult to read clearly due to the blurriness of the image and the people in the foreground The sign appears to be a menu board or information display at what might be a restaurant or caf\u00e9 with a rustic brick wall setting",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 233,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly read any text There appears to be a sign or board with some text in the background, but the words are not legible due to the blurriness of the image I can see what looks like a wooden structure with some kind of information board or menu, but I cannot make out any specific English words with confidence\n\nSince I cannot recognize any clear words in the image, the result would be: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 234,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify specific text There appears to be some kind of sign or board with text in the background, but the words are not legible due to the blurriness of the image The foreground shows what seems to be people in a wooden interior setting, possibly a restaurant or cafe, but I cannot make out any distinct English words that could be reliably transcribed\n\nSince I cannot clearly identify any specific English words in the image, the result would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 235,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The visible English words in the image are:\n\n['CAPILANO', 'MEMBERSHIPS', 'UNLIMITED', 'ADMISSION', '365', 'DAYS', 'DISCOUNTS', 'AS', 'WELL', 'AS', 'ON', 'FREE']\n\nThe image shows a membership information board at what appears to be Capilano, with details about unlimited admission for 365 days, various discounts, and free admission benefits The sign is mounted on a wooden structure with cedar shake siding",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 236,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite dim and low contrast, but I can make out some text on what appears to be a membership sign From what I can discern:\n\n['CIPILANO', 'MEMBERSHIPS', 'UNLIMITED', 'ADMISSION', '365', 'DAYS', 'DISCOUNTS']\n\nThe image shows what seems to be a membership information board at what might be Capilano (though it appears to be spelled \"CIPILANO\" in the image, unless that's due to the image quality) There are people standing near the sign, but I'm focusing solely on the visible text elements",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 237,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite dark and low contrast, making it difficult to clearly make out all text From what I can discern, there appears to be a sign or banner with \"COOLING REFRESHING\" visible at the top Below that seems to be some kind of establishment name or logo, possibly related to ice cream or refreshments as there appears to be an ice cream cone icon visible on the left side However, due to the poor visibility and image quality, I cannot confidently identify all the text elements with precision",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 238,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be quite dark and low contrast, making it difficult to clearly identify text I can make out what seems to be some text in the center of the image, but the specific words are not clearly legible due to the image quality and lighting conditions \n\nFrom what I can see, there might be some text in the middle portion of the image, possibly a title or heading, but I cannot confidently identify specific English words to list them as requested\n\nIf you'd like me to analyze this image better, perhaps you could provide a higher contrast or brighter version of the image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 239,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid brown or grayish-brown background with no visible text or words I don't see any English words or text content in this image The result would be an empty list: []",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 240,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 241,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 242,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 243,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a sign for a hostel The visible English words in the image are:\n\n['ANTIQUE', 'HOSTEL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 244,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be a sign for a hostel The visible text seems to be:\n\n['HOSTEL']\n\nThe sign appears to be oval-shaped with dark background (possibly black or navy) and light text There might be additional text above \"HOSTEL\" but it's too blurry for me to confidently identify specific words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify any specific words I can see what appears to be a sign or label with some text on it against a reddish background, but the text is too blurred to accurately read or transcribe any specific words \n\nSince I cannot reliably identify any English words in this image due to the poor quality, my response would be:\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 246,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 247,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 248,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 249,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 250,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a sign for an \"ANTIQUE HOSTEL\" The sign appears to be hanging outside a building with a reddish exterior\n\nBased on what's clearly visible in the image, the English words are:\n\n['ANTIQUE', 'HOSTEL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 251,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 252,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a sign for a hostel The visible English words in the image are:\n\n['ANTIQUE', 'HOSTEL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 253,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite faded and low contrast, but I can make out what appears to be a sign for an \"ANTIQUE HOSTEL\" The visible text appears to be:\n\n['ANTIQUE', 'HOSTEL']\n\nThe image shows what looks like a building sign or storefront, but due to the foggy or faded quality of the image, other details or potential text are difficult to discern with certainty",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 254,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very blurry and low contrast with a pinkish-gray hue I cannot clearly identify any distinct English words in this image The content is too faded or unclear to make out specific text\n\n['']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 255,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid mauve or dusty purple background with no visible text or words There are no English words or any text visible in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 256,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'org', 'EXIT', '11']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 257,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'org', 'EXIT', '11']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 258,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURS', 'CREATION', 'MUSEUM', 'EXIT', '11']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 259,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a billboard or sign that appears to be for \"Ankylosaur\" (a type of dinosaur) Although the image is quite blurry, I can make out what seems to be:\n\n['ANKYLOSAUR']\n\nThere may be other text on the sign, including what looks like an orange circular element on the right side, but the blurriness of the image makes it difficult to clearly identify any other specific words with certainty",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 260,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be a billboard or sign against a blue sky It seems to have \"NAVAJO FRUITS\" or similar text with some orange/yellow design elements, possibly depicting fruit However, due to the blurriness of the image, I cannot confidently identify all the words with certainty\n\nBased on what I can discern:\n['NAVAJO', 'FRUITS']\n\nNote that this is my best attempt at reading the text, but the image quality makes it difficult to be completely certain about all words that might be present",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 261,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify any text It appears to be a sign or billboard against a blue sky background, but the content is too out of focus to reliably read any specific words I cannot make out any distinct English words in the image that I could confidently list",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 262,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'org', 'EXIT', '11']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 263,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'org', 'EXIT', '11']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'EXIT', '11']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 265,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a billboard with the text \"ANKYLOSAURUS\" prominently displayed There appears to be an orange speech bubble or circular element on the right side, but the text inside it is not clearly legible due to the blurry quality of the image The billboard features an illustration of an ankylosaurus dinosaur (a yellow/orange armored dinosaur) against what seems to be a light background\n\nBased on what's clearly visible, I can provide:\n\n['ANKYLOSAURUS']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 266,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify all the text I can see what appears to be a billboard or sign with what looks like a tiger or similar animal logo There seems to be text on the sign, but due to the blurriness of the image, I cannot make out specific words with confidence \n\nIf I were to attempt to identify the text, I would need to guess, which might lead to inaccurate results The sign appears to have a colorful background with some text and an orange/yellow animal figure, but I cannot reliably transcribe the specific words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 267,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'org', 'EXIT', '11']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'EXIT', '11']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 269,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a billboard or sign that appears to be partially obscured by fog or hazy conditions From what I can make out, the visible text includes:\n\n['THE', 'KEEN', 'ANKYLOSAUR', 'MUSEUM', 'EXIT', '1']\n\nThe sign appears to be advertising a dinosaur museum featuring an ankylosaur, with an illustration of the dinosaur visible on the billboard The sign indicates it can be found at \"Exit 1\" of what is likely a highway or main road",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 270,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be quite faded or low contrast, making it difficult to clearly identify all text I can make out what seems to be a sign or billboard with \"ARTS DISTRICT\" visible, though the text is quite faint against the light blue background There may be additional text that's too blurry or faded to reliably read\n\nBased on what I can discern:\n\n['ARTS', 'DISTRICT']\n\nNote that there might be other words present that are not clearly visible due to the image quality and contrast",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 271,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid light blue or grayish-blue background with very faint text that is barely visible I cannot clearly make out any distinct English words in the image The content is too faded or low-contrast to reliably identify specific text\n\nIf there is text present, it's extremely subtle and not legible enough for me to transcribe accurately I would need a higher contrast version of the image to properly identify any words that might be there",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 272,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['LIDDELLS', 'lactose', 'free', 'SPREADABLE', 'CREAM', 'CHEESE', '250', 'g']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 273,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['LIDDELLS', 'lactose', 'free', 'SPREADABLE', 'CREAM', 'CHEESE', '200', 'g']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 274,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The visible English words in the image are:\n\n['LIDDELLS', 'lactose', 'free', 'CREAM', 'CHEESE']\n\nThe image shows a container of Liddells lactose-free cream cheese The packaging features the brand name \"LIDDELLS\" prominently displayed in blue, with \"lactose free\" underneath it, and \"CREAM CHEESE\" at the bottom of the label There appears to be an image of a food item (possibly a cracker or toast with cream cheese and garnish) on the left side of the container",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 275,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be a container of Lidl's cottage cheese or a similar dairy product The visible text I can discern is:\n\n['LIDL'S']\n\nThere may be other words on the packaging, but they're too blurry to read with confidence in the image provided",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be a container of some dairy product, likely a cream cheese or spread product The visible logo appears to be for \"Philadelphia\" cream cheese, though the text is not entirely clear due to the blurriness of the image Based on what I can discern:\n\n['Philadelphia']\n\nThe rest of the text on the packaging is too blurry to reliably identify specific words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry and out of focus, making it difficult to clearly identify specific English words I can see what appears to be a circular plate or dish with some blue and possibly orange/red designs or patterns on it, but I cannot make out any distinct text or words from this image The resolution and focus don't allow me to read any potential text that might be present\n\nIf you'd like me to identify words, you might want to share a clearer image where any text is more visible",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 278,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['LIDDELLS', 'lactose', 'free', 'SPREADABLE', 'CREAM', 'CHEESE', '250', 'g']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 279,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['LIDDELLS', 'lactose', 'free', 'SPREADABLE', 'CREAM', 'CHEESE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 280,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['LIDDELLS', 'lactose', 'free', 'CREAM', 'CHEESE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 281,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be a container of cream cheese or a similar dairy product From what I can discern, the visible text includes:\n\n['Litehouse']\n\nThe rest of the text on the container is too blurry for me to confidently identify specific words There appears to be some additional text that might relate to the product description, but I cannot make out those words clearly enough to list them with certainty",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 282,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be a container of some dairy product, likely cream cheese or a similar spread The container has a white lid with blue branding on it Due to the blurriness, I cannot clearly distinguish all the text, but it appears to be a Philadelphia cream cheese container or similar product \n\nSince the image is so blurry, I cannot confidently list all English words in the requested format I can only see what appears to be a brand logo with blue text, but cannot read the specific words clearly enough to list them accurately",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 283,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['LIDDELLS', 'lactose', 'free', 'SPREADABLE', 'CREAM', 'CHEESE', '250', 'g']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 284,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a container of Liddells lactose-free cream cheese The visible words in the image are:\n\n['LIDDELLS', 'lactose', 'free', 'SPREADABLE', 'CREAM', 'CHEESE']\n\nThe container appears to be a round tub with the Liddells branding, which features what looks like a silhouette of animals (possibly a giraffe and another animal) on the logo",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 285,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to show a Liddells cream cheese product package, though the image is quite faded and low contrast From what I can make out, the visible text includes:\n\n['Liddells', 'cream', 'cheese']\n\nThere may be other words on the packaging, but they're not clearly legible in this faded image The product appears to be on a white or light-colored plate or surface",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 286,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be very low contrast with a beige or tan background There seems to be some text in the center, but it's extremely faint and difficult to make out clearly I can vaguely see what might be a logo or watermark, but I cannot reliably identify any specific English words in this image due to the poor visibility and contrast\n\nIf you need text extracted from this image, you might want to try adjusting the contrast or brightness of the image before sharing it again",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 287,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid beige or light brown background with no visible text or words I cannot detect any English words or text content in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 288,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['BISKUT', 'BERAS', 'ORIGINAL', 'Rice', 'Crackers']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 289,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['BISKUT', 'BERAS', 'ORIGINAL', 'Rice', 'Crackers', 'tente']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 290,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words visible in the image are:\n\n['ORIGINAL', 'Rice', 'Crackers']\n\nThe image shows a package of rice crackers with a red/pink background and a yellow circular logo There appears to be some text in another language at the top (possibly \"BISKUT BERAS\") and a brand logo in blue, but the main English text clearly visible is \"ORIGINAL Rice Crackers\" on the yellow circle There's also a cartoon character mascot in green at the bottom of the package",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 291,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out some text on what appears to be a package of rice crackers From what I can discern:\n\n['ORIGINAL', 'Rice', 'Crackers']\n\nThere appears to be some additional text at the top of the package, but it's too blurry for me to confidently identify those words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 292,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be a cereal box or food packaging with \"ORIGINAL\" and \"RICE\" visible on a yellow circular logo or badge The image quality makes it difficult to clearly identify all text, but these words are somewhat distinguishable Based on the format requested, I would provide:\n\n['ORIGINAL', 'RICE', 'CRACKERS']\n\nNote that there may be other text on the packaging that is too blurry to reliably identify in this image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 293,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify specific text or words I can see what appears to be a colorful display with yellows and greens in the center against a reddish background, but the resolution and focus of the image don't allow me to reliably read any English words that might be present Without being able to make out distinct text, I cannot provide a list of words in the requested format\n\nIf you have a clearer version of this image or if you could specify what text you're looking for, I'd be happy to try again",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 294,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['BISKUT', 'BERAS', 'ORIGINAL', 'Rice', 'Crackers']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 295,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['BISKUT', 'BERAS', 'ORIGINAL', 'Rice', 'Crackers']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 296,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ORIGINAL', 'Rice', 'Crackers']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 297,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a package of rice crackers From what I can make out in this somewhat blurry image, the visible English words are:\n\n['ORIGINAL', 'RICE', 'Crackers']\n\nThere appears to be some additional text at the top of the package that's partially visible but too blurry to read with confidence, and there's a brand logo in the upper right corner, but I can't clearly make out the text",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 298,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, making it difficult to clearly identify all text From what I can make out, there appears to be a food package with a yellow circular logo or badge that says \"ORIGINAL\" and possibly \"FLAVOR\" or \"CHICKEN\" underneath There seems to be some branding elements, but due to the blurry quality, I cannot confidently identify all words\n\nBased on what I can discern:\n\n['ORIGINAL', 'FLAVOR', 'CHICKEN']\n\nHowever, I want to note that this is my best attempt given the blurry nature of the image, and there may be other words that aren't clearly visible or recognizable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['BISKUT', 'BERAS', 'ORIGINAL', 'Rice', 'Crackers']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 300,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a package of rice crackers with text in both English and what appears to be another language (possibly Indonesian) The English words visible in the image are:\n\n['ORIGINAL', 'Rice', 'Crackers']\n\nThe package also has \"BISKUT BERAS\" which appears to be the product name in another language, likely meaning \"rice biscuits\" or \"rice crackers\" in that language",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 301,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows packaging for what appears to be \"Original Rice Crackers\" The text visible in the image includes:\n\n[\"BISKUT BERAS\", \"ORIGINAL\", \"Rice\", \"Crackers\"]\n\nThe image has a yellowish/golden tint and seems to be packaging for rice crackers \"BISKUT BERAS\" appears to be in a different language (Malay/Indonesian) which translates to \"rice biscuits\" or \"rice crackers\" in English",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 302,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a faded or low-contrast document with \"ORIGINAL\" text visible in the center The image has a brownish/sepia tone background, making it difficult to clearly distinguish all text Based on what I can make out, the visible English words are:\n\n['ORIGINAL']\n\nThere may be other text in the image, but it's too faded or unclear to reliably identify additional words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 303,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a solid tan or light brown background with no visible text or words There are no English words or any text content that I can identify in this image\n\n[]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 304,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ST', 'MARTIN', 'BRR', '1999', 'TATTOO', 'STUDIO', 'KHAOSAN', 'THAILAND']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 305,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['STMARTIN', 'BBB', '1999', 'TATTOO', 'STUDIO', 'KHAOSAN', 'THAILAND']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 306,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a logo for a tattoo studio From what I can make out in this somewhat blurry image, the visible English words are:\n\n['ST', 'MARTIN', 'BEER', '1999', 'TATTOO', 'STUDIO', 'KHAOSAN', 'THAILAND']\n\nThe logo appears to be for \"St Martin Beer\" with a tattoo studio located in Khaosan, Thailand, established in 1999 The logo features what looks like praying hands in a circular emblem above the text",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 307,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a blurry logo for what seems to be \"St Martin\" tattoo studio in Thailand The visible text elements I can make out are:\n\n['ST', 'MARTIN', 'TATTOO', 'STUDIO', 'THAILAND']\n\nThe logo appears to have a circular emblem at the top with what might be praying hands or a similar design, though the image is quite blurry making it difficult to discern all details precisely",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 308,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a blurry logo, but I can make out what seems to be the word \"STRAITON\" in the center The image is quite low resolution and blurry, making it difficult to clearly identify any other text with certainty The format would be:\n\n['STRAITON']\n\nThere may be additional text below this main word, but it's too blurry for me to confidently identify specific words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 309,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be quite blurry and low contrast, making it difficult to clearly identify specific text It seems to show what might be a logo or emblem with some text beneath it, but the words are not legible enough for me to confidently identify individual English words\n\nFrom what I can see, there appears to be some text in the middle section of the image, but it's too indistinct to accurately transcribe specific words Without being able to clearly read the content, I cannot provide a reliable list of words in the requested format",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 310,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ST', 'MARTIN', 'BBB', '1999', 'TATTOO', 'STUDIO', 'KHAOSAN', 'THAILAND']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 311,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['STMARTIN', 'BEER', '1999', 'TATTOO', 'STUDIO', 'KHAOSAN', 'THAILAND']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 312,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Based on the image, here are all the English words visible:\n\n['STMARTIN', 'TATTOO', 'STUDIO', 'KHAO SAN', 'THAILAND']\n\nThe image shows a logo for St Martin Tattoo Studio, which appears to be located in the Khao San area of Thailand The logo features praying hands in a circular emblem at the top, with the business name and location information arranged in a decorative format with triangular elements at the bottom",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 313,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry, but I can make out what appears to be a logo with the text \"St Harton\" prominently displayed in the center There seems to be additional text below it, but it's too blurry for me to confidently identify specific words Based on what I can discern, the format would be:\n\n['St', 'Harton']\n\nHowever, I should note that due to the low resolution and blurriness of the image, this identification may not be completely accurate",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 314,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is quite blurry and low resolution, making it difficult to clearly identify all text From what I can make out, it appears to be a logo with the word \"STEALTH\" prominently displayed in the middle There may be additional text above and below, but it's too blurry to confidently identify specific words\n\nBased on what I can discern:\n\n['STEALTH']\n\nThere might be additional text or words in the circular emblem above and banner-like elements below, but they're not clearly legible in this low-resolution image",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 315,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ST', 'MARTIN', 'BBR', '1999', 'TATTOO', 'KHAOSAN', 'STUDIO', 'THAILAND']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 316,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a faded or watermarked logo for a tattoo studio The visible English words in the logo are:\n\n['SEMATIN', 'BBR', '1999', 'TATTOO', 'STUDIO', 'KHAOSAN', 'THAILAND']\n\nThe logo features praying hands in a circular emblem above the text, with \"SEMATIN BBR\" as the main title, \"1999\" in the middle of a triangular design, and \"TATTOO STUDIO KHAOSAN THAILAND\" around the bottom portion of the logo",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 317,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image shows a very faint or watermarked logo for what appears to be a tattoo studio The visible text elements I can make out are:\n\n['MARTIN', 'BRR', '1999', 'TATTOO', 'STUDIO', 'KHAOSAN', 'THAILAND']\n\nThe logo features what looks like praying hands in a circular emblem above the text, and there appears to be a triangular design element in the middle of the logo The entire image is extremely light gray on a light background, making it difficult to read all details with complete certainty",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 318,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be a very faint or watermarked logo on a light gray background The text is extremely difficult to make out clearly I can see what seems to be some kind of emblem or badge design with text, but the contrast is so low that I cannot reliably identify specific words \n\nWithout being able to clearly distinguish the text, I cannot provide an accurate list of words in the requested format The image would need to have better contrast or clarity for me to identify the specific text content",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 319,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image appears to be extremely faint or low contrast, making it difficult to clearly identify any text I can see there might be some content in the center of the image, but the text is too light against the gray background for me to reliably read any specific words\n\nFrom what I can see, I cannot confidently identify any distinct English words in this image The content appears to be washed out or deliberately faded",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    }
+]

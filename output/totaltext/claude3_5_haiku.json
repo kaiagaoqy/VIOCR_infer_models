@@ -3,7 +3,7 @@
         "image_id": 0,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GEMBIRA', 'LOKA']",
+        "rec_texts": "['Gembira', 'Loka']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -12,7 +12,7 @@
         "image_id": 1,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GEMBIRA', 'LOKA']",
+        "rec_texts": "['Mbira', 'Loka']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -21,7 +21,7 @@
         "image_id": 2,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['EMBIRA', 'LOKA']",
+        "rec_texts": "['Ambira', 'Loka']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -30,7 +30,7 @@
         "image_id": 3,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MBIRA', 'LOKA']",
+        "rec_texts": "['BIRA', 'LOKA']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -39,7 +39,7 @@
         "image_id": 4,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SIRA', 'KOTIA']",
+        "rec_texts": "I apologize, but the image appears to be blurry and out of focus, making it difficult to clearly read any words Without being able to confidently discern the text, I cannot provide a list of words as you requested If you could provide a clearer version of the image, I would be happy to help identify the words",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -48,7 +48,7 @@
         "image_id": 5,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['House', 'of', 'Lechon']",
+        "rec_texts": "I apologize, but the image appears to be significantly blurred and out of focus, making it impossible to clearly discern any English words The image seems to have various colors and shapes, but no legible text is visible Therefore, I would return an empty list:\n\n[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -57,7 +57,7 @@
         "image_id": 6,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GEMBIRA', 'LOKA']",
+        "rec_texts": "['Gembira', 'Loka']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -66,7 +66,7 @@
         "image_id": 7,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GEMBIRA', 'LOKA']",
+        "rec_texts": "['Embira', 'Loka']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -75,7 +75,7 @@
         "image_id": 8,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GEMBIRA', 'LOKA']",
+        "rec_texts": "['Ambira', 'Loka']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -84,7 +84,7 @@
         "image_id": 9,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['M', 'BIRA', 'LOKA']",
+        "rec_texts": "['Nibira', 'Loft']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -93,7 +93,7 @@
         "image_id": 10,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['K', 'I', 'N', 'G', 'K', 'O', 'N', 'G']",
+        "rec_texts": "I apologize, but I cannot clearly read any English words in this blurry image The image appears to be a close-up of some kind of vehicle or train, with green, blue, and brown colors, but the details are too blurred to discern any text If you'd like me to describe what I can see in the image, I'd be happy to do that instead",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -102,7 +102,7 @@
         "image_id": 11,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GEMBIRA', 'LOKA']",
+        "rec_texts": "['Gembira', 'Loka']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -111,7 +111,7 @@
         "image_id": 12,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GEMBIRA', 'LOKA']",
+        "rec_texts": "['Mbira', 'Loka']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -120,7 +120,7 @@
         "image_id": 13,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GEMBIRA', 'LOKA']",
+        "rec_texts": "['MBIRA', 'LOKA']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -129,7 +129,7 @@
         "image_id": 14,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['GEMBIRA', 'LOKA', 'ZOO']",
+        "rec_texts": "['GRILL', 'GRILL']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -138,7 +138,7 @@
         "image_id": 15,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['BIRA', 'LOKA']",
+        "rec_texts": "I apologize, but I cannot identify any words in this image The image appears to be a solid dark gray or charcoal-colored background with no visible text or words\n\nIf you'd like me to analyze the image further or if you believe there should be words present, please confirm the image has uploaded correctly or provide additional context",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -147,7 +147,7 @@
         "image_id": 16,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CANNERY', 'ROW', 'DIRECTORY']",
+        "rec_texts": "['Cannery', 'Row', 'Directory']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -156,7 +156,7 @@
         "image_id": 17,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Cannery', 'Row', 'Directory']",
+        "rec_texts": "['Cannery', 'Row']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -165,7 +165,7 @@
         "image_id": 18,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CANNERY', 'ROW', 'DIRECTORY']",
+        "rec_texts": "['CARBERRY', 'RUN']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -174,7 +174,7 @@
         "image_id": 19,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CANNERY', 'ROW']",
+        "rec_texts": "['CANADIAN']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -183,7 +183,7 @@
         "image_id": 20,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "I apologize, but the image appears to be blurry and out of focus, making it difficult to clearly read any English words Without a clearer image, I cannot confidently list the words present",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -192,7 +192,7 @@
         "image_id": 21,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SHELL', 'VPOWER']",
+        "rec_texts": "I apologize, but the image appears to be very blurry and out of focus, making it difficult to clearly read any words Without a clearer image, I cannot confidently identify specific English words to list",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -201,7 +201,7 @@
         "image_id": 22,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CANNERY', 'ROW', 'DIRECTORY']",
+        "rec_texts": "['Cannery', 'Row', 'Directory']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -210,7 +210,7 @@
         "image_id": 23,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CANNERY', 'ROW', 'DIRECTORY']",
+        "rec_texts": "['Cannery', 'Now', 'Directory']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -219,7 +219,7 @@
         "image_id": 24,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CANNERYROW', 'DIRECTORY']",
+        "rec_texts": "['CARREFOUR']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -228,7 +228,7 @@
         "image_id": 25,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['COUNTRY', 'STORE']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -237,7 +237,7 @@
         "image_id": 26,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['BOWSER']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -246,7 +246,7 @@
         "image_id": 27,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CANNERY', 'ROW', 'DIRECTORY']",
+        "rec_texts": "['Cannery', 'Row', 'Directory']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -255,7 +255,7 @@
         "image_id": 28,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CANNERY', 'ROW']",
+        "rec_texts": "['Cannery', 'Row']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -264,7 +264,7 @@
         "image_id": 29,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CANNERY', 'ROW']",
+        "rec_texts": "['GARDEN', 'SONS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -273,7 +273,7 @@
         "image_id": 30,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['EXPRESS', 'SUNSET', 'SUN', 'RIDE']",
+        "rec_texts": "['POLICE', 'DEPARTMENT']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -282,7 +282,7 @@
         "image_id": 31,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SINCLAIR', 'HC']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -291,7 +291,7 @@
         "image_id": 32,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['AUTHENTIC', 'BAKERY', 'SINCE', '1997', 'TOUS']",
+        "rec_texts": "['Authentic', 'Baking', 'Since', 'TLJ', 'pm', 'Tous']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -300,7 +300,7 @@
         "image_id": 33,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['AUTHENTIC', 'BAKERY', 'SINCE', '1987', 'TLJ', 'TOUS', '']",
+        "rec_texts": "['TOUS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -309,7 +309,7 @@
         "image_id": 34,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['TOUS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -318,7 +318,7 @@
         "image_id": 35,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TOUS']",
+        "rec_texts": "['TC']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -336,7 +336,7 @@
         "image_id": 37,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TC']",
+        "rec_texts": "I apologize, but the image appears to be extremely blurry and out of focus, making it impossible to clearly discern any English words The image looks like an indistinct, blurred scene with various muted colors and shapes, but no legible text is visible",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -345,7 +345,7 @@
         "image_id": 38,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['AUTHENTIC', 'BAKERY', 'TLJ', 'SINCE', '1997', 'TOUS', 'apm']",
+        "rec_texts": "['Authentic', 'Taste', 'Since', 'pm', 'Tous']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -354,7 +354,7 @@
         "image_id": 39,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['AUTHENTIC', 'HAND', 'MADE', 'TOAST', 'B', 'TOUS']",
+        "rec_texts": "['TOUS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -363,7 +363,7 @@
         "image_id": 40,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TOUS', 'TO']",
+        "rec_texts": "['TOURS', 'TC']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -372,7 +372,7 @@
         "image_id": 41,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TO']",
+        "rec_texts": "['TC']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -381,7 +381,7 @@
         "image_id": 42,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TOAST']",
+        "rec_texts": "['TC']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -390,7 +390,7 @@
         "image_id": 43,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['AUTHENTIC', 'BAKERY', 'SINCE', '1997', 'TOUS']",
+        "rec_texts": "['Authentic', 'Baking', 'Since', 'Tous']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -399,7 +399,7 @@
         "image_id": 44,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['AUTHENTIC', 'BAKERY', 'TLJ', 'SINCE', '1981', 'TOUS']",
+        "rec_texts": "['AUTHENTIC', 'TOUS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -408,7 +408,7 @@
         "image_id": 45,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KOREAN', 'BAKERY', 'SINCE', '1988', 'TOUS', 'LES', 'JOURS']",
+        "rec_texts": "['TL', 'TOUS', 'RIGHTS', 'RESERVED']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -417,7 +417,7 @@
         "image_id": 46,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TOUS', 'TOUS']",
+        "rec_texts": "['CHANEL', 'PARIS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -426,7 +426,7 @@
         "image_id": 47,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['T7260']",
+        "rec_texts": "I apologize, but I cannot detect any words in this image The image appears to be a solid brown or taupe-colored background with no visible text or words\n\nIf you intended to upload an image with text, you may want to check the image file and try uploading it again",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -435,7 +435,7 @@
         "image_id": 48,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MONTEREY', 'FIRE', 'EST', '1891']",
+        "rec_texts": "['Monterey', 'Fire']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -444,7 +444,7 @@
         "image_id": 49,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MONTEREY', 'FIRE']",
+        "rec_texts": "['Monterey', 'Fire']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -453,7 +453,7 @@
         "image_id": 50,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MONTEREY', 'FIRE']",
+        "rec_texts": "['Monterey', 'Fire']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -462,7 +462,7 @@
         "image_id": 51,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MONTREAT', 'FIRE']",
+        "rec_texts": "['Fire', 'Dept']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -471,7 +471,7 @@
         "image_id": 52,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FIRE', 'DEPARTMENT']",
+        "rec_texts": "['Virgin']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -480,7 +480,7 @@
         "image_id": 53,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "['Nike']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -489,7 +489,7 @@
         "image_id": 54,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MONTEREY', 'FIRE']",
+        "rec_texts": "['Monterey', 'Fire']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -498,7 +498,7 @@
         "image_id": 55,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MONTEREY', 'FIRE']",
+        "rec_texts": "['Monterey', 'Fire']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -507,7 +507,7 @@
         "image_id": 56,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MONTEREY', 'FIRE']",
+        "rec_texts": "['Monterey', 'Fire']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -516,7 +516,7 @@
         "image_id": 57,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MONTEREY', 'FIRE']",
+        "rec_texts": "['Monterey', 'Fire']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -525,7 +525,7 @@
         "image_id": 58,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MONTROSE', 'FIRE']",
+        "rec_texts": "['Fire']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -534,7 +534,7 @@
         "image_id": 59,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MONTEREY', 'FIRE']",
+        "rec_texts": "['Monterey', 'Fire']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -543,7 +543,7 @@
         "image_id": 60,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MONTGOMERY', 'FIRE']",
+        "rec_texts": "['MOUNTAIN']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -552,7 +552,7 @@
         "image_id": 61,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FIRE', 'RESCUE']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -570,7 +570,7 @@
         "image_id": 63,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LOVE']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -579,7 +579,7 @@
         "image_id": 64,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SANTA', 'MONICA', 'YACHT', 'HARBOR', 'SPORT', 'FISHING', 'BOATING', 'cafes']",
+        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Harbor', 'Sport', 'Fishing', 'Boating', 'Cafes']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -588,7 +588,7 @@
         "image_id": 65,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SANTA', 'MONICA', 'YACHT', 'HARBOR', 'SPORT', 'FISHING', 'BOATING', 'cafes']",
+        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Harbor', 'Sport', 'Fishing', 'Boating', 'Cafes']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -597,7 +597,7 @@
         "image_id": 66,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SANTA', 'MONICA', 'YACHT', 'HARBOR', 'SPORT', 'FISHING', 'BOATING', 'cafes']",
+        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Harbor', 'Sport', 'Fishing', 'Boating', 'Cafes']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -606,7 +606,7 @@
         "image_id": 67,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Santa', 'Monica', 'YACHT', 'HARBOR', 'SPORT', 'FISHING', 'BOATING', 'CAFES']",
+        "rec_texts": "['SANTA', 'MONICA', 'SPORT', 'FISHING', 'PIER']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -615,7 +615,7 @@
         "image_id": 68,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SANTA', 'MONICA', 'YACHT', 'HARBOR', 'SPORT', 'FISHING', 'BOATING', 'CAFE']",
+        "rec_texts": "I apologize, but I cannot clearly read any English words in this blurry image The image appears to be an out-of-focus scene with a blue sky and some architectural or landscape elements, but no legible text is visible If you'd like me to describe what I can see in the image, I'd be happy to do so, but I cannot provide a list of words as requested",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -624,7 +624,7 @@
         "image_id": 69,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "I apologize, but I cannot clearly discern any legible English words in this blurry, blue-toned image The image appears to be out of focus, making text recognition impossible If there are words present, they are not distinguishable in this image\n\nSo my response would be:\n\n['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -633,7 +633,7 @@
         "image_id": 70,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SANTA', 'MONICA', 'YACHT', 'HARBOR', 'SPORT', 'FISHING', 'BOATING', 'cafes']",
+        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Harbor', 'Sport', 'Fishing', 'Boating', 'Cafes']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -642,7 +642,7 @@
         "image_id": 71,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SANTA', 'MONICA', 'YACHT', 'HARBOR', 'SPORT', 'FISHING', 'BOATING', 'cafes']",
+        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Harbor', 'Sport', 'Fishing', 'Boating', 'Cafes']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -651,7 +651,7 @@
         "image_id": 72,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SANTA', 'MONICA', 'YACHT', 'HARBOR', 'SPORT', 'FISHING', 'BOATING', 'cafes']",
+        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Sport', 'Fishing', 'Boating', 'Cafes']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -660,7 +660,7 @@
         "image_id": 73,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Santa', 'Monica', 'YACHT', 'HARBOR', 'SPORT', 'FISHING', 'BOATING', 'CAFES']",
+        "rec_texts": "['Santa', 'Monica', 'Sport', 'Fishing', 'Pier']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -669,7 +669,7 @@
         "image_id": 74,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Harbor', 'Sport', 'Fishing', 'Boating', 'Cafes']",
+        "rec_texts": "['Universal', 'Studios']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -678,7 +678,7 @@
         "image_id": 75,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SANTA', 'MONICA', 'YACHT', 'HARBOR', 'SPORT', 'FISHING', 'BOATING', 'cafes']",
+        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Harbor', 'Sport', 'Fishing', 'Boating', 'Cafes']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -687,7 +687,7 @@
         "image_id": 76,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SANTA', 'MONICA', 'YACHT', 'HARBOR', 'SPORT', 'FISHING', 'BOATING', 'CAFE']",
+        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Sport', 'Fishing', 'Boating', 'Pier']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -696,7 +696,7 @@
         "image_id": 77,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Harbor', 'Sport', 'Fishing', 'Boating', 'Cafes']",
+        "rec_texts": "['PORT', 'FISHING', 'CLUB']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -705,7 +705,7 @@
         "image_id": 78,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Harbor', 'Sport', 'Fishing', 'Boating', 'Cafes']",
+        "rec_texts": "['STOP', 'AHEAD']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -714,7 +714,7 @@
         "image_id": 79,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Santa', 'Monica', 'Yacht', 'Harbor', 'Sport', 'Fishing', 'Boating', 'Cafes']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -723,7 +723,7 @@
         "image_id": 80,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ISTANBUL', 'KEBAB', 'BURGER', 'HOUSE']",
+        "rec_texts": "['Istanbul', 'Kebab', 'House']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -732,7 +732,7 @@
         "image_id": 81,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ISTANBUL', 'KEBAB', 'BURGER', 'HOUSE']",
+        "rec_texts": "['ISTANBUL', 'KEBAB', 'PIZZA']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -741,7 +741,7 @@
         "image_id": 82,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ISTANBUL', 'KEBAB', '&', 'BURGER', 'HOUSE']",
+        "rec_texts": "['ISTANBUL']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -750,7 +750,7 @@
         "image_id": 83,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ISTANBUL', 'GRILL', 'HOUSE']",
+        "rec_texts": "['ISTANBUL']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -759,7 +759,7 @@
         "image_id": 84,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ISTANBUL', 'Kebab', 'House']",
+        "rec_texts": "['ISTANBUL']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -768,7 +768,7 @@
         "image_id": 85,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "I'm sorry, I can't help with that",
+        "rec_texts": "['STAR', 'WARS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -777,7 +777,7 @@
         "image_id": 86,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ISTANBUL', 'Kebab', 'Burger', 'HOUSE']",
+        "rec_texts": "['Istanbul', 'Kebab', 'House']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -786,7 +786,7 @@
         "image_id": 87,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ISTANBUL', 'KEBAB', 'BURGER', 'HOUSE']",
+        "rec_texts": "['ISTANBUL', 'KEBAB', 'HOUSE']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -795,7 +795,7 @@
         "image_id": 88,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ISTANBUL', 'KEBAB', '&', 'BURGER', 'HOUSE']",
+        "rec_texts": "['ISTANBUL']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -804,7 +804,7 @@
         "image_id": 89,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ISTANBUL', 'Kebab', '&', 'Burger', 'House']",
+        "rec_texts": "['ISTANBUL']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -813,7 +813,7 @@
         "image_id": 90,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ISTANBUL', 'DONER', 'KABOB', 'HOUSE']",
+        "rec_texts": "['ISTANBUL']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -822,7 +822,7 @@
         "image_id": 91,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ISTANBUL', 'KEBAB', 'BURGER', 'HOUSE']",
+        "rec_texts": "['Istanbul', 'Kebab', 'House']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -831,7 +831,7 @@
         "image_id": 92,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ISTANBUL', 'TAKE', 'AWAY', 'DINNER', 'HOUSE']",
+        "rec_texts": "['ISTANBUL']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -840,7 +840,7 @@
         "image_id": 93,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ISTANBUL', 'Kebabish', '']",
+        "rec_texts": "['ISTANBUL']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -849,7 +849,7 @@
         "image_id": 94,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['RESTAURANT', 'TOMOSUN', 'ROAD', 'HOUSE']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -858,7 +858,7 @@
         "image_id": 95,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ECLIPSE', 'by', 'Stephenie', 'Meyer']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -867,7 +867,7 @@
         "image_id": 96,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_texts": "['Dalewood', 'Townhomes']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -876,7 +876,7 @@
         "image_id": 97,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_texts": "['Dalewood', 'Townhomes']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -885,7 +885,7 @@
         "image_id": 98,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_texts": "['Dalewood', 'Townhomes']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -894,7 +894,7 @@
         "image_id": 99,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_texts": "['Dalewood']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -903,7 +903,7 @@
         "image_id": 100,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DALEWOOD']",
+        "rec_texts": "['DALE', 'WOOD']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -912,7 +912,7 @@
         "image_id": 101,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SALE', 'WHOLESALE', 'RETAIL']",
+        "rec_texts": "['BREAKING', 'NEWS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -921,7 +921,7 @@
         "image_id": 102,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_texts": "['Dalewood', 'Townhomes']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -930,7 +930,7 @@
         "image_id": 103,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_texts": "['Dalewood', 'Townhomes']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -939,7 +939,7 @@
         "image_id": 104,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_texts": "['Dalewood', 'Townhomes']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -948,7 +948,7 @@
         "image_id": 105,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_texts": "['Dalewood', 'Torndories']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -957,7 +957,7 @@
         "image_id": 106,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DALEWOOD', 'TOWNSHIP']",
+        "rec_texts": "['Dalewood']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -966,7 +966,7 @@
         "image_id": 107,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_texts": "['Dalewood', 'Townhomes']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -975,7 +975,7 @@
         "image_id": 108,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_texts": "['Dalewood', 'Townhouses']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -984,7 +984,7 @@
         "image_id": 109,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_texts": "['WELCOME']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -993,7 +993,7 @@
         "image_id": 110,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_texts": "I apologize, but I cannot detect any readable words in this image The image appears to be a solid gray or taupe-colored background with no visible text If you believe there should be words present, the image may be too blurry, low contrast, or improperly loaded for me to discern any text",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -1002,7 +1002,7 @@
         "image_id": 111,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DALEWOOD', 'EVERETT', 'ESTATES']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -1011,7 +1011,7 @@
         "image_id": 112,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_texts": "['Khatulisitna', 'Cafe', 'Open', '24-Hours']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1020,7 +1020,7 @@
         "image_id": 113,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_texts": "['Khatulisitina', 'Cafe', 'Open', '24-Hours']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1029,7 +1029,7 @@
         "image_id": 114,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_texts": "['Khatulisitwa', 'CAFE', 'OPEN', '24-HOURS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1038,7 +1038,7 @@
         "image_id": 115,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_texts": "['Naturalism', 'Cafe', 'Open', '24', 'Hours']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1047,7 +1047,7 @@
         "image_id": 116,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['N', 'HAUNTING', 'CAFE', 'OPEN', '24', 'HOURS']",
+        "rec_texts": "['car']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1056,7 +1056,7 @@
         "image_id": 117,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TWIN', 'PEAKS', 'CAFE', 'OPEN', '24', 'HOURS']",
+        "rec_texts": "I apologize, but I cannot clearly discern any legible English words in this image The picture appears to be a blurry, orange-tinted rectangular shape with indistinct details against a dark background The image quality is too low and obscured to make out any specific text Therefore, I would return the response as:\n\n['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1065,7 +1065,7 @@
         "image_id": 118,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_texts": "['Khatulisitna', 'Cafe', 'Open', '24-Hours']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1074,7 +1074,7 @@
         "image_id": 119,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_texts": "['Khatulisitwa', 'Cafe', 'Open', '24-Hours']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -1083,7 +1083,7 @@
         "image_id": 120,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_texts": "['Khatulisitiva', 'Cafe', 'Open', '24-Hours']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -1092,7 +1092,7 @@
         "image_id": 121,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_texts": "['Natulstam', 'Cafe', 'Open', '24', 'Hours']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -1101,7 +1101,7 @@
         "image_id": 122,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['NAUTILUSITA', 'CAFE', 'OPEN', '24', 'HOURS']",
+        "rec_texts": "['MCGILLSBAR', 'CAFE', 'OPEN', 'LATE']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -1110,7 +1110,7 @@
         "image_id": 123,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_texts": "['Khatulisina', 'Cafe', 'Open', '24-Hours']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1119,7 +1119,7 @@
         "image_id": 124,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_texts": "['CHATULISTIC', 'CAFE', 'OPEN', '24-HOURS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -1128,7 +1128,7 @@
         "image_id": 125,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_texts": "['DOUGLAS', 'CAFE', 'OPEN', '2 HOURS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -1137,7 +1137,7 @@
         "image_id": 126,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_texts": "['ENGLISH', 'DEUTSCH', 'FRAN\u00c7AIS', 'ESPA\u00d1OL', 'PORTUGU\u00caS', 'ITALIANO', 'DUTCH', 'SVENSKA', 'DANSK', 'NORSK', 'SUOMI', 'POLSKI']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -1146,7 +1146,7 @@
         "image_id": 127,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['KHATULISTIWA', 'CAFE', 'OPEN', '24-HOURS']",
+        "rec_texts": "['NATIONAL', 'GEOGRAPHIC', 'TRAVELER', 'PERU', 'MACHU', 'PICCHU', 'SACRED', 'VALLEY', 'OF', 'THE', 'INCAS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -1155,7 +1155,7 @@
         "image_id": 128,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_texts": "['Indian', 'Harbor', 'Yacht', 'Club', 'org', '1889']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1164,7 +1164,7 @@
         "image_id": 129,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_texts": "['Indian', 'Harbor', 'Yacht', 'Club', 'org', '1889']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1173,7 +1173,7 @@
         "image_id": 130,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_texts": "['Indian', 'Harbor', 'Yacht', 'Club']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1182,7 +1182,7 @@
         "image_id": 131,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['INDIAN', 'HARBOR', 'YACHT', 'CLUB']",
+        "rec_texts": "['Indian', 'Harbor', 'Yacht', 'Club']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1191,7 +1191,7 @@
         "image_id": 132,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "I'm sorry, but I can't assist with that",
+        "rec_texts": "['INDIAN', 'HARBOR', 'YACHT', 'CLUB']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1200,7 +1200,7 @@
         "image_id": 133,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['INDIAN', 'HARBOR', 'YACHT', 'CLUB']",
+        "rec_texts": "['UNITED', 'STATES', 'COAST', 'GUARD']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1209,7 +1209,7 @@
         "image_id": 134,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_texts": "['Indian', 'Harbor', 'Yacht', 'Club', 'org', '1889']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1218,7 +1218,7 @@
         "image_id": 135,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_texts": "['Indian', 'Harbor', 'Yacht', 'Club', 'org', '1889']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -1227,7 +1227,7 @@
         "image_id": 136,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_texts": "['Indian', 'Harbor', 'Yacht', 'Club']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -1236,7 +1236,7 @@
         "image_id": 137,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_texts": "['Indian', 'Harbor', 'Yacht', 'Club']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -1254,7 +1254,7 @@
         "image_id": 139,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_texts": "['Indian', 'Harbor', 'Yacht', 'Club', 'org', '1889']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1263,7 +1263,7 @@
         "image_id": 140,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_texts": "['Indian', 'Harbor', 'Yacht', 'Club', '1889']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -1272,7 +1272,7 @@
         "image_id": 141,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['INDIAN', 'HARBOR', 'org', '1889', 'YACHT', 'CLUB']",
+        "rec_texts": "['INDIAN', 'HARBOR', 'YACHT', 'CLUB']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -1281,7 +1281,7 @@
         "image_id": 142,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['INDIAN', 'HARBOR', 'YACHT', 'CLUB']",
+        "rec_texts": "['UNITED', 'STATES', 'POSTAL', 'SERVICE']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -1290,7 +1290,7 @@
         "image_id": 143,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['INDIAN', 'HARBOR', 'est', '1889', 'YACHT', 'CLUB']",
+        "rec_texts": "I apologize, but I cannot see any English words in this image The image appears to be a solid slate blue or gray color with no text visible If you intended to upload an image with words, it seems the image may not have uploaded correctly or is completely uniform in color",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -1299,7 +1299,7 @@
         "image_id": 144,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['sun', 'fresh', 'MARKET', '4001']",
+        "rec_texts": "['sun', 'fresh', 'market']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1308,7 +1308,7 @@
         "image_id": 145,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_texts": "['sun', 'fresh', 'market']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1317,7 +1317,7 @@
         "image_id": 146,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_texts": "['sun', 'fresh', 'market']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1326,7 +1326,7 @@
         "image_id": 147,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_texts": "['sun', 'fresh']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1335,7 +1335,7 @@
         "image_id": 148,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_texts": "['so', 'fresh']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1344,7 +1344,7 @@
         "image_id": 149,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['fresh', 'market']",
+        "rec_texts": "['City', 'Fresh']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1353,7 +1353,7 @@
         "image_id": 150,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['sun', 'fresh', 'MARKET', '4001']",
+        "rec_texts": "['sun', 'fresh', 'market']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1362,7 +1362,7 @@
         "image_id": 151,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_texts": "['sun', 'fresh', 'market']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -1371,7 +1371,7 @@
         "image_id": 152,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_texts": "['sun', 'fresh', 'market']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -1380,7 +1380,7 @@
         "image_id": 153,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_texts": "['sun', 'fresh', 'market']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -1389,7 +1389,7 @@
         "image_id": 154,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_texts": "['sun', 'fresh']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -1398,7 +1398,7 @@
         "image_id": 155,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_texts": "['sun', 'fresh', 'market']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1407,7 +1407,7 @@
         "image_id": 156,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_texts": "['sun', 'fresh', 'market']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -1416,7 +1416,7 @@
         "image_id": 157,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['sun', 'fresh', 'MARKET']",
+        "rec_texts": "['sun', 'fresh', 'market']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -1425,7 +1425,7 @@
         "image_id": 158,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['sun', 'fresh', 'market']",
+        "rec_texts": "['go', 'fresh']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -1434,7 +1434,7 @@
         "image_id": 159,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['sun', 'fresh', 'market']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -1443,7 +1443,7 @@
         "image_id": 160,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Welcome', 'Parliament']",
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1452,7 +1452,7 @@
         "image_id": 161,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Welcome', 'Parliament']",
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1461,7 +1461,7 @@
         "image_id": 162,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Welcome', 'Parliament']",
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1470,7 +1470,7 @@
         "image_id": 163,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Welcome', 'Parliament']",
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1479,7 +1479,7 @@
         "image_id": 164,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Welcome', 'Government', 'Parliament']",
+        "rec_texts": "I apologize, but the image is quite blurry and out of focus, making it difficult to clearly read any words While there appears to be a blue sign with a white icon or logo, I cannot confidently discern any specific English words from the image\n\nIf you'd like me to read the text, could you please provide a clearer, more focused version of the image?",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1488,7 +1488,7 @@
         "image_id": 165,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['OLD', 'UNIVERSITY', 'BUILDINGS']",
+        "rec_texts": "['facebook']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1497,7 +1497,7 @@
         "image_id": 166,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Welcome', 'Parliament']",
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1506,7 +1506,7 @@
         "image_id": 167,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Welcome', 'Parliament']",
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -1515,7 +1515,7 @@
         "image_id": 168,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Welcome', 'Parliament']",
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -1524,7 +1524,7 @@
         "image_id": 169,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Welcome', 'Parliament']",
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -1533,7 +1533,7 @@
         "image_id": 170,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['welcome', 'parliament', 'Parliament']",
+        "rec_texts": "I apologize, but I cannot clearly read any English words in this blurry image The image appears to show a blue sign with a white icon and a portion of a building or tower in the background, but the text is not legible enough to confidently identify specific words",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -1542,7 +1542,7 @@
         "image_id": 171,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Welcome', 'Parliament']",
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1551,7 +1551,7 @@
         "image_id": 172,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Welcome', 'Parliament']",
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -1560,7 +1560,7 @@
         "image_id": 173,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Welcome', 'Parliament']",
+        "rec_texts": "['Welcome', 'Bienvenue', 'parliament']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -1569,7 +1569,7 @@
         "image_id": 174,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Welcome', 'Parliament']",
+        "rec_texts": "I apologize, but I cannot clearly discern any English words in this image The image appears to be a gray or grayish background with some subtle variations in tone, but no legible text is visible If you believe there should be words present, the image may be too low contrast or blurry for me to read",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -1578,7 +1578,7 @@
         "image_id": 175,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['house', 'of', 'parliament', 'Parliament']",
+        "rec_texts": "I apologize, but I cannot see any English words in this image The image appears to be a solid gray color with no text visible If you intended to upload an image with words, it's possible the image did not upload correctly or is completely blank",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -1596,7 +1596,7 @@
         "image_id": 177,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', 'Est', '1833']",
+        "rec_texts": "['Port', 'of', 'Newcastle', 'Est', '1838']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1605,7 +1605,7 @@
         "image_id": 178,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', 'Est', '1833']",
+        "rec_texts": "['PORT', 'OF', 'NEWCASTLE']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1614,7 +1614,7 @@
         "image_id": 179,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', 'EST', '2009']",
+        "rec_texts": "['PORT', 'OF', 'NEWCASTLE']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1623,7 +1623,7 @@
         "image_id": 180,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PORT', 'OF', 'NEWCASTLE']",
+        "rec_texts": "['', '', '']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1632,7 +1632,7 @@
         "image_id": 181,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FORT', 'HANCOCK', 'SCENIC', 'BYWAY']",
+        "rec_texts": "I apologize, but I cannot clearly read any English words in this blurry, out-of-focus image The image appears to be a dark blue or navy object with a lighter blue/white center, but the details are too indistinct to discern any text Therefore, I would return the response as:\n\n['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1641,7 +1641,7 @@
         "image_id": 182,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', 'Est', '1838']",
+        "rec_texts": "['Port', 'of', 'Newcastle', 'Est', '1838']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1659,7 +1659,7 @@
         "image_id": 184,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', 'Est', '1839']",
+        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', '1888']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -1668,7 +1668,7 @@
         "image_id": 185,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', 'Est', '2000']",
+        "rec_texts": "['PORT', 'OF', 'NEWCASTLE']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -1677,7 +1677,7 @@
         "image_id": 186,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PORT', 'OF', 'NEWCASTLE']",
+        "rec_texts": "['WELCOME']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -1686,7 +1686,7 @@
         "image_id": 187,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', 'Est', '1838']",
+        "rec_texts": "['Port', 'of', 'Newcastle', 'Est', '1838']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1695,7 +1695,7 @@
         "image_id": 188,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', 'Est', '1833']",
+        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', '1854', '1888']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -1704,7 +1704,7 @@
         "image_id": 189,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', 'Est', '1833']",
+        "rec_texts": "['PORT', 'OF', 'NEWCASTLE']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -1713,7 +1713,7 @@
         "image_id": 190,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PORT', 'OF', 'NEWCASTLE']",
+        "rec_texts": "['OFFICIAL', 'RECEIPT']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -1722,7 +1722,7 @@
         "image_id": 191,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PORT', 'OF', 'NEWCASTLE', '1795', '1898']",
+        "rec_texts": "['ENGLISH', 'WORDS', 'VISIBLE', 'IMAGE']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -1731,7 +1731,7 @@
         "image_id": 192,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_texts": "['Texas', 'Embassy', 'London', 'Cantina']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -1740,7 +1740,7 @@
         "image_id": 193,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_texts": "['Texas', 'Embassy', 'London', 'Cantina']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -1749,7 +1749,7 @@
         "image_id": 194,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_texts": "['Texas', 'Embassy', 'London', 'Cantina']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1767,7 +1767,7 @@
         "image_id": 196,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_texts": "['CANINA']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1776,7 +1776,7 @@
         "image_id": 197,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['', '', '']",
+        "rec_texts": "['UNITED', 'STATES']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1785,7 +1785,7 @@
         "image_id": 198,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_texts": "['Texas', 'Embassy', 'London', 'Cantina']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -1794,7 +1794,7 @@
         "image_id": 199,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_texts": "['Texas', 'Embassy', 'London', 'Cantina']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -1803,7 +1803,7 @@
         "image_id": 200,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_texts": "['Texas', 'Embassy', 'London', 'Cantina']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -1821,7 +1821,7 @@
         "image_id": 202,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_texts": "['LAST', 'ARREST', 'CENTRAL']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -1830,7 +1830,7 @@
         "image_id": 203,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_texts": "['Texas', 'Embassy', 'London', 'Cantina']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -1839,7 +1839,7 @@
         "image_id": 204,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_texts": "['Texas', 'Embassy', 'London', 'Cantina']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -1848,7 +1848,7 @@
         "image_id": 205,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['TEXAS', 'EMBASSY', 'LONDON', 'CANTINA']",
+        "rec_texts": "['US', 'EMBASSY', 'LONDON', 'CANTINA']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -1857,7 +1857,7 @@
         "image_id": 206,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['', 'Cowboy', 'Cantina']",
+        "rec_texts": "['UNITED', 'STATES', 'OF', 'AMERICA']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -1866,7 +1866,7 @@
         "image_id": 207,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['SECOND', 'TO', 'NONE', 'WORLD', 'FAMOUS', 'GUITARS']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -1893,7 +1893,7 @@
         "image_id": 210,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'Washington', 'Glass', 'School']",
+        "rec_texts": "['Black', 'Washington', 'Glass']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -1902,7 +1902,7 @@
         "image_id": 211,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'WORLDS', 'Glass', 'MUSEUM']",
+        "rec_texts": "['Glass']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -1911,7 +1911,7 @@
         "image_id": 212,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'Glass', 'Onion']",
+        "rec_texts": "['Glass']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -1920,7 +1920,7 @@
         "image_id": 213,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "I apologize, but I cannot clearly read any English words in this blurry, abstract image The image appears to be a blurred, soft-focused composition with colors like red, pink, and gray, but no legible text is visible\n\nIf you'd like me to describe the image, I can do that But for the specific task of listing words, I cannot identify any words in this image",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -1947,7 +1947,7 @@
         "image_id": 216,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'Washington', 'Glass', 'SCHOOL']",
+        "rec_texts": "['Washington', 'Glass', 'School']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -1956,7 +1956,7 @@
         "image_id": 217,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'Washington', 'Glass', 'School']",
+        "rec_texts": "['Nick', 'Glass']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -1965,7 +1965,7 @@
         "image_id": 218,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'Glass', 'House']",
+        "rec_texts": "['Glass']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -1983,7 +1983,7 @@
         "image_id": 220,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'Washington', 'Glass', 'School']",
+        "rec_texts": "['The', 'Wayland', 'Glass']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -1992,7 +1992,7 @@
         "image_id": 221,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', '', 'Glass']",
+        "rec_texts": "['White', 'Glass']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2001,7 +2001,7 @@
         "image_id": 222,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Glass']",
+        "rec_texts": "['Chlea']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2010,7 +2010,7 @@
         "image_id": 223,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Glass']",
+        "rec_texts": "['LIVE', 'WORLD', 'CUP', 'QATAR', '2022']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -2019,7 +2019,7 @@
         "image_id": 224,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CAPILANO', 'MEMBERSHIPS', 'UNLIMITED', 'ADMISSION', '365', 'DAYS', 'DISCOUNTS', 'FREE', 'ADMISSION']",
+        "rec_texts": "['Capilano', 'Memberships', 'Unlimited', 'Admission', '365', 'Days', 'Discounts', 'As', 'Well', 'As', 'On', 'Free', 'Admission']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2028,7 +2028,7 @@
         "image_id": 225,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CAPILANO', 'MEMBERSHIPS', 'UNLIMITED', 'ADMISSION', '365', 'DAYS', 'Discounts', 'AS', 'WELL', 'AS', 'ON', 'FREE', 'ADMISSION']",
+        "rec_texts": "['Capilano', 'Memberships', 'Unlimited', 'Admission', '365', 'Days', 'Discounts', 'Free']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -2037,7 +2037,7 @@
         "image_id": 226,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CAPILANO', 'MEMBERSHIPS', 'UNLIMITED', 'ADMISSION', '365', 'Discounts:', 'FREE']",
+        "rec_texts": "['Cranling', 'Westminster', 'Unlimited', 'Open', 'Days']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -2046,7 +2046,7 @@
         "image_id": 227,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['BROWN', 'DERBY', 'TAPESTY', '']",
+        "rec_texts": "I apologize, but the image is quite blurry and out of focus, making it difficult to clearly read any words While there appears to be a chalkboard or sign in the background, I cannot confidently discern specific words from this image Therefore, I would return an empty list:\n\n[]",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2055,7 +2055,7 @@
         "image_id": 228,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['PROFESSOR', 'Exit']",
+        "rec_texts": "I apologize, but the image is quite blurry and out of focus, making it difficult to clearly read any words Without being able to confidently discern the text, I cannot provide a list of words as you requested",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2064,7 +2064,7 @@
         "image_id": 229,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "I apologize, but the image appears to be significantly blurred and out of focus, making it impossible to clearly discern any English words The image looks like a blurry photograph with indistinct shapes and colors, but no legible text is visible Therefore, I cannot provide a list of words as requested",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2073,7 +2073,7 @@
         "image_id": 230,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CAPILANO', 'MEMBERSHIPS', 'UNLIMITED', 'ADMISSION', '365', 'DAYS', 'DISCOUNTS', 'FREE', 'ADMISSION']",
+        "rec_texts": "['Capilano', 'Memberships', 'Unlimited', 'Admission', '365', 'Days', 'Discounts', 'Free', 'Admission']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2082,7 +2082,7 @@
         "image_id": 231,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CAPILANO', 'MEMBERSHIPS', 'UNLIMITED', 'ADMISSION', 'DAYS', 'Discounts', 'FREE', 'Admission']",
+        "rec_texts": "['Capilano', 'Memberships', 'Unlimited', 'Admission', '365', 'days', 'Discounts', 'Free']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2091,7 +2091,7 @@
         "image_id": 232,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CAPILANO', 'MEMBERSHIPS', 'UNLIMITED', 'ADMISSION', 'DAYS', 'DISCOUNTS', 'FREE']",
+        "rec_texts": "['Copland', 'Wineries', 'Unlimited', 'Winery', 'Estate']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2100,7 +2100,7 @@
         "image_id": 233,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Genuine', 'Spudz', 'TACOS', 'WEINERS', 'Specials', '']",
+        "rec_texts": "I apologize, but the image is quite blurry, and I cannot clearly make out any specific English words from the background chalkboard or signage The image appears to show some people in a setting with a chalkboard or menu board, but the text is not legible due to the low resolution and blur effect",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -2109,7 +2109,7 @@
         "image_id": 234,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['Black', 'Spire', 'Outfitters']",
+        "rec_texts": "I apologize, but the image is quite blurry and out of focus, making it difficult to clearly discern any English words While there appears to be a chalkboard or sign in the background, the text is not legible Therefore, I cannot confidently list any words from this image",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -2118,7 +2118,7 @@
         "image_id": 235,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CAPILANO', 'MEMBERSHIPS', 'UNLIMITED', 'ADMISSION', '365', 'DAYS', 'DISCOUNTS', 'FREE', 'ADMISSION']",
+        "rec_texts": "['Capilano', 'Memberships', 'Unlimited', 'Admission', '365', 'Days', 'Discounts', 'As', 'Well', 'As', 'On', 'Free', 'Admission']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -2127,7 +2127,7 @@
         "image_id": 236,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CAPILANO', 'MEMBERSHIPS', 'UNLIMITED', 'ADMISSION', '365', 'DAYS', 'Discounts', 'FREE', 'ADMISSION']",
+        "rec_texts": "['Cepilano', 'Memberships', 'Unlimited', 'Admission', '365', 'Days', 'Discover']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2136,7 +2136,7 @@
         "image_id": 237,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CAPILANO', 'MEMBERSHIPS', 'UNLIMITED', 'ADMISSION', '365', 'DAYS', 'Discounts', 'FREE']",
+        "rec_texts": "['COLORADO', 'UNIVERSITIES', 'UNITED', 'UNITED']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2145,7 +2145,7 @@
         "image_id": 238,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CAPILANO', 'MEMBERSHIP', 'UNLIMITED', 'VISITS', 'DISCOUNTS']",
+        "rec_texts": "I apologize, but I cannot clearly discern any legible English words in this image The picture appears to be a dark, grayish-brown colored image with very low contrast and no distinct text visible If there are words present, they are not readable in this image\n\nSo my response would be:\n['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2154,7 +2154,7 @@
         "image_id": 239,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['CAFE', 'AND', 'MEALS', 'UNLIMITED', 'DRINKS']",
+        "rec_texts": "I apologize, but I cannot detect any words in this image The image appears to be a solid dark grayish-brown color with no visible text or discernible features If you intended to upload an image with text, you may want to check the image file and try uploading it again",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -2163,7 +2163,7 @@
         "image_id": 240,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_texts": "['Antique', 'Hostel']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2172,7 +2172,7 @@
         "image_id": 241,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_texts": "['Antique', 'Hostel']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -2199,7 +2199,7 @@
         "image_id": 244,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_texts": "['Antigua', 'Hostel']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2208,7 +2208,7 @@
         "image_id": 245,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['STRAND', 'HOTEL']",
+        "rec_texts": "['', '', '']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2217,7 +2217,7 @@
         "image_id": 246,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_texts": "['Antique', 'Hostel']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2226,7 +2226,7 @@
         "image_id": 247,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_texts": "['Antique', 'Hostel']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2235,7 +2235,7 @@
         "image_id": 248,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_texts": "['Antique', 'Hostel']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2244,7 +2244,7 @@
         "image_id": 249,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_texts": "['Antique', 'Hostel']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -2253,7 +2253,7 @@
         "image_id": 250,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_texts": "['Antique', 'Hostel']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -2262,7 +2262,7 @@
         "image_id": 251,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_texts": "['Antique', 'Hostel']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -2280,7 +2280,7 @@
         "image_id": 253,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_texts": "['ANTIGUA', 'HOSTEL']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2289,7 +2289,7 @@
         "image_id": 254,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ANTIQUE', 'HOSTEL']",
+        "rec_texts": "['HOTEL']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2298,7 +2298,7 @@
         "image_id": 255,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['FOOD', 'MOTEL']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -2307,7 +2307,7 @@
         "image_id": 256,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'EXIT', '11', 'org']",
+        "rec_texts": "['The', 'Keen', 'Ankylosaurs', 'Exit', '11', 'Creation', 'Museum', 'org']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2316,7 +2316,7 @@
         "image_id": 257,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'EXIT', '11']",
+        "rec_texts": "['The', 'Keen', 'Ankylosaurus', 'Exit', '11', 'Creation', 'Museum']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -2325,7 +2325,7 @@
         "image_id": 258,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'EXIT', '11']",
+        "rec_texts": "['The', 'Keen', 'Ankylosaurus', 'Exit', '11', 'Creation', 'Museum']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -2334,7 +2334,7 @@
         "image_id": 259,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'EXIT', '19']",
+        "rec_texts": "['Ankylosaurus']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2343,7 +2343,7 @@
         "image_id": 260,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ANKYLOSAURUS']",
+        "rec_texts": "['SIMPLY', 'GOOD', 'FARM']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2352,7 +2352,7 @@
         "image_id": 261,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['']",
+        "rec_texts": "I apologize, but I cannot discern any clear English words in this blurry image The image appears to be an out-of-focus, slightly distorted view of something, possibly a food item or object, but no legible text is visible Therefore, my response would be:\n\n['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2361,7 +2361,7 @@
         "image_id": 262,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'EXIT', '11']",
+        "rec_texts": "['The', 'Keen', 'Ankylosaurus', 'Exit', '11', 'Creation', 'Museum', 'org']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2370,7 +2370,7 @@
         "image_id": 263,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'EXIT', '11']",
+        "rec_texts": "['The', 'Keen', 'Ankylosaurus', 'Exit', 'Creation', 'Museum']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2379,7 +2379,7 @@
         "image_id": 264,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'EXIT', '11']",
+        "rec_texts": "['Ankylosaurs', 'Exit', 'Creation', 'Museum']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2388,7 +2388,7 @@
         "image_id": 265,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['MEET', 'THE', 'NEW', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'EXIT', '0']",
+        "rec_texts": "['Ankylosaurs']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -2397,7 +2397,7 @@
         "image_id": 266,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DINOSAUR', 'WORLD', 'ANKYLOSAURUS', 'NOW', 'OPEN']",
+        "rec_texts": "['MOST', 'TIGERS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -2406,7 +2406,7 @@
         "image_id": 267,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'org', 'EXIT', '11']",
+        "rec_texts": "['The', 'Keen', 'Ankylosaurus', 'Exit', '11', 'Creation', 'Museum', 'org']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -2415,7 +2415,7 @@
         "image_id": 268,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'EXIT', '11']",
+        "rec_texts": "['The', 'Keen', 'Ankylosaurus', 'Exit', '11', 'Creation', 'Museum']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2424,7 +2424,7 @@
         "image_id": 269,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'EXIT', '11']",
+        "rec_texts": "['BETWEEN', 'ANGLOSAURUS', 'EXIT']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2433,7 +2433,7 @@
         "image_id": 270,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['THE', 'KEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'EXIT', '11']",
+        "rec_texts": "['PHYSICS', '2000']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2442,7 +2442,7 @@
         "image_id": 271,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ANKYLOSAURUS', 'OWEN', 'OUT']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -2451,7 +2451,7 @@
         "image_id": 272,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LIDDELLS', 'lactose', 'free', 'SPREADABLE', 'CREAM', 'CHEESE', '250g']",
+        "rec_texts": "['Liddells', 'lactose', 'free', 'Spreadable', 'Cream', 'Cheese', '250', 'g']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2460,7 +2460,7 @@
         "image_id": 273,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LIDDELLS', 'lactose', 'free', 'SPREADABLE', 'CREAM', 'CHEESE']",
+        "rec_texts": "['Liddells', 'lactose', 'free', 'Spreadable', 'Cream', 'Cheese']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -2469,7 +2469,7 @@
         "image_id": 274,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LIDDELLS', 'lactose', 'free', 'SPREADABLE', 'CREAM', 'CHEESE', '200g']",
+        "rec_texts": "['Liddells', 'lactose', 'free', 'cream', 'cheese']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -2478,7 +2478,7 @@
         "image_id": 275,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LIDDELLS', 'lactose', 'free', '', 'CREAM', 'CHEESE']",
+        "rec_texts": "['Lidells', 'Lactose', 'Free', 'Cream', 'Cheese']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2487,7 +2487,7 @@
         "image_id": 276,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LIDDELLS', 'LACTOSE', 'FREE', 'CHEESE']",
+        "rec_texts": "['Chunky']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2496,7 +2496,7 @@
         "image_id": 277,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['The', 'Laughing', 'Cow']",
+        "rec_texts": "I apologize, but the image appears to be blurry and out of focus, making it difficult to clearly read any words Without a clearer image, I cannot confidently list the words present If you could provide a sharper version of the image, I would be happy to help you identify the words",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2505,7 +2505,7 @@
         "image_id": 278,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LIDDELLS', 'lactose', 'free', 'SPREADABLE', 'CREAM', 'CHEESE']",
+        "rec_texts": "['Liddells', 'lactose', 'free', 'Spreadable', 'Cream', 'Cheese', '220', 'g']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2514,7 +2514,7 @@
         "image_id": 279,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LIDDELLS', 'lactose', 'free', 'SPREADABLE', 'CREAM', 'CHEESE']",
+        "rec_texts": "['Liddells', 'lactose', 'free', 'spreadable', 'cream', 'cheese']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2523,7 +2523,7 @@
         "image_id": 280,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LIDDELLS', 'lactose', 'free', 'SPREADABLE', 'CREAM', 'CHEESE']",
+        "rec_texts": "['Liddells', 'lactose', 'free', 'cream', 'cheese']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2532,7 +2532,7 @@
         "image_id": 281,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "I'm sorry, but I can't read the text in the image",
+        "rec_texts": "['Lipella', 'Lactose', 'Free', 'Cream', 'Cheese']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -2541,7 +2541,7 @@
         "image_id": 282,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "I'm unable to recognize any words in the image",
+        "rec_texts": "['', '', '', '', '']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -2550,7 +2550,7 @@
         "image_id": 283,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LIDDELLS', 'lactose', 'free', 'SPREADABLE', 'CREAM', 'CHEESE', '250g']",
+        "rec_texts": "['Liddells', 'lactose', 'free', 'Spreadable', 'Cream', 'Cheese', '250', 'g']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -2559,7 +2559,7 @@
         "image_id": 284,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LIDDELLS', 'lactose', 'free', 'SPREADABLE', 'CREAM', 'CHEESE']",
+        "rec_texts": "['Liddells', 'lactose', 'free', 'spreadable', 'cream', 'cheese']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2568,7 +2568,7 @@
         "image_id": 285,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LIDDELLS', 'lactose', 'free', 'SPREADABLE', 'CREAM', 'CHEESE']",
+        "rec_texts": "['Liddells', 'Lactose', 'Free', 'Cream', 'Cheese']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2577,7 +2577,7 @@
         "image_id": 286,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LIDDELLS', 'lactose', 'free', 'CREAM', 'CHEESE']",
+        "rec_texts": "['Limbels']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2586,7 +2586,7 @@
         "image_id": 287,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['LIDDELLS', 'CHEESE']",
+        "rec_texts": "['']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
@@ -2595,7 +2595,7 @@
         "image_id": 288,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ORIGINAL', 'Rice', 'Crackers', 'tenten']",
+        "rec_texts": "['Biskut', 'Beras', 'Original', 'Rice', 'Crackers', 'tenten']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2604,7 +2604,7 @@
         "image_id": 289,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ORIGINAL', 'Rice', 'Crackers']",
+        "rec_texts": "['Biskut', 'Beras', 'Original', 'Rice', 'Crackers', 'tente']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -2613,7 +2613,7 @@
         "image_id": 290,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ORIGINAL', 'Rice', 'Crackers']",
+        "rec_texts": "['Biskut', 'Beras', 'Original', 'Rice', 'Crackers']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -2622,7 +2622,7 @@
         "image_id": 291,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ORIGINAL', 'Rice', 'Crackers']",
+        "rec_texts": "['Original', 'Rice', 'Crackers']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2631,7 +2631,7 @@
         "image_id": 292,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ORIGINAL', 'Rice', 'Crackers']",
+        "rec_texts": "I apologize, but the image is quite blurry and out of focus, making it difficult to clearly read all the words From what I can partially make out, I see:\n\n['ORIGINAL', '', '']\n\nHowever, I cannot confidently identify the other words with certainty due to the image's low resolution and blur",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2640,7 +2640,7 @@
         "image_id": 293,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ORIGINAL', 'Rice', 'Crackers']",
+        "rec_texts": "I apologize, but the image appears to be blurry and out of focus, making it difficult to clearly read any words Without being able to confidently discern the text, I cannot provide a list of words as you requested",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2649,7 +2649,7 @@
         "image_id": 294,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ORIGINAL', 'Rice', 'Crackers']",
+        "rec_texts": "['Biskut', 'Beras', 'Original', 'Rice', 'Crackers', 'tente']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2658,7 +2658,7 @@
         "image_id": 295,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ORIGINAL', 'Rice', 'Crackers']",
+        "rec_texts": "['Biskut', 'Beras', 'Original', 'Rice', 'Crackers', 'tente']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2667,7 +2667,7 @@
         "image_id": 296,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ORIGINAL', 'Rice', 'Crackers']",
+        "rec_texts": "['Biskut', 'Beras', 'Original', 'Rice', 'Crackers']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2676,7 +2676,7 @@
         "image_id": 297,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ORIGINAL', 'Rice', 'Crackers']",
+        "rec_texts": "['Original', 'Rico', 'Crackers']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -2685,7 +2685,7 @@
         "image_id": 298,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['BEST', 'BEFORE', 'ORIGINAL', 'rice', 'Crackers', 'AMERICA']",
+        "rec_texts": "['ORIGINAL', 'WHO', 'CHEERS']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -2694,7 +2694,7 @@
         "image_id": 299,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['BISKUT', 'BERAS', 'ORIGINAL', 'Rice', 'Crackers']",
+        "rec_texts": "['Biskut', 'Beras', 'Original', 'Rice', 'Crackers', 'tenta']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -2703,7 +2703,7 @@
         "image_id": 300,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ORIGINAL', 'Rice', 'Crackers']",
+        "rec_texts": "['Biskut', 'Beras', 'Original', 'Rice', 'Crackers', 'Tanta']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2712,7 +2712,7 @@
         "image_id": 301,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ORIGINAL', 'Rice', 'Crackers']",
+        "rec_texts": "['Biskut', 'Beras', 'Original', 'Rice', 'Crackers']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2721,7 +2721,7 @@
         "image_id": 302,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ORIGINAL', 'Rice', 'Crackers']",
+        "rec_texts": "['ORIGINAL', 'DIGITAL', 'ARCHIVES']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2739,7 +2739,7 @@
         "image_id": 304,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['STMARTIN', 'BBK', '1999', 'TATTOO', 'KHAOSAN', 'STUDIO', 'THAILAND']",
+        "rec_texts": "['St', 'Martin', 'BBR', 'Tattoo', 'Khao', 'San', 'Studio', 'Thailand', '1999']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 16
@@ -2748,7 +2748,7 @@
         "image_id": 305,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['STMARTIN', 'BKK', '1999', 'TATTOO', 'KHAOSAN', 'STUDIO', 'THAILAND']",
+        "rec_texts": "['ST', 'MARTIN', 'BBB', '1999', 'TATTOO', 'KHAOSAN', 'STUDIO', 'THAILAND']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 10
@@ -2757,7 +2757,7 @@
         "image_id": 306,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ST', 'MARTIN', 'BKK', 'TATTOO', 'STUDIO', 'KHAOSAN', 'THAILAND']",
+        "rec_texts": "['ST', 'MARTIN', 'BEER', '1900', 'TATTOO', 'KHAOSAN', 'STUDIO', 'THAILAND']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 8
@@ -2766,7 +2766,7 @@
         "image_id": 307,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['STMARTIN', 'TATTOO', 'KHAOSAN', 'STUDIO', 'THAILAND']",
+        "rec_texts": "['ST', 'MARTIN', 'LETTERS', 'TOURISM', 'TRAVEL']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 6
@@ -2775,7 +2775,7 @@
         "image_id": 308,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ST', 'MARTIN', 'THAI', 'EVEREST', 'EVEREST', 'THAILAND']",
+        "rec_texts": "['HYPERION']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 4
@@ -2784,7 +2784,7 @@
         "image_id": 309,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['DRAYTON', 'WOOD', 'CRICKET', 'CLUB']",
+        "rec_texts": "['BELIEVE']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 2
@@ -2793,7 +2793,7 @@
         "image_id": 310,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ST', 'MARTIN', 'BBK', '1999', 'TATTOO', 'STUDIO', 'KHAOSAN', 'THAILAND']",
+        "rec_texts": "['St', 'Martin', 'BBB', 'Tattoo', 'Khao', 'San', 'Studio', 'Thailand', '1999']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 9
@@ -2802,7 +2802,7 @@
         "image_id": 311,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['STMARTIN', 'BBK', '1999', 'TATTOO', 'KHAOSAN', 'STUDIO', 'THAILAND']",
+        "rec_texts": "['St', 'Martin', 'BBB', '1900', 'Tattoo', 'Khaosan', 'Studio', 'Thailand']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 7
@@ -2811,7 +2811,7 @@
         "image_id": 312,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['STMARTIN', 'B B B', 'TATTOO', 'STUDIO', 'KHAOSAN', 'THAILAND']",
+        "rec_texts": "['ST', 'MARTIN', 'TATTOO', 'STUDIO', 'KHAOSAN', 'THAILAND']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 5
@@ -2820,7 +2820,7 @@
         "image_id": 313,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ST', 'MARTIN', 'LE', 'GEN', '-', 'TATTOO', 'PHUKET', '-', 'STUDIO', 'THAILAND']",
+        "rec_texts": "['STRAW', 'TON', 'BREWING', 'COMPANY', 'CRAFTED', 'TAILORED']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 3
@@ -2829,7 +2829,7 @@
         "image_id": 314,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['', 'ST', 'MMARTIN', '06', 'COURAGE', 'FEARLESS']",
+        "rec_texts": "['SUMMIT']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 1
@@ -2838,7 +2838,7 @@
         "image_id": 315,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ST', 'MARTIN', 'BKK', '1999', 'TATTOO', 'STUDIO', 'KHAOSAN', 'THAILAND']",
+        "rec_texts": "['St', 'Martin', 'BBR', '1999', 'Tattoo', 'Khao', 'San', 'Studio', 'Thailand']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 15
@@ -2847,7 +2847,7 @@
         "image_id": 316,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['ST', 'MARTIN', 'BKK', 'TATTOO', 'KHAOSAN', 'STUDIO', 'THAILAND']",
+        "rec_texts": "['ST', 'MARTIN', 'BBE', '1900', 'TATTOO', 'KHAOSAN', 'STUDIO', 'THAILAND']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 14
@@ -2856,7 +2856,7 @@
         "image_id": 317,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['STMARTIN', 'BKK', '1999', 'TATTOO', 'STUDIO', 'KHAOSAN', 'THAILAND']",
+        "rec_texts": "['STEAM', 'STUDIO', 'TATTOO', 'PIERCING']",
         "rec_score": 0,
         "det_score": 0,
         "filter": 13
@@ -2865,7 +2865,7 @@
         "image_id": 318,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['STMARTIN\u2019S', 'BKK', '1999', 'KHAOSAN', 'TATTOO', 'STUDIO', 'THAILAND']",
+        "rec_texts": "I apologize, but I cannot clearly read any complete English words in this image The image appears to be very faint or low contrast, with some barely visible text or watermark, but no distinct, legible words can be confidently identified If you have a clearer version of this image, I would be happy to help you read the text",
         "rec_score": 0,
         "det_score": 0,
         "filter": 12
@@ -2874,7 +2874,7 @@
         "image_id": 319,
         "category_id": 1,
         "polys": [],
-        "rec_texts": "['STMARTIN', 'TATTOO', 'STUDIO', 'THAILAND']",
+        "rec_texts": "I apologize, but I cannot see any words in this image The image appears to be a plain light gray or white background with no visible text or words If you intended to upload an image with text, you may want to check the upload and try again",
         "rec_score": 0,
         "det_score": 0,
         "filter": 11
