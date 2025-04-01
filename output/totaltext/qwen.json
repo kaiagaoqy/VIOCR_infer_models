@@ -1,0 +1,2882 @@
+[
+    {
+        "image_id": 0,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "gembira loka",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 1,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "embira loka",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 3,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 4,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 5,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "house, fence, grass, sky",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 6,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "gembira loka",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 7,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "embira loka",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 8,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "jimbaran bira loka",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 9,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 10,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 11,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "embira loka",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 12,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "mbira loka",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 13,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "bira loka",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 14,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "bradley",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 15,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 16,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cannery row directory",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 17,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cannery row directory",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "lighthouse road",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 19,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 20,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 21,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 22,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cannery row directory",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 23,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cannery row directory",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "lanscaper room directory",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 25,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 26,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 27,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cannery row directory",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 28,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cannery row",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 29,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "canderwood",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 30,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 31,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 32,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tous authentic bakery since 1997",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 33,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "thomas canteen",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 34,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 35,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 36,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 37,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 38,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "TLJ Domestic Bakery since 1992. TOUS.",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 39,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "TLJ, The Little Jewish Kitchen, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous, Tous",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 40,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 41,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tc",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 42,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tcr store",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 43,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "Tous, boutique, since, 1992, authentic, jewelry",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 44,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "TJJ, Trust, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry, Jewelry,",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 45,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "TLC logo",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 46,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 47,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "brown",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 48,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "monterey fire",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 49,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "monterey fire",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 50,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "monterey fire",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 51,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 52,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "fire truck",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 53,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 54,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "monterey fire",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 55,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "monterey fire",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 56,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "monterey fire",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 57,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "monterey fire",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 58,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "fire department 1948",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 59,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "monterey fire",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 60,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 62,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 63,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 64,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica yacht harbor sport fishing boating cafes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 65,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica yacht harbor sport fishing boating cafes restaurants",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 66,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica yacht harbor sport fishing boating cafes boating",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 67,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica pier sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 68,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 69,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 70,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica yacht harbor sport fishing boating cafes restaurants",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 71,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica yacht harbor sport fishing boating cafes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 72,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica yacht harbor sport fishing boating cafes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 73,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica yacht harbor sport fishing cafe boating",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 74,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica pier sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 75,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica yacht harbor sport fishing boating cafes boating",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 76,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "santa monica yacht harbor sport fishing boating cafes boating",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 77,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "foggy santa monica pier sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 78,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 79,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['word1', 'word2', 'word3', ...]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 80,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul kebab burger house",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 81,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul kebab burger house",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 82,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul house bangers burgers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 83,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul restaurant delivery",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 84,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul restaurant sushi",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 85,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 86,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul kebab burger house",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 87,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul kebab burger house",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 88,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul kebab burger house",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 89,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul restaurant chinese",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 90,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "yotam ottolenghi uk restaurants islington restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north london restaurant north",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 91,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul, kebab, burger, house",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 92,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "istanbul, pizza, house, restaurant",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 93,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 94,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "purple",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 96,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 97,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 98,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood country club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 100,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 101,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 102,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 103,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 104,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 105,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 106,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 107,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 108,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "dalewood townhomes",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 109,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 110,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 111,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 112,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "khatuslistwa cafe open 24 hours",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 113,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "khatuslistwa cafe open 24 hours",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "khatuslistwa cafe open 24 hours",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 115,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "khatulistiwa cafe open 24 hours",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 116,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 118,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "khatuslistwa cafe open 24 hours",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 119,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "khatuslistwa cafe open 24 hours",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 120,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "khatuslistiwa cafe open 24 hours",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 121,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "whatalistin cafe open 24 hours",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 122,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 123,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "khatuslistwa cafe open 24 hours",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 124,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "khatushwi cafe open 24 hours",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 125,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cafe open 24 hours",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 126,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 127,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 128,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club org 1889",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 129,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club org 1889",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 130,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club org 1889",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 131,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 132,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "ann man harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 133,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 134,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club org 1889",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 135,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club org 1889",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 136,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club org 1889",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 137,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 138,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "anman harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 139,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club org 1889",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 140,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 141,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "indian harbor yacht club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 142,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 143,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 144,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 145,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 147,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 148,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh bakery",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 149,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 150,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 151,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 152,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 153,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 154,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 155,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 156,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 157,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "sun fresh market",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 158,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 159,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 160,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome bienvenue parliament hill",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 161,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome Bienvenue Parliament Hill",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 162,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome bienvenue parliament hill",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 163,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome parliament bienvenue",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 164,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 165,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome Bienvenue Parliament sign",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 167,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome Bienvenue Parliament Hill",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 168,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome Bienvenue Parliament Hill",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 169,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome parliament Bienvenue Parliament",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 170,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "parliament hill",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 171,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome Bienvenue Parliament Hill",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 172,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome Bienvenue Parliament",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 173,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "welcome bienvenue parliament",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 174,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 175,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 176,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle est 1838",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 177,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle est 1838",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 178,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle est 1838",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 179,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 180,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 182,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle est 1838",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 183,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle est 1838",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle est 1898",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 185,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 186,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "age of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 187,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle est 1898",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 188,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 189,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "port of newcastle est. 1839",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 190,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 191,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['word1', 'word2', 'word3', ...]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 192,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 193,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 194,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 195,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 196,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 197,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 198,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 199,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 200,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 201,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy cantina london",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 202,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 203,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 204,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "texas embassy london cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 206,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 207,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "beige",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 208,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the washington glass school",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 209,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the washington glass school",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the washington glass center",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 211,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "glass",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 212,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 213,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 214,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the washington glass school",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 215,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the washington glass school",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 216,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "washington glass school",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 217,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "glass",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 218,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "glaze",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 219,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the washington glass school",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 220,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the glass what color",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 221,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "glow",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 222,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "purple",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 223,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 224,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "capitano memberships unlimited admission discounts discounts 365 days discounts discounts 365 days free admission capitano memberships unlimited admission discounts discounts 365 days free admission",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 225,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "capitano memberships unlimited admission discounts discounts free admission",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 226,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unlimited access pass",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 227,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "tangled ride",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 228,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 229,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 230,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "capitano memberships unlimited admission discounts free audits",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 231,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "capitano memberships unlimited admission discounts 365 days free parking",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 232,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unfiltered experiences, discovery, inspired, memories, unplugged, and, inspire, moments, memories, experiences, discovery, inspired, and, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired, inspired,",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 233,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 234,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 235,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "capitano memberships unlimited admission discounts<ref> free admission</ref><box>(283,248),(642,731)</box>",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 236,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "capitano memberships unlimited admission discounts discounts 365 days bus",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 237,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "capitano, memberships, unlimited, since, 1862",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 238,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 239,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 240,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 241,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 242,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 243,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 244,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 246,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 247,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 248,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 249,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 250,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 251,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 252,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 253,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "antique hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 254,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 255,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 256,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the keen ankylosaurus exit 11 creation museum org",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 257,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the keen ankylosaurus creation museum exit 11",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 258,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the keen ankylosaurus creation museum exit 11",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 259,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "we new ankylosaurus exit 9",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 260,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "hamburger buffet orange salad",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 261,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "blurry, image, fruit, bowl, with,",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 262,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the keen ankylosaurus exit 11",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 263,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the keen ankylosaurus creation museum exit 11",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the keen ankylosaurus exit 11 creation museum",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 265,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the ankylosaurus group of",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 266,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "a & t's chicken",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 267,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the keen ankylosaurus exit 11 creation museum",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the keen and awk t losaurus creation museum exit 11",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 269,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "the keen museum of creation dinosaur exit 11",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 270,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "kingston",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 271,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 272,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddells lactose free spreadable cream cheese",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 273,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddells lactose free spreadable cream cheese",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 274,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddells lactose free cream cheese",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 275,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddells cottage cheese",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 278,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddells lactose free spreadable cream cheese",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 279,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddells lactose free spreadable cream cheese",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 280,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddells lactose free cream cheese",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 281,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "lidells light cream cheese",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 282,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 283,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddells lactose free spreadable cream cheese",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 284,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddells lactose free cream cheese",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 285,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "liddells cream cheese",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 286,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 287,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 288,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 289,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 290,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 291,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 292,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original breakfast cereals",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 293,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 294,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 295,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 296,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 297,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 298,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 300,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 301,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "iskut beras original rice crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 302,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 303,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 304,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin beer tattoo khaosan studio thailand",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 305,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin bbr tattoo khaosan studio thailand",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 306,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin 1999 tattoo studio bhaosan thailand",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 307,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin tattoo studio thailand",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 308,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 309,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 310,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin bkk tattoo khaosan studio thailand",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 311,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin bbb tattoo studio khaosan thailand",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 312,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martins tattoo studio thailand bhaosan",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 313,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st marian's school",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 314,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "stratton school",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 315,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin bier tattoo khaosan studio thailand",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 316,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin tattoo studio khao san road thailand 1999 prayer hands logo",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 317,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st martin tattoo studio thailand 1999 khao san",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 318,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "st mark's mens 2009",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 319,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "unanswerable",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    }
+]

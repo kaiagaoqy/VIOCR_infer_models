@@ -1,0 +1,2882 @@
+[
+    {
+        "image_id": 0,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The visible English words in the image are 'Loka', 'Bira', and 'Gembira'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 1,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: LOKA, BIRA, GEM, and EMBIRA",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 2,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: LOKA, BIRA, LUMBRA, LOKA",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 3,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: LIBRA, LOFA",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 4,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 5,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image does not contain any English words that can be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 6,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The visible English words in the image are 'Gembira Loka'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 7,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The visible English words in the image are 'Loka', 'Bira', and 'Gembira'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 8,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The visible English words in the image are 'Loka', 'Bira', and 'Gembira'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 9,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA, LOTA",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 10,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image does not contain any English words that can be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 11,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The visible English words in the image are 'Loka', 'Bira', and 'Gembira'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 12,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: LOKA, BIRA, and EMBIRA",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 13,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: LOKA, BIRA, and LUMBRA",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 14,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: BIRA LOKA",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 15,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image does not contain any English words that can be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 16,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are: LANNERY ROW, DIRECTORY, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNERY ROW, CANNER",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 17,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: CARNERY ROW, DIRECTORY, and TRASH",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 18,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: CARNERV ROAD, HISTORY, and TRASH",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 19,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: CURRY ROAD, CURRY, ROAD",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 20,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are as follows:\n- sign\n- way\n- map\n- street\n- direction\n- arrow\n- pointing\n- right",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 21,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 22,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: CANNERY ROW, DIRECTORY, and TRASH CAN",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 23,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: LANNERV ROW, DIRECTORY, and CANNERV ROW",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 24,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: LARNERY, ROUT, MERCURY, and CAN",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 25,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are as follows: CANNERY WARE, CANNERY, WAREHOUSE, CANNERY WAREHOUSE, CANNERY WAREHOUSE",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 26,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are as follows:\n- sign\n- street\n- map\n- bus\n- stop\n- direction\n- arrow\n- red\n- white\n- blue\n- black\n- trash\n- can\n- waste\n- disposal\n- recycling\n- bin\n- container\n- garbage\n- rubbish\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- discard\n- junk\n- trash\n- waste\n- litter\n- debris\n- trash\n- waste\n- refuse\n- disc",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 27,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: LANNERV ROW, DIRECTORY, CANNERV ROW, and CANNERV ROW",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 28,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Cannery Row', 'map', 'trashcan', 'garbage', 'bottle', 'can', 'water', 'fence', 'gate', 'path', 'street', 'alley', 'building', 'house', 'sky', 'cloud', 'arrow', 'direction', 'point', 'east', 'west', 'north', 'south', 'up', 'down', 'left', 'right', 'center', 'bridge', 'tunnel', 'cross', 'streetlight', 'light', 'pole', 'fence', 'gate', 'open', 'closed', 'opening', 'closing', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', 'closed', 'open', '",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 29,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: corner, road, and trash",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 30,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'CAMERON', 'H', 'STREET', 'MAP', 'DIRECTION', 'SIGN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN', 'RECYCLE', 'BIN', 'TRASH', 'CAN',",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 31,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'Honda', 'Civic', 'CR-V', 'Accord', 'Pilot', 'Odyssey', 'Acura', 'Integra', 'CL', 'CLS', 'EL', 'ES', 'GX', 'G350', 'G370', 'G450', 'G550', 'G600', 'G700', 'G800', 'G900', 'G1000', 'G1100', 'G1200', 'G1300', 'G1400', 'G1500', 'G1600', 'G1700', 'G1800', 'G1900', 'G2000', 'G2100', 'G2200', 'G2300', 'G2400', 'G2500', 'G2600', 'G2700', 'G2800', 'G2900', 'G3000', 'G3100', 'G3200', 'G3300', 'G3400', 'G3500', 'G3600', 'G3700', 'G3800', 'G3900', 'G4000', 'G4100', 'G4200', 'G4300', 'G4400', 'G4500', 'G4600', 'G4700', 'G4800', 'G4900', 'G5000', 'G5100', 'G5200', 'G5300', 'G5400', 'G5500', 'G5600', 'G5700', 'G5800', 'G5900', 'G6000', 'G6100', 'G6200', 'G6300', 'G6400', 'G6500', 'G6600', 'G6700', 'G6800', 'G6900', 'G7000', 'G7100', 'G7200', 'G7300', 'G7400', 'G7500', 'G7600', 'G7700', 'G7800', 'G7900', 'G8000', 'G8100', 'G8200', 'G8300', 'G8400', 'G8500', 'G8600', 'G8700', 'G8800', 'G8900', 'G9000', 'G9100', 'G9200', 'G9300', 'G9400', 'G9500', 'G9600', 'G9700', 'G9800', 'G9900', 'G10000', 'G10100', 'G10200', 'G10300', 'G10400', 'G10500', 'G10600', 'G10700', 'G10800', 'G10900', 'G11000', 'G11100', 'G11200', 'G11300', 'G11400', 'G11500', 'G11600', 'G11700', 'G11800', 'G11900', 'G12000', 'G12100', 'G12200', 'G12300', 'G12400', 'G12500', 'G12600', 'G12700', 'G12800', 'G12900', 'G13000', 'G13100', 'G13200', 'G13300', 'G13400', 'G13500', 'G13600', 'G13700', 'G13800', 'G13900', 'G14000', 'G14100', 'G14200', 'G14300', 'G14400', 'G14500', 'G14600', 'G14700', 'G14800', 'G14900', 'G15000', 'G15100', 'G15200', 'G15300', 'G15400', 'G15500', 'G15600', 'G15700', 'G15800', 'G15900', 'G16000', 'G16100', 'G16200', 'G16300', 'G16400', 'G16500', 'G16600', 'G16700', 'G16800', 'G16900', 'G17000', 'G17100', 'G17200', 'G17300', 'G17400', 'G17500', 'G17600', 'G17700', 'G17800', 'G17900', 'G18000', 'G18100', 'G18200', 'G18300', 'G18400', 'G18500', 'G18600', 'G18700', 'G18800', 'G18900', 'G19000', 'G19100', 'G19200', 'G19300', 'G19400', 'G19500', 'G19600', 'G19700', 'G19800', 'G19900', 'G20000', 'G20100', 'G20200', 'G20300', 'G20400', 'G20500', 'G20600', 'G20700', 'G20800', 'G20900', 'G21000', 'G21100', 'G21200', 'G21300', 'G21400', 'G21500', 'G21600', 'G21700', 'G21800', 'G",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 32,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "[TOUS, TLJ, SINCE 1957, APM, TOUS]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 33,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['TOUS', 'TJ', 'TO', 'TU', 'T', 'TOUS']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 34,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: TOUS, TC, TOUS, TOUS",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 35,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: TC, TOY, and TAO",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 36,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 37,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 38,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "[TOUS, TJ, SINCE 1992, TOUS]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 39,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['TOUS', 'TU', 'TO', 'T', 'CAFE', 'TU', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', 'T', '",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 40,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: TC, TOUS, and TOUS",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 41,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: TC, TO, YOU, and ONE",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 42,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: TC, TO, and CAN",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 43,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['TOUS', 'TJ', 'SINCE 1952', 'apm']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 44,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['TOUS', 'TJ', 'TO', 'TJ', 'TOUS']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 45,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: TU, TOYS, and TRAIN",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 46,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image does not contain any English words that can be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 47,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'E-TOY', 'TOY', 'TOYS', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY SHOP', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE', 'TOY STORE",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 48,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Monterey', 'Fire', '21', 'Established', '1850']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 49,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Monterey', 'Fire', '22th', 'Rescue', 'Engine']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 50,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "FIRE",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 51,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: FIRE, MONTEREY, and COUNTY",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 52,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: fire, department, and rescue",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 53,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image does not contain any English words that can be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 54,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Monterey', 'Fire', '21', 'FIRE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 55,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Monterey', 'Fire', '21st', 'Way', 'Street', 'Engine', 'Truck', 'California', 'United', 'States', 'America']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 56,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['MONTEREY', 'FIRE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 57,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: FIRE, MONTEREY, and ON",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 58,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: fire, department, and city",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 59,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Monterey', 'Fire', '22nd', 'Rescue', 'California']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 60,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is red, with the words 'MONTGOM' and 'FIRE' on it The rest of the words are obscured and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 61,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is red, with the word 'FIRE' written on it",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 62,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is red, with no discernible text or words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 63,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'fire', 'department', 'rescue', 'team', 'emergency', 'services', 'dispatch', 'communication', 'command', 'operations', 'response', 'safety', 'training', 'equipment', 'vehicle', 'personnel', 'station', 'dispatcher', 'dispatching', 'dispatched', 'responded', 'assisted', 'evacuated', 'searched', 'rescued', 'transported', 'treated', 'evaluated', 'debriefed', 'documented', 'recorded', 'released', 'returned', 'followed', 'informed', 'notified', 'advised', 'coordinated', 'scheduled', 'planned', 'executed', 'evaluated', 'reviewed', 'improved', 'recommended', 'evaluated', 'implemented', 'monitored', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated', 'evaluated",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 64,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Santa Monica', 'Yacht Harbor', 'Sport Fishing', 'Boating', 'Cafes']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 65,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Santa Monica', 'Yacht Harbor', 'Sport Fishing', 'Boating', 'Cafes']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 66,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Santa Monica', 'Yacht Harbor', 'Sport Fishing', 'Boating', 'Cafes']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 67,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Santa Monica, Yacht Harbor, Sport Fishing, Boating, Cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 68,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: sport, fishing, pier, and beach",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 69,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 70,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Santa Monica', 'Yacht Harbor', 'Sport Fishing', 'Boating', 'Cafes']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 71,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Santa Monica', 'Yacht Harbor', 'Sport Fishing', 'Boating', 'Cafes']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 72,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Santa Monica', 'Yacht Harbor', 'Sport Fishing', 'Boating', 'Cafes']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 73,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "[santa monica, yacht, harbor, sport, fishing, boating, cafe]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 74,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Santa Monica, Airport, Boulevard, Main, Street, Pacific, Park, Ocean, Walk, Pier, Beach, People, Streetlight, Palm, Trees, Sky, Clear",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 75,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Santa Monica', 'Yacht Harbor', 'Sport Fishing', 'Boating', 'Cafes']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 76,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Santa Monica, Yacht Harbor, Sport Fishing, Boating, Cafe",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 77,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "[Santa Monica, Yacht Harbor, Sport Fishing, Boating, Cafe]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 78,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The English words in the image are: 'SPORT', 'FISHING', 'RECREATION', 'CENTER', 'BEACH', 'VENICE', 'MARINA', 'PALMS', 'PALM', 'TREES', 'CITY', 'CANOE', 'KAYAK', 'RENTAL', 'RENT', 'BOAT', 'RENTALS', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL', 'RENTAL',",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 79,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'Beverly', 'Hills', 'California'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 80,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ISTANBUL', 'HOUSE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 81,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'istanbul', 'kebab', 'burger', 'house'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 82,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['istanbul', 'kebab', 'restaurant', 'house']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 83,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: ISTANBUL, KEBAB, and DONER",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 84,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: ISTANBUL",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 85,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image does not contain any English words that can be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 86,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ISTANBUL', 'HOUSE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 87,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Istanbul', 'Kebab', 'House']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 88,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['istanbul', 'kebab', 'shops', 'house']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 89,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: ISTANBUL, BURGER, and CHICKEN",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 90,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: ISTANBUL",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 91,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ISTANBUL', 'KEBAB', 'BURGER', 'HOUSE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 92,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: ISTANBUL, WALNUT, BURGER, HOME",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 93,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: ISTANBUL",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 94,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: ISTANBUL",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 95,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'HELLO WORLD'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 96,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 97,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 98,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 99,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 100,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry, so I cannot recognize the words clearly",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 101,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 102,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 103,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 104,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 105,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 106,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Dalewood, Dalewood, Dalewood",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 107,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 108,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['DALEWOOD', 'TOWNHOMES']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 109,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 110,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 111,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Dalewood",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 112,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: KHATULSISTIVA, CAFE, OPEN, 24-HOURS",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 113,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: KHATULSISTIVA, CAFE, OPEN, 24-HOURS",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 114,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['KHATULIS', 'ISTIWA', 'CAFE', 'OPEN 24-HOURS']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 115,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['KhaTulistiwa', 'Cafe', 'Open', '24-hours']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 116,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry, so I cannot recognize the words clearly Therefore, I cannot provide a specific answer",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 117,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 118,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: KHATULSISTWA, CAFE, OPEN, 24-HOURS",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 119,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: KHATULSISTIVA, CAFE, OPEN, 24-HOURS",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 120,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: KHATULSISTIWA, CAFE, OPEN, 24-HOURS",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 121,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Khaulistina', 'Cafe', 'Open', '24', 'Hours']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 122,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: 'Kaulustion', 'Cafe', 'OPEN 24 HOURS'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 123,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: KHATULSISTWA, CAFE, OPEN, 24-HOURS",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 124,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: KHATULIS, CAFE, OPEN, 24-HOURS",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 125,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'KHATULIS', 'CAFE', 'OPEN 24-HOURS'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 126,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is too blurry to recognize the English words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 127,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is too blurry to recognize the English words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 128,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Indian Harbor, Yacht Club, org, 1889",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 129,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Indian Harbor', 'Yacht Club', 'org', '1889']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 130,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Indian Harbor, Yacht Club, org, 1889",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 131,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Indian Harbor, Yacht Club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 132,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Indian Harbor, Yacht Club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 133,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Indian Harbor, Yacht Club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 134,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Indian Harbor, Yacht Club, org, 1889",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 135,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Indian Harbor, Yacht Club, org, 1889",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 136,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Indian Harbor, Yacht Club, org, 1889",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 137,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Indian Harbor, Yacht Club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 138,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Indian Harbor, Yacht Club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 139,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Indian Harbor, org, Yacht Club, 1889",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 140,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Indian Harbor, Yacht Club, org, 1889",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 141,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Indian Harbor, Yacht Club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 142,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Indian Harbor, Yacht Club",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 143,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'MIDLAND', 'YACHT', 'CLUB'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 144,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'market']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 145,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'market']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 146,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'market']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 147,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'market']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 148,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry, so I cannot recognize the English words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 149,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 150,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'market']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 151,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'market']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 152,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'market']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 153,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'market']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 154,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'market']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 155,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['sun', 'fresh', 'market']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 156,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: fresh, market, sun",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 157,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: fresh, market, sun",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 158,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'sun', 'fresh', 'market'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 159,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'sun', 'fresh', 'market'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 160,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament', '+']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 161,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 162,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 163,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 164,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Parliament",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 165,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 166,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 167,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 168,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 169,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 170,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "[parliament, welcome, government]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 171,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament', '+']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 172,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 173,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Welcome', 'Bienvenue', 'Parliament']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 174,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Parliament",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 175,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'Parliament', 'Canada', 'House', 'of', 'Commons', 'Ottawa'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 176,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Port', 'of', 'Newcastle', 'Est', '1838']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 177,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Port', 'of', 'Newcastle', 'Est', '1838']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 178,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'PORT', 'OF', 'NEWCASTLE', 'EST', '1898'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 179,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: PORT, OF, NEWCASTLE",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 180,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: PORT, OF, NEWCASTLE",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 181,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry, so I cannot recognize the English words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 182,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Port', 'of', 'Newcastle', 'Est', '1838']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 183,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Port', 'of', 'Newcastle', 'Est', '1838']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 184,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: PORT, OF, NEWCASTLE, EST, 1893",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 185,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: PORT, OF, NEWCASTLE, EST, 2000",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 186,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: 'Port', 'Newcastle', 'of', 'Sailboat', 'Established'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 187,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Port', 'of', 'Newcastle', 'Est', '1838']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 188,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Port', 'of', 'Newcastle', 'Est', '1838']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 189,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: PORT, OF, NEWCASTLE, EST, 1898",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 190,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is too blurry to recognize the words, so I cannot provide a specific answer",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 191,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'PRICE', 'LIST', 'DETAIL', 'SPECIFICATION', 'PURCHASE', 'CONTACT', 'DELIVERY', 'SERVICE', 'QUOTE', 'RESERVE', 'REVIEW', 'RECOMMEND', 'RELIABLE', 'QUALITY', 'SUPPORT', 'SUPPLIER', 'SUPPLIES', 'SUPPLY', 'SUPPLYING', 'SUPPLYINGS', 'SUPPLYING SERVICE', 'SUPPLYING SERVICES', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDERS', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SERVICE PROVIDER', 'SUPPLYING SER",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 192,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Texas Embassy', 'London', 'Cantina']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 193,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Texas Embassy', 'London', 'Cantina']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 194,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['London', 'Cantina', 'Texas Embassy']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 195,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['LONDON', 'CANTINA', 'EMBASSY', 'TEXAS']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 196,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Texas Embassy, London, Cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 197,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: CENTRAL, CONTROL, and CANTON",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 198,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Texas Embassy', 'London', 'Cantina']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 199,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Texas Embassy', 'London', 'Cantina']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 200,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Texas Embassy', 'London', 'Cantina']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 201,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['London', 'Cantina', 'Embassy', 'Texas']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 202,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Texas', 'Embassy', 'London', 'Cantina']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 203,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['London', 'Texas', 'Embassy', 'Cantina']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 204,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['LONDON', 'CANTINA', 'TEXAS EMBASSY']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 205,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['LONDON', 'CANTINA', 'EMBASSY', 'TEXAS']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 206,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: London, Cantina",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 207,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'CANTINA'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 208,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['The', 'Washington', 'Glass', 'School']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 209,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['The', 'Washington', 'Glass', 'SCHOOL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 210,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['The', 'Washington', 'Glass', 'School']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 211,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Glass', 'Workshop', 'Wholesale']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 212,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: 'Glass', 'The', 'Neon', 'Sign', 'Shop', 'Cafe', 'Bar', 'Restaurant', 'Store', 'Grocery', 'Market', 'Supermarket', 'Pharmacy', 'Drugstore', 'Optometrist', 'Dental', 'Veterinary', 'Hair', 'Nail', 'Beauty', 'Salon', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', 'Tattoo', 'Piercing', '",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 213,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 214,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['The', 'Washington', 'Glass', 'School']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 215,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['The', 'Washington', 'Glass', 'School']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 216,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['The', 'Washington', 'Glass', 'School']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 217,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Glass', 'Workshop', 'Wholesale']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 218,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Glass', 'Shop', 'Neon', 'Sign', 'Lights', 'Store', 'Vintage', 'Retro', 'Fashion', 'Clothing', 'Accessories', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'Wholesale', 'W",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 219,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['The', 'Washington', 'Glass', 'SCHOOL']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 220,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: 'The', 'Washington', 'Glass', 'Service'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 221,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 222,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 223,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'Glass', 'Craft', 'Beverage', 'Bar', 'Drink', 'Taste', 'Flavor', 'Wine', 'Beer', 'Cider', 'Soda', 'Juice', 'Sparkling', 'Sweet', 'Sour', 'Tangy', 'Bitter', 'Savory', 'Refreshing', 'Warm', 'Cool', 'Rich', 'Clear', 'Dark', 'Light', 'Frothy', 'Carbonated', 'Non-carbonated', 'Smooth', 'Crunchy', 'Sweet', 'Salty', 'Spicy', 'Herbal', 'Fruity', 'Nutty', 'Creamy', 'Smooth', 'Thick', 'Thin', 'Cloudy', 'Transparent', 'Opaque', 'Shiny', 'Matte', 'Glossy', 'Rough', 'Soft', 'Hard', 'Firm', 'Tender', 'Flexible', 'Sturdy', 'Lightweight', 'Heavy', 'Durable', 'Breathable', 'Non-breathable', 'Fragrant', 'Aromatic', 'Scented', 'Unscented', 'Fresh', 'Stale', 'Sour', 'Sweet', 'Salty', 'Bitter', 'Savory', 'Refreshing', 'Warm', 'Cool', 'Rich', 'Clear', 'Dark', 'Light', 'Frothy', 'Carbonated', 'Non-carbonated', 'Smooth', 'Crunchy', 'Sweet', 'Salty', 'Spicy', 'Herbal', 'Fruity', 'Nutty', 'Creamy', 'Smooth', 'Thick', 'Thin', 'Cloudy', 'Transparent', 'Opaque', 'Shiny', 'Matte', 'Glossy', 'Rough', 'Soft', 'Hard', 'Firm', 'Tender', 'Flexible', 'Sturdy', 'Lightweight', 'Heavy', 'Durable', 'Breathable', 'Non-breathable', 'Fragrant', 'Aromatic', 'Scented', 'Unscented', 'Fresh', 'Stale', 'Sour', 'Sweet', 'Salty', 'Bitter', 'Savory', 'Refreshing', 'Warm', 'Cool', 'Rich', 'Clear', 'Dark', 'Light', 'Frothy', 'Carbonated', 'Non-carbonated', 'Smooth', 'Crunchy', 'Sweet', 'Salty', 'Spicy', 'Herbal', 'Fruity', 'Nutty', 'Creamy', 'Smooth', 'Thick', 'Thin', 'Cloudy', 'Transparent', 'Opaque', 'Shiny', 'Matte', 'Glossy', 'Rough', 'Soft', 'Hard', 'Firm', 'Tender', 'Flexible', 'Sturdy', 'Lightweight', 'Heavy', 'Durable', 'Breathable', 'Non-breathable', 'Fragrant', 'Aromatic', 'Scented', 'Unscented', 'Fresh', 'Stale', 'Sour', 'Sweet', 'Salty', 'Bitter', 'Savory', 'Refreshing', 'Warm', 'Cool', 'Rich', 'Clear', 'Dark', 'Light', 'Frothy', 'Carbonated', 'Non-carbonated', 'Smooth', 'Crunchy', 'Sweet', 'Salty', 'Spicy', 'Herbal', 'Fruity', 'Nutty', 'Creamy', 'Smooth', 'Thick', 'Thin', 'Cloudy', 'Transparent', 'Opaque', 'Shiny', 'Matte', 'Glossy', 'Rough', 'Soft', 'Hard', 'Firm', 'Tender', 'Flexible', 'Sturdy', 'Lightweight', 'Heavy', 'Durable', 'Breathable', 'Non-breathable', 'Fragrant', 'Aromatic', 'Scented', 'Unscented', 'Fresh', 'Stale', 'Sour', 'Sweet', 'Salty', 'Bitter', 'Savory', 'Refreshing', 'Warm', 'Cool', 'Rich', 'Clear', 'Dark', 'Light', 'Frothy', 'Carbonated', 'Non-carbonated', 'Smooth', 'Crunchy', 'Sweet', 'Salty', 'Spicy', 'Herbal', 'Fruity', 'Nutty', 'Creamy', 'Smooth', 'Thick', 'Thin', 'Cloudy', 'Transparent', 'Opaque', 'Shiny', 'Matte', 'Glossy', 'Rough', 'Soft', 'Hard', 'Firm', 'Tender', 'Flexible', 'Sturdy', 'Lightweight', 'Heavy', 'Durable', 'Breathable', 'Non-breathable', 'Fragrant', 'Aromatic', 'Scented', 'Unscented', 'Fresh', 'Stale', 'Sour', 'Sweet', 'Salty', 'Bitter', 'Savory', 'Refreshing', 'Warm', 'Cool', 'Rich', 'Clear', 'Dark', 'Light', 'Frothy', 'Carbonated', 'Non-carbonated', 'Smooth', 'Crunchy', 'Sweet', 'Salty', 'Spicy', 'Herbal', 'Fruity', 'Nutty', 'Creamy', 'Smooth', 'Thick', 'Thin', 'Cloudy', 'Transparent', 'Opaque', 'Shiny', 'Matte', 'Glossy', 'Rough', 'Soft', 'Hard', 'Firm', 'Tender', 'Flexible', 'Sturdy', 'Lightweight', 'Heavy', 'Durable', 'Breathable', 'Non-breathable', 'Fragrant', 'Aromatic', 'Scented', 'Unscented', 'Fresh', 'Stale', 'Sour', 'Sweet', 'Salty', 'Bitter', 'Savory', 'Refreshing', 'Warm', 'Cool', 'Rich', 'Clear', 'Dark', 'Light', 'Frothy', 'Carbonated', 'Non-carbonated', 'Smooth', 'Crunchy', 'Sweet', 'Salty', 'Spicy', 'Herbal', 'Fruity', 'Nutty', 'Creamy', 'Smooth', 'Thick', 'Thin', 'Cloudy', 'Transparent', 'Opaque', 'Shiny', 'Matte', 'Glossy', 'Rough', 'Soft', 'Hard', 'Firm', 'Tender', 'Flexible', 'Sturdy', 'Lightweight', 'Heavy', 'Durable', 'Breathable', 'Non-breathable', 'Fragrant', 'Aromatic', 'Scented', 'Unscented', 'Fresh', 'Stale', 'Sour', 'Sweet', 'Salty', 'Bitter', 'Savory', 'Refreshing', 'Warm', 'Cool', 'Rich', 'Clear', 'D",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 224,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Capilano', 'Membership', 'Unlimited', 'Admission', 'Discounts', 'Well', 'As', 'On', 'Free', 'Admission']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 225,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Capilano', 'Membership', 'Unlimited', 'Admission', 'Discounts', 'Free', 'Admission']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 226,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['CAPLAND MEMBERSHIPS', 'UNLIMITED', 'DISCOUNT', 'FREE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 227,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and it's hard to make out the words clearly Therefore, the words displayed in the image are 'word1', 'word2', and 'word3'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 228,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 229,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 230,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Capilano', 'Membership', 'Unlimited', 'Admission', 'Discounts', 'As well as', 'On', 'Free', 'Admission']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 231,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Capilano', 'Membership', 'Unlimited', 'Admission', 'Discounts', 'Free', 'Aquarium']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 232,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['CAPLAND', 'NETFLIX', 'UNLIMITED', '1905']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 233,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['welcome', 'sign', 'menu', 'drink', 'food', 'order', 'takeout', 'outside', 'seating', 'table', 'chair', 'bar', 'beer', 'wine', 'liquor', 'music', 'dance', 'entertainment', 'game', 'sport', 'theater', 'movie', 'show', 'ticket', 'price', 'coupon', 'discount', 'tax', 'service', 'staff', 'customer', 'ordering', 'pickup', 'delivery', 'dine-in', 'take-out', 'outdoor', 'indoor', 'private', 'public', 'reservation', 'book', 'cancel', 'confirm', 'wait', 'waiting', 'arrive', 'depart', 'arrival', 'departure', 'pickup', 'drop-off', 'pickup-point', 'drop-off-point', 'pickup-time', 'drop-off-time', 'pickup-address', 'drop-off-address', 'pickup-phone', 'drop-off-phone', 'pickup-date', 'drop-off-date', 'pickup-time-start', 'drop-off-time-start', 'pickup-time-end', 'drop-off-time-end', 'pickup-date-start', 'drop-off-date-start', 'pickup-date-end', 'drop-off-date-end', 'pickup-time-start-2', 'drop-off-time-start-2', 'pickup-time-end-2', 'drop-off-time-end-2', 'pickup-date-start-3', 'drop-off-date-start-3', 'pickup-date-end-3', 'drop-off-date-end-3', 'pickup-time-start-4', 'drop-off-time-start-4', 'pickup-time-end-4', 'drop-off-time-end-4', 'pickup-date-start-5', 'drop-off-date-start-5', 'pickup-date-end-5', 'drop-off-date-end-5', 'pickup-time-start-6', 'drop-off-time-start-6', 'pickup-time-end-6', 'drop-off-time-end-6', 'pickup-date-start-7', 'drop-off-date-start-7', 'pickup-date-end-7', 'drop-off-date-end-7', 'pickup-time-start-8', 'drop-off-time-start-8', 'pickup-time-end-8', 'drop-off-time-end-8', 'pickup-date-start-9', 'drop-off-date-start-9', 'pickup-date-end-9', 'drop-off-date-end-9', 'pickup-time-start-10', 'drop-off-time-start-10', 'pickup-time-end-10', 'drop-off-time-end-10', 'pickup-date-start-11', 'drop-off-date-start-11', 'pickup-date-end-11', 'drop-off-date-end-11', 'pickup-time-start-12', 'drop-off-time-start-12', 'pickup-time-end-12', 'drop-off-time-end-12', 'pickup-date-start-13', 'drop-off-date-start-13', 'pickup-date-end-13', 'drop-off-date-end-13', 'pickup-time-start-14', 'drop-off-time-start-14', 'pickup-time-end-14', 'drop-off-time-end-14', 'pickup-date-start-15', 'drop-off-date-start-15', 'pickup-date-end-15', 'drop-off-date-end-15', 'pickup-time-start-16', 'drop-off-time-start-16', 'pickup-time-end-16', 'drop-off-time-end-16', 'pickup-date-start-17', 'drop-off-date-start-17', 'pickup-date-end-17', 'drop-off-date-end-17', 'pickup-time-start-18', 'drop-off-time-start-18', 'pickup-time-end-18', 'drop-off-time-end-18', 'pickup-date-start-19', 'drop-off-date-start-19', 'pickup-date-end-19', 'drop-off-date-end-19', 'pickup-time-start-20', 'drop-off-time-start-20', 'pickup-time-end-20', 'drop-off-time-end-20', 'pickup-date-start-21', 'drop-off-date-start-21', 'pickup-date-end-21', 'drop-off-date-end-21', 'pickup-time-start-22', 'drop-off-time-start-22', 'pickup-time-end-22', 'drop-off-time-end-22', 'pickup-date-start-23', 'drop-off-date-start-23', 'pickup-date-end-23', 'drop-off-date-end-23', 'pickup-time-start-24', 'drop-off-time-start-24', 'pickup-time-end-24', 'drop-off-time-end-24', 'pickup-date-start-25', 'drop-off-date-start-25', 'pickup-date-end-25', 'drop-off-date-end-25', 'pickup-time-start-26', 'drop-off-time-start-26', 'pickup-time-end-26', 'drop-off-time-end-26', 'pickup-date-start-27', 'drop-off-date-start-27', 'pickup-date-end-27', 'drop-off-date-end-27', 'pickup-time-start-28', 'drop-off-time-start-28', 'pickup-time-end-28', 'drop-off-time-end-28', 'pickup-date-start-29', 'drop-off-date-start-29', 'pickup-date-end-29', 'drop-off-date-end-29', 'pickup-time-start-30', 'drop-off-time-start-30', 'pickup-time-end-30', 'drop-off-time-end-30', 'pickup-date-start-31', 'drop-off-date-start-31', 'pickup-date-end-31', 'drop-off-date-end-31', 'pickup-time-start-32', 'drop-off-time-start",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 234,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'welcome', 'menu', 'drink', 'coffee', 'tea', 'water', 'ice', 'soda', 'juice', 'beer', 'wine', 'champagne', 'cider', 'sangria', 'happy', 'thank', 'goodbye', 'have', 'a', 'nice', 'day', 'you', 'are', 'welcome', 'here', 'at', 'our', 'place', 'we', 'serve', 'the', 'best', 'coffee', 'drinks', 'and', 'more'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 235,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Capilano', 'Membership', 'Unlimited', 'Admission', '365', 'Days', 'Discounts', 'Well', 'As', 'On', 'Free', 'Admission']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 236,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Capilano', 'Memberships', 'Unlimited', 'Admission', 'Discounts', 'Free', 'Tickets']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 237,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'Cavilano', 'Memberships', 'Unlimited', 'Admission', 'Discounts', 'The'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 238,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 239,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'SUPPORT', 'STUDENT', 'UNIVERSITY', 'COLLEGE', 'ONLINE', 'COURSE', 'EXAM', 'QUESTION', 'ANSWER', 'TOPIC', 'SUBJECT', 'LEVEL', 'DEGREE', 'PROGRAM', 'CERTIFICATE', 'EXAMINATION', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_TIME', 'EXAMINATION_PLACE', 'EXAMINATION_DATE', 'EXAMINATION_",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 240,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: hostel, antique",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 241,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: antique, hostel",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 242,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: HOSTEL, ANTIQUE",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 243,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: HOSTEL, ANTIQUE",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 244,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: 'ANTIQUE', 'HOSTEL'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 245,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 246,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: hostel, antique",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 247,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: hostel, antique",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 248,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: hostel, antique",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 249,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: hostel, antique",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 250,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: 'Antique', 'Hostel'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 251,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'ANTIQUE', 'HOSTEL'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 252,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: 'ANTIQUE', 'HOSTEL'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 253,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: 'ANTIQUE', 'HOSTEL'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 254,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'HOSTEL'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 255,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: hostel, store, and street",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 256,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['THE KEEN ANKYLOSAURUS', 'CREATION MUSEUM', 'EXIT 11', 'org']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 257,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['THE KEEN', 'ANKYLOSAURUS', 'CREATION MUSEUM', 'EXIT 11', 'org']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 258,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['THE KEEN', 'ANKYLOSAURUS', 'CREATION MUSEUM', 'EXIT 11']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 259,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ankylosaurus', 'the', 'neon', 'exit']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 260,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ankylosaurus', 'orange', 'sun', 'sky']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 261,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is blurry and cannot be recognized",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 262,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['THE KEEN', 'ANKYLOSAURUS', 'CREATION MUSEUM', 'EXIT 11', 'org']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 263,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['THE KEEN', 'ANKYLOSAURUS', 'CREATION MUSEUM', 'EXIT 11', 'org']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 264,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ankylosaurus', 'creation', 'museum', 'exit']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 265,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ankylosaurus', 'creation', 'museum', 'exhibition', 'opening', 'date']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 266,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Ankylosaurus', 'Welcome', 'to', 'our', 'park']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 267,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['THE KEEN ANKYLOSAURUS', 'CREATION MUSEUM', 'EXIT 11', 'org']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 268,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['THEKEEN', 'ANKYLOSAURUS', 'CREATION', 'MUSEUM', 'EXIT 11']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 269,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['THE KEEN ANKYLOSAURUS', 'CREATION MUSEUM', 'EXIT 11']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 270,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is too blurry to recognize the words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 271,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image is too blurry to recognize the English words",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 272,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Liddells', 'lactose free', 'cream cheese', 'spreadable', '250g']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 273,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Liddells', 'lactose free', 'SPREADABLE', 'CREAM', 'CHEESE']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 274,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Liddells', 'lactose free', 'cream cheese']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 275,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Liddells', 'Creamy', 'Cheese']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 276,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: cream, strawberry, and blueberry",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 277,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: cottage, cheese, and cream",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 278,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Liddells', 'lactose free', 'cream cheese', 'spreadable', '220g']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 279,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Liddells', 'lactose free', 'cream cheese', 'spreadable', '250g']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 280,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Liddells', 'lactose free', 'Cream', 'Cheese']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 281,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Liddells', 'Free From', 'Flavour', 'Ripened', 'Cheese']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 282,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Lactose', 'Free', 'Reduced', 'Sodium', 'Fat', 'Cholesterol', 'Sugar', 'Salt', 'Strawberry', 'Blueberry', 'Cream', 'Cheese', 'Butter', 'Yogurt', 'Cottage', 'Danish', 'Greek', 'Ice', 'Cream', 'Sky', 'Cloud', 'Grass', 'Tree', 'Rainbow', 'Sun', 'Moon', 'Star', 'River', 'Lake', 'Water', 'Beach', 'Ocean', 'Sand', 'Sea', 'Wave', 'Rock', 'Mountain', 'Tree', 'Forest', 'Wild', 'Flower', 'Bloom', 'Rose', 'Vase', 'Garden', 'Gardening', 'Garden', 'Fruit', 'Vegetable', 'Health', 'Nutrition', 'Food', 'Diet', 'Exercise', 'Sports', 'Exercise', 'Yoga', 'Pilates', 'Running', 'Walking', 'Jogging', 'Swimming', 'Cycling', 'Health', 'Wellness', 'Healthy', 'Life', 'Happy', 'Smile', 'Happy', 'Laugh', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', 'Laughter', 'Happy', '",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 283,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Liddells', 'lactose free', 'cream cheese', 'spreadable', '250g']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 284,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Liddells', 'lactose free', 'cream cheese', 'spreadable', '201g']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 285,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Liddells', 'lactose free', 'cream cheese']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 286,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: cheese, liddells, and cream",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 287,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'Leaders', 'Leadership', 'Learning', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'Lessons', 'Leadership', 'L",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 288,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "[original, rice, crackers, biskut, beras, tenten, waster]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 289,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Original, Rice, Crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 290,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The words in the image are: 'Original', 'Rice', 'Crackers', 'Biskuit', 'Beras', 'tente', and 'Tenko'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 291,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['original', 'rice', 'crackers']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 292,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['ORIGINAL', 'RICE', 'CRACKERS']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 293,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'CRISP', 'RICE', 'CRACKERS', 'ORIGINAL'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 294,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'Original', 'Rice', 'Crackers', 'Biskuit', 'tentei'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 295,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'original', 'rice', 'crackers', 'tente', and 'biskuut beras'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 296,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'Original', 'Rice', 'Crackers', 'tente', and 'HISKUT BERAS'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 297,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['original', 'rice', 'crackers']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 298,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['original', 'rice', 'crackers']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 299,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: Original, Rice, Crackers",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 300,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'Original', 'Rice', 'Crackers', 'BISKUT BERAS', 'tentei'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 301,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'Rice Crackers', 'Original', 'Biscuits', 'Teresa', 'Rente'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 302,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['Original', 'Rice', 'Crackers']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 303,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'ORIGINAL', 'CRISP', 'RICE', 'CRACKERS'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    },
+    {
+        "image_id": 304,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "[word1, word2, word3, word4, word5, word6, word7, word8, word9, word10, word11, word12, word13, word14, word15, word16, word17, word18, word19, word20, word21, word22, word23, word24, word25, word26, word27, word28, word29, word30, word31, word32, word33, word34, word35, word36, word37, word38, word39, word40, word41, word42, word43, word44, word45, word46, word47, word48, word49, word50, word51, word52, word53, word54, word55, word56, word57, word58, word59, word60, word61, word62, word63, word64, word65, word66, word67, word68, word69, word70, word71, word72, word73, word74, word75, word76, word77, word78, word79, word80, word81, word82, word83, word84, word85, word86, word87, word88, word89, word90, word91, word92, word93, word94, word95, word96, word97, word98, word99, word100, word101, word102, word103, word104, word105, word106, word107, word108, word109, word110, word111, word112, word113, word114, word115, word116, word117, word118, word119, word120, word121, word122, word123, word124, word125, word126, word127, word128, word129, word130, word131, word132, word133, word134, word135, word136, word137, word138, word139, word140, word141, word142, word143, word144, word145, word146, word147, word148, word149, word150, word151, word152, word153, word154, word155, word156, word157, word158, word159, word160, word161, word162, word163, word164, word165, word166, word167, word168, word169, word170, word171, word172, word173, word174, word175, word176, word177, word178, word179, word180, word181, word182, word183, word184, word185, word186, word187, word188, word189, word190, word191, word192, word193, word194, word195, word196, word197, word198, word199, word200, word201, word202, word203, word204, word205, word206, word207, word208, word209, word210, word211, word212, word213, word214, word215, word216, word217, word218, word219, word220, word221, word222, word223, word224, word225, word226, word227, word228, word229, word230, word231, word232, word233, word234, word235, word236, word237, word238, word239, word240, word241, word242, word243, word244, word245, word246, word247, word248, word249, word250, word251, word252, word253, word254, word255, word256, word257, word258, word259, word260, word261, word262, word263, word264, word265, word266, word267, word268, word269, word270, word271, word272, word273, word274, word275, word276, word277, word278, word279, word280, word281, word282, word283, word284, word285, word286, word287, word288, word289, word290, word291, word292, word293, word294, word295, word296, word297, word298, word299, word300, word301, word302, word303, word304, word305, word306, word307, word308, word309, word310, word311, word312, word313, word314, word315, word316, word317, word318, word319, word320, word321, word322, word323, word324, word325, word326, word327, word328, word329, word330, word331, word332, word333, word334, word335, word336, word337, word338, word339, word340, word341, word342, word343, word344, word345, word346, word347, word348, word349, word350, word351, word352, word353, word354, word355, word356, word357, word358, word359, word360, word3",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 16
+    },
+    {
+        "image_id": 305,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "[stmartin, tattoo, studio, thailand]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 10
+    },
+    {
+        "image_id": 306,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['StMartin', 'Tattoo', 'Khaosan', 'Studio', 'Thailand']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 8
+    },
+    {
+        "image_id": 307,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['StMartin', 'Birth', '1999', 'Tattoo', 'Shop', 'Thailand']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 6
+    },
+    {
+        "image_id": 308,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'St', 'Mary', 'Town'",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 4
+    },
+    {
+        "image_id": 309,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'pray', 'hands', 'God', 'bless', 'grace', 'thank', 'Jesus', 'cross', 'love', 'mercy', 'forgiveness', 'peace', 'hope', 'truth', 'faith', 'believe', 'trust', 'surrender', 'sacrifice', 'obedience', 'humility', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace', 'grace",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 2
+    },
+    {
+        "image_id": 310,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "[stmartin, tattoo, studio, khaosan, thailand]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 9
+    },
+    {
+        "image_id": 311,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['StMartin', 'Tattoo', 'Khaosan', 'Studio', 'Thailand']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 7
+    },
+    {
+        "image_id": 312,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['StMartin', 'Tattoo', 'Khaosan', 'Studio', 'Thailand']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 5
+    },
+    {
+        "image_id": 313,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "['StMartin', 'Tattoo', 'Shop', 'Bangkok', 'Thailand']",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 3
+    },
+    {
+        "image_id": 314,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'pray', 'hands', 'prayer', 'mantra', 'cross', 'bible', 'church', 'faith', 'believe', 'hope', 'love', 'peace', 'grace', 'mercy', 'forgiveness', 'blessing', 'thank', 'thankful', 'grateful', 'blessed', 'divine', 'heavenly', 'eternal', 'salvation', 'righteousness', 'truth', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'eternal', 'et",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 1
+    },
+    {
+        "image_id": 315,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "[word1, word2, word3, word4, word5, word6, word7, word8, word9, word10, word11, word12, word13, word14, word15, word16, word17, word18, word19, word20, word21, word22, word23, word24, word25, word26, word27, word28, word29, word30, word31, word32, word33, word34, word35, word36, word37, word38, word39, word40, word41, word42, word43, word44, word45, word46, word47, word48, word49, word50, word51, word52, word53, word54, word55, word56, word57, word58, word59, word60, word61, word62, word63, word64, word65, word66, word67, word68, word69, word70, word71, word72, word73, word74, word75, word76, word77, word78, word79, word80, word81, word82, word83, word84, word85, word86, word87, word88, word89, word90, word91, word92, word93, word94, word95, word96, word97, word98, word99, word100, word101, word102, word103, word104, word105, word106, word107, word108, word109, word110, word111, word112, word113, word114, word115, word116, word117, word118, word119, word120, word121, word122, word123, word124, word125, word126, word127, word128, word129, word130, word131, word132, word133, word134, word135, word136, word137, word138, word139, word140, word141, word142, word143, word144, word145, word146, word147, word148, word149, word150, word151, word152, word153, word154, word155, word156, word157, word158, word159, word160, word161, word162, word163, word164, word165, word166, word167, word168, word169, word170, word171, word172, word173, word174, word175, word176, word177, word178, word179, word180, word181, word182, word183, word184, word185, word186, word187, word188, word189, word190, word191, word192, word193, word194, word195, word196, word197, word198, word199, word200, word201, word202, word203, word204, word205, word206, word207, word208, word209, word210, word211, word212, word213, word214, word215, word216, word217, word218, word219, word220, word221, word222, word223, word224, word225, word226, word227, word228, word229, word230, word231, word232, word233, word234, word235, word236, word237, word238, word239, word240, word241, word242, word243, word244, word245, word246, word247, word248, word249, word250, word251, word252, word253, word254, word255, word256, word257, word258, word259, word260, word261, word262, word263, word264, word265, word266, word267, word268, word269, word270, word271, word272, word273, word274, word275, word276, word277, word278, word279, word280, word281, word282, word283, word284, word285, word286, word287, word288, word289, word290, word291, word292, word293, word294, word295, word296, word297, word298, word299, word300, word301, word302, word303, word304, word305, word306, word307, word308, word309, word310, word311, word312, word313, word314, word315, word316, word317, word318, word319, word320, word321, word322, word323, word324, word325, word326, word327, word328, word329, word330, word331, word332, word333, word334, word335, word336, word337, word338, word339, word340, word341, word342, word343, word344, word345, word346, word347, word348, word349, word350, word351, word352, word353, word354, word355, word356, word357, word358, word359, word360, word3",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 15
+    },
+    {
+        "image_id": 316,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "[word1, word2, word3, word4, word5, word6, word7, word8, word9, word10, word11, word12, word13, word14, word15, word16, word17, word18, word19, word20, word21, word22, word23, word24, word25, word26, word27, word28, word29, word30, word31, word32, word33, word34, word35, word36, word37, word38, word39, word40, word41, word42, word43, word44, word45, word46, word47, word48, word49, word50, word51, word52, word53, word54, word55, word56, word57, word58, word59, word60, word61, word62, word63, word64, word65, word66, word67, word68, word69, word70, word71, word72, word73, word74, word75, word76, word77, word78, word79, word80, word81, word82, word83, word84, word85, word86, word87, word88, word89, word90, word91, word92, word93, word94, word95, word96, word97, word98, word99, word100, word101, word102, word103, word104, word105, word106, word107, word108, word109, word110, word111, word112, word113, word114, word115, word116, word117, word118, word119, word120, word121, word122, word123, word124, word125, word126, word127, word128, word129, word130, word131, word132, word133, word134, word135, word136, word137, word138, word139, word140, word141, word142, word143, word144, word145, word146, word147, word148, word149, word150, word151, word152, word153, word154, word155, word156, word157, word158, word159, word160, word161, word162, word163, word164, word165, word166, word167, word168, word169, word170, word171, word172, word173, word174, word175, word176, word177, word178, word179, word180, word181, word182, word183, word184, word185, word186, word187, word188, word189, word190, word191, word192, word193, word194, word195, word196, word197, word198, word199, word200, word201, word202, word203, word204, word205, word206, word207, word208, word209, word210, word211, word212, word213, word214, word215, word216, word217, word218, word219, word220, word221, word222, word223, word224, word225, word226, word227, word228, word229, word230, word231, word232, word233, word234, word235, word236, word237, word238, word239, word240, word241, word242, word243, word244, word245, word246, word247, word248, word249, word250, word251, word252, word253, word254, word255, word256, word257, word258, word259, word260, word261, word262, word263, word264, word265, word266, word267, word268, word269, word270, word271, word272, word273, word274, word275, word276, word277, word278, word279, word280, word281, word282, word283, word284, word285, word286, word287, word288, word289, word290, word291, word292, word293, word294, word295, word296, word297, word298, word299, word300, word301, word302, word303, word304, word305, word306, word307, word308, word309, word310, word311, word312, word313, word314, word315, word316, word317, word318, word319, word320, word321, word322, word323, word324, word325, word326, word327, word328, word329, word330, word331, word332, word333, word334, word335, word336, word337, word338, word339, word340, word341, word342, word343, word344, word345, word346, word347, word348, word349, word350, word351, word352, word353, word354, word355, word356, word357, word358, word359, word360, word3",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 14
+    },
+    {
+        "image_id": 317,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "[word1, word2, word3, word4, word5, word6, word7, word8, word9, word10, word11, word12, word13, word14, word15, word16, word17, word18, word19, word20, word21, word22, word23, word24, word25, word26, word27, word28, word29, word30, word31, word32, word33, word34, word35, word36, word37, word38, word39, word40, word41, word42, word43, word44, word45, word46, word47, word48, word49, word50, word51, word52, word53, word54, word55, word56, word57, word58, word59, word60, word61, word62, word63, word64, word65, word66, word67, word68, word69, word70, word71, word72, word73, word74, word75, word76, word77, word78, word79, word80, word81, word82, word83, word84, word85, word86, word87, word88, word89, word90, word91, word92, word93, word94, word95, word96, word97, word98, word99, word100, word101, word102, word103, word104, word105, word106, word107, word108, word109, word110, word111, word112, word113, word114, word115, word116, word117, word118, word119, word120, word121, word122, word123, word124, word125, word126, word127, word128, word129, word130, word131, word132, word133, word134, word135, word136, word137, word138, word139, word140, word141, word142, word143, word144, word145, word146, word147, word148, word149, word150, word151, word152, word153, word154, word155, word156, word157, word158, word159, word160, word161, word162, word163, word164, word165, word166, word167, word168, word169, word170, word171, word172, word173, word174, word175, word176, word177, word178, word179, word180, word181, word182, word183, word184, word185, word186, word187, word188, word189, word190, word191, word192, word193, word194, word195, word196, word197, word198, word199, word200, word201, word202, word203, word204, word205, word206, word207, word208, word209, word210, word211, word212, word213, word214, word215, word216, word217, word218, word219, word220, word221, word222, word223, word224, word225, word226, word227, word228, word229, word230, word231, word232, word233, word234, word235, word236, word237, word238, word239, word240, word241, word242, word243, word244, word245, word246, word247, word248, word249, word250, word251, word252, word253, word254, word255, word256, word257, word258, word259, word260, word261, word262, word263, word264, word265, word266, word267, word268, word269, word270, word271, word272, word273, word274, word275, word276, word277, word278, word279, word280, word281, word282, word283, word284, word285, word286, word287, word288, word289, word290, word291, word292, word293, word294, word295, word296, word297, word298, word299, word300, word301, word302, word303, word304, word305, word306, word307, word308, word309, word310, word311, word312, word313, word314, word315, word316, word317, word318, word319, word320, word321, word322, word323, word324, word325, word326, word327, word328, word329, word330, word331, word332, word333, word334, word335, word336, word337, word338, word339, word340, word341, word342, word343, word344, word345, word346, word347, word348, word349, word350, word351, word352, word353, word354, word355, word356, word357, word358, word359, word360, word3",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 13
+    },
+    {
+        "image_id": 318,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "[word1, word2, word3, ]",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 12
+    },
+    {
+        "image_id": 319,
+        "category_id": 1,
+        "polys": [],
+        "rec_texts": "The image contains the following English words: 'sympathy', 'pray', 'hands', 'cross', 'prayer', 'hand', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands', 'crossed', 'prayer', 'hands",
+        "rec_score": 0,
+        "det_score": 0,
+        "filter": 11
+    }
+]
